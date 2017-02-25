@@ -1,0 +1,56 @@
+/********************** ROOT ******************************/
+
+defaultTasks 'build'
+
+subprojects {
+	apply plugin: 'java'
+
+	compileJava.options.encoding = 'UTF-8'
+	compileTestJava.options.encoding = 'UTF-8'
+
+	repositories {
+		mavenLocal()
+		mavenCentral()
+		//url "http://snapshots.repository.codehaus.org/"
+		//url "http://download.java.net/maven/2"
+	}
+ 
+	dependencies {
+		testCompile 'junit:junit:4.12'
+		compile 'org.slf4j:slf4j-api:1.7.16'
+		// JSON parser/generator
+		compile 'io.fastjson:boon:0.33'
+	}	
+	
+}
+
+
+/**************** SonarQube config **************************/
+
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.sonarqube.gradle:gradle-sonarqube-plugin:1.1"
+  }
+}
+
+apply plugin: "org.sonarqube"
+
+sonarqube {
+    properties {
+		property "sonar.projectName", "JavaRecipes-root"
+        property "sonar.host.url", "http://192.168.0.199:9000"
+        property "sonar.jdbc.url", "jdbc:h2:tcp://192.168.0.199:9092/sonar"
+        property "sonar.jdbc.driverClassName", "com.h2.Driver"
+        property "sonar.jdbc.username", "sonar"
+        property "sonar.jdbc.password", "sonar"
+    }
+}
+
+/**************** End of SonarQube config **************************/
+
+
