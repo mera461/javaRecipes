@@ -1,0 +1,229 @@
+/********************** CB2CB ******************************/
+apply plugin:'java'
+apply plugin:'groovy'
+apply plugin:'eclipse'
+
+
+// use the proguard plugin
+buildscript {
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath 'net.sf.proguard:proguard-gradle:5.2.1'
+	}
+}
+
+def javaRecipesClassDir = 'target/classes/main' // for the gradle build
+// 'target/classes' // for the eclipse build 
+
+project.buildDir = 'target'
+//compileGroovy.destinationDir = new File('target/classes')
+
+defaultTasks 'release'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+dependencies {
+	compile (project(':core')) {
+		exclude group:'net.sf.json-lib', module: 'json-lib'
+		exclude group:'net.sourceforge.nekohtml', module: 'nekohtml'
+		exclude group:'dom4j', module: 'dom4j'
+		exclude group:'javax.mail', module: 'mail'
+		exclude group:'org.springframework', module: 'spring-context-support'
+		exclude group:'javax.activation', module: 'activation'
+		exclude group:'net.sf.opencsv', module: 'opencsv'
+		exclude group:'com.ibm.icu' // is already in groovy-swt
+	}
+    // compile 'org.codehaus.groovy:groovy-swing:2.3.10' // for the binding framework ??
+    // compile 'org.codehaus.groovy:groovy-templates:2.3.10' // for simple text templating -- is already in groovy-all
+	compile 'com.healthmarketscience.jackcess:jackcess:2.1.4'
+	
+    compile files('lib/groovy-swt-0.95-windows-all.jar')
+
+}
+
+def proguardFile
+
+task getCb2cbVersion()  {
+	// get the version number from the install xml file
+	project.version = '1.00'
+	new File("$projectDir/src/main/groovy/net/sf/recipetools/cb2cb/Cb2cbGui.groovy").eachLine { line ->
+		def m = line =~ /static String VERSION = '([\d\.]+)'/
+		if (m.find()) project.version = m[0][1]
+	}
+	//println "version: $version"
+}
+
+
+// copy the lastest commas.txt file to cb2cb
+task copyConfig(type: Copy)  {
+  from('../core/commas.txt')
+  from('src/main/config/cb2cb.ini')
+  from('src/main/config/extractImagesFromMcx.bat')
+  from('src/main/config/cb2cb - WithDescription.ini')
+  from('scripts/cb2cb.exe')
+  from('.') {
+      include 'lib/**'
+  }
+  from('../core/src/main') {
+      include 'templates/**'
+  }
+  into('target') 
+}
+
+
+task cleanup() <<{
+  new File('target/cb2cb - WithDescription.ini').delete()
+  new File('target/cb2cb.ini').delete()
+  new File('target/commas.txt').delete()
+  new File('target/cb2cbnormal').delete()
+  new File('target/templates').delete()
+  new File('target/lib').delete()
+}
+
+task makeJavaRecipeJar(type: Jar) {
+	outputs.file file('target/javarecipesnormal.jar')
+	version = ''
+	destinationDir = new File('target')
+	baseName = 'javarecipesnormal'
+	from("../core/$javaRecipesClassDir") {
+      exclude('**/html/**')
+      exclude('**/job/**')
+      exclude('**/web/**')
+      exclude('**/service/**')
+	}
+}
+
+task obfuscateJR(type: proguard.gradle.ProGuardTask, dependsOn: makeJavaRecipeJar )  {
+	libraryjars    "${System.getProperty('java.home')}/lib/rt.jar" // <java.home> 
+	inputs.file  file('target/javarecipesnormal.jar')
+	outputs.file file('target/javarecipes.jar')
+	injars         'target\\javarecipesnormal.jar'
+	outjars        'target\\javarecipes.jar'
+	configurations.compile.collect {
+			if (it =~ /JavaRecipes/) return 
+			libraryjars	   "$it"
+			//println "*** OBFUSCATE-lib: $it"
+	}
+		
+		//debugging:
+		//verbose
+		//printseeds
+		//dontobfuscate
+		//dontshrink
+
+		// lot of warnings because of annotations, groovy, javax, etc.
+		dontwarn 'org.apache.**'
+		dontwarn 'net.sf.recipetools.javarecipes.service.MailService'
+		//ignorewarnings
+		
+		// from cb2cb imports
+		keepattributes 'InnerClasses'
+		keep 'class **.BinaryInputProcessor'
+		keep 'class **.ExtractImagesFromMcx {public *;}'
+		keep 'class **.FileProcessor {public protected *;}'
+		keep 'class **.InputProcessor'
+		keep 'class **.OutputProcessor'
+		keep 'class **.FormatterFactory {public *** getFormatter(...);}'
+		keep 'class **.RecipeFormatter'
+		keep 'class **.Configuration {public static void loadFromFile(...);}'
+		keep 'class **.Configuration {public static *** getStringProperty(...);}'
+		keep 'class **.Recipe{public void normalize();}'
+		keep 'class **.RecipeIngredient {public void loadSafeCommaStructuresFromFile(...);}'
+		// template writer in groovy
+		keep 'class **.TemplateWriter {public *;}'
+		keep 'class **.TemplateWriter$* {public *;}'
+		keep 'class **.XmlEscapeCategory {public *;}'
+		keep 'class **.FormatNumberCategory {public *;}'
+		keep 'class **.RecipeTextFormatter {public *** escapeXml(...);}'
+		keep 'class **.RecipeTextFormatter {public *** formatNumber(...);}'
+		keep 'class **.HtmlStringBuffer {public *;}'
+		keep 'class **.RecipeIngredient{public *** get*(...);}'
+		keep 'class **.RecipeIngredient{public *** has*(...);}'
+		keep 'class **.Recipe{public *** titleAsFilename();}'
+		keep 'class **.Recipe{public *** get*(...);}'
+		keep 'class **.RecipeIngredient{public *** get*(...);}'
+		keep 'class **.Unit{public *** get*(...);}'
+		
+				
+		// why are all the formatting classes removed ????
+		keepclassmembers 'public class * {public *** read(...);}'
+		keepclassmembers 'public class * {public void startFile(...);}'
+		keepclassmembers 'public class * {public void endFile();}'
+		keepclassmembers 'public class * {public void write(...);}'
+		keepclassmembers 'public class * {public void setImageDir(...);}'
+		keepclassmembers 'public class * {public void setTheMasterCookProgram(...);}'
+		
+		keep 'interface net.sf.recipetools.javarecipes.fileprocessor.InputProcessor'
+}
+
+
+
+// make a jar of the latest JavaRecipes
+task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR]) {
+    outputs.file file('target/cb2cb.jar')
+    version = '' 
+    destinationDir = new File('target')
+    baseName = 'cb2cb'
+	// avoid duplicate classes in jar
+	duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+	from('target/classes/main')
+    from('src/main/config/log4j.properties')
+	def  dependencies = configurations.compile
+				.findAll {! (it =~ /core.jar/)} // avoid core.jar dependencies - it will be packed separately
+				.findAll {! (it =~ /groovy-\d/)}    // do not include groovy-2.3.10.jar if groovy-all is included
+				.collect {it.isDirectory() ? it : zipTree(it) } 
+	//println dependencies
+				
+	from (dependencies) {
+      exclude('about_files/**')
+      exclude('**.html')
+      exclude('**/LICENSE*')
+      exclude('**/NOTICE*')
+      exclude('**/version.txt')
+      exclude('**/groovy-release-info.properties')
+    }
+	from(zipTree(new File('target/javarecipes.jar')))
+    manifest {
+        attributes 'Main-class': 'net.sf.recipetools.cb2cb.Cb2cb'
+    }
+}
+
+
+// Create a XPI file with a right version number.
+task rarPackage(dependsOn: [getCb2cbVersion, makeCb2cbFatJar, copyConfig]) << {
+    // get the version number from the install xml file
+   println "main version: ${project.version}"
+   def resultFile = "../scripts/cb2cb-${project.version}.rar"
+   // delete it if it already exists otherwise winrar will just add to it
+   def f = new File(resultFile)
+   if (f.exists()) f.delete() 
+   // rar the file
+   def stdout = new ByteArrayOutputStream()
+   exec {
+     workingDir = 'target'
+     commandLine('C:/program files/winrar/rar.exe',
+          'a',
+          '-sfxDefault.sfx',
+          resultFile,
+          'cb2cb.jar',
+          'cb2cb.ini',
+          'cb2cb.exe',
+          'cb2cb - WithDescription.ini',
+          'commas.txt',
+		  'extractImagesFromMcx.bat',
+          'templates')
+     standardOutput = stdout
+   }    
+}
+
+task release(dependsOn: [rarPackage, cleanup]) << {
+}
+
+
+

@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="win-1252" standalone="yes" ?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook" date="March 19, 2008">
+<RcpE name="* Editor&apos;s Message: 2008-02 Early Spring" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<DirS>
+<DirT>
+Here in Vermont, the end of February and beginning of March can be a real roller coaster. There will be days like the one you see pictured below, where I spend quality time with the snow scoop
+in the driveway, followed closely by days of brilliant sunshine, rivulets of melting snow, and the realization that it&apos;s not dark out anymore as I drive home from the office. Soon the
+mountains will take on a haze of green and magenta, as the buds begin to swell on the trees. The sap will run, the mud will start as the ice begins to come up out of the ground on our dirt road, and skiers will realize that they have another six weeks to tear it up, at the most.
+</DirT>
+<DirT>
+I&apos;ll be finalizing the orders from seed catalogs, waiting anxiously to cut my first fresh chives from the garden. and breaking out the grill. On warm days, people venture outdoors to see how their fields, yards, and buildings have weathered the worst of winter. We linger in the sunshine, chatting with friends and neighbors, taking the chance to catch up. It&apos;s the perfect time to invite them over for a bite of coffeecake and a cup of tea or coffee.
+</DirT>
+<DirT>
+This issue of The Baking Sheet features lots of excuses to be sociable, from gooey Cinnamon Coffeecake to sunny Orange Sugar Cookies. Grab a Gingered Apricot Oatmeal Muffin for breakfast, a Sour Cream Rhubarb Square, or a Gingersnap after school.
+</DirT>
+<DirT>
+For a more formal gathering, try making our beautiful Salmon Kulebiaka to celebrate the imminent turn of the season toward spring. You can top off the meal with our Celebration Rum Cake or Pineapple Pound Cake from this issue&apos;s Recipe Makeover feature. The Jewish holiday of Purist lands in March, and to celebrate we share recipes for Yeast Dough
+Hamentaschen and Street Yeast Biscuits.
+</DirT>
+<DirT>
+If you&apos;re looking for some savory treats to break up the lingering winter dinner routine, try our Georgian Cheese Skillet Bread, Chickpea Fries, or the crunchy, irresistible Sesame Seed Rings on
+our cover.
+</DirT>
+<DirT>
+As the earth tilts back toward the sun and the last petticoat piles of snow at the edge of the woods melt away, we turn our faces to the new season as our
+world opens up to the outdoors once again. We hope you&apos;ll
+find fresh enthusiasm for baking during these lengthening days, and sharing the results of your talents with those around you. Soon, the quality time with the snow shovel will be no more than a memory.
+</DirT>
+<DirT>
+Happy Baking;;
+Susan Reid, editor;;
+The Baking Sheet®;;
+Susan.reid@kingarthurflour.com
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 2
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Celebration Rum Cake" author="">
+<Serv qty="20"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour." unit="cups" qty="3.00">
+<IPrp>
+(12 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="1.00">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="light brown sugar" unit="cup" qty="0.50">
+<IPrp>
+(3 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="baking powder" unit="teaspoons" qty="2.00"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="unsalted butter" unit="cup" qty="1.00">
+<IPrp>
+(2 sticks, 8 ounces) at room temperature
+</IPrp>
+</IngR>
+<IngR code="I" name="milk" unit="cup" qty="0.67">
+<IPrp>
+(5 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="rum" unit="cup" qty="0.33">
+<IPrp>
+(2 5/8 ounces) or other spirit
+</IPrp>
+</IngR>
+<IngR code="I" name="eggs" unit="large" qty="3.00"></IngR>
+<IngR code="I" name="chopped pecans" unit="cups" qty="1.50">
+<IPrp>
+(5 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="chocolate chips" unit="cup" qty="1.00">
+<IPrp>
+(6 ounces) or raisins, optional
+</IPrp>
+</IngR>
+<IngR code="S" name="RUM GLAZE:"></IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="water" unit="cup" qty="0.50">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="rum" unit="cup" qty="0.25">
+<IPrp>
+(2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="tablespoons" qty="3.00">
+<IPrp>
+(1 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="confectioners&apos; sugar" unit="cups" qty="1.50">
+<IPrp>
+(6 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="chopped pecans" unit="tablespoons" qty="2.00">
+<IPrp>
+for garnish (optional)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+There&apos;s something about baking with rum that&apos;s evocative of Merrie Olde England to me; I get pictures of revelers with muttonchops and cravats, toasting each other in front of a roaring fire with lots of mistletoe around, carolers outside, and a roast goose soon to appear. Interestingly enough, several tasters declared that the flavor of this cake&apos;s rum glaze instantly transported them to a beach under a palm tree, with steel drums in the background. Food is evocative stuff.
+</DirT>
+<DirT>
+The original recipe I found for this cake needed some revision, and didn&apos;t include any raisins or chocolate chips. But when I included those extras in some of the versions I tested, they were both a big hit. This is a big cake: you could easily get 24 slices from it. If you&apos;re going to have a crowd
+around for brunch or dinner, this cake is a good choice. —S.R.
+</DirT>
+<DirT>
+For the cake: Preheat fhe oven to 350°F. Grease and flour a 10-inch Bundt® pan. Combine the flour, sugars, baking powder, and salt in the bowl
+of a mixer. Add the butter and mix on low speed until it&apos;s worked in completely; the mixture will have a sandy appearance.
+</DirT>
+<DirT>
+In a small bowl, combine the milk, rum, and eggs. Gradually add to the flour/butter mixture, with the mixture running at low speed. Once all of the liquid is in, scrape the sides and bottom of the bowl, then increase
+the mixer speed to medium and beat for 3 minutes. Stir in the pecans, and the chocolate chips or raisins, if using. Pour the batter into the pan, and 
+bake for 55 to 60 minutes, until the top of the cake springs back when lightly touched. Remove from the oven; place on a rack to cool for 10 minutes.
+</DirT>
+<DirT>
+For the glaze: In a saucepan, combine the sugar and water and bring to a boil, stirring occasionally until the sugar dissolves. Add the rum and butter; return to a simmer. Remove from the heat, and pour 3/4 cup of this syrup into a separate container to use for moistening the cake. To the remaining syrup in the pan, add the confectioners&apos; sugar 1/2 cup at a time, whisking
+until blended and you have a thick, pourable glaze.
+</DirT>
+<DirT>
+To finish the cake: After the cake has cooled for 10 minutes, invert it out of its pan onto a large plate. With a
+wooden skewer or toothpick, pierce the cake all over. Brush the reserved rum syrup over the warm cake, repeating
+as necessary until all of the syrup is used. Let the cake cool, then transfer it to a clean serving plate. Pour the confectioners&apos; sugar glaze over the top and sprinkle with the garnish pecans. 
+</DirT>
+<DirT>
+Yield: 20 servings.
+</DirT>
+<DirT>
+Nutrition information per serving (1 slice, 103g): 397 cal, 18g fat, 4g protein, 15g complex carbohydrates, 41g sugar, 1g dietary fiber,
+62mg cholesterol, 107mg sodium, 101 mg potassium, 122RE vitamin A, 1mg iron,
+58mg calcium, 113mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 2
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Yeast Dough Hamentaschen" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="S" name="NUT OR FRUIT FILLING:"></IngR>
+<IngR code="I" name="water" unit="cup" qty="0.50">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="ground cinnamon" unit="teaspoon" qty="0.25"></IngR>
+<IngR code="I" name="sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="orange zest" unit="tablespoons" qty="1.50"></IngR>
+<IngR code="I" name="lemon zest" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="honey" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="coarsely ground pecans" unit="cups" qty="2.25">
+<IPrp>
+(9 ounces) or walnuts, or chopped dried fruit of your choice, such as prunes, dates, cherries, or apricots
+</IPrp>
+</IngR>
+<IngR code="I" name="cake crumbs" unit="tablespoons" qty="2.00">
+<IPrp>
+or soft bread crumbs
+</IPrp>
+</IngR>
+<IngR code="S" name="DOUGH:"></IngR>
+<IngR code="I" name="instant yeast" unit="tablespoons" qty="2.00"></IngR>
+<IngR code="I" name="milk" unit="cup" qty="0.25">
+<IPrp>
+(2 ounces) scalded and cooled to lukewarm
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="cups" qty="2.00">
+<IPrp>
+cold (4 sticks, 1 pound)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.75"></IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="lemon zest" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="sugar" unit="cup" qty="1.00">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="7.00">
+<IPrp>
+(1 pound, 13 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="sour cream" unit="cup" qty="1.00">
+<IPrp>
+(8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="eggs" unit="large" qty="3.00"></IngR>
+<IngR code="I" name="Candied cherries">
+<IPrp>
+for garnish (optional)
+</IPrp>
+</IngR>
+<IngR code="I" name="Sliced almonds">
+<IPrp>
+for garnish (optional)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+This recipe comes from Joan Nathan&apos;s The Jewish Holiday Baker. I liked the way she gives
+context to the recipes, with examples of different choices bakers make for fillings. Following that example, I tried a version that used dried cherries and sliced almonds in the filling mixture. It was a nice combination and proved to be popular around here.
+The filling is best made a day or two ahead to allow the flavors to blend. —S.R.
+</DirT>
+<DirT>
+For the filling: Bring the water, cinnamon, and sugar to a boil in a medium saucepan. Add the zests and honey; return to a boil. Add the nuts and crumbs, stir well. Simmer on low heat for 3 to 4 minutes.  Remove from the heat, cool, and store in a covered bowl in the refrigerator until ready to use.
+</DirT>
+<DirT>
+For the dough: In a small bowl, dissolve the yeast in the lukewarm milk. In an electric mixer fitted with a paddle, combine the butter, salt, vanilla, zest, and sugar. Beat at low speed for
+3 minutes. Add the flour, beat at low speed for 4 minutes more.
+Add the sour cream, 2 of the eggs, and the yeast mixture. Beat at medium speed for 4 to 5 minutes, until the dough pulls away from the sides of the bowl.
+</DirT>
+<DirT>
+Divide the dough into quarters, then divide each quarter into 9 pieces to get 36 equal pieces. Roll them into balls, place them on a flour-dusted tray, cover, and refrigerate for 15 minutes.
+</DirT>
+<DirT>
+Dust a work surface with flour. Roll each ball out into an oval about 2 1/4 x 2 inches wide.
+</DirT>
+<DirT>
+To assemble: Place 1 heaping teaspoon of the filling in the center of each oval. To make the three-cornered hat shape, lift the two longer sides of the oval over the filling, making a point at the top. Then fold the remaining short edge up to enclose the filling and make a triangle: there should be no filling visible.
+</DirT>
+<DirT>
+Transfer the cookies to two lightly greased or parchment-lined baking sheets. Beat the remaining egg and use it to brush the tops of the hamentaschen. Let the cookies rise for 30 to 35 minutes, then brush once more with the beaten egg. Let sit another 20 minutes while you preheat the oven to 3375°F.
+</DirT>
+<DirT>
+Just before baking, place a slice of almond and half a candied cherry on top. Bake for 16 to 20 minutes. until golden brown. 
+</DirT>
+<DirT>
+Yield: 36 cookies.
+</DirT>
+<DirT>
+Nutrition information per serving (1 cookie, 70g): 263 cal, 15g fat, 4g protein, 21g complex carbohydrates, 10g sugar, 1g dietary fiber,
+48mg cholesterol, 57mg sodium, 122mg potassium, 158RE vitamin A, 1mg vitamin C, 2mg iron,
+22mg calcium, 55mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 4
+</Srce>
+<Yield unit="cookies" qty="36.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Sweet Yeast Biscuits" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="instant yeast" unit="teaspoons" qty="2.00"></IngR>
+<IngR code="I" name="warm milk" unit="tablespoons" qty="3.00">
+<IPrp>
+(1 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="cup" qty="1.00">
+<IPrp>
+(2 sticks, 8 ounces) at room temperature
+</IPrp>
+</IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="3.50">
+<IPrp>
+(14 7/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="0.25"></IngR>
+<IngR code="I" name="sugar" unit="cup" qty="0.33">
+<IPrp>
+(2 3/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="sour cream" unit="cup" qty="0.50">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="egg yolks" unit="large" qty="2.00"></IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00">
+<IPrp>
+beaten, for brushing
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+If I had to choose a Jewish holiday that seems like the most fun to bake for, I&apos;d have to pick Purim. The holiday commemorates the actions of Esther, who interceded with the King of Persia to save the Jews from the royal advisor Haman&apos;s plans to exterminate them. Jews are commanded to hear a reading of the book of Esther, when it is customary to boo, hiss, stamp one&apos;s feet and
+rattle noisemakers every time Haman&apos;s name is mentioned. Also commanded is the requirement to &quot;eat, drink and be merry,&quot; as well as sending gifts of food or drink to others. Hamentaschen are often baked and given for Purim; you&apos;ll find a recipe for them on the previous page.
+</DirT>
+<DirT>
+This recipe also comes from Joan Nathan&apos;s book. She describes them thus: &quot;Buttery round biscuits, a cross between a scone and a brioche, a great special-occasion breakfast treat.&quot; Purim is the one time of year when Jews are allowed to indulge to excess; why not start the day with a bit of luxury for breakfast? These biscuits were real head-turners in
+our tasting kitchen; they vanished in less than 20 minutes. —S.R.
+</DirT>
+<DirT>
+In a small bowl, combine the yeast and milk.
+</DirT>
+<DirT>
+In an electric mixer fitted with a paddle, beat together the butter, 3 cups of the flour, salt, and vanilla on low speed for
+2 minutes. Add the sugar, sour cream, yeast mixture, and egg yolks. Continue beating on low speed for 3 minutes more, then increase the mixer&apos;s speed to medium and beat until the dough forms a ball, about 2 minutes.
+</DirT>
+<DirT>
+Sprinkle your work surface with the remaining 1/2 cup of flour and turn out the dough. Roll the dough into a 9 x 13-inch rectangle about 1/2-inch thick. Fold the dough like a business letter, place on a lightly floured pan, cover, and refrigerate for 15 minutes. Repeat the folding process twice
+more, with 15-minute refrigerated rests in between.
+</DirT>
+<DirT>
+After the third fold and rest, roll the dough out once more, this time to a thickness of 1/3-inch. Brush the dough with the beaten egg. This time, fold the two shorter ends of the rectangle to meet in the center, then fold the dough in half the other way. Cover and refrigerate the dough overnight.
+</DirT>
+<DirT>
+The next day, remove the dough from the refrigerator and let it sit for 10 to 15 minutes at room temperature. Preheat the oven to 350°F. After the dough has tempered, roll it out on a floured work surface to an 8 x 10-inch rectangle.
+</DirT>
+<DirT>
+For decoration, score the top of the dough with lines 1/4-inch apart in a criss-cross pattern before cutting into 2-inch circles with a floured cookie cutter. Place the biscuits on greased or parchment-lined baking sheets. Pile the scraps on top of each other, fold together, and cut more biscuits. Brush the tops with beaten egg.
+Bake for 20 to 25 minutes, until lightly golden brown. Remove from the
+oven and serve with apricot jam. 
+</DirT>
+<DirT>
+Yield: 24 biscuits.
+</DirT>
+<DirT>
+Nutrition information per serving (1 biscuit, 40g): 159 cal, 10g fat, 3g protein, 13g complex carbohydrates, 3g sugar, 1g dietary fiber, 51 mg cholesterol, 96mg sodium, 42mg potassium, 97RE vitamin A, 1mg iron, 13mg calcium,
+37mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 5
+</Srce>
+<Yield unit="biscuits" qty="24.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Georgian Cheese Skillet Bread" author="">
+<Serv qty="8"/>
+<PrpT elapsed="0:00"/>
+<IngR code="S" name="DOUGH:"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="1.67">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="vegetable oil" unit="tablespoons" qty="3.00">
+<IPrp>
+(1 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="plain yogurt" unit="cup" qty="0.75">
+<IPrp>
+(6 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="cornstarch" unit="tablespoon" qty="1.00"></IngR>
+<IngR code="I" name="baking soda" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="S" name="FILLING:"></IngR>
+<IngR code="I" name="crumbled feta" unit="cup" qty="0.50">
+<IPrp>
+(2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="grated fontina cheese" unit="cup" qty="1.00">
+<IPrp>
+(4 ounces) or Cheddar, or other semi-soft cheese
+</IPrp>
+</IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00"></IngR>
+<DirS>
+<DirT>
+Bread and cheese are found in cultures all over the world; I&apos;m always tucking away recipes that give me a glimpse of some other country&apos;s way of doing things. This bread intrigued me right away. The dough is simple to put together, and who can resist bread filled with soft, melted cheese? It&apos;s kind of a schmantzy way to get there, but this bread reminds me of making the ultimate grilled cheese sandwich.
+</DirT>
+<DirT>
+Although originally the recipe called for the bread to be cooked from start to finish on the stove in a heavy skillet, it&apos;s tricky to get the breads cooked all the way through without
+scorching. I had pretty good luck with a big cast-iron dutch oven; a heavy frying pan was harder to keep at the right temperature. So I decided to cook the bread to color it up on the stove, and finish it in the oven. If
+you crave adventure and your stove holds a low simmer nicely, by all means cook it on top of the stove, 10 minutes on each side. —S.R.
+</DirT>
+<DirT>
+For the dough: In a large bowl, combine 1/3 cup of the flour with the vegetable oil and yogurt. In another small bowl, whisk together another 1/3 cup flour with the
+cornstarch, baking soda, and salt; mix into the yogurt mixture. Work in the rest of the flour to make a soft dough. Divide
+the dough in half, pat into two disks, cover, and refrigerate for 1 to 2 hours.
+</DirT>
+<DirT>
+For the filling: Stir together the feta and other cheese with the egg; mix until combined. Line two salad plates with plastic wrap. Divide the mixture in half,
+and then pat each half onto the prepared plates to make a disk about 5 inches in diameter. Cover and refrigerate until you&apos;re ready to assemble.
+</DirT>
+<DirT>
+To assemble the breads: Remove the disks of dough from the refrigerator and let sit on the counter for 10 minutes to temper. Roll each ball into a 10-inch circle, about 1/4-inch thick in the center, a little thinner toward the outside edge (see Kitchen Gear, below, and photo.
+</DirT>
+<DirT>
+Place one of the cheese disks in the center of each piece of dough,
+and then pick up the edges of the dough and pleat them to cover the cheese, all the way around. Seal the folds in the dough with water.
+</DirT>
+<DirT>
+To cook/bake: Preheat the oven to 350°F. Heat a heavy-bottomed frying pan (non-stick is fine, too) over low heat. Lightly grease the pan with butter, then put the bread into the pan sealed-side up. Cover the pan and cook over medium-low heat for 5 minutes; shake the pan from time to time during the cooking to keep it from sticking. After 5 minutes, turn the packet over and cook once more until golden brown,
+another 5 minutes. Transfer the bread to the oven and bake for 10 minutes more. to ensure the dough is fully cooked.
+Remove from the oven, cut in quarters, and serve. 
+</DirT>
+<DirT>
+Kitchen Gear: French Pastry Pin
+This type of rolling pin is wider in the center and tapered at the ends. It&apos;s particularly good for rolling out dough that
+needs to be
+thicker in one
+area than another. For the Georgian Skillet Bread, we used it to make the dough taper at the edges, so it didn&apos;t get
+too thick when it was gathered together to seal in the cheese.
+</DirT>
+<DirT>
+Yield: 2 breads, 8 servings.
+</DirT>
+<DirT>
+Nutrition information per serving (1 serving, 80g): 230 cal, 12g fat, 9g protein, 20g complex carbohydrates, 1g dietary fiber, 49mg cholesterol,
+481 mg sodium, 105mg potassium, 67RE vitamin A, 2mg iron, 179mg calcium, 160mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 6
+</Srce>
+<Yield unit="breads" qty="2.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Multi-Whole Grain Quick Bread" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="rice milk" unit="cups" qty="2.50">
+<IPrp>
+(20 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="vinegar" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 ounce)
+</IPrp>
+</IngR>
+<IngR code="I" name="brown sugar" unit="cup" qty="0.50">
+<IPrp>
+(3 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="soft unsalted butter" unit="cup" qty="0.50">
+<IPrp>
+(1 stick, 4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="old-fashioned rolled oats" unit="cup" qty="1.00">
+<IPrp>
+(3 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="pumpernickel flour" unit="cup" qty="1.00">
+<IPrp>
+(3 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="King Arthur whole-wheat flour" unit="cups" qty="2.00">
+<IPrp>
+(8 ounces) or Traditional or White Whole Wheat
+</IPrp>
+</IngR>
+<IngR code="I" name="King Arthur Unbleached Bread Flour" unit="cups" qty="2.00">
+<IPrp>
+(8 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="baking soda" unit="tablespoon" qty="1.00"></IngR>
+<DirS>
+<DirT>
+I almost never think of sandwich bread or toast when I hear the term &quot;quick bread.&quot; But this is a quick bread that works well in both of those capacities! It&apos;s just slightly sweet, and the flavor of the grains really shines through. This splendid loaf slices well and has a nice toothsome texture, while
+staying absolutely moist. It&apos;s great toasted, wearing some mayo or spicy mustard and thinly sliced ham. We frequently get calls asking for a bread recipe that doesn&apos;t contain yeast that can be made into sandwiches. This is the one.
+</DirT>
+<DirT>
+It&apos;s also a nicely sustaining toast to have with your cereal, under an egg, or just by itself with a smear of peanut butter.
+</DirT>
+<DirT>
+At 1 1/4 hours from first thought to first slice, this recipe is a keeper. I baked this recipe in my pain de mie pan, and found it worked well. It would make 2 flattish loaves if baked in standard 8 1/2 x 4 1/2- inch bread pans (as pictured).
+</DirT>
+<DirT>
+You can substitute buttermilk for the rice milk and vinegar if you wish. —Mary Tinkham
+</DirT>
+<DirT>
+Preheat the oven to 325°F if using the pain de mie pan, 350°F if using the standard loaf pans.
+</DirT>
+<DirT>
+Mix the rice milk and vinegar together; set aside. Cream the butter and brown
+sugar until light and fluffy; set aside. In another bowl, whisk together the oats, flours, salt, and baking soda, and then add half of this to the creamed mixture. Mix well. Add the rice milk mixture, stirring well. When combined, stir in the remaining flour mixture, stirring until well blended. Put the batter into a greased 13 x 4 x 4-inch pain de mie pan and put the lid on, or into two standard bread pans. Smooth the tops of the loaves. If you&apos;re using
+loaf pans, baked uncovered and test at 50 minutes. Place pan(s) in the oven, and bake for 50 minutes. Remove the lid and bake for another 10 minutes, or until a
+tester comes out clean. Let cool in the pan for about 5 minutes, then gently turn the bread out of the pan and finish cooling on a rack. The bread slices best if allowed to cool completely. 
+</DirT>
+<DirT>
+Yield: 26 slices.
+</DirT>
+<DirT>
+Nutrition information per serving (1 slice, made with buttermilk, 56g): 137 cal, 25g whole grains, 5g fat, 4g protein, 17g complex carbohydrates,
+4g sugar, 3g dietary fiber, 11 mg cholesterol, 242mg sodium, 14mg potassium, 37RE vitamin A, 1 mg iron, 40mg calcium, 106mg phosphorus.
+Weight Watchers points: 2
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 7
+</Srce>
+<Yield unit="slices" qty="26.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Klatskis" author="">
+<Serv qty="8"/>
+<PrpT elapsed="0:00"/>
+<IngR code="S" name="FILLING:"></IngR>
+<IngR code="I" name="bacon" unit="pound" qty="0.75"></IngR>
+<IngR code="I" name="onions" unit="cups" qty="2.00">
+<IPrp>
+finely diced, (10 ounces, about 2 medium)
+</IPrp>
+</IngR>
+<IngR code="I" name="finely diced mushrooms" unit="ounces" qty="8.00">
+<IPrp>
+(optional)
+</IPrp>
+</IngR>
+<IngR code="I" name="ground beef" unit="pounds" qty="2.00">
+<IPrp>
+(or a combination of beef, pork, or turkey)
+</IPrp>
+</IngR>
+<IngR code="I" name="Salt and pepper">
+<IPrp>
+to taste
+</IPrp>
+</IngR>
+<IngR code="S" name="DOUGH: (enough for eighty 3-inch circles)"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="3.25">
+<IPrp>
+(13 7/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="eggs" unit="large" qty="3.00"></IngR>
+<IngR code="I" name="water" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 ounce)
+</IPrp>
+</IngR>
+<IngR code="S" name="TOPPING:"></IngR>
+<IngR code="I" name="bacon" unit="pound" qty="0.50">
+<IPrp>
+diced and fried crisp
+</IPrp>
+</IngR>
+<IngR code="I" name="sliced mushrooms" unit="cups" qty="2.00">
+<IPrp>
+(6 ounces) optional
+</IPrp>
+</IngR>
+<IngR code="I" name="diced onions" unit="cup" qty="1.00">
+<IPrp>
+(5 ounces) optional
+</IPrp>
+</IngR>
+<IngR code="I" name="sour cream" unit="pint" qty="1.00">
+<IPrp>
+(2 cups, 16 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="chopped parsley" unit="cup" qty="0.25">
+<IPrp>
+(optional)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+From George L. Findlen, of Madison, WI, comes this story and recipe:
+&quot;John Dubinski, the man who taught me how to make klatskis, came from a Lithuanian-American immigrant family and grew up in Chicago. John&apos;s grandmother had taught him to make klatskis when he was a young boy. The family&apos;s klatskis were not filled with the usual mashed potatoes or cabbage that are associated with Russian peasant vareniki or Polish pierogi, however. This family had discovered America (i.e., the Chicago stockyards), and America
+had meat for everyone all the time. So the Dubinskus family
+(which changed its name to
+Dubinski to better fit in
+with the surrounding
+Polish community) learned
+to make klatskis with
+ground beef and bacon.
+</DirT>
+<DirT>
+&quot;John Dubinski invited me to
+his house to make klatskis many years ago; I enjoyed them so much
+I&apos;ve been making them ever since. While dating my future wife, I made klatskis for her. She liked them enough that they were part of her deciding to marry me! From time to time, I make them for her again. The memory is good.
+</DirT>
+<DirT>
+&quot;I recently wrote to John. He&apos;s still making klatskis, usually around Christmas time, but he now corrals his five grown sons to help him. In memory of the old folks, he fills some with sauerkraut, and he adds finely chopped mushrooms to the filling. For topping, he sometimes adds chopped saut?ed onions and mushrooms to the crisp bacon.&quot;
+</DirT>
+<DirT>
+This is a big project; one of those &quot;in for a penny, in for a pound&quot; sorts of things. If you don&apos;t have an entire afternoon to devote to dumpling making, or a bunch of helpers around, you may want to cut all of the ingredients in half. —S.R.
+</DirT>
+<DirT>
+For the dough: Whisk together the flour and salt in a large bowl. Says John Dubinski: &quot;The old ones would have used the dining table or kitchen counter.&quot; Make a well in the center of the flour and break the eggs into it. Stir the eggs with a fork (we like our Danish dough whisk for this task), bringing in the flour a little at a time until it has all been incorporated. Use the water to help you bring in the last bits of flour. Knead
+the dough for 10 minutes. Place the dough in a large plastic bag and let it rest in the refrigerator while you make the filling.
+</DirT>
+<DirT>
+For the filling: In a large skillet over medium-high heat, cook the bacon until crispy; remove from the pan with a slotted spoon and place on absorbent paper to drain. Add the onions and mushrooms, if using, to the fat in the pan, and cook until the onions are translucent. Remove from the pan
+and add to the draining bacon. Brown the ground meat in the same skillet, seasoning with salt and pepper as desired. You will likely need to do this in two batches, because there&apos;s
+so much meat. When the meat is cooked, drain off any excess fat, and place the meat in a large bowl. Add the cooked bacon and onion mixture; cool to room temperature before using to fill the dough.
+</DirT>
+<DirT>
+To assemble the dumplings: Cut the dough ball into quarters. Place one quarter on your work surface, and keep the remaining dough wrapped in plastic to keep it from drying out. Roll the dough out into a thin sheet. You can use a pasta machine for this step: roll it out to number 5. Cut the dough into 3-inch circles. Place 1 tablespoon of filling
+in the center of each circle. Wet your finger or a pastry brush and moisten the outside edge. Fold the circle in half and seal the dough by pressing down with the tines of a fork. Flip the klatski over and repeat. Set the finished klatski
+on a piece of waxed or parchment paper to dry. When the first piece of dough
+is used, roll out another quarter, until all the dough and filling is used. At this point, you can dust the klatskis with flour and place them in an airtight container to freeze for up to a month.
+</DirT>
+<DirT>
+To cook and serve: Cook up the bacon for the topping with the mushrooms and onions, if using, while you bring
+6 quarts of water to a vigorous boil. Drop in the klatskis, about 15 at a time; boil for 3 minutes, until they all float. Remove the dumplings from the water with a slotted spoon, hold in
+a greased warm casserole dish with a cover, and continue cooking until you have as many as you need. Serve about 10 klatskis per person, garnished with a tablespoon of sour cream, cooked bacon mixture, and chopped parsley.
+</DirT>
+<DirT>
+Nutrition information per serving (10 dumplings made with 1 pound each ground turkey and beef, without garnish, 263g): 706 cal, 40g fat, 49g protein, 38g complex carbohydrates,
+2g dietary fiber, 219mg cholesterol, 1032mg sodium, 705mg potassium, 36RE vitamin A, 17mg vitamin C, 6mg iron, 78mg calcium, 445mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 8
+</Srce>
+<Yield unit="dumplings" qty="80.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Sesame Seed Rings (Susamli Simit)" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="unsalted butter" unit="cup" qty="1.00">
+<IPrp>
+(2 sticks, 8 ounces) room temperature
+</IPrp>
+</IngR>
+<IngR code="I" name="olive oil" unit="tablespoons" qty="2.00">
+<IPrp>
+(7/8 ounce)
+</IPrp>
+</IngR>
+<IngR code="I" name="plain yogurt" unit="cup" qty="0.25">
+<IPrp>
+(2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="baking powder" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="honey" unit="tablespoons" qty="3.00">
+<IPrp>
+(2 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="3.25">
+<IPrp>
+(13 7/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00">
+<IPrp>
+separated
+</IPrp>
+</IngR>
+<IngR code="I" name="sesame seeds" unit="cup" qty="0.75">
+<IPrp>
+(3 3/4 ounces)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Last Autumn&apos;s Potato Bourek was such a hit, I decided to include another recipe that
+I found on TurkishCookbook.com. The website describes these cookies as something that&apos;s best served with tea or milk, drizzled with honey. It occupies that interesting area between sweet and savory. They&apos;re rather cracker-like in texture; the sesame seeds are great against
+the sandy texture of the finished cookie. Great with some hummus as a snack, next to some soup or stew, or as the site recommends,
+with some honey drizzled on top. —S.R.
+</DirT>
+<DirT>
+Preheat the oven to 350° F. Line two baking sheets with parchment.
+</DirT>
+<DirT>
+In a large bowl, combine the butter, olive oil, yogurt, baking powder, salt, honey, and flour. Mix together at slow speed by machine, using a paddle attachment, or use your hands. Once the flour starts to become moistened. add the egg yolk and continue mixing until the dough comes together.
+</DirT>
+<DirT>
+Break off pieces of dough the size of
+a walnut (1/2 to 3/4 ounce by weight) and roll out on a lightly floured surface to a length of 6 inches. Bring the ends together to form a ring, pinching them together to seal. The finished diameter will be approximately 2 inches. (I used a biscuit cutter dipped in flour to help me keep my rings round. Place the
+floured cutter on the prepared baking sheet, and form the ring around it.)
+</DirT>
+<DirT>
+Brush the tops with egg white, then sprinkle with sesame seeds. Repeat
+for the remaining dough and then bake for 20 minutes, until golden brown. 
+</DirT>
+<DirT>
+Yield: 36 cookies.
+</DirT>
+<DirT>
+
+Nutrition information per serving (1 cookie, 26g): 116 cal, 8g fat, 2g protein, 8g complex carbohydrates, 1g sugar, 1g dietary fiber, 21 mg cholesterol, 44mg sodium, 35mg potassium, 53RE vitamin A, 1mg iron, 44mg calcium, 47mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 9
+</Srce>
+<Yield unit="cookies" qty="36.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Learn More About It (Q and A) 2008-02 Early Spring" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<DirS>
+<DirT>
+QUESTION: I have been baking for many years and just recently I have begun to have problems with breads sticking to the loaf pans (purchased from King Arthur Flour).
+I am greasing them the same way I always have — generously, with butter. 
+I make the dough in a bread machine. The ingredients are all King Arthur, as they have been for many years. This happens with yeast and non-yeast breads alike. For the life of me, I can&apos;t understand why this has started happening! Thanks so much. —Trudy Harlow, Arlington, VA
+</DirT>
+<DirT>
+ANSWER: I&apos;m sorry to hear about your bread woes. I&apos;ve had picture-perfect loaves go straight to the dumper because of the same problem, so I feel your pain.
+</DirT>
+<DirT>
+As with anything along these lines, there can be a number of reasons, so I&apos;ll go over some of them and you can do what experimenting you like.
+</DirT>
+<DirT>
+Pans can change as they age; I don&apos;t know how old your bread pans are, but if they&apos;re put in the dishwasher on a regular basis, the surface can get a little pitted. Dishwasher soap is pretty tough stuff and can hurt the finish over time.
+</DirT>
+<DirT>
+Also, butter is up to 20% water. Again, over time, that water can start to erode the smooth surface of the pan&apos;s finish, and let the sticky dough have someplace to cook onto. We generally grease our pans with EverBake, or some other vegetable oil spray, which has no water in it.
+</DirT>
+<DirT>
+I&apos;ve learned the hard way that when I can&apos;t afford to take a chance (like
+when I&apos;m baking for the photographs you see in The Baking Sheet), to spray the pan, line the bottom and two sides with parchment paper, and spray again. I think of parchment as a safety belt for baking. You may never need
+it, but it certainly doesn&apos;t hurt and in that once-in-awhile situation, it can make all the difference.
+</DirT>
+<DirT>
+We&apos;re frequently asked if a particular recipe can be adjusted to fit into another size baking pan. The answer is pretty much always yes; it&apos;s just a matter of knowing how the volume of the original relates to the volume of the pan you want to change to.
+</DirT>
+<DirT>
+For those of you who bake in volume, here&apos;s a handy chart to help you increase a recipe.
+</DirT>
+<DirT>
+If you want to adjust a recipe down to a smaller size, divide the ingredients for a recipe that fits larger pans by the number in the center column.
+</DirT>
+<DirT>
+Baking times will need to be adjusted as well. If moving to a larger size, start by increasing the baking time by 20%. If your item still isn&apos;t done, set the timer for 3 minutes and check it at intervals until it&apos;s finished. Keep track of the total for the next time.
+</DirT>
+<DirT>
+To make smaller recipes, decrease the baking time by 20 to 25%.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 10
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Gingersnaps" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="King Arthur whole-wheat flour" unit="cups" qty="1.25">
+<IPrp>
+(5 ounces) Traditional or White Whole Wheat
+</IPrp>
+</IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cup" qty="1.00">
+<IPrp>
+(4 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="ground ginger" unit="teaspoons" qty="2.00"></IngR>
+<IngR code="I" name="ground cinnamon" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="baking soda" unit="teaspoons" qty="2.00"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="unsalted butter" unit="cup" qty="0.25">
+<IPrp>
+(1/2 stick, 2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="non-trans fat vegetable shortening" unit="cup" qty="0.50">
+<IPrp>
+(3 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="sugar" unit="cup" qty="1.00">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="molasses" unit="cup" qty="0.33">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="fresh orange zest" unit="tablespoons" qty="2.00"></IngR>
+<IngR code="I" name="sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 1/4 ounces) for dredging
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Adapted from  Heirloom Baking
+</DirT>
+<DirT>
+This is another recipe adapted from the Brass sisters&apos; treasure trove, called Heirloom Baking. Gingersnaps were always a favorite of mine as a child, and I found the idea of sneaking a bit of orange flavor to these cookies intriguing. I also figured that a gingersnap is the perfect place for some whole-wheat flour because frankly, between the spices and molasses, nobody&apos;s going to know. Which they didn&apos;t. Here&apos;s one snack you can feel good about having in the cookie jar for the kids. —S.R.
+</DirT>
+<DirT>
+Preheat the oven to 350°F. Whisk together the flours and spices; set aside. In a large bowl, cream together the butter and
+sugar until light. Add the egg, molasses, and zest, stopping to scrape the sides and bottom of the bowl. Mix in the dry
+ingredients, scraping the bowl once more. Chill the dough for 1 hour, then scoop by teaspoons. Roll each piece of dough in granulated sugar, and place on a lightly greased or parchment-lined baking sheet.
+</DirT>
+<DirT>
+Bake for 14 minutes, until the edges brown ever so slightly. Remove from the oven and place the baking sheet on a rack to cool. The cookies will become crisp as they cool down; after they&apos;re firm, remove from the baking sheet and return to the rack to cool completely. 
+</DirT>
+<DirT>
+Yield: 5 1/2 dozen cookies.
+</DirT>
+<DirT>
+Nutrition information per serving (2 cookies, 21g): 90 cal, 5 grams whole grains, 5g fat, 1 g protein, 6g complex carbohydrates, 5g sugar, 1g dietary fiber, 10mg cholesterol, 114mg sodium, 40mg
+potassium, 17RE vitamin A, 1mg iron, 7mg calcium, 23mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 11
+</Srce>
+<Yield unit="dozen" qty="5.500000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Chewy Coconut Macaroons" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="unsalted butter" unit="cup" qty="1.00">
+<IPrp>
+(2 sticks, 8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="sugar" unit="cups" qty="1.50">
+<IPrp>
+(10 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="coconut milk powder" unit="cup" qty="0.50">
+<IPrp>
+(2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="light corn syrup" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 3/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="coconut flavoring" unit="teaspoon" qty="0.25"></IngR>
+<IngR code="I" name="baking powder" unit="teaspoons" qty="1.50"></IngR>
+<IngR code="I" name="baking soda" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="2.50">
+<IPrp>
+(10 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 1/4 ounces) for dredging
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+Preheat the oven to 375°F. Lightly grease two baking sheets, or line with parchment.
+</DirT>
+<DirT>
+In a large bowl, cream together the butter, sugar, and coconut milk powder until light and fluffy. Beat in the vanilla, egg, and corn syrup; stop to scrape the sides and bottom of the bowl. Add the coconut flavoring, baking powder, baking soda, salt, and flour. Mix at low to medium speed until the mixture is evenly moistened. Scoop by the
+tablespoon, and dredge the balls in sugar. Place on the prepared cookie sheets, leaving 2 inches between them, and bake for 11 minutes. The edges of the cookies will just barely begin to brown. Remove from the oven and cool on the pan for 5 minutes before transferring to a rack to finish cooling completely. 
+</DirT>
+<DirT>
+Yield: 3 1/2 dozen.
+</DirT>
+<DirT>
+Nutrition information per serving (1 cookie, 26g):
+104 cal, 5g fat, 1g protein, 6g complex carbohydrates, 8g sugar, 18mg cholesterol, 57mg sodium, 23mg potassium, 45RE vitamin A, 1mg iron, 14mg calcium, 31 mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 12
+</Srce>
+<Yield unit="dozen" qty="3.500000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Almond Macaroon Cookies" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="unsalted butter" unit="cup" qty="1.00">
+<IPrp>
+(2 sticks, 8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="sugar" unit="cup" qty="1.00">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="almond paste" unit="cup" qty="0.50">
+<IPrp>
+(4 1/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="almond extract" unit="teaspoon" qty="0.25"></IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="light corn syrup" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 3/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="baking powder" unit="teaspoons" qty="1.50"></IngR>
+<IngR code="I" name="baking soda" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="2.75">
+<IPrp>
+(11 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 1/4 ounces) for dredging
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+These recipes (Chewy Coconut Macaroons and Almond Macaroon Cookies) are more of a recreation than a makeover. Not long ago I got an e-mail from
+Nancy Worthen: &quot;For years I have tried to find a recipe for a flat macaroon. Growing up in Boston they served them at the Ritz at tea time. They also have them at Henri&apos;s bakery in Atlanta. They are crunchy on the outside and chewy inside. The top looks like a lake bed after the water dries up! Do you have such a recipe that you can share with me?&quot;
+</DirT>
+<DirT>
+Chewy Coconut Macaroons is the recipe I came up with, which was a big hit with our tasters. All proud of myself, I sent a copy of it off to Nancy. Her reply?
+</DirT>
+<DirT>
+&quot;I&apos;m sure these will be interesting, but the macaroons I remember were almond flavored.&quot;
+</DirT>
+<DirT>
+Back to the drawing board and to the pantry for some almond paste. The good news? Two yummy cookies from one reader request! 
+</DirT>
+<DirT>
+I tried a variation of these cookies that included 1 cup of diced dried apricots. It was spectacular. You may wish to do the same. —S.R.
+</DirT>
+<DirT>
+Preheat the oven to 375°F. Lightly grease
+2 baking sheets, or line with parchment.
+</DirT>
+<DirT>
+In a large bowl, cream together the butter, sugar, and almond paste until light and fluffy. Beat in the extracts, egg, and corn syrup; stop to scrape the sides and bottom of the bowl. Add the baking powder, baking soda, salt, and flour. Mix at low to medium speed until the mixture is evenly moistened. Scoop by the tablespoon, and dredge the balls in sugar. Place on the prepared cookie sheets, leaving 2 inches between them, and bake for 11 minutes. The edges of the cookies will just barely begin to brown. Remove from the oven and cool on the pan for 5 minutes. before transferring to a rack to finish cooling completely. 
+</DirT>
+<DirT>
+Yield: 3 1/2 dozen.
+</DirT>
+<DirT>
+Nutrition information per serving (1 cookie, 26g):
+111 cal, 6g fat, 1g protein, 6g complex carbohydrates, 8g sugar, 1g dietary fiber, 18mg cholesterol, 57mg sodium, 33mg potassium, 45RE vitamin A, 1mg iron, 20mg calcium, 20mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 12
+</Srce>
+<Yield unit="dozen" qty="3.500000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Pineapple Pound Cake" author="">
+<Serv qty="24"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="vegetable shortening" unit="cup" qty="0.50">
+<IPrp>
+(3 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="cup" qty="1.00">
+<IPrp>
+(2 sticks, 8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="confectioners&apos; sugar" unit="cups" qty="3.00">
+<IPrp>
+(12 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="0.50">
+<IPrp>
+(3 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="baking powder" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="eggs" unit="large" qty="5.00"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="4.00">
+<IPrp>
+(17 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="crushed pineapple in juice" unit="(20 ounce) can" qty="1.00">
+<IPrp>
+divided
+</IPrp>
+</IngR>
+<IngR code="S" name="GLAZE:"></IngR>
+<IngR code="I" name="butter" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 ounce)
+</IPrp>
+</IngR>
+<IngR code="I" name="confectioners&apos; sugar" unit="cup" qty="1.00">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="T" name="crushed pineapple and juice, (8 ounces) from above" unit="cup" qty="1.00"></IngR>
+<DirS>
+<DirT>
+While working on a pineapple cake for this issue, I put out a version from the early stages of testing. One of our seasonal customer service reps, Charlotte Merrill, gave it a lackluster review, saying she knew of a much better recipe. &quot;Ok,&quot; I said, &quot;bring it in, and we&apos;ll give it a go.&quot;
+</DirT>
+<DirT>
+After a week of Charlotte frantically e-mailing folks back in her native Texas, she sent me her following recipe.
+</DirT>
+<DirT>
+
+&quot;Aha!&quot; I thought. The perfect Recipe Makeover. First, I love recipes that tell you
+a quantity like &quot;fill the powdered sugar box.&quot; Instructions like that come from experienced, instinctive bakers, but the dialect doesn&apos;t always come through the way they intend.
+</DirT>
+<DirT>
+The recipe was also showing its age, in that Crisco and margarine were the fats called for. It&apos;s a classic sign of a &apos;50s recipe where modern, manufactured ingredients were always the first choice of recipe writers (especially if they happened to be employed by one of the food companies who made those products). I decided to put some of the butter back in, mostly for flavor reasons.
+</DirT>
+<DirT>
+In researching pineapple cakes, I found a lot of recipes where some of the crushed pineapple was set aside to make a glaze. I thought that was a good idea, since earlier versions I&apos;d tested were faulted for insufficient pineapple flavor. A topping of crushed pineapple looks and tastes very nice.
+</DirT>
+<DirT>
+Thanks to Charlotte; and to Janice Bynum, the daughter of Clovis Clower (the recipe was originally in her handwriting) for giving us all a lovely dessert. —S.R.
+</DirT>
+<DirT>
+Preheat the oven to 325°F. Grease and flour a 10-inch tube or Bundt pan.
+</DirT>
+<DirT>
+Measure out 1 cup of pineapple with its juice; set aside for glaze.
+</DirT>
+<DirT>
+In a large bowl, cream together the shortening, butter, sugars, salt, and baking powder until light and fluffy.
+Beat in the eggs. one at a time, scraping the sides and bottom of the bowl after each addition. Add the flour, mixing until combined. Stir in the remaining pineapple, and then pour the batter into the prepared pan.
+</DirT>
+<DirT>
+Bake for 1 1/2 hours, until a tester inserted in the center of the cake comes out clean. Remove from the oven and place the pan on a rack; run a thin, dull blade around the outside edge to help it loosen up, and cool the cake in the pan for 20 minutes. After 20 minutes, invert the cake on to a plate, then turn it over once more so it&apos;s right-side-up on a serving plate.
+</DirT>
+<DirT>
+To make the glaze: Heat the butter in a small saucepan. Stir in the confectioners&apos; sugar and reserved pineapple with its juice. Bring to
+a boil, remove from the heat, and pour the mixture over the top of the cake while it&apos;s still warm. 
+</DirT>
+<DirT>
+Yield: 1 cake, 24 slices.
+</DirT>
+<DirT>
+Nutrition information per serving (1 slice, 92g): 298 cal, 14g fat, 3g protein, 17g complex carbohydrates, 23g sugar, 1g dietary fiber, 68mg cholesterol, 120mg sodium, 65mg potassium, 100RE vitamin A, 2mg vitamin C, 1mg iron, 22mg calcium, 59mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 13
+</Srce>
+<Yield unit="cake" qty="1.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Cinnamon Coffeecake" author="">
+<Serv qty="24"/>
+<PrpT elapsed="0:00"/>
+<IngR code="S" name="DOUGH:"></IngR>
+<IngR code="I" name="whole milk" unit="cup" qty="0.88">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoons" qty="1.50"></IngR>
+<IngR code="I" name="egg yolk" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="unsalted butter" unit="tablespoons" qty="2.00">
+<IPrp>
+softened and cut into pieces
+</IPrp>
+</IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="2.25">
+<IPrp>
+(9 7/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="0.25">
+<IPrp>
+(1 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="instant yeast" unit="teaspoons" qty="2.00"></IngR>
+<IngR code="S" name="CRUMB TOPPING:"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cup" qty="0.75">
+<IPrp>
+(3 1/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="brown sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="old-fashioned rolled oats" unit="cup" qty="0.50">
+<IPrp>
+(1 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="Vietnamese cinnamon" unit="teaspoons" qty="1.50"></IngR>
+<IngR code="I" name="chilled unsalted butter" unit="tablespoons" qty="6.00">
+<IPrp>
+(3 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.13"></IngR>
+<IngR code="S" name="ICING:"></IngR>
+<IngR code="I" name="confectioners&apos; sugar" unit="cup" qty="0.75">
+<IPrp>
+(3 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="to 2 tablespoons milk" qty="1.00"></IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="1.00"></IngR>
+<DirS>
+<DirT>
+We are a nation of cinnamon-lovers. Walk through the food court at your local mall. The smell of cinnamon is intoxicating — you&apos;ll find yourself drawn to its source.
+</DirT>
+<DirT>
+Cinnamon was used long before the 16th century when the Portuguese arrived in Ceylon and brought the coveted spice back to central Europe. At that time, cinnamon was often used in anointing oils and other medicines; it was also used by wealthy Europeans as a status symbol — an exotic and rare spice from the Far East to season their food (and maybe even hide some unpleasant flavors in foods created by the lack of refrigeration).
+</DirT>
+<DirT>
+During the 1800s, opening trade routes made spices accessible to all social classes. Cinnamon was
+grown commercially in more regions, including the West Indies, Brazil,
+and Guyana.
+</DirT>
+<DirT>
+While cinnamon might have been a rare and precious commodity in the past, a simple trip to the local grocer can now appease our hunger for it. Cinnamon comes in many varieties. Ceylon cinnamon is pale in color, but sweet and intense. Indonesian cinnamon (commonly sold in the U.S.) is a reddish brown color and more pungent. Chinese cinnamon is generally a deep dark brown and has a very strong cinnamon flavor, but lacks the sweetness of Ceylon&apos;s. Vietnamese, or Saigon, cinnamon offers both the sweetness and spiciness we like in cinnamon buns, rolls, and coffeecakes.
+</DirT>
+<DirT>
+This delicious yeasted cake tastes like a warm and gooey cinnamon roll, without all the fuss. The oatmeal topping provides a little healthful fiber as well. —Robyn Sargent
+</DirT>
+<DirT>
+For the dough: Place all the dough/batter ingredients in the bread machine pan according to the order in the manufacturer&apos;s instructions. Program the machine for the Dough cycle;
+press Start. The dough will be soft and sticky, like a thick batter. Don&apos;t add any extra flour.
+</DirT>
+<DirT>
+For the topping: When the dough cycle is almost done, combine the topping ingredients in a small bowl. Rub the butter in with your fingertips to make clumped crumbs.
+</DirT>
+<DirT>
+To shape the coffeecake: Preheat the oven to 375°F. Grease a 9 x 13-inch pan (if using a glass pan, set the oven to 350°F) .
+</DirT>
+<DirT>
+After the machine completes its cycle, scrape the batter into the prepared baking pan (it will be very sticky). Flour your hands, and then use them to spread the batter evenly over the bottom. Let the dough rest a few minutes if it starts to shrink back, then try again. Sprinkle the topping evenly
+over the dough; cover with plastic wrap and let rise for 30 minutes.
+</DirT>
+<DirT>
+
+Bake the cake for 20 to 25 minutes, until the edges are golden brown and a cake tester or toothpick inserted in the center of the cake comes out clean.
+</DirT>
+<DirT>
+Remove from the oven and place on a rack to cool for 15 minutes while you make the icing.
+</DirT>
+<DirT>
+For the icing: Combine all of the ingredients to make a smooth glaze: drizzle over the top of the cake. Serve the cake warm from the pan. 
+</DirT>
+<DirT>
+Yield:
+1 large coffeecake, 24 servings.
+</DirT>
+<DirT>
+Nutrition information per serving (One 2-inch square, 49g): 179 cal, 9g fat, 2g protein, 12g complex carbohydrates, 11g sugar, 1g dietary fiber, 32mg cholesterol, 98mg sodium, 73mg potassium, 83RE vitamin A, 1 mg iron, 24mg calcium, 41 mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 14
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Kitchen Gear: the Microplane Zester" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<DirS>
+<DirT>
+The new breed of graters and zesters available now are a great boon to anyone who likes the flavor of fresh citrus zest. Here&apos;s our favorite trick for using them effectively:
+</DirT>
+<DirT>
+Instead of zesting over a mixing bowl and guessing how much has fallen in, turn everything upside down. Hold the orange or lemon
+and draw the zester across the top of the fruit, with its concave side facing up.
+</DirT>
+<DirT>
+The zest will collect, and you can measure the amount you need, or &quot;eyeball&quot; the teaspoon or tablespoon the recipe calls for. When you have the correct amount, turn the grater over and tap it into the bowl.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 15
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Orange Sugar Cookies" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="S" name="COOKIES:"></IngR>
+<IngR code="I" name="shortening" unit="cup" qty="0.25">
+<IPrp>
+(1 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="cup" qty="0.50">
+<IPrp>
+(1 stick, 4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="1.00">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="orange" qty="1.00">
+<IPrp>
+zest of, finely grated
+</IPrp>
+</IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="orange juice" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 ounce)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="baking soda" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="2.50">
+<IPrp>
+(10 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="S" name="GLAZE:"></IngR>
+<IngR code="I" name="confectioners&apos; sugar" unit="cups" qty="1.50">
+<IPrp>
+(6 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="orange juice concentrate" unit="tablespoon" qty="1.00">
+<IPrp>
+or orange zest
+</IPrp>
+</IngR>
+<IngR code="I" name="fresh orange juice" unit="tablespoons" qty="3.00">
+<IPrp>
+(1 1/2 ounces)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+I was looking for a cookie that was a little different for the holidays this year. I remembered the way
+oranges were always in the bottom of our stockings, and came up with these cookies. I must have made 15 dozen of them during the month of December.
+</DirT>
+<DirT>
+In the colder months before any
+spring produce, we can always get our hands on good citrus, so for a little bit of sunshine, give these soft cookies a try. They&apos;ll be a fine mud-season antidote for my neighborhood. —S.R.
+</DirT>
+<DirT>
+Preheat the oven to 350°F Lightly grease 2 baking sheets, or line with parchment.
+</DirT>
+<DirT>
+For the cookies: In a large bowl, cream together the shortening, butter, and sugar until light and fluffy. Add the orange zest and egg, beating to combine. Scrape the bottom and sides of the bowl, then add the orange juice and dry ingredients. Mix until the dough is evenly combined.
+</DirT>
+<DirT>
+Scoop by the tablespoon onto the prepared baking sheets. If you like your cookies a little more crisp, press them flat with the bottom of a drinking glass dipped in sugar until they&apos;re
+1/2-inch thick. For softer cookies, leave in mounds.
+</DirT>
+<DirT>
+Bake for 10 to 12 minutes, until the edges are just golden brown. Remove from the oven and cool on the baking sheet on a rack for 10 minutes, before transferring to the rack to finish cooling completely before frosting.
+</DirT>
+<DirT>
+For the glaze: Whisk ingredients together until sugar is dissolved. Brush over cooled cookies. 
+</DirT>
+<DirT>
+Yield: 2 1/2 dozen.
+</DirT>
+<DirT>
+Nutrition information per serving (1 cookie, unglazed, 25g): 104 cal, 4g fat, 1g protein, 7g complex carbohydrates, 6g sugar, 16mg cholesterol, 59mg sodium, 18mg potassium, 34RE vitamin A, 1mg vitamin C, 1 mg iron, 2mg calcium, 13mg phosphorus.
+</DirT>
+<DirT>
+Nutrition information per serving (1 cookie, with glaze, 33g): 129 cal, 5g fat, 1g protein, 7g complex carbohydrates, 13g sugar, 16mg cholesterol, 59mg sodium, 18mg potassium, 23RE vitamin A, 2mg vitamin C, 1mg iron, 3mg calcium, 14mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 15
+</Srce>
+<Yield unit="dozen" qty="2.500000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Gingered Apricot Oatmeal Muffins" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="King Arthur White Whole Wheat Flour" unit="cup" qty="1.00">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="oat flour" unit="cup" qty="0.50">
+<IPrp>
+(1 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="rolled oats" unit="cup" qty="0.75">
+<IPrp>
+(2 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="brown sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="baking powder" unit="tablespoon" qty="1.00"></IngR>
+<IngR code="I" name="milk" unit="cup" qty="1.00">
+<IPrp>
+(8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="vegetable oil" unit="cup" qty="0.25">
+<IPrp>
+(2 ounces, 1 3/4 ounces) or melted butter
+</IPrp>
+</IngR>
+<IngR code="I" name="eggs" unit="large" qty="2.00"></IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="diced crystallized ginger" unit="cup" qty="0.50">
+<IPrp>
+(3 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="diced dried apricots" unit="cup" qty="1.00">
+<IPrp>
+(4 1/2 ounces)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+This is a perfect muffin for breakfast. Not too sweet, and chewy in a friendly sort
+of way. Our tasters proclaimed them to have just the right amount of spice, and liked the way their light, fluffy texture contrasted with the toothsome appeal of the rolled oats. The white whole-wheat earns its moniker of &quot;sweet wheat&quot; in this recipe. —S.R.
+</DirT>
+<DirT>
+Preheat the oven to 400°F. Grease a muffin tin or line with papers, then spray the papers.
+</DirT>
+<DirT>
+For the batter: In a large bowl, stir together the flours, oats, sugar, salt, and baking powder. In a separate bowl,
+beat together milk, oil or butter; eggs, and vanilla.
+</DirT>
+<DirT>
+Gently stir wet ingredients into dry ingredients, mixing only enough to blend. Stir in the diced ginger and apricots. Scoop the batter into the prepared pan. Sprinkle with Demerara sugar, if desired, for a bit of extra crunch and shine.
+</DirT>
+<DirT>
+Bake the muffins for 20 minutes, or until golden brown. Remove the muffins from the oven and place on a rack to cool for 5 minutes before removing them from the pan and cooling completely on a rack.
+</DirT>
+<DirT>
+Nutrition information per serving (1 muffin, 72g): 14g whole grains. 236 cal, 7g fat, 5g protein, 22g complex carbohydrates, 19g sugar, 4g dietary fiber, 36mg cholesterol, 214mg sodium, 316mg potassium, 106RE vitamin A, 2mg vitamin C, 2mg iron, 49mg calcium, 245mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 16
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Chickpea Fries" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="chickpea flour" unit="cups" qty="2.00">
+<IPrp>
+(6 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="cool water" unit="cup" qty="0.75">
+<IPrp>
+(6 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="butter" unit="tablespoon" qty="1.00"></IngR>
+<IngR code="I" name="to 2 teaspoons chopped garlic" qty="1.00">
+<IPrp>
+depending on your taste
+</IPrp>
+</IngR>
+<IngR code="I" name="ground cumin" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="chicken stock" unit="cups" qty="2.50">
+<IPrp>
+(20 ounces) or vegetable stock
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="dried herbs" unit="tablespoon" qty="1.00">
+<IPrp>
+your choice: parsley, chives, rosemary
+</IPrp>
+</IngR>
+<IngR code="I" name="Spray olive oil"></IngR>
+<DirS>
+<DirT>
+Chickpeas aren&apos;t technically a whole-grain; they&apos;re a legume, but that doesn&apos;t mean they aren&apos;t good for you. The principle ingredient in hummus,
+chickpeas have a mellow, earthy flavor that&apos;s almost a bit meaty. Packed with protein and fiber, chickpeas are an excellent way to fuel up without adding a lot of fat.
+</DirT>
+<DirT>
+The New England Culinary Institute ran a menu item that was unfailingly popular: Chickpea Fries with
+Roasted Garlic Mayonnaise. We used to dredge the fries in semolina and deep-fry them, but you can get
+much the same effect with less fat by spraying them generously with oil and baking them; if you happen to have a convection oven, this is an ideal place to put it to work. The oven&apos;s fan will help the outsides brown faster, giving them a nice crispy surface.
+These fries make a terrific side dish
+with any stew or chili; they&apos;re also a 
+great appetizer with their roasted
+garlic mayo partner. —S.R.
+</DirT>
+<DirT>
+Preheat the oven to 425°F. If you have the option of using a convection oven, turn it on high and heat the oven to 400°F. Line an 8-inch square pan with foil or parchment, leaving two long edges to grab onto, and then grease the liner.
+</DirT>
+<DirT>
+In a small bowl, moisten the chickpea flour with cool water; whisk to remove any lumps.
+</DirT>
+<DirT>
+In a heavy, 2-quart saucepan, melt the butter over medium heat. Add the garlic and cumin and cook for 2 minutes,
+until fragrant. Add the stock, moistened chickpea flour, salt, and herbs. Cook, stirring constantly, until the mixture thickens, becomes very stiff, and pulls away from the side of the
+pan (about 10 minutes). Remove from the heat, and spread the mixture into the prepared pan. To do this, place some foil or
+parchment over the top and smooth it out as best you can. Remove
+the covering and refrigerate the chickpea &quot;slab&quot; until firm.
+</DirT>
+<DirT>
+To cut and oven-fry: Preheat the oven to 425°F if you have a convection oven, 450°F for a regular oven.
+</DirT>
+<DirT>
+Using the long ends of the parchment, pull the chickpea &quot;slab&quot; out of the pan. Cut in 3/4-inch strips, then cut in half
+in the opposite direction. Lightly grease a baking pan and place the fries on it, spacing them out so air can reach them on all sides. Spray the fries from all directions with olive oil spray until they&apos;re shiny. Place in the oven for 8 minutes. After 8 minutes, turn the fries over (the bottoms brown more quickly than the rest of the surfaces) and bake for another 5 minutes. Remove from the oven and serve warm with garlic mayonnaise (see separate recipe). 
+</DirT>
+<DirT>
+Yield: Twenty 1/2 x 4-inch &quot;fries.&quot;
+</DirT>
+<DirT>
+Nutrition information per serving (3 fries, 130g): 117 cal, 4g fat, 5g protein, 16g complex carbohydrates, 3g dietary fiber, 3mg cholesterol, 695mg sodium, 184mg potassium, 29RE vitamin A, 1mg vitamin C, 2mg iron, 34mg calcium, 98mg phosphorus.
+Weight Watchers points: 2
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 16
+</Srce>
+<Yield unit="fries" qty="20.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Roasted Garlic Mayonnaise" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="garlic" unit="cloves" qty="3.00">
+<IPrp>
+peeled
+</IPrp>
+</IngR>
+<IngR code="I" name="olive oil" unit="cup" qty="0.50">
+<IPrp>
+(3 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="egg yolk" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.25"></IngR>
+<IngR code="I" name="fresh lemon juice" unit="tablespoons" qty="2.00">
+<IPrp>
+(1 ounce)
+</IPrp>
+</IngR>
+<IngR code="I" name="whole-grain mustard" unit="tablespoon" qty="1.00"></IngR>
+<IngR code="I" name="vegetable oil" unit="cup" qty="1.00">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+This is a very tasty mayo, terrific on any kind of sandwich; good for dipping fried calamari or roasted artichokes as well as any kind of deep-fried food. The garlic and lemon juice should take center stage. For that reason, the
+recipe only calls for some olive oil with the balance made up with a more neutral-flavored vegetable oil. For a low-fat option, coat the garlic cloves with oil and roast them at 300°F until soft. Pur?e them with the salt, lemon juice, and mustard, and then mix into some nonfat mayonnaise.
+</DirT>
+<DirT>
+Place the garlic cloves and olive oil in a small saucepan. Cook over low heat until the garlic begins to color, about 10 minutes. You want the garlic to be golden brown and soft, not brown and
+crispy. Remove the pan from the heat and set it aside to cool to room temperature.
+</DirT>
+<DirT>
+When the garlic and olive oil is cool, place the garlic cloves, egg yolk, salt, lemon juice. and mustard in a food processor. With the motor running, add the olive oil and vegetable oil very slowly. When the mayonnaise begin to form and become thick at the bottom of the work bowl,
+you can add the oil a little bit faster. Once all of the oil is incorporated, taste and adjust the seasonings. adding more salt
+or lemon juice if needed. Remove the mayonnaise from the work bowl and store, covered in the refrigerator, for up to a week. 
+</DirT>
+<DirT>
+Yield: 2 cups.
+</DirT>
+<DirT>
+Nutrition information per serving (2 tablespoons, 29g): 217 cal, 25g fat, 12mg cholesterol,
+38mg sodium, 5mg potassium, 6RE vitamin A, 1mg vitamin C, 2mg calcium, 6mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 17
+</Srce>
+<Yield unit="cups" qty="2.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Salmon Kulebiaka" author="">
+<Serv qty="10"/>
+<PrpT elapsed="0:00"/>
+<IngR code="S" name="PASTRY:"></IngR>
+<IngR code="I" name="King Arthur Unbleached Bread Flour" unit="cups" qty="3.00">
+<IPrp>
+(12 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="cups" qty="1.50">
+<IPrp>
+(3 sticks, 12 ounces) chilled, cut into 1/2-inch pieces
+</IPrp>
+</IngR>
+<IngR code="I" name="cold water" unit="cup" qty="1.00">
+<IPrp>
+(8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoons" qty="2.00"></IngR>
+<IngR code="S" name="RICE FILLING:"></IngR>
+<IngR code="I" name="butter" unit="tablespoon" qty="1.00">
+<IPrp>
+or oil
+</IPrp>
+</IngR>
+<IngR code="I" name="diced onion" unit="cup" qty="0.50">
+<IPrp>
+(2 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="long-grain rice" unit="cup" qty="0.33">
+<IPrp>
+(2 1/4 ounces) (bulgur wheat can also be used)
+</IPrp>
+</IngR>
+<IngR code="I" name="water" unit="cup" qty="0.67">
+<IPrp>
+(5 3/8 ounces) use 1/3 cup if using bulgur
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="bay leaf" unit="small" qty="1.00"></IngR>
+<IngR code="S" name="MUSHROOM FILLING:"></IngR>
+<IngR code="I" name="unsalted butter" unit="tablespoons" qty="3.00">
+<IPrp>
+(1 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="finely chopped onion" unit="cup" qty="1.00">
+<IPrp>
+(5 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="finely chopped mushrooms" unit="cups" qty="1.50">
+<IPrp>
+(5 ounces) a food processor is fine for this
+</IPrp>
+</IngR>
+<IngR code="I" name="dried dill" unit="teaspoons" qty="1.50">
+<IPrp>
+or 1/4 cup chopped fresh dill
+</IPrp>
+</IngR>
+<IngR code="I" name="dried parsley" unit="teaspoons" qty="2.00">
+<IPrp>
+or 1/4 cup chopped fresh parsley
+</IPrp>
+</IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="pepper" unit="teaspoon" qty="0.25"></IngR>
+<IngR code="S" name="THE MAIN EVENT AND GARNISH:"></IngR>
+<IngR code="I" name="salmon fillet" unit="pounds" qty="1.50">
+<IPrp>
+skinned
+</IPrp>
+</IngR>
+<IngR code="I" name="hard boiled eggs" unit="large" qty="3.00"></IngR>
+<IngR code="I" name="ounce) box  chopped frozen spinach" qty="10.00">
+<IPrp>
+thawed and well drained
+</IPrp>
+</IngR>
+<IngR code="S" name="EGG WASH:"></IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="water" unit="tablespoon" qty="1.00"></IngR>
+<DirS>
+<DirT>
+This is a Russian specialty, perfect for spring occasions. A perfect all-in-one dish, it&apos;s beautiful when brought to the table and when sliced, presents a lovely cross section of pink salmon surrounded by rice, herbs, cooked
+eggs, and mushrooms. It can be made up, assembled, and frozen in advance of your event. The day before you want to bake, place it in the refrigerator to thaw overnight before giving it a final egg wash and baking it.
+</DirT>
+<DirT>
+There are several components to this recipe, and you can make most of them a few days ahead and store them in the refrigerator until you have time for assembly.
+</DirT>
+<DirT>
+Kulebiaka can be wrapped in lots of different doughs, from brioche to commercial puff pastry to phyllo.
+</DirT>
+<DirT>
+There are a number of steps here, but don&apos;t let that scare you. The rice, mushrooms, and hard-boiled eggs can all be made up to 3 days in advance. When you have all the filling parts in hand, go to the store for your fish. Once the kulebiaka is assembled, it can be frozen for up to 3 weeks. The day before you wish to serve it, put it in the refrigerator to thaw overnight, then bake as directed.
+</DirT>
+<DirT>
+We&apos;ve included a quick blitz pastry dough here, but if you&apos;re more comfortable with any of the other options, by all means use those. —S.R.
+</DirT>
+<DirT>
+Pastry: Using an electric mixer with the paddle attachment, mix the flour and cold butter in a medium bowl on low speed, until the mixture forms large chunks. Combine the water and salt, and then add to the flour/butter mixture. Mix on low speed, just until the dough begins to come together into a shaggy mass. Turn the dough out onto a floured surface and fold it over on itself until it comes together (a bench knife can be helpful with gathering the dough at this point).
+</DirT>
+<DirT>
+Form the dough into a 9 x 12-inch
+rectangle about 1-inch thick. Wrap
+in plastic or put in a large plastic bag and refrigerate for 30 minutes. After this rest, take the dough out of the refrigerator, roll it out to a 10 x 20-inch rectangle, and fold it in thirds like a letter, taking care to line up the edges neatly on top of one another. Wrap and refrigerate for another 30 minutes.
+Repeat the roll, fold, and rest steps twice more. The dough is now ready to use,
+or can be held in the refrigerator for up to 3 days.
+</DirT>
+<DirT>
+Kulebiaka
+</DirT>
+<DirT>
+For the rice: Heat the butter or oil in a medium saucepan. Add the onion and cook over medium heat for 3 to 4
+minutes, until the onions are translucent. Add the rice and stir to coat the grains with the butter. Add the water, salt,
+and bay leaf. Cover the pan and bring to a simmer. Cook, covered, until all the liquid is absorbed, about 18 to 20 minutes. Turn the heat off and let the rice sit, covered, for 5 minutes before cooling it.
+</DirT>
+<DirT>
+For the mushrooms: In a large skillet over medium heat, melt the butter, then add the onions. Cook for 4 minutes, until the onions are soft and translucent, and then add the mushrooms. Add the herbs and seasonings. Cook for 10 minutes, until the mushrooms release their water and the liquid cooks off. Remove from the heat and cool before storing.
+</DirT>
+<DirT>
+Filling—salmon, eggs, spinach: Pull any pin bones in the salmon fillet. Peel the hard-boiled eggs, separating yolks from whites. Press each through a sieve into two separate bowls. Squeeze any extra moisture from the spinach.
+</DirT>
+<DirT>
+Assembly—The Main Event: Roll out the pastry dough to a rectangle 18 inches wide and 15 inches tall. Place it on a
+piece of parchment paper or foil, to help you move the assembled kulebiaka.
+</DirT>
+<DirT>
+Spread the rice on the center of the pastry, to cover an area just slightly larger than your piece of salmon. Spread the mushroom mixture on top of the rice. Next, place the salmon fillet, skin-side-up, seasoning it with salt and pepper. Cover the salmon with the spinach, then the hard-boiled yolks and
+whites. Bring the long sides of the pastry up to cover the salmon, leaving the ends open for now. Pinch and seal the dough together. Shape one end of the pastry
+to a point, trimming any excess as necessary (save the scraps) to make it look like a salmon&apos;s head. Shape the other to look like a salmon&apos;s tail.
+</DirT>
+<DirT>
+Now the tricky part. Using the foil or parchment under the pastry, slide the fish onto a baking sheet. Place another piece of parchment on top of the kulebiaka and an inverted baking sheet on top of that. With one hand under and another on top, flip the pastry-wrapped fish over, so the seam is on the bottom.
+</DirT>
+<DirT>
+Now you can decorate to your heart&apos;s content. Use a paring knife to cut a slit for the gills; this will also help vent the dish as it bakes. Use scraps of dough to
+make dorsal, pectoral, and ventral fins, and a paring knife to score lines into the tail. With a small round pastry tube, punch a hole through the pastry for the fish&apos;s eye. Remember, the dough will expand as it bakes, so a few definitive strokes for decoration will be more
+effective than detailing every scale. Place the fish in the refrigerator for 20 to
+30 minutes, while the oven heats up.
+</DirT>
+<DirT>
+Preheat the oven to 400°F. Beat the egg and water together, and brush the entire surface of the pastry with the egg wash. Bake for 45 minutes to an hour, until
+the pastry is deep golden brown. The fish is ready to take out of the oven when the thickest part of the fillet reads 115°F when measured with an instant-read thermometer. Remove the pastry from the oven and transfer to a warm serving platter (I found a pizza peel to be the right tool for this). Let the pastry rest for 10 minutes before slicing. Decorate with lemon and fresh dill, as shown in the photograph. 
+</DirT>
+<DirT>
+Yield: 10 entr?e-sized servings.
+</DirT>
+<DirT>
+Nutrition information per serving (1 slice, 213g): 375 cal, 15g fat, 21g protein, 39g complex carbohydrates, 3g dietary fiber, 112mg cholesterol, 614mg sodium, 444mg potassium, 317RE vitamin A, 8mg vitamin C, 3mg iron, 71 mg calcium, 240mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 18
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+<RcpE name="Sour Cream Rhubarb Squares" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR code="S" name="TOPPING:"></IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="0.50">
+<IPrp>
+(3 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="finely chopped nuts" unit="cup" qty="0.50">
+<IPrp>
+(2 ounces) optional
+</IPrp>
+</IngR>
+<IngR code="I" name="butter" unit="tablespoon" qty="1.00"></IngR>
+<IngR code="I" name="ground cinnamon" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="S" name="CAKE:"></IngR>
+<IngR code="I" name="brown sugar" unit="cups" qty="1.50">
+<IPrp>
+(11 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="cup" qty="0.50">
+<IPrp>
+(1 stick, 4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="egg" unit="large" qty="1.00"></IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour" unit="cups" qty="2.00">
+<IPrp>
+(8 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="baking soda" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="sour cream" unit="cup" qty="1.00">
+<IPrp>
+(8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="rhubarb" unit="cups" qty="1.50">
+<IPrp>
+(15 1/2 ounces) cut in 1/2-inch pieces
+</IPrp>
+</IngR>
+<IngR code="I" name="chopped nuts" unit="cup" qty="0.50">
+<IPrp>
+(2 ounces) optional
+</IPrp>
+</IngR>
+<IngR code="S" name="DRIZZLE: (OPTIONAL)"></IngR>
+<IngR code="I" name="confectioners&apos; sugar" unit="cup" qty="1.00">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="to 3 tablespoons milk" qty="2.00">
+<IPrp>
+or heavy cream
+</IPrp>
+</IngR>
+<IngR code="I" name="vanilla extract" unit="teaspoon" qty="0.50"></IngR>
+<DirS>
+<DirT>
+I found this recipe in my future mother-in-law&apos;s recipe box, painstakingly typed out on a manual typewriter. Her note on the card
+says, &quot;baking in a glass dish will take longer.&quot; Since rhubarb and sour cream are both ingredients I like to bake with, I took them out for a test spin. They were good: at first I thought the topping was a little spare and kind of gravelly, but I didn&apos;t use the optional nuts that time. For its second pass, the squares were much better with the nuts and a bit of confectioners&apos; sugar drizzle. The rhubarb does a good
+job of melting into the batter and providing a moist, tangy underpinning for the sweet crunch on top.—S.R.
+</DirT>
+<DirT>
+Preheat the oven to 350°F. Grease and flour a 13 x 9-inch pan.
+</DirT>
+<DirT>
+
+In a small bowl, mix together the granulated sugar, 1/4 cup chopped nuts, butter, and cinnamon until crumbly;
+set aside.
+</DirT>
+<DirT>
+In a large bowl, cream together the brown sugar and butter until fluffy; beat in the egg and vanilla. Whisk together the flour, baking soda, and salt. Add to the creamed mixture alternately with the sour cream; be sure to scrape the sides and bottom of the bowl at least once during this process. Once the batter is evenly combined, stir in the rhubarb and the nuts.
+</DirT>
+<DirT>
+Place the batter in the prepared pan; sprinkle with the reserved sugar and nut mixture. Bake for 45 to 50 minutes, until the center tests done and the edges just begin to pull away from the pan. Remove from the oven and cool on a rack before slicing.
+</DirT>
+<DirT>
+For the drizzle: Whisk together the ingredients until smooth, use to ice squares. 
+</DirT>
+<DirT>
+Yield: 2 dozen 2-inch squares.
+</DirT>
+<DirT>
+Nutrition information per serving (1 square, without drizzle, 53g): 177 cal, 8g fat, 2g protein, 8g complex carbohydrates, 17g sugar, 1g dietary fiber, 24mg cholesterol, 110mg sodium, 110mg potassium, 61 RE vitamin A, 1mg vitamin C, 1mg iron, 32mg calcium, 32mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 20
+</Srce>
+<Yield unit="dozen" qty="2.000000" />
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+</mx2>

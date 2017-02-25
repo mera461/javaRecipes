@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="win-1252" standalone="yes" ?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook" date="March 30, 2008">
+<RcpE name="Celebration Rum Cake" author="">
+<Serv qty="20"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="King Arthur Unbleached All-Purpose Flour." unit="cups" qty="3.00">
+<IPrp>
+(12 3/4 ounces) (3-4)
+</IPrp>
+</IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="1.00">
+<IPrp>
+(7 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="light brown sugar" unit="cup" qty="0.50">
+<IPrp>
+(1/2 to 1) (3 3/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="baking powder" unit="teaspoons" qty="2.00"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="unsalted butter" unit="cup" qty="1.00">
+<IPrp>
+(2 sticks, 8 ounces) at room temperature
+</IPrp>
+</IngR>
+<IngR code="I" name="milk" unit="cup" qty="0.67">
+<IPrp>
+(5 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="rum" unit="cup" qty="0.33">
+<IPrp>
+or other spirit (1/3 - 1/2) (2 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="eggs" unit="large" qty="3.00"></IngR>
+<IngR code="I" name="chopped pecans" unit="cups" qty="1.50">
+<IPrp>
+(1 1/2 - 2) (5 5/8 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="chocolate chips" unit="cup" qty="1.00">
+<IPrp>
+(6 ounces) or raisins, optional
+</IPrp>
+</IngR>
+<IngR code="S" name="RUM GLAZE:"></IngR>
+<IngR code="I" name="granulated sugar" unit="cup" qty="0.75">
+<IPrp>
+(5 1/4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="water" unit="cup" qty="0.50">
+<IPrp>
+(4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="rum" unit="cup" qty="0.25">
+<IPrp>
+(2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="unsalted butter" unit="tablespoons" qty="3.00">
+<IPrp>
+(1 1/2 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="confectioners&apos; sugar" unit="cups" qty="1.50">
+<IPrp>
+(6 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="chopped pecans" unit="tablespoons" qty="2.00">
+<IPrp>
+for garnish (optional)
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+There&apos;s something about baking with rum that&apos;s evocative of Merrie Olde England to me; I get pictures of revelers with muttonchops and cravats, toasting each other in front of a roaring fire with lots of mistletoe around, carolers outside, and a roast goose soon to appear. Interestingly enough, several tasters declared that the flavor of this cake&apos;s rum glaze instantly transported them to a beach under a palm tree, with steel drums in the background. Food is evocative stuff.
+</DirT>
+<DirT>
+
+The original recipe I found for this cake needed some revision, and didn&apos;t include any raisins or chocolate chips. But when I included those extras in some of the versions I tested, they were both a big hit. This is a big cake: you could easily get 24 slices from it. If you&apos;re going to have a crowd
+</DirT>
+<DirT>
+around for brunch or dinner, this cake is a good choice. —S.R.
+</DirT>
+<DirT>
+For the cake: Preheat fhe oven to 350°F. Grease and flour a 10-inch Bundt® pan. Combine the flour, sugars, baking powder, and salt in the bowl
+</DirT>
+<DirT>
+of a mixer. Add the butter and mix on low speed until it&apos;s worked in completely; the mixture will have a sandy appearance.
+</DirT>
+<DirT>
+In a small bowl, combine the milk, rum, and eggs. Gradually add to the flour/butter mixture, with the mixture running at low speed. Once all of the liquid is in, scrape the sides and bottom of the bowl, then increase
+</DirT>
+<DirT>
+the mixer speed to medium and beat for 3 minutes. Stir in the pecans, and the chocolate chips or raisins, if using. Pour the batter into the pan, and
+bake for 55 to 60 minutes, until the top of the cake springs back when lightly touched. Remove from the oven; place on a rack to cool for 10 minutes.
+</DirT>
+<DirT>
+For the glaze: In a saucepan, combine the sugar and water and bring to a boil, stirring occasionally until the sugar dissolves. Add the rum and butter; return to a simmer. Remove from the heat, and pour 3/4 cup of this syrup into a separate container to use for moistening the cake. To the remaining syrup in the pan, add the confectioners&apos; sugar 1/2 cup at a time, whisking
+until blended and you have a thick, pourable glaze.
+</DirT>
+<DirT>
+To finish the cake: After the cake has cooled for 10 minutes, invert it out of its pan onto a large plate. With a
+wooden skewer or toothpick, pierce the cake all over. Brush the reserved rum syrup over the warm cake, repeating
+as necessary until all of the syrup is used. Let the cake cool, then transfer it to a clean serving plate. Pour the confectioners&apos; sugar glaze over the top and sprinkle with the garnish pecans.
+</DirT>
+<DirT>
+Yield: 20 servings.
+</DirT>
+<DirT>
+Nutrition information per serving (1 slice, 103g): 397 cal, 18g fat, 4g protein, 15g complex carbohydrates, 41g sugar, 1g dietary fiber,
+</DirT>
+<DirT>
+62mg cholesterol, 107mg sodium, 101 mg potassium, 122RE vitamin A, 1mg iron,
+</DirT>
+<DirT>
+58mg calcium, 113mg phosphorus.
+</DirT>
+</DirS>
+<Srce>
+The Baking Sheet, 2008 Early Spring (Vol. XIX, No. 2), page 2
+</Srce>
+<CpyR>
+© 2008 King Arthur Flour, Inc.   ISSN 1087-3600
+</CpyR>
+</RcpE>
+</mx2>

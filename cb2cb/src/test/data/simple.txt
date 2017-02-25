@@ -1,0 +1,34 @@
+CL93-07-08
+[[[
+T::QUICK PICKLED GREEN BEANS
+C:: Vegetables
+Y:: 8:Cups
+S:: 10
+PT:: 0:20
+TT:: 1:20
+B:: Mary Clifford, "Memories of a Country Garden"
+Src:: Cooking Light Magazine, July/August 1993, page 69
+Cpr:: 1993, by Southern Living, Inc.
+AS:: Formatted By: John Shotsky
+I::
+
+2 pounds fresh green beans
+2 cups water
+2 cups cider vinegar
+2 tablespoons sugar
+1 tablespoon dill seeds, crushed -- PLUS
+1 teaspoon dill seeds, crushed
+2 teaspoons dry mustard
+1 teaspoon pepper
+1/2 teaspoon salt
+2 cloves garlic, crushed
+
+DIR::
+Wash beans; trim ends, and remove strings. Place beans into a large saucepan of boiling water; cook 5 minutes. Drain and plunge beans into ice water; drain again. Place beans in a large, shallow, nonmetal dish; set aside.
+
+Combine 2 cups water and next 7 ingredients in a small saucepan; bring to a boil. Pour mixture over beans; cover and marinate in refrigerator 8 hours, stirring occasionally. Store in refrigerator up to 1 week, stirring occasionally.
+
+Yield: 8 servings (serving size: 1 cup).
+
+CALORIES 61 (6% from fat) / PROTEIN 2.4g / FAT 0.4g (SAT 0g, MONO 0.1g, POLY 0.1g) / CARB 15.5g / FIBER 2.6g / CHOL 0mg / IRON 1.8mg / SODIUM 154mg / CALCIUM 65mg
+]]]

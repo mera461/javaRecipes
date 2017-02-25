@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook" date="February 17, 2008">
+<RcpE name="Mostaccioli Marinara with Fresh Basil" author="Susan McQuillan &quot;Noodle Know-how&quot;">
+<Serv qty="2"/>
+<PrpT elapsed="0:05"/>
+<CatS>
+<CatT>
+Pasta
+</CatT>
+</CatS>
+<IngR code="I" name="mostaccioli  uncooked" unit="cups" qty="1.50">
+<IPrp>
+(tube-shaped pasta) (4 ounces)
+</IPrp>
+</IngR>
+<IngR code="I" name="no-salt-added whole tomatoes" unit="(14 1/2-ounce) can" qty="1.00">
+<IPrp>
+undrained
+</IPrp>
+</IngR>
+<IngR code="I" name="Vegetable cooking spray"></IngR>
+<IngR code="I" name="olive oil" unit="teaspoon" qty="1.00"></IngR>
+<IngR code="I" name="onion" unit="cup" qty="0.33">
+<IPrp>
+diced
+</IPrp>
+</IngR>
+<IngR code="I" name="garlic" unit="clove" qty="1.00">
+<IPrp>
+minced
+</IPrp>
+</IngR>
+<IngR code="I" name="sugar" unit="teaspoon" qty="0.50"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.25"></IngR>
+<IngR code="I" name="pepper" unit="teaspoon" qty="0.25">
+<IPrp>
+coarsely ground
+</IPrp>
+</IngR>
+<IngR code="I" name="parsley" unit="cup" qty="0.33">
+<IPrp>
+chopped fresh
+</IPrp>
+</IngR>
+<IngR code="I" name="basil" unit="tablespoons" qty="2.00">
+<IPrp>
+thinly sliced fresh
+</IPrp>
+</IngR>
+<IngR code="I" name="Romano cheese" unit="tablespoons" qty="2.00">
+<IPrp>
+grated
+</IPrp>
+</IngR>
+<DirS>
+<DirT>
+ Cook pasta according to package directions, omitting salt and fat. Drain and set aside.
+</DirT>
+<DirT>
+Position knife blade in food processor bowl; add tomatoes. Pulse 3 to 4 times or until almost smooth; set aside.
+</DirT>
+<DirT>
+Coat a medium skillet with cooking spray; add oil, and place over medium-high heat until hot. Add onion and garlic; saut&#233; 3 minutes or until tender. Add tomatoes, sugar, salt, and pepper; bring to a boil. Reduce heat, and simmer, uncovered 10 minutes. Stir in parsley and basil. Serve sauce over pasta; sprinkle with Romano cheese.
+</DirT>
+<DirT>
+Yields 2 servings (serving size: 1 cup pasta, 3/4 cup sauce, and 1 tablespoon cheese).
+</DirT>
+<DirT>
+CALORIES 322 (15% from fat) / PROTEIN 11.9g / FAT 5.5g (SAT 1.7g, MONO 2.4g, POLY 0.7g) / CARB 56.7g / FIBER 2.4g / CHOL 7mg / IRON 3.8mg / SODIUM 416mg / CALCIUM 182mg
+</DirT>
+</DirS>
+<Srce>
+Cooking Light Magazine, May/June 1993, page 108
+</Srce>
+<AltS label="Formatted by" source="John Shotsky" />
+<CpyR>
+&#169; 1993, by Southern Living, Inc.
+</CpyR>
+<TTim elapsed="0:20"/>
+</RcpE>
+</mx2>

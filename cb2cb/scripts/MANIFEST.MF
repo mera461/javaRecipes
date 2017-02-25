@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_03 (Sun Microsystems Inc.)
+Main-class: net.sf.recipetools.cb2cb.Cb2cb
+Class-Path: lib\commons-cli-1.1.jar
+   lib\commons-codec-1.3.jar
+   lib\commons-lang-2.2.jar
+   lib\commons-logging-1.1.jar
+   lib\groovy-swt-0.7-windows-all.jar
+   lib\log4j-1.2.14.jar
+   lib\groovy-2.1.3.jar
+

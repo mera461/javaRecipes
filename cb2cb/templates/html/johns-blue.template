@@ -1,0 +1,11 @@
+#
+# Definition of Johns Blue template.
+#
+# Template design by Andreas Viklund
+# See: http://andreasviklund.com/templates/andreas08/
+#
+#
+AllInOne = false
+Template = johns-blue-index.html
+RecipeTemplate = johns-blue.html
+SharedDirectory = johns-blue

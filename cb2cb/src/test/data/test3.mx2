@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="win-1252" standalone="yes" ?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook" date="March 30, 2008">
+<RcpE name="Parmesan-Parsley Biscuit Flatbreads" author="">
+<Serv qty="8"/>
+<PrpT elapsed="0:00"/>
+<IngR code="I" name="refrigerated jumbo biscuits" unit="(16.3-ounce) can" qty="1.00"></IngR>
+<IngR code="I" name="olive oil" unit="tablespoon" qty="2.00"></IngR>
+<IngR code="I" name="freshly grated Parmesan cheese" unit="tablespoon" qty="8.00"></IngR>
+<IngR code="I" name="chopped fresh parsley" unit="tablespoon" qty="4.00"></IngR>
+<IngR code="I" name="Kosher salt"></IngR>
+<IngR code="I" name="Freshly ground pepper"></IngR>
+<DirS>
+<DirT>
+MAKES 8 SERVINGS. PREP: 15 MIN., BAKE: 12 MIN.
+</DirT>
+<DirT>
+Preheat oven to 400°. Separate biscuits into individual rounds. Pour olive oil onto a baking sheet. Dip both sides of each biscuit round in oil, and arrange on baking sheet. Using fingertips, press each biscuit into a 4-inch free-form flat circle. Sprinkle each flattened biscuit with 1 tablespoon freshly grated Parmesan cheese, 1 1/2 teaspoon chopped fresh parsley, and a pinch of kosher salt and freshly ground pepper. Bake at 400° for 10 to 12 minutes or until golden brown. Cut into strips.
+</DirT>
+<DirT>
+ROSEMARY-GARLIC BISCUIT FLATBREADS: Omit the Parmesan cheese and parsley, and then prepare the recipe as directed. Sprinkle the biscuits evenly with 2 teaspoons chopped fresh rosemary and 2 minced garlic cloves.
+</DirT>
+<DirT>
+* For testing purposes only, we used Pillsbury Homestyle Buttermilk Grands! Refrigerated Biscuits.
+</DirT>
+</DirS>
+<Srce>
+Southern Living Magazine, 2008 March, page 13
+</Srce>
+<CpyR>
+© 2008 by Southern Living Inc., ISSN 0038-4305
+</CpyR>
+</RcpE>
+</mx2>

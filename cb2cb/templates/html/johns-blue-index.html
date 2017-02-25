@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="recipe, cb2cb" />
+	<meta name="author" content="Created by cb2cb" />
+	<link rel="stylesheet" type="text/css" href="minimal-blue/minimal-blue.css" title="minimal-blue" media="screen,projection" />
+	<title>Recipes</title>
+</head>
+
+<body>
+<div id="container" >
+	<div id="header">
+		<h1>Recipes</h1>
+	</div>
+
+	<div id="navigation"> </div>
+
+	<div id="content">
+<table>
+<tr>
+<th>No</th>
+<th>Name</th>
+<th>Photo?</th>
+<th>Prep.time (min)</th>
+</tr>
+<% 
+ int i = -1
+ for (def recipe : allRecipes) {
+    i++ 
+// -------------------------- FOR EACH RECIPE ----------------------------
+ %> 
+<tr>
+<td>${i+1}</td>
+<td>
+<a class="recipeLink" href="${recipe.titleAsFilename()}-${i}.html">${recipe.title.toHtml()}</a>
+</td>
+<td>${recipe.images?.size() > 0 ? 'Y' : 'N'}</td>
+<td>${recipe.preparationTime}</td>
+</tr>
+<% 
+ } // for 
+ %> 
+</table>
+
+	</div>
+
+	<div id="footer">
+		<p>Made with <a href="http://recipetools.sourceforge.net/joomla15">cb2cb</a>. | Design by <a href="http://andreasviklund.com/templates/">Andreas Viklund</a></p>
+	</div>
+
+	</div>
+</body>
+</html>

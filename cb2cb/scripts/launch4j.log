@@ -1,0 +1,13 @@
+
+
+CmdLine:	C:\pr\projekter\java\cb2cb\scripts\cb2cb.exe --l4j-debug
+WOW64:		no
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_45
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-jar "C:\pr\projekter\java\cb2cb\scripts\.\cb2cb.jar"
+Args length:	53/32768 chars
+Exit code:	0

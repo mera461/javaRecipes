@@ -1,0 +1,3108 @@
+This file is a test file for TXT 2MX 2. It is representative of a freshly created text file from OCR that has no actual recipe edits performed, other than making the correct recipe paragraphs, fractions are repaired and each ingredient is on its own line. Tags have been added. It is saved as test3.txt.
+
+Saved as CL 93-0708 OCR 2txt 1.txt
+Performed Guess Text Breaks clip
+Saved as CL 93-0708 OCR 2Unicode.txt
+OCR Completed, exported to unicode text.
+Initially scanned 20080129
+
+[[[
+GCpr:: ©1993, by Southern Living, Inc.
+GAS:: Formatted By: John Shotsky
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+QUICK PICKLED GREEN BEANS
+ING::
+2 pounds fresh green beans
+2 cups water
+2 cups cider vinegar
+2 tablespoons sugar
+1 tablespoon plus 1 teaspoon dill seeds, crushed
+2 teaspoons dry mustard
+1 teaspoon pepper
+1/2 teaspoon salt
+2 cloves garlic, crushed
+Dir::
+Wash beans; trim ends, and remove strings. Place beans into a large saucepan of boiling water; cook 5 minutes. Drain and plunge beans into ice water; drain again. Place beans in a large, shallow, nonmetal dish; set aside.
+
+Combine 2 cups water and next 7 ingredients in a small saucepan; bring to a boil. Pour mixture over beans; cover and marinate in refrigerator 8 hours, stirring occasionally. Store in refrigerator up to 1 week, stirring occasionally.
+
+Yield: 8 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 61 (6% from fat) / PROTEIN 2.4g / FAT 0.4g (SAT 0g, MONO 0.1g, POLY 0.1g) / CARB 15.5g / FIBER 2.6g / CHOL 0mg / IRON 1.8mg / SODIUM 154mg / CALCIUM 65mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SILKY CORN CASSEROLE
+ING::
+1 tablespoon reduced-calorie margarine
+1/2 cup sliced green onions
+2 1/4 cups 1% low-fat milk
+1 tablespoon plus 1 teaspoon sugar
+1/2 teaspoon salt
+1/4 teaspoon ground red pepper
+1/3 cup plus 1 tablespoon all-purpose flour
+2 eggs plus 3 egg whites, lightly beaten
+3 1/2 cups corn cut from cob (about 7 ears)
+Vegetable cooking spray
+Dir::
+Melt margarine in a saucepan over medium heat. Add green onions; sauté 1 minute. Add milk and next 3 ingredients; cook 3 minutes or until hot. (Do not boil.) Remove from heat, and set aside.
+
+Combine flour and eggs in a bowl; beat at medium speed of an electric mixer until well blended. Gradually stir in 1/2 cup hot milk mixture; gradually stir in remaining hot milk mixture. Stir in corn; pour into a shallow 2-quart casserole coated with cooking spray. Bake at 350° for 1 hour and 20 minutes or until a knife inserted near center comes out clean.
+
+Yield: 6 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 169 (23% from fat) / PROTEIN 9.5g / FAT 4.4g (SAT 1.4g, MONO 1.5g, POLY 1g) / CARB 24.1g / FIBER 2.1g / CHOL 77mg / IRON 1.1mg / SODIUM 322mg / CALCIUM 132mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+HARVARD BEETS
+ING::
+2 1/2 pounds medium beets
+2/3 cup unsweetened orange juice
+2 tablespoons cider vinegar
+1 tablespoon reduced-calorie margarine, melted
+1/4 cup firmly packed brown sugar
+1 tablespoon cornstarch
+1/4 teaspoon salt
+1/8 teaspoon pepper
+Dir::
+Leave root and 1 inch of stem on beets; scrub with a brush. Place beets in a Dutch oven, and add water to cover; bring to a boil. Cover; reduce heat, and simmer 40 minutes or until tender. Drain; peel and cut into 1/4-inch-thick slices. Set aside.
+
+Combine juice, vinegar, and margarine in a bowl. Combine sugar and next 3 ingredients in a large saucepan; stir well. Gradually add juice mixture, stirring with a wire whisk until blended. Bring to a boil over medium heat, stirring constantly. Add beets, tossing gently to coat. Cook 4 minutes or until thoroughly heated, stirring occasionally. Serve warm.
+
+Yield: 5 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 126 (14% from fat) / PROTEIN 2g / FAT 2g (SAT 0.2g, MONO 0.4g, POLY 0.5g) / CARB 27.4g / FIBER 1.8g / CHOL 0mg / IRON 1.5mg / SODIUM 232mg / CALCIUM 33mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SUCCOTASH
+ING::
+2 cups shelled fresh lima beans
+2 cups corn cut from cob (about 4 ears)
+3 tablespoons reduced-calorie margarine
+1/4 cup finely chopped onion
+2 tablespoons chopped fresh parsley
+1/4 teaspoon salt
+1/8 teaspoon pepper
+Dir::
+Place lima beans in a saucepan, and add water to cover; bring to a boil. Cover, reduce heat, and simmer 10 minutes. Add corn; cover and cook 7 minutes or until lima beans are tender. Drain well.
+
+Melt margarine in saucepan over medium-high heat. Add onion, and sauté 2 minutes. Remove from heat. Stir in lima bean mixture, parsley, salt, and pepper.
+
+Yield: 4 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 197 (26% from fat) / PROTEIN 8.1g / FAT 5.8g (SAT 1g, MONO 1.9g, POLY 2.5g) / CARB 31.5g / FIBER 6.6g / CHOL 0mg / IRON 3mg / SODIUM 270mg / CALCIUM 36mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+GARDEN VEGETABLE CASSEROLE
+ING::
+6 cups cubed, unpeeled round red potato (about 2 pounds)
+1 cup diagonally sliced carrot
+1 cup (2-inch) sliced fresh green beans
+2 tablespoons margarine
+1/2 cup chopped onion
+1/4 cup all-purpose flour
+2 1/2 cups skim milk
+1 1/2 cups (6 ounces) shredded reduced-fat sharp Cheddar cheese, divided
+1 teaspoon dried whole dillweed
+1 teaspoon dried whole marjoram
+1 teaspoon dried whole basil
+1/4 teaspoon salt
+1/4 teaspoon pepper
+1/4 teaspoon dry mustard
+1 cup sliced zucchini
+Vegetable cooking spray
+1 large unpeeled tomato, thinly sliced
+Dir::
+Cook potato in boiling water 8 minutes or until crisp-tender; drain and set aside.
+
+Arrange carrot and green beans in a vegetable steamer; place over boiling water. Cover and steam 6 minutes or until crisp-tender; drain and set aside.
+
+Melt margarine in a medium saucepan over medium heat; add onion, and sauté 3 minutes. Add flour, and cook 1 minute, stirring constantly. Gradually add milk, stirring constantly. Cook an additional 12 minutes or until thickened and bubbly, stirring constantly. Remove from heat; stir in 3/4 cup cheese and next 6 ingredients.
+
+Combine potato, carrot, green beans, and zucchini in a bowl. Add cheese sauce; stir gently. Spoon mixture into a 13- x 9- x 2-inch baking dish coated with cooking spray. Bake, uncovered, at 350° for 20 minutes. Arrange tomato on top of casserole; sprinkle with remaining 3/4 cup cheese. Bake 5 minutes, or until cheese melts; let stand 5 minutes before serving.
+
+Yield: 8 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 244 (27% from fat) / PROTEIN 12.5g / FAT 7.4g (SAT 3.1g, MONO 2.5g, POLY 1.2g) / CARB 33.1g / FIBER 3.3g / CHOL 16mg / IRON 1.7mg / SODIUM 316mg / CALCIUM 314mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+STEWED TOMATOES AND OKRA
+ING::
+3/4 pound fresh okra pods
+Vegetable cooking spray
+1/2 cup finely chopped onion
+1/4 cup finely chopped green bell pepper
+2 cups seeded, coarsely chopped unpeeled tomato (about 3 medium)
+1 tablespoon lemon juice
+1 teaspoon dried whole oregano
+1/4 teaspoon salt
+1/4 teaspoon hot sauce
+Dir::
+Remove tip and stem ends from okra; cut okra into 1/4-inch slices, and set aside.
+
+Coat a medium saucepan with cooking spray, and place over medium heat until hot. Add onion and bell pepper; cook 2 minutes, stirring constantly. Add okra, tomato, and remaining ingredients. Cover and cook over medium-low heat 15 minutes or until okra is tender, stirring occasionally.
+
+Yield: 3 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 80 (10% from fat) / PROTEIN 3.4g / FAT 0.9g (SAT 0.1g, MONO 0.1g, POLY 0.3g) / CARB 16.7g / FIBER 3.2g / CHOL 0mg / IRON 1.7mg / SODIUM 218mg / CALCIUM 99mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+TOASTED MILLET SALAD WITH ORIENTAL FLAVORS
+ING::
+1 cup hulled millet
+2 3/4 cups water
+1/2 cup finely chopped carrot
+1/2 cup thinly sliced green onions
+1 teaspoon peeled, grated gingerroot
+1/4 teaspoon sugar
+3 tablespoons rice wine vinegar
+2 tablespoons water
+2 tablespoons low-sodium soy sauce
+1 teaspoon dark sesame oil
+2 cloves garlic, crushed
+1/4 cup chopped unsalted dry-roasted peanuts
+Dir::
+Place millet in a skillet over medium- high heat, Cook 5 minutes or until millet is toasted and begins to pop, stirring constantly; remove from heat. Gradually add water; return to heat, and bring to a boil. Cover, reduce heat, and simmer 30 minutes or until liquid is nearly absorbed; remove from heat. Uncover and let stand 15 minutes; fluff with a fork.
+
+Combine millet, carrot, and green onions in a bowl;. toss gently, Combine gingingerroot and next 6 ingredients in a bowl.; stir well. Pour over millet mixture; •toss well. Sprinkle with peanuts.
+
+Yield: 4 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 194 (31% from fat) / PROTEIN 6.7g / FAT 6.7g (SAT
+0.8g, MONO 2.8g; POLY 1.9g) / CARB 31.2g / FIBER 2.7g / CHOL 0mg / IRON 2.9mg / SODIUM 250mg / CALCIUM 31mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+QUINOA, SHRIMP, AND. CILANTRO SALAD
+ING::
+1 cup quinoa, uncooked
+1 pound medium-size fresh unpeeled shrimp
+1/2 teaspoon crushed red pepper
+1 teaspoon low-sodium soy sauce
+1/2 teaspoon dark sesame oil
+Vegetable cooking spray
+1 cup corn, cut from cob (about 2 large ears)
+1 cup diced red bell pepper
+1/4 cup thinly sliced green onions
+1/4 cup chopped fresh cilantro
+1/4 cup fresh lime juice
+2 tablespoons vegetable oil
+1 tablespoon water
+1 teaspoon minced jalapeño pepper
+1/2 teaspoon sugar
+1/4 teaspoon salt
+1 clove garlic, crushed
+Boston lettuce leaves (optional)
+Dir::
+Place quinoa in a large, fine metal strainer; rinse with cold running water, and drain. Cook according to package directions; set aside.
+
+Peel and devein shrimp. Combine -shrimp and next 3 ingredients in a bowl; stir well. Cover and chill 20 minutes. Coat a large nonstick skillet with cooking, spray, and place over medium-high heat until hot. Add shrimp mixture; stir-fry 4 minutes.
+
+Combine quinoa; shrimp, corn, and next 3 ingredients in a bowl; toss gently.
+
+Combine lime juice and next 6 ingredients in a bowl; stir well. Pour over quinoa mixture; toss well. Serve on lettuce-lined plates, if desired. Serve chilled or at room temperature.
+
+Yield: 6 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 241 (30% from fat) / PROTEIN 17.4g / FAT 7.9g (SAT 1.1g, MONO 1.7g, POLY 2.9g) / CARB 26.5g / FIBER 1.5g / CHOL 86mg / IRON 4.4mg / SODIUM 219mg / CALCIUM 71mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BULGUR, MUSHROOM, AND SPINACH SALAD
+ING::
+1 cup bulgur (cracked wheat), uncooked
+1 cup boiling water
+2 cups shredded spinach
+1 cup thinly sliced fresh mushrooms
+1 cup halved seedless red grapes
+1/4 cup chopped purple onion
+2 ounces smoked turkey ham, cut into julienne strips
+3 tablespoons fresh lemon juice
+1 1/2 tablespoons olive oil
+1 tablespoon water
+1/4 teaspoon freshly ground pepper
+1/8 teaspoon salt
+1 clove garlic, crushed
+1 tablespoon sliced almonds, toasted
+Dir::
+Combing bulgur and boiling water in a large bowl; let stand 30 minutes or until water is absorbed. Fluff with a fork. Add spinach and next 4 ingredients; toss well.
+
+Combine lemon juice and next 5 ingredients in a. bowl; stir with a wire whisk until blended. Add to bulgur mixture; toss well. Top with almonds
+
+Yield: 4 servings (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 225 (30% from fat)/ PROTEIN 8.9g / FAT 7.4g (SAT 1.1g, MONO 4.5g, POLY 1.1g) / CARB 34.8g / FIBER 8.4g /CHOL 8mg / IRON 2.5mg / SODIUM 201mg / CALCIUM 55mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BARLEY-AND-CORN SALAD WITH JALAPENO-AND-LIME DRESSING
+ING::
+3 cups water
+1 cup pearl barley, uncooked
+1 tablespoon minced jalapeño pepper
+1/4 cup fresh lime juice
+2 tablespoons vegetable oil
+1/2 teaspoon salt
+1/8 teaspoon pepper
+1 cup corn, cut from cob (about 2 large ears)
+1/2 cup peeled, seeded, and diced cucumber
+1/2 cup diced unpeeled tomato
+1/2 cup diced green bell pepper
+1/2 cup finely chopped purple onion'
+Dir::
+Bring water to a boil in a medium saucepan; gradually stir in barley. Cover, reduce heat, and simmer. 40 minutes or until barley is tender and water is absorbed. Let cool.
+
+Combine jalapeño pepper and next 4 ingredients, and stir with a wire whisk. Combine barley, corn, and next 4 ingredients in a large bowl; add dressing, tossing to coat.
+
+Yield: 6 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 196 (25% from fat) / PROTEIN 4.7g / FAT 5.4g (SAT 1g, MONO 1.5g, POLY 2.6g)./ CARB 34.8g / FIBER 6.8g / CHOL 0mg / IRON 1.4mg / SODIUM 205mg / CALCIUM 19mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+WILD RICE-APPLE SALAD WITH ORANGE. DRESSING
+ING::
+2 cups cooked wild rice, cooked without salt or fat
+2 cups cooked long-grain, rice,cooked without salt or fat
+1 cup peeled, chopped Red Delicious apple
+1 cup frozen green peas, thawed
+1/2 cup unsweetened orange juice
+3 tablespoons fresh lime juice
+2 tablespoons minced fresh mint
+1 tablespoon vegetable oil
+1 1/2 teaspoons grated orange rind
+1/2 teaspoon salt
+1/8 teaspoon freshly ground pepper
+Dir::
+Combine first 4 ingredients in a bowl; toss gently. Combine orange juice and next 6 ingredients in a bowl; stir well. Pour over rice mixture.
+
+Yield: 6 servings (serving size: 1 cup).
+
+Note Substitute brown rice for long-grain rice, if desired.
+
+NUT::
+CALORIES 201 (12% from fat) / PROTEIN 5.6g / FAT 2.7g (SAT 0..5g, MONO 0.7g; POLY 1.3g) / CARB 39.5g / FIBER 3g / CHOL 0mg / IRON 1.4mg / SODIUM 220mg / CALCIUM 23mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+WHEAT BERRY, EGGPLANT, AND TOMATO SALAD
+ING::
+1/2 cup wheat berries, uncooked
+2 cups. plus 2 tablespoons water, divided
+1 medium eggplant, peeled and cut into 1/2-inch slices (about 1 pound)
+1 tablespoon extra-virgin olive oil.
+2 cups diced unpeeled tomato
+1/4 cup chopped fresh parsley
+2 tablespoons chopped fresh basil
+1/4 teaspoon salt
+1/8 teaspoon freshly ground pepper
+1 large clove garlic, crushed
+2 1/2 cups cooked long-grain brown rice, cooked without salt or fat
+1 1/4 cups (6 ounces) cubed partskim mozzarella cheese
+1 1/2 tablespoons red wine vinegar
+Dir::
+Combine wheat berries and 2 cups water in a bowl; cover and let stand 8 hours.
+
+Pour wheat berry, mixture into a medium saucepan; bring to a boil. Cover, reduce heat, and simmer, 45 minutes or until tender. Drain; set aside.
+
+Arrange eggplant slices in a single layer on a baking sheet; brush oil over both sides. Bake at 400°. for 30 minutes, turning eggplant slices over after 15 minutes. Remove from baking sheet, and let cool. Cut eggplant slices into 1/2-inch pieces, and set aside.
+
+Combine remaining 2 tablespoons water, tomato, and next 5 ingredients in a bowl; stir well. Add wheat berries, eggplant, and rice; toss well. Add cheese and vinegar; toss gently. Serve immediately.
+
+Yield: 6 servings (serving size: 1 1/4 cups).
+
+NUT::
+CALORIES 264 (27% from fat) / PROTEIN 1211g / FAT 7.9g (SAT 3.4g, MONO 3.3g, POLY 0.8g) / CARB 36.8g / FIBER 3.8g / CHOL 16mg / IRON 1.8mg / SODIUM 243mg / CALCIUM 226mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BULGUR-AND-BROCCOLI SALAD WITH SOY WALNUTS
+ING::
+1 1/2 cups boiling water
+3/4 cup bulgur (cracked wheat) ; uncooked
+2 cups chopped fresh broccoli
+1/2 cup finely chopped carrot
+1/4 cup finely chopped purple onion
+1/4 cup chopped walnuts
+1 tablespoon low-sodium soy sauce
+1/2 teaspoon sugar
+1/ teaspoon grated lemon rind
+1/8 -teaspoon freshly ground pepper
+3 tablespoons fresh lemon juice
+1 tablespoon water
+1 teaspoon vegetable oil
+1 clove garlic, crushed
+Dir::
+Combine boiling water and bulgur in.a large bowl; stir well. Let stand 20 minutes or until bulgur is tender and liquid is absorbed. Fluff with a fork; set aside.
+
+Arrange broccoli in a vegetable steamer over boiling water. Cover and steam 3 minutes or until crisp-tender. Add broccoli, carrot, and onion to bulgur mixture; stir well.
+
+Place a nonstick skillet over medium-high heat until hot. Add walnuts; cook for 3 minutes, stirring constantly. Add soy sauce, stirring constantly until sauce is absorbed. Remove from skillet; set aside.
+
+Combine sugar and next 6 ingredients; stir well with a whisk. Add to bulgur mixture; toss well. Top with soy walnuts.
+
+Yield: 4 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 178 (31% from fat) / PROTEIN 7g / FAT 6.1-g (SAT 0.6g, MONO 1.4g, POLY 3.7g) / CARB 27.6g / FIBER 7.4g / CHOL 0mg / IRON 1.5mg / SODIUM 143mg / CALCIUM 44mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+GARDEN HERB SALSA
+ING::
+1 1/2 cups diced plum tomato
+1/2 cup diced red bell pepper
+1/2 cup diced yellow bell pepper
+1/4 cup minced shallot
+1/4 cup chopped fresh cilantro
+1 tablespoon minced jalapeño pepper
+1 tablespoon chopped fresh tarragon
+1/8 teaspoon salt
+2 tablespoons balsamic or sherry vinegar
+2 cloves garlic, crushed
+Dir::
+Combine all ingredients in a bowl, and stir well.
+
+Cover and chill at least 30 minutes.
+
+Yield: 2 1/2 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 15 (12% from fat) / PROTEIN 0.6g / FAT 0.2g (SAT 0g, MONO 0g, POLY 0.1g) / CARB 3.2g / FIBER 0.7g / CHOL 0mg / IRON 0.5mg / SODIUM 33mg / CALCIUM 9mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ROASTED CORN SALSA
+ING::
+2 teaspoons vegetable oil
+6 ears shucked fresh corn
+Vegetable cooking spray
+1 cup diced red bell pepper
+1/2 cup finely chopped purple onion
+1/4 cup diced Anaheim pepper
+1/4 cup fresh lime juice
+1 teaspoon vegetable oil
+1/8 teaspoon salt
+Dir::
+Brush 2 teaspoons oil over corn. Coat grill rack with cooking spray; place on grill over medium-hot coals. Place corn on rack; cook 20 minutes, turning every 5 minutes. Let cool; cut corn from cob.
+
+Combine corn, bell pepper, and remaining ingredients in a bowl; stir well.
+
+Yield: 5 1/2 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 32 (25% from fat) / PROTEIN 0.8g / FAT 0.9g (SAT 0.2g, MONO 0.3g, POLY 0.4g) / CARB 6.2g / FIBER 1g / CHOL 0mg / IRON 0.2mg / SODIUM 17mg / CALCIUM 2mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BLACK OLIVE SALSA WITH CHIVES
+ING::
+1 cup diced plum tomato
+1/4 cup chopped fresh chives
+1/4 cup chopped kalamata olives
+1/8 teaspoon white pepper
+1 1/2 teaspoons Dijon mustard
+2 cloves garlic, crushed
+Dir::
+Combine all ingredients in a small bowl, and stir well.
+
+Yield: 1 1/4 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 26 (55% from fat) / PROTEIN 0.6g / FAT 1.6g (SAT 0.3g, MONO 1.1g, POLY 0.3g) / CARB 3g / FIBER 1g / CHOL 0mg / IRON 0.6mg / SODIUM 159mg / CALCIUM 17mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+CHARRED MANGO SALSA
+ING::
+2 (6-inch) Anaheim peppers
+Vegetable cooking spray
+1 cup (1/2-inch-thick) onion slices
+2 cups (1/2-inch-thick) mango wedges
+1/4 cup fresh lime juice
+1/4 cup chopped fresh cilantro
+2 tablespoons minced serrano pepper
+2 tablespoons rice vinegar
+1/4 teaspoon freshly ground pepper
+1/8 teaspoon salt
+Dir::
+Place Anaheim peppers on a baking sheet. Broil 3 inches from heat 15 minutes or until blackened, turning once. Place in a bowl; cover. Let stand 10 minutes; remove skins. Cut peppers in half lengthwise; discard seeds and membranes. Coarsely chop, and set aside.
+
+Coat a skillet with cooking spray; place over medium-high heat until hot. Add onion in a single layer; cook 5 minutes on each side. Remove onions; set aside. Recoat skillet with cooking spray; place mango in a layer in skillet, and cook 4 minutes.
+
+Chop mango. Combine Anaheim peppers, onion, and mango in a bowl; stir in juice and remaining ingredients.
+
+Yield: 2 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 44 (8% from fat) / PROTEIN 0.8g / FAT 0.4g (SAT 0g, MONO 0.1g, POLY 0.1g) / CARB 10.8g / FIBER 1.3g / CHOL 0mg / IRON 0.4mg / SODIUM 39mg / CALCIUM 14mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PINEAPPLE SALSA
+ING::
+2 cups diced fresh pineapple
+1 cup diced red bell pepper
+1/2 cup chopped fresh cilantro
+1/4 cup diced purple onion
+2 tablespoons minced jalapeño pepper
+1 tablespoon white wine vinegar
+1 tablespoon olive oil
+1/4 teaspoon freshly ground pepper
+1 clove garlic, crushed
+Dir::
+Combine all ingredients in a bowl, and stir well.
+
+Cover and chill at least 30 minutes.
+
+Yield: 3 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 29 (40% from fat) / PROTEIN 0.4g / FAT 1.3g (SAT 0.2g, MONO 0.9g, POLY 0.2g) / CARB 4.6g / FIBER 0.8g / CHOL 0mg / IRON 0.5mg / SODIUM 2mg / CALCIUM 8mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+TOMATO-BASIL SALSA
+ING::
+1/4 cup sherry vinegar
+2 tablespoons Dijon mustard
+1 tablespoon red wine vinegar
+1 tablespoon walnut oil
+2 cups seeded, diced unpeeled tomato
+1 cup chopped fresh basil
+2 cloves garlic, crushed
+Dir::
+Combine first 4 ingredients in a bowl, stirring with a wire whisk. Add remaining ingredients; stir gently.
+
+Yield: 2 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 40 (47% from fat) / PROTEIN 0.6g / FAT 2.1g (SAT 0.2g, MONO 0.4g, POLY 1g) / CARB 3.2g / FIBER 0.6g / CHOL 0mg / IRON 0.2mg / SODIUM 160mg / CALCIUM 12mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+WATERMELON PICO DE GALLO
+ING::
+1 1/2 cups seeded, diced watermelon
+1/2 cup chopped fresh cilantro
+1/2 cup peeled, diced jicama
+1/4 cup diced cantaloupe
+1/4 cup diced honeydew melon
+2 tablespoons finely chopped purple onion
+1 to 2 tablespoons finely chopped jalapeño pepper
+2 tablespoons fresh lime juice
+2 tablespoons maple syrup
+1/4 teaspoon salt
+Dir::
+Combine all ingredients in a bowl, and stir well.
+
+Yield: 3 cups (serving size: 1/4 cup).
+
+Note: When watermelon is at its peak of sweetness, use less maple syrup or just enough to taste.
+
+NUT::
+CALORIES 22 (4% from fat) / PROTEIN 0.3g / FAT 0.1g (SAT 0.1g, MONO 0g, POLY 0g) / CARB 5.2g / FIBER 0.3g / CHOL 0mg / IRON 0.3mg / SODIUM 52mg / CALCIUM 11mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BLACK BEAN SALSA
+ING::
+2 cups drained canned black beans
+1/3 cup diced red bell pepper
+1/4 cup finely chopped purple onion
+1/4 cup diced unpeeled cucumber
+2 tablespoons diced celery
+2 tablespoons minced jalapeño pepper
+1 tablespoon chopped fresh basil
+2 tablespoons olive oil
+2 tablespoons tomato juice
+2 tablespoons red wine vinegar
+1 tablespoon fresh lemon juice
+1 1/2 teaspoons chopped fresh thyme
+1/2 teaspoon ground cumin
+1/2 teaspoon chili powder
+1/4 teaspoon salt
+1/4 teaspoon freshly ground pepper
+1 clove garlic, crushed
+Dir::
+Combine all ingredients in a bowl, and stir well.
+
+Cover and chill at least 30 minutes.
+
+Yield: 3 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 63 (36% from fat) / PROTEIN 2.7g / FAT 2.5g (SAT 0.4g, MONO 1.7g, POLY 0.3g) / CARB 8.1g / FIBER 1.5g / CHOL 0mg / IRON 0.8mg / SODIUM 139mg / CALCIUM 13mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PEACHES-AND-HONEY SHORTCAKES
+ING::
+1 1/4 cups lemon low-fat yogurt
+3 tablespoons light brown sugar
+2 tablespoons low-fat sour cream
+4 cups peeled, sliced fresh peaches (about 1 1/2 pounds)
+3 tablespoons honey
+2 3/4 cups all-purpose flour
+2 tablespoons light brown sugar
+1 tablespoon plus 1 teaspoon baking powder
+3/4 teaspoon ground cinnamon
+1/2 teaspoon salt
+1/4 cup plus 1 tablespoon chilled stick margarine, cut into small pieces
+1 cup skim milk
+Vegetable cooking spray
+Dir::
+Combine lemon yogurt and next 2 ingredients in a bowl; stir well. Cover and chill at least 30 minutes. Combine sliced fresh peaches and honey in a bowl; toss gently, and set aside.
+
+Combine flour and next 4 ingredients in a bowl; cut in margarine with a pastry blender until mixture resembles coarse meal. Add milk; stir just until dry ingredients are moistened.
+
+Turn dough out onto a lightly floured surface; knead 4 or 5 times. Roll dough to 1/2-inch thickness; cut with a 3-inch biscuit cutter. Place on a baking sheet coated with cooking spray. Bake at 450° for 9 minutes or until golden.
+
+To serve, split biscuits; top each with 1/3 cup peach mixture and 2 tablespoons yogurt mixture.
+
+Yield: 12 servings.
+
+NUT::
+CALORIES 249 (21% from fat) / PROTEIN 5.2g / FAT 5.7g (SAT 1.2g, MONO 2.2g, POLY 1.7g) / CARB 45.3g / FIBER 1.7g / CHOL 1mg / IRON 1.6mg / SODIUM 283mg / CALCIUM 137mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+NECTARINE-DAIQUIRI SORBET
+ING::
+1 cup sugar
+2 cups water
+4 cups sliced unpeeled fresh nectarines (about 1 1/2 pounds)
+1/2 cup fresh lime juice
+1/2 cup light rum
+Fresh mint sprigs (optional)
+Dir::
+Combine sugar and water in a saucepan. Cook over medium heat, stirring until sugar dissolves. Remove from heat, and let cool; set aside.
+
+Position knife blade in food processor bowl, and add nectarines, lime juice, and rum; process until smooth. Spoon nectarine mixture into a bowl; add sugar mixture, and stir well.
+
+Pour into the freezer can of a 1-gallon hand-turned or electric freezer; freeze according to manufacturer's instructions. Spoon into a freezer-safe container; cover and freeze (ripen) at least 1 hour. Garnish with mint, if desired.
+
+Yield: 16 servings (serving size: 1/2 cup).
+
+NUT::
+CALORIES 83 (2% from fat) / PROTEIN 0.3g / FAT 0.2g (SAT 0g, MONO 0.1g, POLY 0.1g) / CARB 17.2g / FIBER 0.8g / CHOL 0mg / IRON 0.1mg / SODIUM 0mg / CALCIUM 2mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PLUM-ALMOND UPSIDE-DOWN CAKE
+ING::
+4 medium-size unpeeled fresh purple plums (about 1/2 pound)
+3 tablespoons margarine, melted
+1/4 cup firmly packed brown sugar
+3 tablespoons slivered almonds, toasted
+2 eggs
+1/2 cup sugar
+1 1/4 cups all-purpose flour
+1/2 teaspoon baking soda
+1/4 teaspoon salt
+1/2 cup 1% low-fat milk
+1 teaspoon almond extract
+Dir::
+Cut plums in half, discarding pits. Cut each half into 6 wedges; set aside.
+
+Coat bottom of a 9-inch round cakepan with melted margarine. Sprinkle pan evenly with brown sugar and almonds. Arrange plums over almonds, overlapping wedges; set aside.
+
+Beat eggs and sugar in a large bowl at medium speed of an electric mixer until thick and pale (about 5 minutes). Combine flour, baking soda, and salt. Add to egg mixture alternately with milk, beginning and ending with flour mixture. Stir in almond extract. Pour batter over plums; bake at 350° for 33 minutes or until a wooden pick inserted in center comes out clean.
+
+Immediately loosen edges of cake with a knife. Invert cake onto a serving plate. Drizzle any remaining sauce over cake.
+
+Yield: 8 servings (serving size: 1 wedge).
+
+NUT::
+CALORIES 243 (29% from fat) / PROTEIN 5g / FAT 7.7g (SAT 1.5g, MONO 3.6g, POLY 2g) / CARB 39g / FIBER 1.4g / CHOL 56mg / IRON 1.5mg / SODIUM 201mg / CALCIUM 56mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SUMMER FRUIT IN AMARETTO SYRUP
+ING::
+2 cups fresh blueberries
+2 cups pitted fresh cherries
+2 cups sliced unpeeled fresh apricots (about 5 medium)
+1/4 cup amaretto
+3 tablespoons white vinegar
+2 tablespoons honey
+Dir::
+Combine first 3 ingredients in a medium-size shallow dish; set aside.
+
+Combine amaretto and vinegar in a small saucepan; bring to a boil over medium heat. Remove from heat, and stir in honey; pour over fruit. Cover and refrigerate 8 hours. Stir gently before serving.
+
+Yield: 5 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 140 (6% from fat) / PROTEIN 1.6g / FAT 0.9g (SAT 0.2g, MONO 0.2g, POLY 0.3g) / CARB 34.6g / FIBER 4.7g / CHOL 0mg / IRON 0.6mg / SODIUM 5mg / CALCIUM 18mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PEACH-OATMEAL CRISP
+ING::
+6 cups peeled, sliced fresh peaches (about 2 1/2 pounds)
+1/2 cup raisins
+1/2 teaspoon ground cinnamon, divided
+1/8 teaspoon ground nutmeg
+Vegetable cooking spray
+1/2 cup quick-cooking oats, uncooked
+2 tablespoons all-purpose flour
+2 tablespoons brown sugar
+2 tablespoons chilled stick margarine, cut into small pieces
+4 1/2 cups vanilla ice milk
+Dir::
+Combine peaches, raisins, 1/4 teaspoon cinnamon, and nutmeg in a large bowl; stir well. Spoon into a 2-quart casserole coated with cooking spray; set aside.
+
+Combine oats, remaining 1/4 teaspoon cinnamon, flour, and sugar; stir well. Cut in margarine with a pastry blender until mixture resembles coarse meal; sprinkle evenly over peach mixture.
+
+Bake at 350° for 40 minutes or until lightly browned. Serve warm with ice milk.
+
+Yield: 9 servings (serving size: 3/4 cup crisp and 1/2 cup ice milk).
+
+NUT::
+CALORIES 219 (24% from fat) / PROTEIN 4.6g / FAT 5.9g (SAT 2.3g, MONO 2.1g, POLY 1.1g) / CARB 39.9g / FIBER 2.8g / CHOL 9mg / IRON 0.8mg / SODIUM 84mg / CALCIUM 104mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SMOKED TURKEY-AND-NECTARINE SALAD
+ING::
+2 1/2 cups sliced unpeeled fresh nectarines (about 4 medium)
+2 1/2 cups coarsely chopped smoked turkey breast (about 3/4 pound)
+2 1/2 cups loosely packed, chopped romaine lettuce
+1 cup chopped celery
+1 cup seedless red grapes, halved
+1/4 cup chopped green onions
+1/4 cup nonfat sour cream alternative
+1/4 cup plain low-fat yogurt
+1 tablespoon reduced-calorie mayonnaise
+1/8 teaspoon garlic powder
+Dir::
+Cut nectarine slices in half crosswise. Combine nectarines and next 5 ingredients in a large bowl; toss gently. Combine sour cream and next 3 ingredients; stir well. Add to nectarine mixture; toss well.
+
+Yield: 6 servings (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 138 (17% from fat) / PROTEIN 15.5g / FAT 2.6g (SAT 0.7g, MONO 0.9g, POLY 0.9g) / CARB 14.6g / FIBER 2.5g / CHOL 34mg / IRON 0.8mg / SODIUM 488mg / CALCIUM 45mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PLUM-DATE RELISH
+ING::
+2 cups diced unpeeled fresh red plums (about 6 small)
+1 cup diced pitted dates
+1/2 cup diced purple onion
+1/4 cup firmly packed brown sugar
+3/4 cup water
+1/2 cup red wine vinegar
+1/2 teaspoon ground cloves
+1/4 teaspoon salt
+1/4 teaspoon pepper
+2 cloves garlic, minced
+Dir::
+Combine all ingredients in a large saucepan, and bring to a boil. Cook over medium heat for 20 minutes or until the mixture is thickened, stirring frequently. Cover and chill.
+
+Serve with grilled chicken or pork.
+
+Yield: 2 3/4 cups (serving size: 1/4 cup).
+
+Note: Store relish in an airtight container in refrigerator for up to 10 days.
+
+NUT::
+CALORIES 77 (4% from fat) / PROTEIN 0.6g / FAT 0.3g (SAT 0.1g, MONO 0.2g, POLY 0.1g) / CARB 19.6g / FIBER 1.9g / CHOL 0mg / IRON 0.4mg / SODIUM 56mg / CALCIUM 13mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SPINACH-STUFFED CHICKEN IN APRICOT SAUCE
+ING::
+1 (10-ounce) package frozen chopped spinach, thawed
+1/2 cup 1% low-fat cottage cheese
+1/3 cup fine, dry breadcrumbs
+1 tablespoon minced shallot
+1/4 teaspoon salt
+1/8 teaspoon garlic powder
+1/8 teaspoon ground nutmeg
+1 egg white
+6 (4-ounce) skinned, boned chicken breast halves
+1 tablespoon vegetable oil
+1 cup apricot nectar
+1 tablespoon tarragon vinegar
+2 teaspoons brown sugar
+2 teaspoons country-style Dijon mustard
+6 medium-size unpeeled fresh apricots (about 12 ounces), each cut into 8 wedges
+Dir::
+Press spinach between paper towels until barely moist. Combine spinach, cottage cheese, and next 6 ingredients in a bowl; stir well. Cut a horizontal slit through thickest portion of each breast half to form a pocket. Divide spinach mixture evenly among pockets. Cover chicken, and chill 1 hour.
+
+Heat vegetable oil in a large nonstick skillet over medium heat until hot. Add chicken breast halves, and cook 7 minutes on each side or until done. Remove chicken breasts from skillet; set aside, and keep warm.
+
+Combine apricot nectar and next 3 ingredients in skillet; bring to a boil. Reduce heat, and simmer 7 minutes. Add apricot wedges, and simmer an additional 5 minutes or until sauce thickens. Serve sauce over chicken.
+
+Yield: 6 servings (serving size: 1 stuffed chicken breast half and 1/3 cup sauce).
+
+NUT::
+CALORIES 249 (17% from fat) / PROTEIN 32g / FAT 4.6g (SAT 1g, MONO 1.2g, POLY 1.6g) / CARB 19.5g / FIBER 3g / CHOL 67mg / IRON 2.5mg / SODIUM 384mg / CALCIUM 96mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PEACH COBBLER
+ING::
+3 cups peeled, sliced ripe fresh peaches (about 1 pound)
+Vegetable cooking spray
+3 tablespoons sugar, divided
+1/8 teaspoon ground cinnamon
+1 cup all-purpose flour
+1 teaspoon baking powder
+1/4 teaspoon salt
+2 tablespoons stick margarine, cut into small pieces and chilled
+1/4 cup plus 1 tablespoon skim milk
+1/4 cup peach nectar
+1 tablespoon margarine, melted
+Dir::
+Arrange peaches in a 1-quart baking dish coated with cooking spray. Sprinkle with 2 tablespoons sugar and cinnamon; set aside. Combine flour, remaining 1 tablespoon sugar, baking powder, and salt in a bowl; cut in margarine with a pastry blender until mixture resembles coarse meal. Add milk, stirring until dry ingredients are moistened. Turn dough onto a lightly floured surface; knead lightly 2 to 3 times.
+
+Roll dough to a 1/4-inch thickness; cut with a 2 1/2-inch biscuit cutter. Arrange pastry on top of peach mixture. Bake at 425° for 20 minutes.
+
+Combine nectar and 1 tablespoon melted margarine in saucepan; bring to boil. Pour over cobbler. Bake an additional 10 minutes. Serve warm.
+
+Yield: 4 servings (serving size: 3/4 cup).
+
+NUT::
+CALORIES 228 (27% from fat) / PROTEIN 3.4g / FAT 6.8g (SAT 1.3g, MONO 2.9g, POLY 2.1g) / CARB 44 / FIBER 2.6g / CHOL 0mg / IRON 1.1mg / SODIUM 214mg / CALCIUM 56mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PEACH-ALMOND FIZZ
+ING::
+1 cup peeled, sliced fresh peaches
+1 cup peach low-fat frozen yogurt
+1 1/2 cups peach nectar
+1 tablespoon lemon juice
+1/2 teaspoon almond extract
+1 1/2 cups sparkling water, chilled
+Dir::
+Combine first 5 ingredients in container of an electric blender; cover and process until smooth. Pour 1/2 cup into each of 6 glasses; add 1/4 cup sparkling water to each glass.
+
+Yield: 6 servings.
+
+NUT::
+CALORIES 79 (9% from fat) / PROTEIN 1.3g / FAT 0.8g (SAT 0,5g, MONO 0g, POLY 0.2g) / CARB 17.8g / FIBER 0.5g / CHOL 3mg / IRON 0.1mg / SODIUM 27mg / CALCIUM 39mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PEACH ICE MILK
+ING::
+5 cups peeled, chopped, ripe fresh peaches (about 3 pounds), divided
+2/3 cup sugar
+1 tablespoon lemon juice
+2 cups 2% low-fat milk
+1 cup evaporated skimmed milk
+1/2 cup frozen egg substitute, thawed
+2 tablespoons honey
+1/8 teaspoon almond extract
+Fresh mint sprigs (optional)
+Dir::
+Mash 4 cups peaches in a large bowl. Add sugar and lemon juice, stirring well; let stand 30 minutes, stirring occasionally. Add low-fat milk and next 4 ingredients, and beat at medium speed of an electric mixer until well blended; stir in remaining 1 cup peaches. Pour into the freezer can of a 1-gallon hand-turned or electric freezer; freeze according to manufacturer's instructions. Spoon into a freezer-safe container; cover and freeze (ripen) at least 1 hour. Garnish with mint sprigs, if desired.
+
+Yield: 10 cups (serving size: 1/2 cup).
+
+NUT::
+CALORIES 77 (6% from fat) / PROTEIN 2.7g / FAT 0.5g (SAT 0.3g, MONO 0.2g, POLY 0g) / CARB 16.3g / FIBER 0.7g / CHOL 2mg / IRON 0.2mg / SODIUM 36mg / CALCIUM 71mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PASTA WITH ROASTED BELL PEPPERS AND BASIL
+ING::
+1 tablespoon olive oil
+2 cups chopped onion
+1/2 teaspoon fennel seeds, crushed
+2 cloves garlic, minced
+2 (14 1/2-ounce) cans no-salt-added whole tomatoes, undrained and chopped
+1 pound green bell peppers, roasted and peeled (about 2 large)
+1 pound red bell peppers, roasted and peeled (about 2 large)
+1 pound yellow bell peppers, roasted and peeled (about 2 large)
+1/2 teaspoon salt
+1/4 teaspoon freshly ground pepper
+6 1/2 cups cooked penne (short tubular pasta), cooked without salt or fat
+1/2 cup thinly sliced fresh basil
+1/2 cup grated fresh Parmesan cheese
+Dir::
+Heat oil in a large nonstick skillet over medium-low heat. Add onion, fennel seeds, and garlic; cover and cook 10 minutes or until tender, stirring occasionally. Add tomatoes, and bring to a boil. Reduce heat, and simmer, uncovered, 30 minutes, stirring occasionally.
+
+Cut bell peppers into julienne strips. Add bell pepper strips, salt, and pepper to tomato mixture; cook 3 minutes or until thoroughly heated. Combine tomato mixture, pasta, and basil in a large bowl; toss well. Sprinkle with cheese.
+
+Yield: 7 servings (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 308 (17% from fat) / PROTEIN 11.9g / FAT 5.7g (SAT 1.9g, MONO 2.2g, POLY 1.1g) / CARB 54g / FIBER 5.5g / CHOL 6mg / IRON 4.5mg / SODIUM 320mg / CALCIUM 172mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ROASTED RED BELL PEPPER GAZPACHO
+ING::
+2 teaspoons olive oil
+1 1/2 cups chopped onion
+2 1/2 pounds red bell peppers, roasted, peeled, and coarsely chopped
+1/2 teaspoon grated orange rind
+3 cups low-sodium chicken broth
+1 tablespoon minced jalapeño pepper
+2 tablespoons fresh lime juice
+1/4 teaspoon salt
+1/4 teaspoon white pepper
+2 cloves garlic, minced
+1 clove garlic, halved
+5 (1/2-inch-thick) diagonally cut slices French bread baguette
+Vegetable cooking spray
+Chopped fresh cilantro (optional)
+Dir::
+Heat oil in a large saucepan over medium-low heat. Add onion; cover and cook 15 minutes or until tender. Add bell pepper and orange rind; cover and cook an additional 5 minutes, stirring occasionally. Add chicken broth, and bring to a boil. Partially cover, reduce heat, and simmer 20 minutes.
+
+Spoon mixture into container of an electric blender; cover and process until smooth. Pour into a bowl, and stir in jalapeño pepper and next 4 ingredients. Cover and chill.
+
+Rub cut sides of garlic halves over one side of each bread slice; discard garlic. Coat same side of bread with cooking spray; place on a baking sheet. Bake at 350° for 10 minutes or until browned.
+
+Ladle soup into individual soup bowls; sprinkle with cilantro, if desired. Serve with toasted bread.
+
+Yield: 5 cups (serving size: 1 cup soup and 1 slice bread).
+
+NUT::
+CALORIES 127 (28% from fat) / PROTEIN 4.3g / FAT 4g (SAT 0.7g, MONO 1.8g, POLY 0.8g) / CARB 20.7g / FIBER 4.2g / CHOL 0mg / IRON 3.4mg / SODIUM 236mg / CALCIUM 30mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ROASTED BELL PEPPER-AND-OLIVE CROSTINI
+ING::
+1 pound red bell peppers, roasted and peeled (about 2 large)
+1 pound yellow bell peppers, roasted and peeled (about 2 large)
+1/3 cup sliced green olives
+1/3 cup sliced ripe olives
+1 tablespoon drained capers
+1 teaspoon olive oil
+1/8 teaspoon pepper
+32 (1/2-inch-thick) diagonally cut slices French bread baguette, toasted
+Dir::
+Cut bell peppers into 1- x 1/4-inch julienne strips. Combine bell pepper strips and next 5 ingredients in a bowl, and stir well. Cover and let stand at room temperature for 2 hours.
+
+Spoon about 1 tablespoon bell pepper mixture onto each bread slice.
+
+Yield: 32 appetizers (serving size: 4 appetizers).
+
+NUT::
+CALORIES 117 (19% from fat) / PROTEIN 3.3g / FAT 2.5g (SAT 0.5g, MONO 1.3g, POLY 0.7g) / CARB 20.4g / FIBER 2.4g / CHOL 1mg / IRON 2.1mg / SODIUM 340mg / CALCIUM 28mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MEXICAN RED BELL PEPPER SAUCE
+ING::
+1/2 cup diced onion
+1 tablespoon tomato paste
+1/2 teaspoon chili powder
+1/2 teaspoon olive oil
+1 large red bell pepper, roasted and peeled (about 10 ounces)
+1/3 cup canned low-sodium chicken broth
+1 tablespoon balsamic vinegar
+Dir::
+Combine onion, tomato paste, chili powder, and olive oil in a medium-size microwave-safe bowl. Cover with wax paper, and microwave at HIGH for 3 minutes, stirring after 1 1/2 minutes.
+
+Combine onion mixture, bell pepper, chicken broth, and vinegar in container of an electric blender; cover and process until smooth.
+
+Return onion-bell pepper mixture to bowl, and microwave at HIGH 1 minute or until thoroughly heated.
+
+Yield: 1 cup (serving size: 1 tablespoon).
+
+NUT::
+CALORIES 9 (30% from fat) / PROTEIN 0.3g / FAT 0.3g (SAT 0g, MONO 0.1g, POLY 0.1g) / CARB 1.5g / FIBER 0.4g / CHOL 0mg / IRON 0.2mg / SODIUM 3mg / CALCIUM 2mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MARINATED ROASTED BELL PEPPERS
+ING::
+1 1/2 pounds red bell peppers, roasted and peeled (about 3 large)
+1 1/2 pounds yellow bell peppers, roasted and peeled (about 3 large)
+1 pound green bell peppers, roasted and peeled (about 2 large)
+1/2 cup cider vinegar
+2 tablespoons minced fresh basil 1 tablespoon olive oil
+1/8 teaspoon salt
+Dir::
+Cut roasted bell peppers lengthwise into 1/2-inch strips; place in a bowl, and set aside.
+
+Combine vinegar and next 3 ingredients in a jar; cover jar tightly, and shake vigorously. Pour vinegar mixture over bell pepper strips, and stir well. Cover and marinate in refrigerator at least 8 hours, stirring occasionally.
+
+Use a slotted spoon to serve with grilled meat or poultry.
+
+Yield: 8 servings (serving size: 1/2 cup).
+
+NUT::
+CALORIES 57 (30% from fat) / PROTEIN 1.5g / FAT 1.9g (SAT 0.3g, MONO 0.8g, POLY 0.5g) / CARB 10.7g / FIBER 2.9g / CHOL 0mg / IRON 2.3mg / SODIUM 29mg / CALCIUM 12mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ROASTED RED BELL PEPPER SAUCE
+ING::
+2 cups low-sodium chicken broth
+1 1/2 teaspoons olive oil
+1 cup chopped onion
+3/4 cup carrot
+1/2 cup chopped celery
+1 1/2 pounds red bell peppers, roasted, peeled, and chopped (about 4 medium)
+1/2 teaspoon dried whole thyme
+1/4 teaspoon salt
+1/4 teaspoon freshly ground pepper
+1 (14 1/2-ounce) can no-salt-added whole tomatoes, undrained and chopped
+2 cloves garlic, minced
+Dir::
+Combine broth and oil in a large nonstick skillet, and bring to a simmer over medium heat. Add onion, carrot, and celery, and cook 10 minutes or until tender. Add bell pepper and remaining 5 ingredients; cover and cook 5 minutes. Reduce heat, and simmer, uncovered, 25 minutes or until thickened.
+
+Position knife blade in food processor bowl; add bell pepper mixture. Process 30 seconds or until smooth, scraping sides of processor bowl once.
+
+Serve sauce with tortilla chips, grilled fish, poultry, or pasta. Store the sauce in an airtight container in the refrigerator for up to 1 week.
+
+Yield: 3 1/3 cups (serving size: 1/3 cup).
+
+NUT::
+CALORIES 46 (25% from fat) / PROTEIN 1.6g / FAT 1.3g (SAT 0.2g, MONO 0.6g, POLY 0.3g) / CARB 8.1g / FIBER 1.6g / CHOL 0mg / IRON 1.3mg / SODIUM 90mg / CALCIUM 28mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ROASTED BELL PEPPER, OLIVE, AND FETA PIZZA
+N:: 
+Makes 2 (10-inch) pizzas.
+ING::
+1 teaspoon margarine
+1 cup slivered onion
+2 teaspoons sugar, divided
+2 packages dry yeast
+1 1/2 cups warm water (105° to 115°)
+4 1/4 cups bread flour, divided
+1 tablespoon olive oil
+1/2 teaspoon salt
+Vegetable cooking spray
+2 tablespoons cornmeal
+1 1/3 cups Roasted Red Bell Pepper Sauce
+1/2 cup sliced ripe olives
+2 cloves garlic, minced
+1 cup (4 ounces) crumbled feta cheese
+Dir::
+Melt margarine in a skillet over medium-high heat. Add onion and 1 teaspoon sugar; sauté 5 minutes or until golden, stirring frequently. Set aside.
+
+Dissolve remaining teaspoon sugar and yeast in 1 1/2 cups warm water in a large bowl; let stand 5 minutes. Stir in 3 3/4 cups flour, oil, and salt to form a soft dough.
+
+Turn dough out onto a lightly floured surface. Knead until smooth and elastic (about 8 minutes); add enough of remaining flour, 1 tablespoon at a time, to prevent dough from sticking to hands. Place dough in a bowl coated with cooking spray, turning to coat top. Cover and let rise in a warm place (85°), free from drafts, 1 hour or until doubled in bulk.
+
+Punch dough down, and divide in half. Roll each half of dough into a 10-inch circle on a lightly floured surface. Place dough on baking sheets coated with cooking spray and each sprinkled with 1 tablespoon cornmeal.
+
+Spread 2/3 cup Roasted Red Bell Pepper Sauce evenly over each prepared crust; top each with 1/3 cup sautéed onion, 1/4 cup olives, half of minced garlic, and 1/2 cup cheese. Bake at 450° for 15 minutes. Cut each pizza into 6 wedges.
+
+Yield: 12 servings (serving size: 1 wedge).
+
+NUT::
+CALORIES 256 (19% from fat) / PROTEIN 8.5g / FAT 5.4g (SAT 1.9g, MONO 2.1g, POLY 0.8g) / CARB 42.8g / FIBER 1.3g / CHOL 8.4mg / IRON 3.1mg / SODIUM 287mg / CALCIUM 72mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+CHICKEN CACCIATORE
+N:: 
+Spoon over hot cooked pasta, such as rotini, for an easy Italian supper.
+ING::
+1 pound skinned, boned chicken thighs, cut into 1-inch cubes
+1 cup sliced fresh mushrooms
+3/4 cup sliced zucchini
+1/2 cup chopped green bell pepper
+1 cup chopped onion
+1 teaspoon olive oil
+1 large clove garlic, minced
+2 (8-ounce) cans no-salt-added tomato sauce
+1/4 cup Burgundy or other dry red wine
+1 tablespoon chopped fresh oregano or 1 teaspoon dried whole oregano
+1/2 teaspoon salt
+1 1/2 teaspoons chopped fresh thyme or 1 teaspoon dried whole thyme
+1/4 teaspoon pepper
+Dir::
+Fresh oregano sprigs (optional) Fresh thyme sprigs (optional)
+
+Place chicken in a 2-quart casserole; cover with wax paper. Microwave at HIGH 5 to 6 minutes; stir after 4 minutes. Drain and set aside. Wipe dish with paper towel.
+
+Add mushrooms and next 5 ingredients to dish; toss well. Microwave, uncovered, at HIGH 4 minutes, stirring after 2 minutes. Add tomato sauce and next 5 ingredients; stir well. Microwave at HIGH 8 to 12 minutes or until slightly thickened, stirring every 4 minutes. Return chicken to dish; stir well. Microwave at HIGH 6 minutes or until chicken is thoroughly heated, stirring after 3 minutes. Let stand 3 minutes. Garnish with fresh oregano and thyme, if desired.
+
+Yield: 4 servings (serving size: 1 cup chicken mixture).
+
+NUT::
+CALORIES 252 (38% from fat) / PROTEIN 24.4g / FAT 10.7g (SAT 2.8g, MONO 4.4g, POLY 2.3g) / CARB 14.4g / FIBER 1.2g / CHOL 81mg / IRON 2.1mg / SODIUM 397mg / CALCIUM 35mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+HAM STEAK WITH PINEAPPLE SAUCE
+N:: 
+Serve sweet potato wedges, steamed zucchini, and corn muffins to complement this pineapple flavored sauce.
+ING::
+1 (1-pound) slice 33% -less-sodium cooked ham (about 1/2 inch thick)
+2 teaspoons brown sugar
+1/8 teaspoon ground ginger
+1 tablespoon lemon juice
+1 teaspoon Dijon mustard
+1/2 cup unsweetened pineapple juice
+1 teaspoon cornstarch
+Dir::
+Trim fat from ham. Lightly score ham slice in a diamond pattern using a sharp knife. Place in an 11- x 7- x 2-inch baking dish. Combine next 4 ingredients in a bowl, stirring well with a wire whisk; spread mixture over ham. Cover with heavy-duty plastic wrap, and vent. Microwave at HIGH 4 minutes or until thoroughly heated. Remove ham slice from dish, and cut into 4 equal pieces; set aside, and keep warm.
+
+Combine pineapple juice and cornstarch in a 1-cup glass measure, and stir well. Microwave at HIGH 1 1/2 minutes or until thickened and bubbly; stir well. Serve pineapple sauce with ham.
+
+Yield: 4 servings (serving size: 3 ounces ham and 2 tablespoons sauce).
+
+NUT::
+CALORIES 169 (35% from fat) / PROTEIN 18.8g / FAT 6.6g (SAT 2.5g, MONO 2g, POLY 0.4g) / CARB 7.2g / FIBER 0g / CHOL 48mg / IRON 1.2mg / SODIUM 758mg / CALCIUM 14mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+POLYNESIAN SHRIMP
+N:: 
+Served on a bed of steamed rice, this traditional stir fry is made entirely in the microwave.
+ING::
+1 pound medium-size fresh unpeeled shrimp
+1 cup julienne-cut green bell pepper
+1 cup julienne-cut red bell pepper
+1 cup thinly sliced onion, separated into rings
+1 (20-ounce) can unsweetened pineapple chunks, undrained
+1/4 cup firmly packed brown sugar
+1 tablespoon plus 2 teaspoons cornstarch
+1 teaspoon peeled, grated gingerroot
+1/4 teaspoon salt
+1/4 cup cider vinegar
+1 tablespoon low-sodium soy sauce
+1/4 cup slivered almonds, toasted
+Dir::
+Peel and devein shrimp; set aside.
+
+Combine bell peppers and onion in a 1-quart glass measure; cover with wax paper. Microwave at HIGH 2 to 3 minutes, stirring after every minute; set aside.
+
+Drain pineapple, reserving 2/3 cup juice; set both aside. Combine brown sugar and next 3 ingredients in a 3-quart casserole; stir well. Gradually add reserved 2/3 cup pineapple juice, vinegar, and soy sauce, stirring with a wire whisk until blended. Microwave at HIGH 6 to 7 minutes or until thickened and bubbly, stirring every 2 minutes.
+
+Add shrimp, bell pepper mixture, and pineapple; cover with casserole lid. Microwave at HIGH 6 to 7 minutes or until shrimp is done, stirring after 3 minutes. Let stand, uncovered, 3 minutes; top with toasted almonds.
+
+Yield: 4 servings (serving size: 1 1/2 cups shrimp mixture and 1 tablespoon almonds).
+
+Note: To toast almonds in the microwave, spread slivered almonds in the bottom of a 1-quart casserole coated with cooking spray. Microwave at HIGH 6 to 7 minutes, stirring every 30 seconds.
+
+NUT::
+CALORIES 293 (15% from fat) / PROTEIN 19.4g / FAT 4.8g (SAT 0.6g, MONO 2.3g, POLY 1.3g) / CARB 43.6g / FIBER 1.9g / CHOL 129mg / IRON 3.8mg / SODIUM 402mg / CALCIUM 99mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SWEET-AND-SOUR PORK
+N:: 
+Use an instant-read meat thermometer or a temperature probe to tell you exactly when the pork is ready, so you won't undercook or overcook it.
+ING::
+1 pound pork tenderloin
+1 tablespoon dry sherry
+1/2 teaspoon peeled, minced gingerroot
+1/2 teaspoon garlic powder
+1 (8-ounce) can unsweetened pineapple chunks, undrained
+1 cup (1/4-inch) diagonally sliced carrot
+1 (8-ounce) can sliced water chestnuts, drained
+1 cup (1-inch) sliced fresh asparagus
+1 tablespoon cornstarch
+1 tablespoon brown sugar
+1/4 cup plus 2 tablespoons water
+2 tablespoons low-sodium soy sauce
+1 tablespoon cider vinegar 
+Dash of hot sauce
+Dir::
+Trim fat from pork; cut into 1-inch pieces. Combine pork and next 3 ingredients in a shallow dish. Cover and marinate in refrigerator 30 minutes.
+
+Drain pineapple chunks, reserving 1/4 cup plus 2 tablespoons juice; set aside.
+
+Combine carrot, water chestnuts, and 2 tablespoons reserved pineapple juice in a 10- x 10- x 2-inch casserole. Cover with heavy-duty plastic wrap and vent. Microwave at HIGH 2 to 2 1/2 minutes. Add asparagus slices, and stir well. Microwave at HIGH 3 minutes. Add pineapple chunks, and toss well.
+
+Arrange pork mixture on top of carrot mixture around outer edges of dish. Cover and microwave at HIGH 6 to 9 minutes or until pork registers 160° on an instant-read meat thermometer, stirring every 3 minutes. Let stand 1 minute. Drain.
+
+Combine remaining 1/4 cup pineapple juice, cornstarch, and next 5 ingredients in a 2-cup glass measure; stir well. Microwave at HIGH 3 to 4 minutes or until thickened, stirring after 2 minutes. Add to pork mixture; stir well.
+
+Yield: 4 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 238 (17% from fat) / PROTEIN 27g / FAT 4.4g (SAT 1.5g, MONO 1.9g, POLY 0.6g) / CARB 22.3g / FIBER 1.9g / CHOL 79mg / IRON 2.5mg / SODIUM 320mg / CALCIUM 40mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BLACK BEAN ENCHILADAS
+ING::
+1 1/2 cups chopped onion
+1 clove garlic, minced
+Vegetable cooking spray
+1 (15-ounce) can black beans, drained
+1 1/2 cups chopped unpeeled tomato
+2 tablespoons chopped fresh cilantro
+2 teaspoons lime juice
+1 teaspoon ground cumin
+1/8 teaspoon salt
+2 (4-ounce) cans chopped green chiles, drained
+10 (6-inch) corn tortillas
+1 1/4 cups (5 ounces) shredded reduced-fat Monterey Jack cheese
+Dir::
+Combine onion and garlic in a 2-quart casserole coated with cooking spray. Microwave at HIGH 5 to 6 minutes or until tender, stirring every 2 minutes.
+
+Mash beans. Add beans and next 6 ingredients to onion mixture; stir well. Microwave at HIGH 20 to 23 minutes or until thickened, stirring every 4 minutes. Let stand 3 minutes.
+
+Wrap tortillas in damp paper towels; microwave at HIGH 45 seconds or until softened. Spoon 1/4 cup bean mixture down center of each tortilla; top each with 2 tablespoons cheese, and roll up. Serve immediately.
+
+Yield: 5 servings (serving size: 2 enchiladas).
+
+NUT::
+CALORIES 333 (23% from fat) / PROTEIN 18.6g / FAT 8.4g (SAT 3.5g, MONO 2.6g, POLY 1.5g) / CARB 48g / FIBER 7.2g / CHOL 19mg / IRON 4.8mg / SODIUM 545mg / CALCIUM 347mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+TURKEY RATATOUILLE
+N:: 
+Ladle hearty portions of this turkey-vegetable stew over brown rice for a one-dish meal.
+ING::
+1 pound turkey cutlets, cut into 1-inch pieces
+2 cups peeled, diced eggplant (about 3/4 pound)
+1/2 cup thinly sliced onion, separated into rings
+1 large clove garlic, minced
+2 cups diced unpeeled plum tomato (about 1/2 pound)
+1 cup sliced zucchini
+1/2 cup diced green bell pepper
+1/2 cup coarsely shredded carrot
+1 teaspoon dried whole basil
+1 teaspoon dried parsley flakes
+3/4 teaspoon salt
+1/2 teaspoon dried whole thyme
+1/4 teaspoon pepper
+1/4 cup tomato paste
+1 (8-ounce) can no-salt-added tomato sauce
+Dir::
+Combine first 4 ingredients in a 3-quart casserole; cover with heavy-duty plastic wrap and vent. Microwave at HIGH 4 to 6 minutes, stirring after 3 minutes.
+
+Add tomato and next 8 ingredients, and toss gently. Microwave at HIGH 6 to 8 minutes or until turkey is done and zucchini is crisp-tender, stirring after 4 minutes. Stir in tomato paste and tomato sauce. Microwave, uncovered, at HIGH 3 minutes; stir well.
+
+Yield: 4 servings (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 216 (10% from fat) / PROTEIN 30g / FAT 2.4g (SAT 0.7g, MONO 0.4g, POLY 0.7g) / CARB 19.4g / FIBER 4.6g / CHOL 68mg / IRON 3.3mg / SODIUM 551mg / CALCIUM 66mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MENU 1
+ING::
+Roasted Chicken And Vegetables
+Tomatoes Provençale
+Raspberry Brûlêe
+NUT::
+About 701 calories per menu serving
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MENU 2
+ING::
+Cassoulet
+Field Salad With Apples
+Fresh Cherry Clafouti
+NUT::
+About 665 calories per menu serving
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+TOMATOES PROVENCALE
+N:: 
+The cuisine of Provence, a region in southeastern France, features garlic, tomatoes, and olive oil.
+ING::
+2 tablespoons thinly sliced green onions
+1 teaspoon sugar
+2 teaspoons water 1 teaspoon olive oil
+1 teaspoon white wine vinegar
+1/8 teaspoon salt
+1/8 teaspoon pepper
+1 clove garlic, minced
+2 medium-size ripe unpeeled tomatoes, cut into 1/4-inch-thick slices (about 3/4 pound)
+Dir::
+Combine thinly sliced green onions and next 7 ingredients; stir well. Divide tomato slices equally between each of 2 salad plates; spoon about 2 tablespoons green onion mixture evenly over tomatoes.
+
+Yield: 2 servings.
+
+NUT::
+CALORIES 59 (41% from fat) / PROTEIN 1.3g / FAT 2.7g (SAT 0.4g, MONO 1.7g, POLY 0.4g) / CARB 8.8g / FIBER 1.8g / CHOL 0mg / IRON 0.7mg / SODIUM 159mg / CALCIUM 15mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ROASTED CHICKEN AND VEGETABLES
+N:: 
+Spit-roasted chicken served with fries is found on virtually every bistro menu. Our rendition—all done in one skillet—uses seasoned
+skinless breasts roasted with potatoes, fennel, and olives.
+ING::
+3/4 cup coarsely chopped red bell pepper
+1/2 cup slivered fennel bulb
+2 tablespoons chopped ripe olives
+2 teaspoons chopped fresh rosemary
+1 1/2 teaspoons olive oil
+12 small unpeeled round red potatoes, quartered
+3 large shallots, peeled and halved lengthwise
+2 cloves garlic, crushed
+2 teaspoons minced fresh sage
+1/2 teaspoon coarsely ground pepper
+1/4 teaspoon salt
+1/4 teaspoon paprika
+2 (4-ounce) skinned, boned chicken breast halves
+Vegetable cooking spray
+1 1/2 teaspoons olive oil
+2/3 cup low-sodium chicken broth Fresh rosemary sprigs (optional)
+Dir::
+Combine first 8 ingredients in a bowl; toss well, and set aside.
+
+Combine sage and next 3 ingredients; rub over both sides of chicken breasts.
+
+Coat a large ovenproof skillet with cooking spray; add 1 1/2 teaspoons oil, and place over medium-high heat until hot. Add chicken breasts; cook 1 minute on each side or until browned. Remove chicken breasts from skillet, and set aside.
+
+Remove skillet from heat. Add vegetable mixture to skillet; stir well. Return chicken breasts to skillet, nestling them into vegetables; bake, uncovered, at 450° for 20 minutes. Remove chicken breasts from skillet; stir vegetables, scraping bottom of skillet to loosen browned bits. Return chicken breasts to skillet; reduce oven temperature to 375°, and bake an additional 15 minutes.
+
+Place 1 chicken breast half and 1 1/3 cups vegetable mixture on each of 2 serving plates. Add chicken broth to skillet; bring to a boil over high heat, and cook 1 minute, scraping bottom of skillet to loosen browned bits. Spoon 3 tablespoons sauce over each serving. Garnish with rosemary, if desired.
+
+Yield: 2 servings.
+
+NUT::
+CALORIES 403 (24% from fat) / PROTEIN 33.6g / FAT 10.6g (SAT 1.6g, MONO 6g, POLY 1.3g) / CARB 45g / FIBER 5g / CHOL 66mg / IRON 6.1mg / SODIUM 490mg / CALCIUM 107mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+RASPBERRY BRULEE
+N:: 
+Refreshing raspberries hide underneath this lightened version of rich crème brûlée (krehm broo-LAY), a classic bistro dessert.
+ING::
+2/3 cup fresh raspberries
+3 tablespoons sugar
+1 tablespoon plus 1 teaspoon cornstarch
+1 cup 1% low-fat milk
+1 egg, lightly beaten
+1 tablespoon low-fat sour cream
+1/2 teaspoon vanilla extract
+1 tablespoon plus 1 teaspoon brown sugar
+Dir::
+Place 1/3 cup raspberries into each of 2 (5-ounce) ramekins or custard cups, and set aside.
+
+Combine sugar and cornstarch in a saucepan. Gradually add milk, stirring with a wire whisk until well blended. Bring to a boil over medium heat, and cook 1 minute, stirring constantly.
+
+Gradually stir one-fourth of hot milk mixture into beaten egg; add to remaining milk mixture, stirring constantly. Cook 2 minutes or until thickened and bubbly, stirring constantly. Add sour cream and vanilla; stir well. Pour mixture evenly over raspberries, and chill at least
+4 hours.
+
+Sprinkle each serving with 2 teaspoons brown sugar. Place ramekins on a baking sheet, and broil 3 inches from heat 1 minute or until brown sugar melts. Serve immediately.
+
+Yield: 2 servings.
+
+NUT::
+CALORIES 239 (19% from fat) / PROTEIN 7.8g / FAT 5g (SAT 2.2g, MONO 1.7g, POLY 0.6g) / CARB 40.9g / FIBER 3.1g / CHOL 118mg / IRON 0.9mg / SODIUM 99mg / CALCIUM 185mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+FRESH CHERRY CLAFOUTI
+ING::
+Vegetable cooking spray
+1/2 cup pitted fresh sweet cherries
+2/3 cup nonfat buttermilk
+3 tablespoons sugar
+3 tablespoons all-purpose flour
+2 teaspoons brandy
+1 egg, lightly beaten
+1 teaspoon powdered sugar
+Dir::
+Coat 2 (5-ounce) ramekins or custard cups with cooking spray. Place 1/4 cup cherries into each ramekin; set aside. Combine buttermilk and next 4 ingredients, stirring with a wire whisk until well blended. Pour evenly over cherries.
+
+Place ramekins on a baking sheet. Bake at 375° for 35 minutes or until puffed and set.
+
+Sprinkle the top of each with 1/2 teaspoon powdered sugar.
+
+Yield: 2 servings.
+
+NUT::
+CALORIES 227 (14% from fat) / PROTEIN 7.8g / FAT 3.6g (SAT 1.1g, MONO 1.1g, POLY 0.5g) / CARB 39.2g / FIBER 1.1g / CHOL 113mg / IRON 1.1mg / SODIUM 118mg / CALCIUM 115mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+CASSOULET
+N:: 
+What would a bistro menu be without cassoulet (ka-soo-LAY) ? This upscale stew gained its name from the earthenware casserole it was usually cooked in. Our version includes the traditional navy beans, lamb, and tomatoes, but it doesn't take the traditional three days to make!
+ING::
+1/4 pound lean boneless leg of lamb
+Vegetable cooking spray
+2/3 cup thinly sliced carrot
+1/2 cup thinly sliced leek
+1/2 cup chopped onion
+2 slices turkey bacon, chopped
+2 cloves garlic, minced
+2/3 cup drained canned navy beans
+1/2 cup Burgundy or other dry red wine
+1/4 teaspoon dried whole thyme
+1/8 teaspoon pepper
+1 bay leaf
+1 (14-ounce) can no-salt-added whole tomatoes, undrained and chopped
+1/4 cup fine, dry breadcrumbs
+2 tablespoons chopped fresh parsley
+1 clove garlic, minced
+Dir::
+Trim fat from lamb; cut lamb into 3/4-inch cubes, and set aside.
+
+Coat a large nonstick skillet with cooking spray, and place over medium heat until hot. Add carrot and next 4 ingredients; cover and cook 5 minutes. Add lamb, and cook, uncovered, 3 minutes or until browned, stirring occasionally. Add beans and next 5 ingredients; stir well. Bring to a boil over medium-high heat, and cook, uncovered, 8 minutes, stirring occasionally. Discard bay leaf.
+
+Combine breadcrumbs, parsley, and garlic, and set aside.
+
+Divide the lamb mixture between 2 (2-cup) individual casserole dishes coated with cooking spray, and top each casserole with 3 tablespoons breadcrumb mixture. Bake at 350° for 15 minutes.
+
+Yield: 2 servings (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 385 (18% from fat) / PROTEIN 25.3g / FAT 7.7g (SAT 2g, MONO 3g, POLY 1.6g) / CARB 44.9g / FIBER 5.3g / CHOL 54mg / IRON 5.6mg / SODIUM 699mg / CALCIUM 187mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+FIELD SALAD WITH APPLES
+ING::
+1/2 medium unpeeled Golden Delicious apple, cut into 2 wedges
+1 cup loosely packed trimmed arugula
+1 cup loosely packed torn curly endive
+1 cup loosely packed torn curly leaf lettuce
+Dash of salt
+1 teaspoon extra-virgin olive oil
+1 teaspoon fresh lemon juice
+Dir::
+Using a vegetable peeler, cut apple wedges into very thin slices. Combine apple slices and salad greens in a large bowl, and toss gently; sprinkle with salt.
+
+Combine oil and lemon juice in a small bowl, and stir with a wire whisk. Pour dressing over salad green mixture, and toss gently.
+
+Yield: 2 servings (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 53 (42% from fat) / PROTEIN 1g / FAT 2.5g (SAT 0.4g, MONO 1.7g, POLY 0.3g) / CARB 7.8g / FIBER 1.7g / CHOL 0mg / IRON 0.6mg / SODIUM 86mg / CALCIUM 29mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SPICY LAMB-AND-BLACK BEAN CHILI
+N:: 
+Preparation time: 2 minutes Cooking time: 25 minutes
+ING::
+Vegetable cooking spray
+1 pound lean ground lamb
+1/2 cup frozen chopped onion
+1 1/2 tablespoons chili powder
+2 teaspoons ground cumin
+1/4 teaspoon salt
+1/4 to 1/2 teaspoon ground red pepper
+3 (8-ounce) cans no-salt-added tomato sauce
+2 (15-ounce) cans black beans, drained
+1 (14 1/2-ounce) can no-salt-added whole tomatoes, undrained and chopped
+1 (13 3/4-ounce) can no-salt-added chicken broth
+2 (4-ounce) cans chopped green chiles, undrained
+Dir::
+Coat a large Dutch oven with cooking spray; place over medium-high heat until hot. Add lamb and onion, and cook until browned, stirring to crumble. Drain well; wipe drippings from pan with a paper towel. Return lamb mixture to pan.
+
+Add chili powder and remaining ingredients, and bring to a boil. Reduce heat, and simmer, uncovered, 15 minutes, stirring occasionally.
+
+Yield: 10 1/2 cups (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 278 (19% from fat) / PROTEIN 23.5g / FAT 5.8g (SAT 1.9g, MONO 2.2g, POLY 0.7g) / CARB 32.9g / FIBER 4.9g / CHOL 46mg / IRON 3.5mg / SODIUM 421mg / CALCIUM 64mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+FRENCH BREAD CHICKEN PIZZA
+N:: 
+Preparation time: 10 minutes Cooking time: 8 minutes
+ING::
+1/2 pound freshly ground raw chicken thighs
+1/4 cup chopped fresh cilantro
+1/4 teaspoon ground red pepper
+1 (1-pound) loaf French bread (about 16 inches long)
+1/2 cup no-salt-added tomato sauce
+2 tablespoons commercial pesto sauce
+4 plum tomatoes, thinly sliced (about 1/2 pound)
+1/2 cup (2 ounces) shredded part-skim mozzarella cheese
+1/2 cup (2 ounces) shredded fontina or provolone cheese
+Dir::
+Cook chicken in a medium-size nonstick skillet over medium heat until browned, stirring to crumble. Drain and pat dry with paper towels. Combine chicken, cilantro, and red pepper in a bowl; set aside.
+
+Slice bread in half lengthwise; place bread, cut side up, on a baking sheet. Broil 5 1/2 inches from heat 1 minute or until lightly browned. Remove from oven, and set aside.
+
+Combine tomato sauce and pesto sauce; stir well, and spread evenly over cut side of bread halves. Top with tomato slices and chicken mixture. Sprinkle with cheeses. Broil 5 1/2 inches from heat 2 minutes or until cheese melts. Cut each bread half into 4 pieces.
+
+Yield: 8 servings (serving size: 1 [4-inch-long] piece).
+
+NUT::
+CALORIES 287 (27% from fat) / PROTEIN 15.5g / FAT 8.6g (SAT 3.4g, MONO 3.5g, POLY 1.5g) / CARB 36.1g / FIBER 1.9g / CHOL 34mg / IRON 2.3mg / SODIUM 482mg / CALCIUM 145mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SPEEDY TOSTADAS
+N:: 
+Preparation time: 4 minutes Cooking time: 12 minutes
+ING::
+4 (6-inch) corn tortillas
+1/2 pound lean ground round
+1/2 cup drained canned red kidney beans
+1/3 cup frozen whole kernel corn
+1/4 cup commercial mild taco sauce
+2 tablespoons sliced ripe olives
+2 cups shredded iceberg lettuce
+1/2 cup (2 ounces) shredded reduced-fat sharp Cheddar cheese
+1/2 cup plain nonfat yogurt
+4 (1/4-inch-thick) slices plum tomato
+Dir::
+Arrange tortillas in a single layer on a baking sheet. Bake at 350° for 6 minutes. Turn tortillas over, and bake an additional 6 minutes or until crisp. Cool on a wire rack.
+
+Cook ground round in a medium-size nonstick skillet over medium heat until browned, stirring to crumble. Drain well, and wipe drippings from skillet with a paper towel. Return meat to skillet, and add kidney beans and next 3 ingredients. Cook over medium heat 2 minutes or until thoroughly heated.
+
+To serve, top each tortilla with 1/2 cup shredded lettuce, 1/2 cup meat mixture, 2 tablespoons shredded cheese, and 2 tablespoons yogurt. Garnish each with a tomato slice.
+
+Yield: 4 servings.
+
+NUT::
+CALORIES 300 (25% from fat) / PROTEIN 23.8g / FAT 8.2g (SAT 3.1g, MONO 2.9g, POLY 1g) / CARB 33g / FIBER 3.7g / CHOL 45mg / IRON 4mg / SODIUM 398mg / CALCIUM 246mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+INDIVIDUAL MEAT LOAVES WITH CHUTNEY SAUCE
+
+Preparation time: 16 minutes Cooking time: 11 minutes
+N:: 
+Tip: Frozen spinach thaws quickly in the microwave.
+ING::
+1 (10-ounce) package frozen chopped spinach, unthawed
+1/2 pound lean ground pork
+1/2 pound lean ground veal
+1/2 teaspoon dried Italian seasoning
+1/4 teaspoon salt
+1/8 teaspoon pepper
+1 egg white
+Vegetable cooking spray
+1/4 cup plus 2 tablespoons hot mango chutney
+2 tablespoons plain nonfat yogurt
+Dir::
+Remove spinach from package. Place in a 1-quart glass measure; cover with wax paper. Microwave at HIGH 6 to 7 minutes, separating spinach with a fork after 4 minutes. Place spinach on several layers of paper towels; cover with additional paper towels, and squeeze until barely moist. Set aside 1/2 cup spinach; reserve remaining spinach for another use.
+
+Combine reserved 1/2 cup spinach, ground pork, and next 5 ingredients in a bowl; stir well. Divide mixture into 4 equal portions, shaping each into a 1/2-inch-thick patty.
+
+Place patties on a broiler rack coated with Vegetable cooking spray, and place rack on a broiler pan. Broil patties 3 inches from heat for 5 minutes on each side or until done; set aside, and keep warm. Combine hot mango chutney and yogurt, and stir well. Serve sauce with patties.
+
+Yield: 4 servings (serving size: 1 patty and 2 tablespoons sauce).
+
+NUT::
+CALORIES 264 (30% from fat) / PROTEIN 27.3g / FAT 8.9g (SAT 2.8g, MONO 3.7g, POLY 1g) / CARB 17.9g / FIBER 0.8g / CHOL 89mg / IRON 1.9mg / SODIUM 304mg / CALCIUM 77mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+CHICKEN VERMICELLI
+N:: 
+Preparation time: 5 minutes Cooking time: 14 minutes
+ING::
+8 ounces vermicelli, uncooked
+Vegetable cooking spray
+1 pound freshly ground raw chicken thighs
+2 cups presliced fresh mushrooms
+1 cup chopped onion
+1 teaspoon dried Italian seasoning
+1 teaspoon coarsely ground pepper
+1/4 teaspoon garlic powder
+1 (25 1/2-ounce) jar commercial nonfat chunky Italian-style
+vegetable pasta sauce
+Dir::
+Cook pasta according to package directions, omitting salt and fat. Drain well, and set aside 5 cups; discard any remaining pasta.
+
+Coat a large nonstick skillet with cooking spray, and place over medium-high heat until hot. Add chicken, mushrooms, and onion, and cook until chicken is browned, stirring to crumble. Drain well, and wipe drippings from skillet with a paper towel.
+
+Return chicken mixture to skillet; stir in Italian seasoning and next 3 ingredients. Cover and cook over medium heat 8 minutes or until thoroughly heated. Serve chicken mixture over pasta.
+
+Yield: 5 servings (serving size: 1 cup chicken mixture and 1 cup pasta).
+
+NUT::
+CALORIES 373 (18% from fat) / PROTEIN 26.4g / FAT 7.6g (SAT 2g, MONO 2.5g, POLY 1.9g) / CARB 48.2g / FIBER 4g / CHOL 63mg / IRON 5.3mg / SODIUM 517mg / CALCIUM 57mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+Recipe developer Jane Ingrassia Reinsel of Fairfax, Virginia, is a frequent contributor to Cooking Light magazine and annual cookbooks.
+
+TOASTED SHRIMP APPETIZERS
+N:: 
+A small amount of shrimp goes a long way in this heart-healthy recipe from Dolores Austin, of Park Ridge, Illinois.
+ING::
+1/2 pound medium-size fresh unpeeled shrimp
+1 clove garlic, peeled
+2 green onions, cut into 1-inch pieces
+1 1/2 teaspoons cornstarch
+1 1/2 teaspoons dry cocktail sherry
+1 egg white
+1/2 cup canned water chestnuts
+24 slices party-style rye bread
+1/4 cup commercial sweet and sour sauce
+Dir::
+Peel and devein shrimp, and set aside.
+
+Position knife blade in food processor bowl. With processor running, drop garlic through food chute, and process until minced. Add green onions, and process until chopped. Add cornstarch, sherry, and egg white; process until well blended. Add shrimp and water chestnuts, and pulse until finely chopped.
+
+Spread about 1 tablespoon shrimp mixture over each bread slice. Place on a baking sheet. Bake at 375° for 10 minutes or until shrimp mixture is done. Serve warm with sweet and sour sauce.
+
+Yield: 2 dozen appetizers (serving size: 1 appetizer and 1/2 teaspoon sauce).
+
+NUT::
+CALORIES 76 (4% from fat) / PROTEIN 3.9g / FAT 0.4g (SAT 0.1g, MONO 0g, POLY 0.2g) / CARB 14.5g / FIBER 1.1g / CHOL 11mg / IRON 0.7mg / SODIUM 161mg / CALCIUM 24mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+FRUIT PARFAITS
+N:: 
+Kathy Woods, of Dallas, teams these mixed fruit parfaits with muffins for breakfast. She also suggests using iced tea spoons for easier eating.
+ING::
+1/2 cup toasted wheat germ
+1 1/2 teaspoons ground cinnamon
+1 1/2 cups sliced ripe banana
+1 (8-ounce) carton strawberrybanana low-fat yogurt
+1 1/3 cups fresh blueberries
+1 (16-ounce) can mandarin oranges in light syrup, drained
+1 cup peeled, sliced kiwifruit
+Dir::
+Combine wheat germ and cinnamon; stir well, and set aside.
+
+Spoon banana evenly into 4 parfait glasses. Layer ingredients for each parfait in the following order: about 2 tablespoons yogurt, 1 tablespoon wheat germ mixture, 1/3 cup blueberries, 1/4 cup oranges, about 2 tablespoons yogurt, and 1 tablespoon wheat germ mixture. Arrange 1/4 cup kiwifruit over wheat germ mixture in each parfait.
+
+Yield: 4 servings.
+
+NUT::
+CALORIES 269 (9% from fat) / PROTEIN 7.1g / FAT 2.8g (SAT 0.8g, MONO 0.5g, POLY 1.1g) / CARB 57.4g / FIBER 7.8g / CHOL 2mg / IRON 1.9mg / SODIUM 40mg / CALCIUM 113mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+FRUIT PARFAITS
+N:: 
+Kathy Woods, of Dallas, teams these mixed fruit parfaits with muffins for breakfast. She also suggests using iced tea spoons for easier eating.
+ING::
+1/2 cup toasted wheat germ
+1 1/2 teaspoons ground cinnamon
+1 1/2 cups sliced ripe banana
+1 (8-ounce) carton strawberrybanana low-fat yogurt
+1 1/3 cups fresh blueberries
+1 (16-ounce) can mandarin oranges in light syrup, drained
+1 cup peeled, sliced kiwifruit
+Dir::
+Combine wheat germ and cinnamon; stir well, and set aside.
+
+Spoon banana evenly into 4 parfait glasses. Layer ingredients for each parfait in the following order: about 2 tablespoons yogurt, 1 tablespoon wheat germ mixture, 1/3 cup blueberries, 1/4 cup oranges, about 2 tablespoons yogurt, and 1 tablespoon wheat germ mixture. Arrange 1/4 cup kiwifruit over wheat germ mixture in each parfait.
+
+Yield: 4 servings.
+
+NUT::
+CALORIES 269 (9% from fat) / PROTEIN 7.1g / FAT 2.8g (SAT 0.8g, MONO 0.5g, POLY 1.1g) / CARB 57.4g / FIBER 7.8g / CHOL 2mg / IRON 1.9mg / SODIUM 40mg / CALCIUM 113mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+FORSAKEN ACRES DIP
+N:: 
+Here's a dill flavored dip from Helen Dawson, of Claiborne, Maryland, that does double-duty as a salad dressing.
+ING::
+2 cups plain low-fat yogurt
+3 tablespoons minced fresh onion
+3 tablespoons chopped fresh parsley
+2 teaspoons dried whole dillweed
+1 teaspoon Beau Monde seasoning
+1/2 teaspoon lemon juice
+Dir::
+Combine all ingredients, and stir well. Cover and chill. Serve with raw vegetables.
+
+Yield: 2 cups (serving size: 1 tablespoon).
+
+NUT::
+CALORIES 10 (18% from fat) / PROTEIN 0.8g / FAT 0.2g (SAT 0.1g, MONO 0.1g, POLY 0g) / CARB 1.2g / FIBER 0g / CHOL 1mg / IRON 0.1mg / SODIUM 75mg / CALCIUM 28mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BANANA FANA SAUCE
+N:: 
+This creamy sauce from Kaye Kreyser, of Norfolk, Virginia, is loaded with calcium and potassium.
+
+3/4 cup sliced ripe banana
+1 teaspoon lemon juice
+1 teaspoon honey
+Dash of ground nutmeg
+1 (8-ounce) carton vanilla low-fat yogurt
+Dir::
+Combine all ingredients in container of an electric blender; cover and process until smooth. Cover and chill. Serve with fresh strawberries and pineapple chunks.
+
+Yield: 1 1/2 cups (serving size: 1/4 cup).
+
+NUT::
+CALORIES 53 (10% from fat) / PROTEIN 2g / FAT 0.6g (SAT 0.3g, MONO 0.1g, POLY 0g) / CARB 10.6g / FIBER 0.6g / CHOL 1.8mg / IRON 0.1mg / SODIUM 25mg / CALCIUM 66mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MOCK CALZONES
+N:: 
+Registered dietitian Joan Locker, of New York City, found a way to make vegetarian calzones with pita pocket bread.
+ING::
+Vegetable cooking spray
+1/4 cup plus 2 tablespoons finely chopped red bell pepper
+1/4 cup plus 2 tablespoons finely chopped carrot
+2 cloves garlic, minced
+3 tablespoons water
+3/4 teaspoon dried whole basil
+3/4 teaspoon dried whole oregano
+1/8 teaspoon pepper
+1 (8-ounce) can no-salt-added tomato sauce
+1 1/4 cups sliced fresh mushrooms
+1 cup chopped onion
+2 cups small fresh broccoli flowerets
+1 cup (4 ounces) shredded part-skim mozzarella cheese
+3/4 cup lite ricotta cheese
+2 tablespoons grated Parmesan cheese
+2 egg whites
+2 (6-inch) whole wheat pita bread rounds, cut in half
+Dir::
+Coat a small saucepan with cooking spray; place over medium-high heat until hot. Add bell pepper, carrot, and garlic; sauté 3 minutes or until tender. Add water and next 4 ingredients; bring to a boil. Reduce heat, and simmer, uncovered, 5 minutes. Set sauce aside, and keep warm.
+
+Coat a medium skillet with cooking spray; place over medium-high heat until hot. Add mushrooms and onion; sauté 3 minutes. Add broccoli; cover and cook 3 minutes or until crisp-tender. Set aside.
+
+Combine mozzarella cheese and next 3 ingredients; stir well. Add mushroom mixture; stir well. Divide evenly between pita halves; arrange on a baking sheet. Bake at 375° for 10 minutes. Serve with sauce.
+
+Yield: 4 servings (serving size: 1 pita half and 1/4 cup plus 1 tablespoon sauce).
+
+NUT::
+CALORIES 321 (28% from fat) / PROTEIN 18.4g / FAT 10.1g (SAT 5.5g, MONO 2.6g, POLY 0.9g) / CARB 40.2g / FIBER 7.5g / CHOL 30mg / IRON 2.7mg / SODIUM 240mg / CALCIUM 319mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+COLESLAW WITH BLUEBERRIES
+ING::
+4 cups thinly sliced green cabbage
+2 cups thinly sliced red cabbage
+1 cup fresh blueberries
+1 cup coarsely shredded carrot
+2/3 cup julienne-cut green bell pepper
+1/2 cup plain nonfat yogurt
+1/4 cup reduced-calorie mayonnaise
+2 tablespoons white vinegar
+1 3/4 teaspoons sugar
+1/2 teaspoon coarsely ground pepper
+1/4 teaspoon salt
+1/4 teaspoon anise seeds
+Dir::
+Combine green and red cabbage and next 3 ingredients in a large bowl. Combine yogurt and next 6 ingredients in a small bowl, stirring well with a wire whisk. Add to cabbage mixture, tossing gently to coat. Cover and chill.
+
+Yield: 6 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 85 (32% from fat) / PROTEIN 2.5g / FAT 3g (SAT 0.5g, MONO 0.8g, POLY 1.6g) / CARB 13.3g / FIBER 3.5g / CHOL 4mg / IRON 0.8mg / SODIUM 205mg / CALCIUM 81mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BLUEBERRY-BASIL VINEGAR
+N:: 
+This is a great start for most any salad dressing and makes a perfect hostess gift.
+ING::
+3 cups fresh blueberries, crushed
+1/2 cup firmly packed torn fresh basil leaves
+4 cups white vinegar
+Fresh basil leaves (optional)
+DIR::
+Combine crushed fresh blueberries and 1/2 cup torn basil in a large, sterilized wide-mouthed jar, and set aside.
+
+Place vinegar in a medium nonaluminum saucepan, and bring to a boil. Pour hot vinegar over blueberry mixture; cover jar, and let stand at room temperature for 2 weeks.
+
+Strain vinegar through several layers of cheesecloth into decorative jars; discard blueberry pulp. Add additional basil leaves to jars, if desired. Seal jars with a cork or other airtight lid.
+
+Yield: 4 cups (serving size: 1 tablespoon).
+
+NUT::
+CALORIES 2 (0% from fat) / PROTEIN 0g / FAT 0g (SAT 0g, MONO 0g, POLY 0g) / CARB 0.8g / FIBER 0g / CHOL 0mg / IRON 0mg / SODIUM 0mg / CALCIUM 0mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+PAINTED FRUIT SALAD
+ING::
+1 cup whole fresh strawberries, caps removed
+1 tablespoon plus 1 teaspoon honey, divided
+1 tablespoon plus 1 teaspoon lemon juice, divided
+1/2 cup plain low-fat yogurt
+1/2 teaspoon orange extract
+1/4 teaspoon grated orange rind
+1 medium-size unpeeled ripe pear
+1 ripe kiwifruit, peeled and thinly sliced
+1 whole fresh strawberry, quartered
+Dir::
+Combine 1 cup whole strawberries, 2 teaspoons honey, and 1 teaspoon lemon juice in container of an electric blender or food processor; cover and process until smooth. Set aside.
+
+Combine low-fat yogurt, remaining 2 teaspoons honey, orange extract, and orange rind in a small bowl. Stir well, and set aside.
+
+Spoon 3 tablespoons strawberry puree onto the center of each of 4 salad plates; spread to a 5-inch circle. Drizzle 2 tablespoons yogurt mixture in straight lines 1/2-inch long and 1 inch apart on top of strawberry puree. Using a wooden pick, draw parallel lines, 1 inch apart, perpendicular to yogurt lines. Rotate plate a half-turn; draw parallel lines between drawn lines to make a feathered pattern.
+
+Cut pear lengthwise into quarters; remove core. Cut each quarter lengthwise into thin slices. Toss pear slices with remaining tablespoon lemon juice. Cut kiwifruit slices in half; arrange pear and kiwifruit around edge of "painted" salad plates. Garnish each with a strawberry quarter.
+
+Yield: 4 servings.
+
+NUT::
+CALORIES 92 (9% from fat) / PROTEIN 2.2g / FAT 0.9g (SAT 0.3g, MONO 0.2g, POLY 0.1g) / CARB 19.7g / FIBER 2.8g / CHOL 2mg / IRON 0.4mg / SODIUM 21mg / CALCIUM 68mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+RASPBERRY DESSERT SAUCE
+ING::
+1 tablespoon plus 1 teaspoon sugar
+2 teaspoons cornstarch
+1/3 cup raspberry-cranberry drink
+1 cup fresh raspberries
+Dir::
+Combine first 3 ingredients in a small nonaluminum saucepan, stirring well. Bring to a boil over medium heat, stirring constantly. Reduce heat, and simmer 2 minutes, stirring constantly. Remove from heat, and let cool; stir in raspberries. Serve sauce over sliced peaches, angel food cake, or ice milk.
+
+Yield: 1 cup (serving size: 1 tablespoon).
+
+NUT::
+CALORIES 12 (0% from fat) / PROTEIN 0.1g / FAT 0g (SAT 0g, MONO 0g, POLY 0g) / CARB 3g / FIBER 0.6g / CHOL 0mg / IRON 0.1mg / SODIUM 0mg / CALCIUM 2mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+STRAWBERRY-TOPPED PUFFY PANCAKE WITH CREAMY ORANGE FILLING
+ING::
+1/2 cup 1% low-fat cottage cheese
+1/4 cup frozen orange juice concentrate, thawed and undiluted
+2 tablespoons powdered sugar
+2/3 cup skim milk
+1/2 cup all-purpose flour
+1 tablespoon honey
+1 teaspoon grated lemon rind
+2 eggs
+Vegetable cooking spray
+2 1/3 cups halved fresh strawberries
+Dir::
+Combine first 3 ingredients in container of an electric blender; cover and process until smooth. Spoon into a bowl; set aside.
+
+Combine milk and next 4 ingredients in blender container; cover and process until smooth. Pour into a 9-inch pieplate coated with cooking spray. (Do not stir.)
+
+Bake at 425° for 15 minutes or until puffed and golden. Spoon cottage cheese mixture onto pancake. Top with strawberries; cut into 4 wedges, and serve immediately.
+
+Yield: 4 servings.
+
+NUT::
+CALORIES 217 (15% from fat) / PROTEIN 10.7g / FAT 3.6g (SAT 1.1g, MONO 1.2g, POLY 0.6g) / CARB 36g / FIBER 2.8g / CHOL 112mg / IRON 1.6mg / SODIUM 171mg / CALCIUM 102mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+CHILLED SPINACH-AND-CUCUMBER SOUP
+ING::
+2 teaspoons margarine
+2 cups peeled, seeded, and cubed cucumber
+2 cups low-sodium chicken broth
+2 cups tightly packed torn fresh spinach
+1 teaspoon chopped fresh dillweed
+1/8 teaspoon salt
+1/8 teaspoon coarsely ground pepper
+Dash of ground nutmeg
+3/4 cup nonfat sour cream alternative, divided
+1/2 cup plain nonfat yogurt
+Thinly sliced unpeeled cucumber (optional)
+Fresh dillweed sprigs (optional)
+Dir::
+Melt margarine in a medium saucepan over medium heat. Add cucumber; sauté 10 minutes or until lightly browned. Add broth; bring to a boil. Cover, reduce heat, and simmer 15 minutes. Add spinach and next 4 ingredients; bring to a boil. Cover, reduce heat, and simmer 2 minutes.
+
+Place cucumber mixture in container of an electric blender; cover and process until smooth. Pour into a bowl; add 1/2 cup sour cream and yogurt, stirring with a wire whisk. Cover and chill. To serve, ladle into individual bowls; top with remaining sour cream. Garnish with cucumber slices and dillweed, if desired.
+
+Yield: 4 cups (serving size: 1 cup soup and 1 tablespoon sour cream).
+
+NUT::
+CALORIES 95 (27% from fat) / PROTEIN 7.1g / FAT 2.9g (SAT 0.7g, MONO 1.1g POLY 0.8g) / CARB 9.7g / FIBER 1.5g / CHOL 1mg / IRON 1.6mg / SODIUM 212mg / CALCIUM 99mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SWEET AND TANGY BORSCHT
+ING::
+Vegetable cooking spray
+1 teaspoon vegetable oil
+2/3 cup chopped onion 
+4 cups water
+2 cups peeled, diced fresh beets
+2 cups peeled, diced round red potato
+1 1/2 tablespoons brown sugar
+3/4 teaspoon dill seeds
+1/2 teaspoon salt
+1/4 teaspoon coarsely ground pepper
+2 tablespoons red wine vinegar
+1 1/2 cups nonfat buttermilk
+1/4 cup plus 3 tablespoons plain nonfat yogurt
+Dir::
+Coat a large saucepan with cooking spray; add oil. Place over medium-low heat until hot. Add onion; cover and cook 5 minutes or until tender. Add 4 cups water and next 7 ingredients; stir well. Bring to a boil; cover, reduce heat, and simmer 1 hour or until beets are tender.
+
+Place one-third of mixture In container of an electric blender; cover and process until smooth. Pour puree into a large bowl. Repeat procedure with remaining mixture. Stir in buttermilk. Cover and chill. To serve, ladle into individual soup bowls; top with yogurt.
+
+Yield: 7 cups (serving size: 1 cup soup and 1 tablespoon yogurt).
+
+NUT::
+CALORIES 99 (10% from fat) / PROTEIN 4.4g / FAT 1.1g (SAT 0.3g, MONO 0.2g, POLY 0.4g) / CARB 18.8g / FIBER 1.4g / CHOL 2mg / IRON 0.8mg / SODIUM 265mg / CALCIUM 109mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ZUCCHINI-NOODLE SOUP WITH TURKEY MEATBALLS
+ING::
+3/4 pound freshly ground raw turkey
+1/2 cup soft breadcrumbs
+1/4 cup minced fresh parsley
+1/2 teaspoon salt
+1/2 teaspoon poultry seasoning
+1/8 teaspoon coarsely ground pepper
+1 tablespoon vegetable oil
+1 1/2 cups coarsely chopped carrot
+4 cups diced zucchini
+5 1/2 cups no-salt-added chicken broth
+1 tablespoon chopped fresh oregano
+1/4 teaspoon salt
+1/8 teaspoon coarsely ground pepper
+2 cups medium egg noodles, uncooked
+Chopped fresh parsley (optional)
+Dir::
+Combine first 6 ingredients in a bowl, and stir well. Shape mixture into 1-inch meatballs; set aside.
+
+Heat oil in a large Dutch oven over medium heat. Add carrot; stir well. Cover, reduce heat, and cook 10 minutes or until tender. Add zucchini and next 4 ingredients; bring to a boil. Add noodles; cover, reduce heat, and simmer 5 minutes. Add meatballs; cover and simmer 7 minutes. Garnish with parsley, if desired.
+
+Yield: 10 1/2 cups (serving size: 1 1/2 cups).
+
+NUT::
+CALORIES 186 (21% from fat) / PROTEIN 14.8g / FAT 4.3g (SAT 1g, MONO 1.1g, POLY 1.6g) / CARB 19.8g / FIBER 1.9g / CHOL 47mg / IRON 2.4mg / SODIUM 322mg / CALCIUM 45mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+GAZPACHO WITH OKRA
+ING::
+3 small fresh okra pods
+1/2 cup water
+2 cups peeled, coarsely chopped tomato (about 2 large)
+3/4 cup peeled, chopped cucumber
+1/3 cup chopped green bell pepper
+1/4 cup sliced green onions
+1/2 teaspoon salt
+1/8 teaspoon pepper
+2 tablespoons red wine vinegar
+1 teaspoon olive oil
+1 cup no-salt-added tomato juice
+Dir::
+Discard tip and stem ends from okra; cut okra into 1/4-inch slices. Bring water to a boil in a small saucepan; add okra. Cover and cook 2 minutes; drain well.
+
+Position knife blade in food processor bowl; add okra, tomato, and next 7 ingredients. Pulse 8 times or just until mixture is chunky. Pour into a bowl, and stir in tomato juice. Cover and chill.
+
+Yield: 1 quart (serving size: 1 cup).
+
+NUT::
+CALORIES 51 (26% from fat) / PROTEIN 1.8g / FAT 1.5g (SAT 0.2g, MONO 0.9g, POLY 0.3g) / CARB 9.4g / FIBER 1.6g / CHOL 0mg / IRON 0.8mg / SODIUM 310mg / CALCIUM 21mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+BROCCOLI-RICE SOUP
+ING::
+1 tablespoon olive oil
+1 cup chopped onion
+5 cups no-salt-added chicken broth
+1 cup peeled, chopped tomato
+1/2 cup long-grain rice, uncooked
+1/4 teaspoon salt
+1/4 teaspoon coarsely ground black pepper
+1/8 teaspoon ground red pepper
+4 cups chopped fresh broccoli flowerets
+2 tablespoons plus 1 teaspoon grated Parmesan cheese
+Dir::
+Heat oil in a saucepan over medium-low heat. Add onion; cover and cook 10 minutes or until tender. Add broth and next 5 ingredients; bring to a boil. Cover, reduce heat, and simmer 15 minutes. Add broccoli; cover and cook 7 minutes or until rice and broccoli are tender. To serve, ladle into individual bowls, and sprinkle with cheese.
+
+Yield: 7 cups (serving size: 1 cup soup and 1 teaspoon cheese).
+
+NUT::
+CALORIES 124 (30% from fat) / PROTEIN 5g / FAT 4.2g (SAT 0.9g, MONO 2g, POLY 0.5g) / CARB 16.6g / FIBER 2.5g / CHOL 1mg / IRON 1.2mg / SODIUM 228mg / CALCIUM 58mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+CORN AND FISH CHOWDER
+ING::
+2 teaspoons margarine
+1 cup chopped celery
+1 cup chopped onion
+2 tablespoons all-purpose flour
+4 cups low-sodium chicken broth
+2 cups corn cut from cob
+2 cups peeled, diced round red potato (about 1 pound)
+1 1/2 teaspoons minced fresh thyme
+3/4 teaspoon salt
+1/4 teaspoon coarsely ground pepper
+1 bay leaf
+3/4 pound cod or other lean white fish fillets, cut into 1/2-inch pieces
+1/4 cup plus 2 tablespoons thinly sliced green onions
+Dir::
+Melt margarine in a Dutch oven over medium heat. Add celery and onion; sauté 5 minutes or until tender. Remove from heat. Sprinkle celery mixture with flour; stir well. Gradually add broth, stirring until blended. Add corn and next 5 ingredients; bring to a boil. Cover, reduce heat, and simmer 15 minutes or until vegetables are tender, stirring occasionally.
+
+Add fish; cover and simmer 5 minutes or until fish flakes easily when tested with a fork. Discard bay leaf. To serve, ladle into individual soup bowls, and sprinkle with green onions.
+
+Yield: 9 cups (serving size: 1 1/2 cups soup and 1 tablespoon green onions).
+
+NUT::
+CALORIES 188 (16% from fat) / PROTEIN 15.2g / FAT 3.4g (SAT 0.7g, MONO 1.2g, POLY 1.1g) / CARB 26g / FIBER 3.5g / CHOL 24mg / IRON 2mg / SODIUM 420mg / CALCIUM 35mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MARINATED PORK-AND-VEGETABLE KABOBS
+ING::
+12 small unpeeled round red potatoes (about 1 pound)
+12 large fresh mushrooms (about 10 ounces)
+1 pound pork tenderloin
+16 (1/2-inch) slices zucchini (about 9 ounces)
+1 large green bell pepper (about 10 ounces), cut into 24 (1-inch) pieces
+1 large red bell pepper (about 10 ounces), cut into 24 (1-inch) pieces
+1/2 cup low-sodium chicken broth
+2 tablespoons lemon juice
+1 tablespoon olive oil
+1 tablespoon chopped fresh oregano
+1 tablespoon chopped fresh thyme
+1/2 teaspoon salt
+1/2 teaspoon pepper
+3 cloves garlic, crushed
+Vegetable cooking spray
+Dir::
+Place potatoes in a saucepan, and add water to cover. Bring to a boil, and cook 15 minutes or until tender; drain. Pour cold water over potatoes; drain and cut potatoes in half, and set aside.
+
+Discard mushroom stems, and halve mushroom caps lengthwise; set aside. Trim fat from pork, and cut pork into 16 (1/2-inch) cubes.
+
+Combine pork, potatoes, mushrooms, zucchini, and bell peppers in a large zip- top heavy-duty plastic bag. Add chicken broth and next 7 ingredients; seal bag, and marinate in refrigerator for 2 hours, turning bag occasionally.
+
+Remove pork and vegetables from bag, reserving marinade. Thread 3 potato halves, 3 mushroom halves, 2 pork cubes, 2 zucchini slices, 3 green bell pepper pieces, and 3 red bell pepper pieces alternately onto each of 8 (12-inch) skewers.
+
+Coat grill rack with cooking spray, and place rack on grill over medium-hot coals. Place kabobs on grill rack, and cook 6 minutes on each side or until pork is done, basting occasionally with the reserved marinade.
+
+Yield: 4 servings (serving size: 2 skewers).
+
+NUT::
+CALORIES 305 (25% from fat) / PROTEIN 29.8g / FAT 8.6g (SAT 2.1g, MONO 4.4g, POLY 1.2g) / CARB 28.6g / FIBER 4.3g / CHOL 79mg / IRON 5.3mg / SODIUM 374mg / CALCIUM 57mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+GRILLED ROSEMARY SWORDFISH
+ING::
+4 (4-ounce) swordfish steaks (about 1 inch thick)
+1 teaspoon minced fresh rosemary
+1 teaspoon grated lemon rind
+1 clove garlic, minced
+Vegetable cooking spray
+1 tablespoon fresh lemon juice
+1/4 teaspoon pepper
+Lemon wedges (optional)
+Fresh rosemary sprigs (optional)
+Dir::
+Arrange steaks in a large baking dish. Combine minced rosemary, lemon rind, and garlic; press evenly onto one side of each steak. Cover and refrigerate 1 hour.
+
+Coat grill rack with cooking spray; place rack on grill over medium-hot coals. Place steaks on rack. Combine lemon juice and pepper, and brush over steaks. Cook 6 minutes on each side or until done, basting frequently with lemon juice mixture. Garnish with lemon wedges and rosemary sprigs, if desired.
+
+Yield: 4 servings (serving size: 3 ounces fish).
+
+NUT::
+CALORIES 136 (30% from fat) / PROTEIN 21.7g / FAT 4.6g (SAT 1.2g, MONO 1.7g, POLY 1g) / CARB 0.8g / FIBER 0.1g / CHOL 43mg / IRON 1mg / SODIUM 98mg / CALCIUM 9mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+GRILLED CLAMS WITH HORSERADISH AND LEMON
+ING::
+12 small clams in shells, scrubbed
+2 tablespoons cornmeal
+1/4 cup prepared horseradish
+2 teaspoons chopped fresh parsley
+6 lemon wedges
+Dir::
+Place clams in a large bowl, and cover with cold water. Sprinkle with cornmeal, and let stand 30 minutes. Drain and rinse; discard cornmeal. Place clams on a grill rack over hot coals; cook 3 minutes or until shells open.
+
+Combine horseradish and parsley; stir well. Serve clams with horseradish mixture and lemon wedges.
+
+Yield: 6 servings (serving size: 2 clams, 2 teaspoons sauce, and 1 lemon wedge).
+
+NUT::
+CALORIES 31 (12% from fat) / PROTEIN 4.7g / FAT 0.4g (SAT 0g, MONO 0g, POLY 0.1g) / CARB 2.3g / FIBER 0.1g / CHOL 12mg / IRON 5.1mg / SODIUM 30mg / CALCIUM 23mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+GARLICKY SMOKE-ROASTED LAMB
+N:: 
+Alder wood chips produce a delicately flavored smoke that enhances the taste of the lamb without overpowering it. Mesquite chips can be used also. Find wood chips for smoking at hardware or grocery stores.
+ING::
+2 cups alder wood chips
+1 (3-pound) lean, bone-in leg of lamb roast
+5 cloves garlic, sliced
+1 1/2 cups Chablis or other dry white wine
+1/4 cup water
+3 tablespoons white wine Worcestershire sauce
+3/4 teaspoon cracked black pepper
+4 bay leaves, crumbled
+6 (5-inch) fresh mint sprigs
+Vegetable cooking spray
+Dir::
+Soak alder wood chips in water 1 to 24 hours. Drain well.
+
+Trim fat from roast. Make 1/2-inch-deep slits into roast; place garlic in slits. Combine wine and next 4 ingredients in a large zip- top heavy-duty plastic bag. Add roast; seal bag, and marinate in refrigerator 8 hours, turning bag occasionally. Remove roast from bag, reserving marinade; set aside.
+
+Prepare charcoal fire in meat smoker, and let burn 15 to 20 minutes. Place alder chips on top of coals. Place water pan in smoker; add reserved marinade and mint sprigs. Add hot tap water to fill pan.
+
+Coat grill rack with cooking spray; place rack in smoker. Place roast on rack; insert meat thermometer into thickest portion of roast. Cover with smoker lid, and cook 3 hours or until meat thermometer registers 140° (rare). Refill water pan with water, and add additional charcoal to fire as needed.
+
+Remove roast from smoker; let stand 10 minutes before serving.
+
+Yield: 12 servings (serving size: 3 ounces lamb).
+
+NUT::
+CALORIES 167 (36% from fat) / PROTEIN 24.2g / FAT 6.6g (SAT 2.4g, MONO 2.9g, POLY 0.4g) / CARB 1g / FIBER 0g / CHOL 76mg / IRON 1.9mg / SODIUM 78mg / CALCIUM 12mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+GRILLED CHICKEN WITH RASPBERRY-THYME SAUCE
+ING::
+1 cup fresh raspberries
+2 1/2 tablespoons minced fresh thyme
+1 teaspoon sugar
+2 tablespoons Chablis or other dry white wine
+1 1/2 teaspoons low-sodium soy sauce
+4 (4-ounce) skinned, boned chicken breast halves
+1/2 teaspoon white pepper
+Vegetable cooking spray
+Fresh thyme sprigs (optional)
+Dir::
+Place raspberries in a small bowl, and crush. Add minced fresh thyme and next 3 ingredients, stirring well; let stand 30 minutes. Strain raspberry mixture; discard seeds. Place raspberry mixture in a small nonaluminum saucepan, and cook over medium heat 7 minutes or until thickened, stirring frequently. Remove from heat, and set aside.
+
+Sprinkle chicken with pepper. Coat grill rack with cooking spray, and place on grill over medium-hot coals. Place chicken on rack, and cook 10 minutes. Turn chicken over; brush with 2 tablespoons raspberry mixture, and cook an additional 5 minutes or until done. Serve with remaining raspberry mixture. Garnish with thyme sprigs, if desired.
+
+Yield: 4 servings (serving size: 3 ounces chicken and 1 tablespoon sauce).
+
+NUT::
+CALORIES 175 (22% from fat) / PROTEIN 26.6g / FAT 4.2g (SAT 1.1g, MONO 1.3g, POLY 0.9g) / CARB 5.2g / FIBER 2.3g / CHOL 72mg / IRON 1.5mg / SODIUM 127mg / CALCIUM 26mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MINTY MELON COMPOTE
+ING::
+1 1/2 cups cantaloupe balls
+1 1/2 cups watermelon balls
+1/2 cup unsweetened apple juice
+1 tablespoon finely chopped fresh mint
+1/4 teaspoon grated orange rind
+2 kiwifruit, peeled and sliced Fresh mint sprigs (optional)
+Dir::
+Combine cantaloupe and watermelon balls in a medium bowl. Combine apple juice, mint, and orange rind; stir well. Pour over melon balls; toss gently. Cover and chill 30 minutes. Add kiwifruit, and toss gently. Garnish with mint, if desired.
+
+Yield: 3 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 77 (8% from fat) / PROTEIN 1.4g / FAT 0.7g (SAT 0.3g, MONO 0.1g, POLY 0.1g) / CARB 17.5g / FIBER 2.4g / CHOL 0mg / IRON 0.6mg / SODIUM 8mg / CALCIUM 25mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+HONEYDEW FREEZE
+ING::
+2 cups cubed honeydew melon
+1/4 cup Midori (melon-flavored liqueur)
+1/4 cup lime juice
+4 (1/2-inch) honeydew melon balls (optional)
+Fresh mint leaves (optional)
+Dir::
+Place cubed melon in an airtight container, and freeze 8 hours.
+
+Combine Midori and lime juice in container of an electric blender. Gradually add frozen melon cubes, and process until smooth. Pour into 2 stemmed glasses, and garnish each serving with 2 melon balls and mint leaves, if desired.
+
+Yield: 2 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 160 (6% from fat) / PROTEIN 1g / FAT 0.2g (SAT 0g, MONO 0g, POLY 0g) / CARB 26.8g / FIBER 1.6g / CHOL 0mg / IRON 0.2mg / SODIUM 18mg / CALCIUM 12mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MELON SALAD WITH ORANGE-HONEY DRESSING
+ING::
+1/2 medium cantaloupe
+1/2 medium honeydew melon
+1 cup seedless red grapes, halved
+8 Boston lettuce leaves
+1 cup vanilla low-fat yogurt
+1 tablespoon honey
+1 tablespoon frozen orange juice concentrate, thawed and undiluted
+Ground nutmeg (optional)
+Dir::
+Peel melons; discard seeds and membranes. Cut each melon lengthwise into 8 slices. Divide melon and grapes evenly among 4 lettuce-lined salad plates. Combine yogurt, honey, and juice concentrate; stir well. Drizzle 1/4 cup over each salad; sprinkle with nutmeg, if desired.
+
+Yield: 4 servings.
+
+NUT::
+CALORIES 162 (8% from fat) / PROTEIN 4.6g / FAT 1.4g (SAT 0.8g, MONO 0.2g, POLY 0.2g) / CARB 36g / FIBER 2.8g / CHOL 2mg / IRON 0.6mg / SODIUM 58mg / CALCIUM 124mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MINTED MELON
+ING::
+3 cups honeydew melon balls
+1/3 cup minced fresh mint
+1/3 cup fresh lime juice
+1/4 cup Midori (melon-flavored liqueur)
+Fresh mint sprigs (optional)
+Dir::
+Combine first 4 ingredients in a large, shallow dish; stir well. Cover and chill 1 hour. Garnish with mint sprigs, if desired.
+
+Yield: 3 servings (serving size: 1 cup).
+
+NUT::
+CALORIES 132 (2% from fat) / PROTEIN 0.9g / FAT 0.3g (SAT 0.1g, MONO 0g, POLY 0.1g) / CARB 23.9g / FIBER 1.5g / CHOL 0mg / IRON 0.2mg / SODIUM 17mg / CALCIUM 14mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+HONEYDEW WITH STRAWBERRY-LIME SAUCE
+ING::
+1 cup whole fresh strawberries
+1 tablespoon lime juice
+1 tablespoon Triple Sec or other orange-flavored liqueur
+2 teaspoons sugar
+1/2 medium honeydew melon
+2 cups thinly sliced fresh strawberries
+Dir::
+Remove caps from whole fresh strawberries, and place strawberries in the container of an electric blender; cover and process until smooth. Add next 3 ingredients, and process until smooth. Set aside.
+
+Peel melon; discard seeds and membranes. Cut lengthwise into 16 slices. Arrange 4 melon slices and 1/2 cup sliced strawberries on each of 4 serving plates. Spoon 3 tablespoons strawberry sauce over fruit.
+
+Yield: 4 servings.
+
+NUT::
+CALORIES 133 (5% from fat) / PROTEIN 1.7g / FAT 0.7g. (SAT 0.1g, MONO 0.1g, POLY 0.2g) / CARB 32.1g / FIBER 5g / CHOL 0mg / IRON 0.6mg / SODIUM 24mg / CALCIUM 30mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+CANTALOUPE SLUSH
+ING::
+2 1/2 cups cantaloupe balls
+1 2/3 cups crushed ice
+1/2 cup unsweetened pineapple juice
+1/4 cup sifted powdered sugar
+3 tablespoons fresh lemon juice
+1/4 teaspoon almond extract
+Dir::
+Combine all ingredients in container of an electric blender; cover and process until smooth. Serve immediately.
+
+Yield: 4 cups (serving size: 1 cup).
+
+NUT::
+CALORIES 85 (3% from fat) / PROTEIN 1g / FAT 0.3g (SAT 0.2g, MONO 0g, POLY 0g) / CARB 21.1g / FIBER 1.2g / CHOL 0mg / IRON 0.3mg / SODIUM 10mg / CALCIUM 17mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MELON WEDGES WITH KIWIFRUIT SAUCE
+ING::
+4 kiwifruit, peeled
+2 tablespoons Midori (melon-flavored liqueur)
+1/2 cup light process cream cheese product
+2 teaspoons sugar
+1/2 teaspoon vanilla extract
+1 medium cantaloupe (about 3 pounds)
+Dir::
+Place kiwifruit and Midori in container of an electric blender; cover and process until smooth. Strain; discard seeds. Place in a bowl; cover and chill.
+
+Combine cream cheese, sugar, and vanilla in a small bowl. Beat at high speed of an electric mixer until smooth and fluffy. Cover and chill.
+
+Cut cantaloupe into 8 wedges; discard seeds and membranes. Spoon 2 tablespoons kiwifruit mixture over each wedge; top each with 1 tablespoon cream cheese mixture.
+
+Yield: 8 servings.
+
+NUT::
+CALORIES 98 (27% from fat) / PROTEIN 2.6g / FAT 2.9g (SAT 1.6g, MONO 0.1g, POLY 0.1g) / CARB 14.5g / FIBER 2.2g / CHOL 8mg / IRON 0.4mg / SODIUM 87mg / CALCIUM 38mg
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+FOURTH OF JULY COOKOUT
+ING::
+Grilled Flank Steak
+Black Olive Salsa With Chives
+Silky Corn Casserole
+Steamed summer squash
+Angel food cake
+Raspberry Dessert Sauce
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+SUMMER LUNCHEON
+ING::
+Fresh tomato soup
+Quinoa, Shrimp, and Cilantro Salad
+Toasted pita wedges
+Melon Wedges With Kiwifruit Sauce
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ITALIAN DINNER FOR GUESTS
+ING::
+Roasted Bell Pepper-and-Olive Crostini
+Grilled Grouper
+Tomato-Basil Salsa
+Broiled eggplant with Parmesan cheese
+Spumoni and lemon wafer cookies
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+MOM'S NIGHT OUT
+ING::
+French Bread Chicken Pizza
+Tossed salad with Italian dressing
+Brownies
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+ORIENTAL EXPRESS
+ING::
+Polynesian Shrimp
+Steamed rice
+Lemon ice
+]]]
+
+[[[
+C:: 
+Y:: 
+S:: 
+PT:: 
+TT:: 
+B:: 
+Src:: 
+N:: 
+T:: 
+WEEKNIGHT DINNER
+ING::
+Individual Meat Loaves With Chutney Sauce
+Steamed green beans
+Waldorf salad
+Butterscotch pudding
+]]]

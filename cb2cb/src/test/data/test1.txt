@@ -1,0 +1,42 @@
+[[[
+T:: MOSTACCIOLI MARINARA WITH FRESH BASIL
+C:: Pasta
+Cus::
+Y::
+S:: 2
+PT:: 0:05
+AT: Cooking Time: 0:15
+TT:: 0:20
+W::
+SI::
+B:: Susan McQuillan "Noodle Know-how"
+SRC:: Cooking Light Magazine, May/June 1993, page 108
+CPR:: © 1993, by Southern Living, Inc.
+AS:: Formatted by: John Shotsky
+N::
+ING::
+1 1/2 cups mostaccioli (tube-shaped pasta) uncooked (4 ounces)
+1 (14 1/2-ounce) can no-salt-added whole tomatoes, undrained
+Vegetable cooking spray
+1 teaspoon olive oil
+1/3 cup diced onion
+1 clove garlic, minced
+1/2 teaspoon sugar
+1/4 teaspoon salt
+1/4 teaspoon coarsely ground pepper
+1/3 cup chopped fresh parsley
+2 tablespoons thinly sliced fresh basil
+2 tablespoons grated Romano cheese
+DIR::
+Cook pasta according to package directions, omitting salt and fat. Drain and set aside.
+
+Position knife blade in food processor bowl; add tomatoes. Pulse 3 to 4 times or until almost smooth; set aside.
+
+Coat a medium skillet with cooking spray; add oil, and place over medium-high heat until hot. Add onion and garlic; sauté 3 minutes or until tender. Add tomatoes, sugar, salt, and pepper; bring to a boil. Reduce heat, and simmer, uncovered 10 minutes. Stir in parsley and basil. Serve sauce over pasta; sprinkle with Romano cheese.
+
+Yields 2 servings (serving size: 1 cup pasta, 3/4 cup sauce, and 1 tablespoon cheese).
+
+NUT::
+CALORIES 322 (15% from fat) / PROTEIN 11.9g / FAT 5.5g (SAT 1.7g, MONO 2.4g, POLY 0.7g) / CARB 56.7g / FIBER 2.4g / CHOL 7mg / IRON 3.8mg / SODIUM 416mg / CALCIUM 182mg
+
+]]]

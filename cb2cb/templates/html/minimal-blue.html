@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="recipe, cb2cb" />
+	<meta name="author" content="Created by cb2cb" />
+	<link rel="stylesheet" type="text/css" href="minimal-blue/minimal-blue.css" title="minimal-blue" media="screen,projection" />
+	<title>${recipe.title.toHtml()}</title>
+</head>
+
+<body>
+<div id="container" >
+	<div id="header">
+		<h1>${recipe.title.toHtml()}</h1>
+<% if (recipe.description != null) { %>
+		<h2>${recipe.description.toHtml()}</h2>
+<% } %>			
+	</div>
+
+	<div id="navigation">
+		<ul>
+			<li><a href="$index">Home</a></li>
+<% if (prevLink != null) { %>
+			<li class="selected"><a href="$prevLink">Previous</a></li>
+<% } %>			
+<% if (nextLink != null) { %>
+			<li><a href="$nextLink">Next</a></li>
+<% } %>			
+		</ul>
+	</div>
+
+	<div id="content">
+
+		<div class="splitcontentleft">
+<% if (recipe.ingredients) { %>
+			<div class="box">
+				<h3>Ingredients</h3>
+<p class="ingredients">
+<% for (def ingr : recipe.ingredients) {
+ %>
+<% if (ingr.hasAmount()) {%>
+  <span class="ingredientAmount">${ingr.amount.formatNumber()}</span>
+<%}%>
+<% if (ingr.hasUnit()) {
+  def unit = (ingr.hasAmount() && ingr.amount > 1) ? ingr.unit.pluralize() : ingr.unit.name
+%>  
+  <span class="ingredientUnit">${unit.toHtml()}</span>
+<%}%>
+<% if (ingr.hasIngredient()) {%>
+  <span class="ingredientName">${ingr.ingredient.name.toHtml()}</span>
+<%}%>
+<% if (ingr.hasProcessing()) {%>
+  <span class="ingredientPreparations"> -- ${ingr.processing.toHtml()}</span>
+<%}%>
+<br/>
+<%}%>
+</div>
+<%} %>               				  
+
+<% // Any Source at all?
+if (recipe.source || recipe.author || recipe.copyright || recipe.altSourceLabel) { %>
+		<div class="small box">
+		<h1>Source</h1>
+<% // ------ SOURCE ---------
+if (recipe.source) { %>
+<div class="source">
+  <span class="sourceLabel label">Source: </span>
+  <span class="sourceValue value">${recipe.source.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ AUTHOR ---------
+if (recipe.author) { %>
+<div class="author">
+  <span class="authorLabel label">Author: </span>
+  <span class="authorValue value">${recipe.author.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ COPYRIGHT ---------
+if (recipe.copyright) { %>
+<div class="copyright">
+  <span class="copyrightLabel label">Copyright: </span>
+  <span class="copyrightValue value">${recipe.copyright.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ ALT SOURCE ---------
+if (recipe.altSourceLabel) { %>
+<div class="copyright">
+  <span class="altSourceLabel label">${recipe.altSourceLabel.toHtml()}: </span>
+  <span class="altSourceValue value">${recipe.altSourceText.toHtml()}</span>
+</div>
+<%} %> 		
+		</div>
+<%} %> 		
+
+
+		<div class="small box">
+  		<h1>Download</h1>
+			Download the recipe <a href="${downloadName}">here</a>.
+    </div>
+
+		</div>
+
+		<div class="splitcontentright">
+<% // ------ Photo ---------
+if (recipe.images?.size()>0) { %>
+		<div class="box">
+    <img class="photo" src="${imageName}"/>
+    </div>
+<%} %>
+
+<% // ------ DIRECTIONS ---------
+if (recipe.directions) {%>
+			<h2>Directions</h2>
+<div class="directions">
+<% for (def step : recipe.directions) {%>
+<p class="directionStep">${step.toHtml().replace("\n", "<br/>")}</p>
+<%} %>
+</div>
+<%} %>
+ 
+<% // ------ NOTES ---------
+if (recipe.note) { %>
+			<h2>Notes</h2>
+<div class="notes">
+${recipe.note.toHtml().replace("\n", "<br/>")}
+</div>
+<%} %>
+		</div>
+	</div>
+
+	<div id="subcontent">
+
+<% // Any yield/serves at all?
+if (recipe.servings > 0 || recipe.yield.length() > 0) { %>
+		<div class="small box">
+		<h1>Yield</h1>
+<% // ------ Yield ---------
+if (recipe.yield.length() > 0) { %>
+<div class="yield">
+  <span class="yieldLabel label">Yield: </span>
+  <span class="yieldValue value">${recipe.yield.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ Serves ---------
+if (recipe.servings > 0) { %>
+<div class="servings">
+  <span class="servingsLabel label">Serves: </span>
+  <span class="servingsValue value">${recipe.servings}</span>
+</div>
+<%} %>
+</div>
+<%} %>
+
+
+
+
+<% // Any time at all?
+if (recipe.preparationTime > 0 || recipe.totalTime > 0 || recipe.cookTime>0) { %>
+		<div class="small box">
+		<h1>Time</h1>
+<% // ------ PREPARATION TIME ---------
+if (recipe.preparationTime > 0) { %>
+<div class="preptime">
+  <span class="preptimeLabel label">Preparation time: </span>
+  <span class="preptimeValue value">${recipe.preparationTime} min</span>
+</div>
+<%} %>
+<% // ------ COOK TIME ---------
+if (recipe.cookTime > 0) { %>
+<li class="cooktime">
+  <span class="cooktimeLabel label">Cooking time: </span>
+  <span class="cooktimeValue value">${recipe.cookTime} minutes</span>
+</li>
+<%} %>
+<% // ------ TOTAL TIME ---------
+if (recipe.totalTime > 0) { %>
+<div class="totaltime">
+  <span class="totaltimeLabel label">Total time: </span>
+  <span class="totaltimeValue value">${recipe.totalTime} min</span>
+</div>
+<%} %>
+<% // ------ ALT TIME ---------
+			for(String key : recipe.getTimes().keySet()) {
+				if (! key.startsWith("TIME.")) {
+%>
+				<li class="alttime">
+          <span class="alttimeLabel label">${key}: </span>
+          <span class="alttimeValue value">${recipe.getTime(key)}</span>
+        </li>
+<%
+				}
+			}
+%>
+		</div>
+<%} %> 		
+
+<% // Any categories at all?
+if (recipe.categories || recipe.cuisine || recipe.ratings) { %>
+		<div class="small box">
+		<h1>Categories</h1>
+<% // ------ CATEGORIES ---------
+if (recipe.categories) { %>
+<div class="categories">
+  <span class="catLabel label">Categories: </span>
+  <span class="catValue value">${recipe.getCategoriesAsString().replace(';', ',').toHtml()}</span>
+</div>
+<%} %>
+<% // ------ CUISINE ---------
+if (recipe.cuisine) { %>
+<div class="cuisine">
+  <span class="cuisineLabel label">Cuisine: </span>
+  <span class="cuisineValue value">${recipe.cuisine.toHtml()}</span>
+</div>
+<%} %> 		
+<% // ------ RATINGS ---------
+if (recipe.ratings) { %>
+<div class="ratingHeader label">Ratings:</div>
+<% recipe.ratings.each { key, value -> %>
+  <div class="ratings">
+    <span class="ratingLabel label">$key: </span>
+    <span class="ratingValue value">$value</span>
+  </div>
+<%} %>
+<%} %> 		
+    
+    </div>
+<%} %> 		
+
+	</div>
+
+	<div id="footer">
+		<p>Made with <a href="http://recipetools.sourceforge.net/joomla15">cb2cb</a>. | Design by <a href="http://andreasviklund.com/templates/">Andreas Viklund</a></p>
+	</div>
+
+	</div>
+</body>
+</html>
