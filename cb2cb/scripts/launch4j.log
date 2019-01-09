@@ -11,3 +11,79 @@ Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
 Launcher args:	-jar "C:\pr\projekter\java\cb2cb\scripts\.\cb2cb.jar"
 Args length:	53/32768 chars
 Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\cb2cb.exe --l4j-debug
+WOW64:		yes
+Java min ver:	1.8.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_144 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\cb2cb.jar"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\cb2cb.exe --l4j-debug
+WOW64:		yes
+Java min ver:	1.8.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_144 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\.\cb2cb.jar"
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\cb2cb.exe --l4j-debug
+WOW64:		yes
+Java min ver:	1.8.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_144 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\.\cb2cb.jar"
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\cb2cb.exe --l4j-debug
+WOW64:		yes
+Java min ver:	1.8.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_144 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "C:\pr\projekter\java\JavaRecipes\cb2cb\scripts\cb2cb.jar"
+Args length:	63/32768 chars
+Exit code:	0

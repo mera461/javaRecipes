@@ -17,6 +17,8 @@ buildscript {
 def javaRecipesClassDir = 'target/classes/main' // for the gradle build
 // 'target/classes' // for the eclipse build 
 
+def javaVersion = 32
+
 project.buildDir = 'target'
 //compileGroovy.destinationDir = new File('target/classes')
 
@@ -40,9 +42,9 @@ dependencies {
 	}
     // compile 'org.codehaus.groovy:groovy-swing:2.3.10' // for the binding framework ??
     // compile 'org.codehaus.groovy:groovy-templates:2.3.10' // for simple text templating -- is already in groovy-all
-	compile 'com.healthmarketscience.jackcess:jackcess:2.1.4'
+	compile 'com.healthmarketscience.jackcess:jackcess:2.2.2'
 	
-    compile files('lib/groovy-swt-0.95-windows-all.jar')
+    compile files("lib/groovy-swt-0.95-windows-all-${javaVersion}.jar")
 
 }
 
@@ -76,13 +78,15 @@ task copyConfig(type: Copy)  {
 }
 
 
-task cleanup() <<{
-  new File('target/cb2cb - WithDescription.ini').delete()
-  new File('target/cb2cb.ini').delete()
-  new File('target/commas.txt').delete()
-  new File('target/cb2cbnormal').delete()
-  new File('target/templates').delete()
-  new File('target/lib').delete()
+task cleanup() {
+	doLast {
+		new File('target/cb2cb - WithDescription.ini').delete()
+		new File('target/cb2cb.ini').delete()
+		new File('target/commas.txt').delete()
+		new File('target/cb2cbnormal').delete()
+		new File('target/templates').delete()
+		new File('target/lib').delete()
+	}
 }
 
 task makeJavaRecipeJar(type: Jar) {
@@ -91,6 +95,7 @@ task makeJavaRecipeJar(type: Jar) {
 	destinationDir = new File('target')
 	baseName = 'javarecipesnormal'
 	from("../core/$javaRecipesClassDir") {
+      exclude('**/bin/**')
       exclude('**/html/**')
       exclude('**/job/**')
       exclude('**/web/**')
@@ -172,7 +177,7 @@ task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR]) {
 	// avoid duplicate classes in jar
 	duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
-	from('target/classes/main')
+	from('target/classes/groovy/main')
     from('src/main/config/log4j.properties')
 	def  dependencies = configurations.compile
 				.findAll {! (it =~ /core.jar/)} // avoid core.jar dependencies - it will be packed separately
@@ -196,33 +201,35 @@ task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR]) {
 
 
 // Create a XPI file with a right version number.
-task rarPackage(dependsOn: [getCb2cbVersion, makeCb2cbFatJar, copyConfig]) << {
-    // get the version number from the install xml file
-   println "main version: ${project.version}"
-   def resultFile = "../scripts/cb2cb-${project.version}.rar"
-   // delete it if it already exists otherwise winrar will just add to it
-   def f = new File(resultFile)
-   if (f.exists()) f.delete() 
-   // rar the file
-   def stdout = new ByteArrayOutputStream()
-   exec {
-     workingDir = 'target'
-     commandLine('C:/program files/winrar/rar.exe',
-          'a',
-          '-sfxDefault.sfx',
-          resultFile,
-          'cb2cb.jar',
-          'cb2cb.ini',
-          'cb2cb.exe',
-          'cb2cb - WithDescription.ini',
-          'commas.txt',
-		  'extractImagesFromMcx.bat',
-          'templates')
-     standardOutput = stdout
-   }    
+task rarPackage(dependsOn: [getCb2cbVersion, makeCb2cbFatJar, copyConfig]) {
+	doLast {
+		// get the version number from the install xml file
+		println "main version: ${project.version}"
+		def resultFile = "../scripts/cb2cb-${project.version}-${javaVersion}.rar"
+		// delete it if it already exists otherwise winrar will just add to it
+		def f = new File(resultFile)
+		if (f.exists()) f.delete() 
+		// rar the file
+		def stdout = new ByteArrayOutputStream()
+		exec {
+			workingDir = 'target'
+			commandLine('C:/program files/winrar/rar.exe',
+					'a',
+					'-sfxDefault.sfx',
+					resultFile,
+					'cb2cb.jar',
+					'cb2cb.ini',
+					'cb2cb.exe',
+					'cb2cb - WithDescription.ini',
+					'commas.txt',
+					'extractImagesFromMcx.bat',
+					'templates')
+			standardOutput = stdout
+		}
+	}    
 }
 
-task release(dependsOn: [rarPackage, cleanup]) << {
+task release(dependsOn: [rarPackage, cleanup]) {
 }
 
 

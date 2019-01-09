@@ -51,7 +51,7 @@ public class Cb2cb {
         options.addOption("d", false, "log more debug info")
         options.addOption("n", true, "max. number of recipes per output file")
         options.addOption("i", true,
-                "input format:\n\tcrb: BigOven\n\tdvo: Cook'n Pro\n\tfdx: Living Cookbook\n\tfdxz: Living Cookbook (zip archive)\n\tgcf: Now Youre Cooking - binary format\n\tjson: RecipeFox JSON formatn\tmmf: mealmaster\n\tmc2: Mastercook binary cookbook\n\tmxp: Mastercook Export format\n\tmx2: Mastercook xml (default))\n\tmz2: Mastercook archive\n\tnyc: Now You are cooking text format")
+                "input format:\n\tcrb: BigOven\n\tdvo: Cook'n Pro\n\tfdx: Living Cookbook\n\tfdxz: Living Cookbook (zip archive)\n\tgcf: Now Youre Cooking - binary format\n\tjson: RecipeFox JSON formatn\tmmf: mealmaster\n\tmc2: Mastercook binary cookbook\n\tmxp: Mastercook Export format\n\tmx2: Mastercook xml (default))\n\tmz2: Mastercook archive\n\tnyc: Now You are cooking text format\n\tpaprika: Paprika Recipe Manager")
         options.addOption("o", true,
                 "output format:\n\tmmf: mealmaster\n\tmxp: Mastercook Export format\n\tmx2: Mastercook xml (default))\n\tmz2: Mastercook archive\n\tfdx: Living Cookbook\n\tjson: RecipeFox JSON format\n\t<template name>")
         CommandLineParser parser = new PosixParser()
@@ -62,7 +62,7 @@ public class Cb2cb {
         if (args.length == 0 || args.length > 2) {
             throw new RuntimeException('''
 Invalid number of arguments:
-\t-i <auto|crb|dvo|fdx|fdxz|gcf|json|mgourmet|mmf|mx2|mxp|mc2|mz2|nyc|rcp|rpw|txt> : input format\n
+\t-i <auto|crb|dvo|fdx|fdxz|gcf|json|mgourmet|mmf|mx2|mxp|mc2|mz2|nyc|paprika|rcp|rpw|txt> : input format\n
 \t-o <fdx|json|mgourmet|mmf|mx2|mxp|mz2|txt> : output format\n
 <input file>
 <output file> (optional)

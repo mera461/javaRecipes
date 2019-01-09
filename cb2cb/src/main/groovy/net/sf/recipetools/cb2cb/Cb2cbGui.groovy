@@ -13,7 +13,7 @@ import org.codehaus.groovy.runtime.StringBufferWriter
 import org.codehaus.groovy.runtime.InvokerHelper
 
 class Cb2cbGui {
-    static String VERSION = '0.88'
+    static String VERSION = '0.91'
     static String TITLE = "cb2cb - version $VERSION"
     def jface
     def mainapp
@@ -51,7 +51,7 @@ class Cb2cbGui {
                             migLayout( layoutConstraints:"wrap 2", columnConstraints: "[][grow]")
                         	// the input format
                             label('Format:' )
-                            inputformat = combo(style: 'READ_ONLY', items:['CRB', 'DVO', 'FDX', 'FDXZ', 'GCF', 'JSON', 'MGOURMET', 'MMF', 'MC2', 'MX2', 'MXP', 'MZ2', 'NYC', 'RPW', 'TXT'], layoutData:'growx')
+                            inputformat = combo(style: 'READ_ONLY', items:['CRB', 'DVO', 'FDX', 'FDXZ', 'GCF', 'JSON', 'MGOURMET', 'MMF', 'MC2', 'MX2', 'MXP', 'MZ2', 'NYC', 'PAPRIKA', 'RPW', 'TXT'], layoutData:'growx')
                             label('File:' )
                         	// the input file
                         	inputfile = text(layoutData:"growx, split 2" ) {
