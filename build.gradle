@@ -1,25 +1,47 @@
 /********************** ROOT ******************************/
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+	jcenter()
+  }
+  dependencies {
+    classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.6.2"
+	classpath "com.github.ben-manes:gradle-versions-plugin:+"
+  }
+}
+
+// use gradle dependencyUpdates to show dependency updates
+plugins {
+    id 'java'
+	id "com.github.ben-manes.versions" version '0.20.0'
+}
 
 defaultTasks 'build'
+
+ext.groovyVersion = "2.4.15"
 
 subprojects {
 	apply plugin: 'java'
 
 	compileJava.options.encoding = 'UTF-8'
 	compileTestJava.options.encoding = 'UTF-8'
+	sourceCompatibility = "1.8"
+	targetCompatibility = "1.8"
 
 	repositories {
 		mavenLocal()
 		mavenCentral()
-		//url "http://snapshots.repository.codehaus.org/"
-		//url "http://download.java.net/maven/2"
 	}
  
 	dependencies {
-		testCompile 'junit:junit:4.12'
-		compile 'org.slf4j:slf4j-api:1.7.16'
+		testImplementation 'junit:junit:4.12'
+		implementation 'org.slf4j:slf4j-api:1.7.25'
+		implementation 'org.slf4j:slf4j-log4j12:1.7.25'
 		// JSON parser/generator
-		compile 'io.fastjson:boon:0.33'
+		// PS: 0.34 does not support java 11
+		implementation 'io.fastjson:boon:0.34'
 	}	
 	
 }
@@ -27,16 +49,6 @@ subprojects {
 
 /**************** SonarQube config **************************/
 
-buildscript {
-  repositories {
-    maven {
-      url "https://plugins.gradle.org/m2/"
-    }
-  }
-  dependencies {
-    classpath "org.sonarqube.gradle:gradle-sonarqube-plugin:1.1"
-  }
-}
 
 apply plugin: "org.sonarqube"
 
