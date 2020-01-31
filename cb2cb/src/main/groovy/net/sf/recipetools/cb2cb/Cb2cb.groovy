@@ -92,7 +92,7 @@ Invalid number of arguments:
                 
         // load the configuration with "safe" comma structures.
 		println "loading commas.txt"
-        RecipeIngredient.loadSafeCommaStructuresFromFile('commas.txt')
+        Configuration.loadSafeCommaStructuresFromFile('commas.txt')
 
 		try {
 			if (new File(args[0]).isFile()) {
