@@ -14,13 +14,13 @@ buildscript {
 	}
 }
 
-def javaRecipesClassDir = 'target/classes/main' // for the gradle build
-// 'target/classes' // for the eclipse build 
+def javaRecipesClassDir = 'target/classes/java/main' // for the gradle build
+// 'target/classes/java/main' // for the eclipse build 
 
-def javaVersion = 32
+def javaVersion = 64
 
 project.buildDir = 'target'
-//compileGroovy.destinationDir = new File('target/classes')
+//implementationGroovy.destinationDir = new File('target/classes')
 
 defaultTasks 'release'
 
@@ -30,7 +30,7 @@ repositories {
 }
 
 dependencies {
-	compile (project(':core')) {
+	implementation (project(':core')) {
 		exclude group:'net.sf.json-lib', module: 'json-lib'
 		exclude group:'net.sourceforge.nekohtml', module: 'nekohtml'
 		exclude group:'dom4j', module: 'dom4j'
@@ -40,11 +40,55 @@ dependencies {
 		exclude group:'net.sf.opencsv', module: 'opencsv'
 		exclude group:'com.ibm.icu' // is already in groovy-swt
 	}
-    // compile 'org.codehaus.groovy:groovy-swing:2.3.10' // for the binding framework ??
-    // compile 'org.codehaus.groovy:groovy-templates:2.3.10' // for simple text templating -- is already in groovy-all
-	compile 'com.healthmarketscience.jackcess:jackcess:2.2.2'
+	// additional groovy dependencies 
+	implementation ("org.codehaus.groovy:groovy-all:$groovyVersion") {
+//		exclude group: 'info.picocli', module:'picocli' // compiled to java9 ?
+//		exclude group: 'org.codehaus.groovy', module: 'groovy-test-junit5' // compiled to java9
+	}
+/*	
+	implementation 'org.codehaus.groovy:groovy-swing:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-templates:2.5.9'
+	//
+	implementation 'org.codehaus.groovy:groovy:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-ant:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-binary:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-bsf:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-cli-commons:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-datetime:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-dateutil:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-jaxb:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-jmx:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-json:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-json-direct:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-nio:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-sql:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-xml:2.5.9'
+//	implementation 'org.codehaus.groovy:groovy-yaml:2.5.9' Only for groovy 3
+	implementation 'org.codehaus.groovy:groovy-console:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-docgenerator:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-groovydoc:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-groovysh:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-macro:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-jsr223:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-servlet:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-test:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-testng:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-xml:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-xml:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-xml:2.5.9'
+	implementation 'org.codehaus.groovy:groovy-xml:2.5.9'
+*/	
+	// , , , , , , cli-picocli, , , , 
+	//	implementation 'org.codehaus.groovy:groovy-ant:2.5.9'
+	//	implementation 'org.codehaus.groovy:groovy-ant:2.5.9'
+	//	implementation 'org.codehaus.groovy:groovy-ant:2.5.9'
 	
-    compile files("lib/groovy-swt-0.95-windows-all-${javaVersion}.jar")
+	// implementation 'org.codehaus.groovy:groovy-swing:2.3.10' // for the binding framework ??
+    // implementation 'org.codehaus.groovy:groovy-templates:2.3.10' // for simple text templating -- is already in groovy-all
+	implementation 'com.healthmarketscience.jackcess:jackcess:2.2.2'
+	implementation 'commons-cli:commons-cli:1.4'
+	
+    implementation files("lib/groovy-swt-0.95-windows-all-${javaVersion}.jar")
 
 }
 
@@ -103,13 +147,22 @@ task makeJavaRecipeJar(type: Jar) {
 	}
 }
 
+
+ext.allDependencies = { 
+//	println "CORE.DEP=${project(':core').sourceSets.main.compileClasspath.collect()}"
+	def x = configurations.compileClasspath.collect({it})
+	def y = project(':core').sourceSets.main.compileClasspath.collect()
+//	y.each { println "DEP:$it"  }
+	return x.plus(y).flatten().unique()
+}
+
 task obfuscateJR(type: proguard.gradle.ProGuardTask, dependsOn: makeJavaRecipeJar )  {
 	libraryjars    "${System.getProperty('java.home')}/lib/rt.jar" // <java.home> 
 	inputs.file  file('target/javarecipesnormal.jar')
 	outputs.file file('target/javarecipes.jar')
 	injars         'target\\javarecipesnormal.jar'
 	outjars        'target\\javarecipes.jar'
-	configurations.compile.collect {
+	allDependencies().collect {
 			if (it =~ /JavaRecipes/) return 
 			libraryjars	   "$it"
 			//println "*** OBFUSCATE-lib: $it"
@@ -135,6 +188,7 @@ task obfuscateJR(type: proguard.gradle.ProGuardTask, dependsOn: makeJavaRecipeJa
 		keep 'class **.OutputProcessor'
 		keep 'class **.FormatterFactory {public *** getFormatter(...);}'
 		keep 'class **.RecipeFormatter'
+		keep 'class **.Configuration {public static void loadSafeCommaStructuresFromFile(...);}'
 		keep 'class **.Configuration {public static void loadFromFile(...);}'
 		keep 'class **.Configuration {public static *** getStringProperty(...);}'
 		keep 'class **.Recipe{public void normalize();}'
@@ -169,7 +223,7 @@ task obfuscateJR(type: proguard.gradle.ProGuardTask, dependsOn: makeJavaRecipeJa
 
 
 // make a jar of the latest JavaRecipes
-task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR]) {
+task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR/*, makeJavaRecipeJar*/]) {
     outputs.file file('target/cb2cb.jar')
     version = '' 
     destinationDir = new File('target')
@@ -179,16 +233,17 @@ task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR]) {
 
 	from('target/classes/groovy/main')
     from('src/main/config/log4j.properties')
-	def  dependencies = configurations.compile
+	def  dependencies = allDependencies() 
 				.findAll {! (it =~ /core.jar/)} // avoid core.jar dependencies - it will be packed separately
 				.findAll {! (it =~ /groovy-\d/)}    // do not include groovy-2.3.10.jar if groovy-all is included
 				.collect {it.isDirectory() ? it : zipTree(it) } 
-	//println dependencies
+//	println "DEPENDENCIES: $dependencies"
 				
 	from (dependencies) {
       exclude('about_files/**')
       exclude('**.html')
       exclude('**/LICENSE*')
+      exclude('**/INDEX.LIST')
       exclude('**/NOTICE*')
       exclude('**/version.txt')
       exclude('**/groovy-release-info.properties')
@@ -205,7 +260,7 @@ task rarPackage(dependsOn: [getCb2cbVersion, makeCb2cbFatJar, copyConfig]) {
 	doLast {
 		// get the version number from the install xml file
 		println "main version: ${project.version}"
-		def resultFile = "../scripts/cb2cb-${project.version}-${javaVersion}.rar"
+		def resultFile = "../scripts/cb2cb-${project.version}-${javaVersion}-installer.exe"
 		// delete it if it already exists otherwise winrar will just add to it
 		def f = new File(resultFile)
 		if (f.exists()) f.delete() 
@@ -213,9 +268,9 @@ task rarPackage(dependsOn: [getCb2cbVersion, makeCb2cbFatJar, copyConfig]) {
 		def stdout = new ByteArrayOutputStream()
 		exec {
 			workingDir = 'target'
-			commandLine('C:/program files/winrar/rar.exe',
+			commandLine('C:\\Program Files\\7-Zip\\7z.exe',
 					'a',
-					'-sfxDefault.sfx',
+					'-sfx7zCon.sfx',
 					resultFile,
 					'cb2cb.jar',
 					'cb2cb.ini',
