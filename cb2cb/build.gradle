@@ -20,7 +20,7 @@ def javaRecipesClassDir = 'target/classes/java/main' // for the gradle build
 def javaVersion = 64
 
 project.buildDir = 'target'
-//implementationGroovy.destinationDir = new File('target/classes')
+//implementationGroovy.destinationDirectory = new File('target/classes')
 
 defaultTasks 'release'
 
@@ -135,9 +135,9 @@ task cleanup() {
 
 task makeJavaRecipeJar(type: Jar) {
 	outputs.file file('target/javarecipesnormal.jar')
-	version = ''
-	destinationDir = new File('target')
-	baseName = 'javarecipesnormal'
+	project.version = ''
+	destinationDirectory = new File('target')
+	archiveBaseName = 'javarecipesnormal'
 	from("../core/$javaRecipesClassDir") {
       exclude('**/bin/**')
       exclude('**/html/**')
@@ -225,9 +225,9 @@ task obfuscateJR(type: proguard.gradle.ProGuardTask, dependsOn: makeJavaRecipeJa
 // make a jar of the latest JavaRecipes
 task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR/*, makeJavaRecipeJar*/]) {
     outputs.file file('target/cb2cb.jar')
-    version = '' 
-    destinationDir = new File('target')
-    baseName = 'cb2cb'
+    project.version = '' 
+    destinationDirectory = new File('target')
+    archiveBaseName = 'cb2cb'
 	// avoid duplicate classes in jar
 	duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
@@ -270,7 +270,7 @@ task rarPackage(dependsOn: [getCb2cbVersion, makeCb2cbFatJar, copyConfig]) {
 			workingDir = 'target'
 			commandLine('C:\\Program Files\\7-Zip\\7z.exe',
 					'a',
-					'-sfx7zCon.sfx',
+					'-sfx7z.sfx',
 					resultFile,
 					'cb2cb.jar',
 					'cb2cb.ini',
