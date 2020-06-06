@@ -7,7 +7,7 @@ buildscript {
 	jcenter()
   }
   dependencies {
-    classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.6.2"
+    classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.8.0.1969"
 	classpath "com.github.ben-manes:gradle-versions-plugin:+"
   }
 }
@@ -15,7 +15,7 @@ buildscript {
 // use gradle dependencyUpdates to show dependency updates
 plugins {
     id 'java'
-	id "com.github.ben-manes.versions" version '0.20.0'
+	id "com.github.ben-manes.versions" version '0.27.0'
 }
 
 defaultTasks 'build'
@@ -36,7 +36,7 @@ subprojects {
 	}
  
 	dependencies {
-		testImplementation 'junit:junit:4.12'
+		testImplementation 'junit:junit:4.13'
 		implementation 'org.slf4j:slf4j-api:1.7.25'
 		implementation 'org.slf4j:slf4j-log4j12:1.7.25'
 		// JSON parser/generator
