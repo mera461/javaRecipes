@@ -94,17 +94,6 @@ dependencies {
 
 def proguardFile
 
-task getCb2cbVersion()  {
-	// get the version number from the install xml file
-	project.version = '1.00'
-	new File("$projectDir/src/main/groovy/net/sf/recipetools/cb2cb/Cb2cbGui.groovy").eachLine { line ->
-		def m = line =~ /static String VERSION = '([\d\.]+)'/
-		if (m.find()) project.version = m[0][1]
-	}
-	//println "version: $version"
-}
-
-
 // copy the lastest commas.txt file to cb2cb
 task copyConfig(type: Copy)  {
   from('../core/commas.txt')
@@ -135,7 +124,7 @@ task cleanup() {
 
 task makeJavaRecipeJar(type: Jar) {
 	outputs.file file('target/javarecipesnormal.jar')
-	project.version = ''
+	archiveVersion = ''
 	destinationDirectory = new File('target')
 	archiveBaseName = 'javarecipesnormal'
 	from("../core/$javaRecipesClassDir") {
@@ -225,7 +214,7 @@ task obfuscateJR(type: proguard.gradle.ProGuardTask, dependsOn: makeJavaRecipeJa
 // make a jar of the latest JavaRecipes
 task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR/*, makeJavaRecipeJar*/]) {
     outputs.file file('target/cb2cb.jar')
-    project.version = '' 
+    archiveVersion = '' 
     destinationDirectory = new File('target')
     archiveBaseName = 'cb2cb'
 	// avoid duplicate classes in jar
@@ -256,11 +245,16 @@ task makeCb2cbFatJar(type: Jar, dependsOn: [compileGroovy, obfuscateJR/*, makeJa
 
 
 // Create a XPI file with a right version number.
-task rarPackage(dependsOn: [getCb2cbVersion, makeCb2cbFatJar, copyConfig]) {
+task rarPackage(dependsOn: [makeCb2cbFatJar, copyConfig]) {
 	doLast {
 		// get the version number from the install xml file
-		println "main version: ${project.version}"
-		def resultFile = "../scripts/cb2cb-${project.version}-${javaVersion}-installer.exe"
+		def version = '1.00'
+		new File("$projectDir/src/main/groovy/net/sf/recipetools/cb2cb/Cb2cbGui.groovy").eachLine { line ->
+			def m = line =~ /static String VERSION = '([\d\.]+)'/
+			if (m.find()) version = m[0][1]
+		}
+		println "version: $version"
+		def resultFile = "../scripts/cb2cb-$version-${javaVersion}-installer.exe"
 		// delete it if it already exists otherwise winrar will just add to it
 		def f = new File(resultFile)
 		if (f.exists()) f.delete() 

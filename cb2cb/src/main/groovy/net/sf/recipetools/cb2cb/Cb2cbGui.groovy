@@ -13,7 +13,7 @@ import org.codehaus.groovy.runtime.StringBufferWriter
 import org.codehaus.groovy.runtime.InvokerHelper
 
 class Cb2cbGui {
-    static String VERSION = '0.92'
+    static String VERSION = '0.93'
     static String TITLE = "cb2cb - version $VERSION"
     def jface
     def mainapp
