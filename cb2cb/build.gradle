@@ -85,7 +85,7 @@ dependencies {
 	
 	// implementation 'org.codehaus.groovy:groovy-swing:2.3.10' // for the binding framework ??
     // implementation 'org.codehaus.groovy:groovy-templates:2.3.10' // for simple text templating -- is already in groovy-all
-	implementation 'com.healthmarketscience.jackcess:jackcess:2.2.2'
+	// implementation 'com.healthmarketscience.jackcess:jackcess:2.2.2'
 	implementation 'commons-cli:commons-cli:1.4'
 	
     implementation files("lib/groovy-swt-0.95-windows-all-${javaVersion}.jar")
