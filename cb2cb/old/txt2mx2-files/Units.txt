@@ -1,0 +1,326 @@
+None of these should be changed. What is seen below is what should be seen in the Units column in Mastercook.
+Sorry about the order - I sorted it in Excel.
+
+(.75-ounce) package
+(.75-ounce) packages
+(.77-ounce) envelope
+(.77-ounce) envelopes
+(0.3-ounce) package
+(0.3-ounce) packages
+(0.6-ounce) package
+(0.6-ounce) packages
+(0.9-ounce) package
+(0.9-ounce) packages
+(1 1/2 x 1/2-inch) strip
+(1 1/2 x 1/2-inch) strips
+(1 1/2-ounce) slice
+(1 1/2-ounce) slices
+(1 3/4-ounce) package
+(1 3/4-ounce) packages
+(1 pound) container
+(1 pound) containers
+(1 x 4-inch) strip
+(1 x 4-inch) strips
+(1.25-ounce) envelope
+(1.25-ounce) envelopes
+(1.25-ounce) package
+(1.25-ounce) packages
+(1.3-ounce) package
+(1.3-ounce) packages
+(1.4-ounce) package
+(1.4-ounce) packages
+(1.5-ounce) slice
+(1.5-ounce) slices
+(1/2-inch) piece
+(1/2-inch) pieces
+(1/2-inch) slice
+(1/2-inch) slices
+(1/2-inch-thick) diagonally cut slice
+(1/2-inch-thick) diagonally cut slices
+(1/2-inch-thick) slice
+(1/2-inch-thick) slices
+(1/2-ounce) slice
+(1/2-ounce) slices
+(1/2-pound) package
+(1/2-pound) packages
+(1/4-inch-thick) ring
+(1/4-inch-thick) rings
+(1/4-inch-thick) slice
+(1/4-inch-thick) slices
+(1/8-inch) slice
+(1/8-inch) slices
+(1/8-inch-thick) slice
+(1/8-inch-thick) slices
+(10 1/2-ounce) can
+(10 1/2-ounce) cans
+(10 1/2-ounce) loaf
+(10 1/2-ounce) loaves
+(10 ounce) container
+(10 ounce) containers
+(10.25-ounce) package
+(10.25-ounce) packages
+(10.5-ounce) package
+(10.5-ounce) packages
+(10.75-ounce) can
+(10.75-ounce) cans
+(10-ounce) bag
+(10-ounce) bags
+(10-ounce) box
+(10-ounce) boxes
+(10-ounce) can
+(10-ounce) cans
+(10-ounce) loaf
+(10-ounce) loaves
+(10-ounce) package
+(10-ounce) packages
+(11.5-ounce) bottle
+(11.5-ounce) bottles
+(11-ounce) can
+(11-ounce) cans
+(11-ounce) package
+(11-ounce) packages
+(12 ounce) container
+(12 ounce) containers
+(12.3-ounce) package
+(12.3-ounce) packages
+(12-ounce) bag
+(12-ounce) bags
+(12-ounce) bottle
+(12-ounce) bottles
+(12-ounce) carton
+(12-ounce) cartons
+(12-ounce) package
+(12-ounce) packages
+(13 1/2-ounce) can
+(13 1/2-ounce) cans
+(13 3/4-ounce) can
+(13 3/4-ounce) cans
+(13.5-ounce) bag
+(13.5-ounce) bags
+(13.5-ounce) can
+(13.5-ounce) cans
+(13.8-ounce) can
+(13.8-ounce) cans
+(13-ounce) jar
+(13-ounce) jars
+(14 1/2-ounce) can
+(14 1/2-ounce) cans
+(14 1/4-ounce) can
+(14 1/4-ounce) cans
+(14 3/4-ounce) can
+(14 3/4-ounce) cans
+(14 x 9-inch) sheet
+(14 x 9-inch) sheets
+(14.4-ounce) can
+(14.4-ounce) cans
+(14.5-ounce) can
+(14.5-ounce) cans
+(14-ounce) can
+(14-ounce) cans
+(15 1/2-ounce) can
+(15 1/2-ounce) cans
+(15.5-ounce) can
+(15.5-ounce) cans
+(15.8-ounce) can
+(15.8-ounce) cans
+(15-ounce) can
+(15-ounce) cans
+(15-ounce) carton
+(15-ounce) cartons
+(15-ounce) package
+(15-ounce) packages
+(16 ounce) container
+(16 ounce) containers
+(16.7-ounce) package
+(16.7-ounce) packages
+(16-ounce) bag
+(16-ounce) bags
+(16-ounce) box
+(16-ounce) boxes
+(16-ounce) can
+(16-ounce) cans
+(16-ounce) jar
+(16-ounce) jars
+(16-ounce) package
+(16-ounce) packages
+(16-ounce) tube
+(16-ounce) tubes
+(18.25-ounce) package
+(18.25-ounce) packages
+(19-ounce) can
+(19-ounce) cans
+(1-inch) piece
+(1-inch) pieces
+(1-inch-thick) slice
+(1-inch-thick) slices
+(1-ounce) bunch
+(1-ounce) diagonally-cut slice
+(1-ounce) diagonally-cut slices
+(1-ounce) package
+(1-ounce) packages
+(1-ounce) slice
+(1-ounce) slices
+(1-ounce) square
+(1-ounce) squares
+(1-pound) bag
+(1-pound) bags
+(1-pound) loaf
+(1-pound) loaves
+(1-pound) package
+(1-pound) packages
+(1-pound) slice
+(1-pound) slices
+(2 1/2-ounce) jar
+(2 1/2-ounce) jars
+(2 1/4-ounce) can
+(2 1/4-ounce) cans
+(2 x 1/2-inch) strip
+(2 x 1/2-inch) strips
+(2.1-ounce) package
+(2.1-ounce) packages
+(2/3-ounce) slice
+(2/3-ounce) slices
+(20-ounce) can
+(20-ounce) cans
+(20-ounce) package
+(20-ounce) packages
+(25 1/2-ounce) jar
+(25 1/2-ounce) jars
+(25.4-ounce) bottle
+(25.4-ounce) bottles
+(25-ounce) jar
+(25-ounce) jars
+(26-ounce) jar
+(26-ounce) jars
+(27.5-ounce) jar
+(27.5-ounce) jars
+(28-ounce) can
+(28-ounce) cans
+(29-ounce) can
+(29-ounce) cans
+(2-inch) piece
+(2-inch) pieces
+(2-inch-thick) slice
+(2-inch-thick) slices
+(2-ounce) jar
+(2-ounce) jars
+(2-ounce) slice
+(2-ounce) slices
+(3 1/2-ounce) bag
+(3 1/2-ounce) bags
+(3 1/2-ounce) package
+(3 1/2-ounce) packages
+(3/4-inch-thick) slice
+(3/4-inch-thick) slices
+(3/4-ounce) slice
+(3/4-ounce) slices
+(30-ounce) package
+(30-ounce) packages
+(32-ounce) carton
+(32-ounce) cartons
+(32-ounce) package
+(32-ounce) packages
+(33.8-ounce) bottle
+(33.8-ounce) bottles
+(3-inch) piece
+(3-inch) pieces
+(3-inch) strip
+(3-inch) strips
+(3-inch-thick) slice
+(3-inch-thick) slices
+(3-ounce) package
+(3-ounce) packages
+(4.5-ounce) can
+(4.5-ounce) cans
+(4.9-ounce) package
+(4.9-ounce) packages
+(4/5-ounce) slice
+(4/5-ounce) slices
+(46-ounce) can
+(46-ounce) cans
+(48-ounce) bottle
+(48-ounce) bottles
+(4-ounce) can
+(4-ounce) cans
+(4-ounce) carton
+(4-ounce) cartons
+(4-ounce) jar
+(4-ounce) jars
+(4-ounce) package
+(4-ounce) packages
+(5 1/2-ounce) bottle
+(5 1/2-ounce) bottles
+(5 1/2-ounce) can
+(5 1/2-ounce) cans
+(5 1/3-ounce) can
+(5 1/3-ounce) cans
+(5.25-ounce) package
+(5.25-ounce) packages
+(5-inch) stalk
+(5-inch) stalks
+(6 1/8-ounce) can
+(6 1/8-ounce) cans
+(6-ounce) bag
+(6-ounce) bags
+(6-ounce) can
+(6-ounce) cans
+(6-ounce) jar
+(6-ounce) jars
+(6-ounce) package
+(6-ounce) packages
+(7.3-ounce) jar
+(7.3-ounce) jars
+(7.5-ounce) can
+(7.5-ounce) cans
+(7.5-ounce) jar
+(7.5-ounce) jars
+(7/8-ounce) package
+(7/8-ounce) packages
+(750-milliliter) bottle
+(750-milliliter) bottles
+(7-ounce) bag
+(7-ounce) bags
+(7-ounce) bottle
+(7-ounce) bottles
+(7-ounce) can
+(7-ounce) cans
+(7-ounce) package
+(7-ounce) packages
+(8 1/2-ounce) can
+(8 1/2-ounce) cans
+(8 1/2-ounce) package
+(8 1/2-ounce) packages
+(8 1/4-ounce) can
+(8 1/4-ounce) cans
+(8 3/4-ounce) can
+(8 3/4-ounce) cans
+(8 ounce) container
+(8 ounce) containers
+(8.5-ounce) bottle
+(8.5-ounce) bottles
+(8.5-ounce) can
+(8.5-ounce) cans
+(8.5-ounce) package
+(8.5-ounce) packages
+(8.8-ounce) package
+(8.8-ounce) packages
+(8-ounce) bag
+(8-ounce) bags
+(8-ounce) block
+(8-ounce) blocks
+(8-ounce) bottle
+(8-ounce) bottles
+(8-ounce) can
+(8-ounce) cans
+(8-ounce) carton
+(8-ounce) cartons
+(8-ounce) loaf
+(8-ounce) loaves
+(8-ounce) package
+(8-ounce) packages
+(8-ounce) round
+(8-ounce) rounds
+(8-ounce) tub
+(8-ounce) tubs
+(9-ounce) package
+(9-ounce) packages

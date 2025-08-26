@@ -1,0 +1,371 @@
+#NuCorrections.txt - 20080217
+# This file corrects spelling, accentuation, and identifies ingredient field to preparation field breaks that are not identified by use of a comma in the ingredient line after the ingredient name.
+# Lines that start with # are ignored.
+
+#The following items change 'smart' quotes to plain quotes, etc.
+’	'
+‘	'
+“	"
+”	"
+
+The following items should always be ALL CAPS throughout a recipe.
+ abm 	 ABM 
+ bbq 	 BBQ 
+ Bbq 	 BBQ 
+ bhg 	 BHG 
+ bh&g 	 BH&G 
+ blt 	 BLT 
+ Blt 	 BLT 
+ lhj 	 LHJ 
+ p b-&-j	 P B-&-J
+ P b-&-j	 P B-&-J
+ qc 	 QC 
+ tnt 	 TNT 
+ toh 	 TOH 
+ usa 	 USA 
+ Usa 	 USA 
+ u.s.a. 	 U.S.A. 
+ ussr 	 USSR 
+ ww 	 WW 
+
+#The following items identify how to expand abbreviations.
+1 fl. oz.	1 fluid ounce
+1 fl oz	1 fluid ounce
+ fl. oz.	 fluid ounces
+ fl oz	 fluid ounces
+-oz.	-ounce
+-oz	-ounce
+1 oz.	1 ounce
+1 oz	1 ounce
+oz.	ounces
+oz	ounces
+-lb.	-pound
+-lb	-pound
+1 lb.	1 pound
+1 lb	1 pound
+ lb.	 pounds
+ lb	 pounds
+1 tsp.	1 teaspoon
+1 tsp	1 teaspoon
+ tsp.	 teaspoons
+ tsp	 teaspoons
+1 t.	1 teaspoon
+1 t	1 teaspoon
+ t.	 teaspoons
+ #t 	 teaspoons 
+1 tbs.	1 tablespoon
+1 tbs	1 tablespoon
+ tbs.	 tablespoons
+ tbs	 tablespoons
+1 tbsp.	1 tablespoon
+1 tbsp	1 tablespoon
+ tbsp.	 tablespoons
+ tbsp	 tablespoons
+1 tbls.	1 tablespoon
+1 tbls	1 tablespoon
+ tbls.	 tablespoons
+ tbls	 tablespoons
+1 T.	1 tablespoon 
+1 T 	1 tablespoon 
+ T.	 tablespoons 
+# T 	 tablespoons 
+1 c.	1 cup
+1 c 	1 cup 
+ c.	 cups
+ c 	 cups 
+1 pt.	1 pint
+1 pt	1 pint
+ pt.	 pints
+ pt 	 pints 
+1 qt.	1 quart
+1 qt	1 quart
+ qt.	 quarts
+ qt	 quarts
+1 gal.	1 gallon
+1 gal 	1 gallon 
+ gal.	 gallons
+ gal 	 gallons 
+ doz.	 dozen
+ doz 	 dozen 
+-in.	-inch
+
+##TT.	to taste 
+##TT 	to taste 
+
+Dash of	1 dash
+
+#The following items identify spelling and accentuation errors anywhere within a recipe.
+a la 	à la 
+A la	À la 
+aioli	aïoli	
+Aioli	Aïoli
+Albondigas	Albóndigas
+albondigas	albóndigas
+all purpose	all-purpose
+All purpose	All-purpose
+Bechamel	Béchamel
+bechamel	béchamel
+bernaise	bérnaise
+Bernaise	Bérnaise
+Bouchees	Bouchées
+bouchees	bouchées
+brisee	brisée
+Brisee	Brisée
+BRULEE	BRÛLÉE
+Brulee	Brûlée
+brulee	brûlée
+Brulot	Brûlot
+brulot	brûlot
+Cafe	Café
+cafe	café
+Caffe	Caffé
+caffe	caffé
+Canape	Canapé
+canape	canapé
+Careme	Carême
+careme	carême
+Chateaubriand	Châteaubriand
+chateaubriand	Châteaubriand
+chevre	Chèvre
+Chevre	Chèvre
+Concasse	Concassée
+concasse	concassée
+concassee	Concassée
+Concassee	concassée
+Consumme	Consummé
+consumme	consummé
+Cotes	Côtes
+cotes	côtes
+Creme	Crème
+creme	crème
+Crepe	Crêpe
+crepe	crêpe
+Crudite	Crudité
+crudite	crudité
+Dash of 	1 dash 
+deep fat	deep-fat
+Deep fat	Deep-fat
+Eclair	Éclair
+eclair	éclair
+Entree	Entrée
+entree	entrée
+fat free	fat-free
+File	Filé
+file	filé
+Flambe	Flambé
+flambe	flambé
+fraiche	fraîche
+Fraiche	Fraîche
+Gateau	Gâteau
+gateau	gâteau
+Gewurztraminer	Gewürztraminer
+Glace	Glacé
+glace	glacé
+Gratine	Gratiné
+gratine	gratiné
+Gratinee	Gratinée
+gratinee	gratinée
+Gruyere	Gruyère
+gruyere	gruyère
+Habanero	Habañero
+habanero	habañero
+Highheat	High-heat
+highheat	high-heat
+JALAPENO	JALAPEÑO
+Jalapeno	Jalapeño
+jalapeno	jalapeño
+Jalapefio	Jalapeño
+Jalapeflo	Jalapeño
+jalape?o	jalapeño
+Jicama	Jícama
+jicama	jícama
+Kahlua	Kahlúa
+less sodium	less-sodium
+low sodium	low-sodium
+lowersalt	lower-salt
+Limon	Limón
+limon	limón
+Lowheat	Low-heat
+lowheat	low-heat
+mache	mâche
+Mache	Mâche
+Mariniere	Marinière
+medium high	medium-high
+mediumhigh	Medium-high
+medium low	medium-low
+Neufchatel	Neufchâtel
+Nicoise	Niçoise
+nicoise	niçoise
+Noel	Noël
+pan fry	pan-fry
+Pan fry	Pan-fry
+Pate	Pâté
+pate	pâté
+Patissiere	Pâtissière
+patissiere	pâtissière
+Pina	Piña
+pina	piña
+Piperade	Pipérade
+piperade	pipérade
+Pique	Piqué
+pique	piqué
+PROVENCALE	PROVENÇALE
+Provencale	Provençale
+provencale	provençale
+Puree	Purée
+puree	purée
+pureed	puréed
+Ragout	Ragoût
+ragout	ragoût
+Ragu	Ragù
+ragu	ragù
+reduced fat	reduced-fat
+Remoulade	Rémoulade
+remoulade	rémoulade
+Salpicon	Salpicón
+salpicon	salpicón
+Sate	Saté
+sate	saté
+saute	sauté
+Saute	Sauté
+saut?	sauté
+short grain	short-grain
+soft cooked	soft-cooked
+Souffles	Soufflés
+souffles	soufflés
+Souffle	Soufflé
+souffle	soufflé
+Veloute	Velouté
+veloute	velouté
+Veronique	Véronique
+veronique	véronique
+Flatleaf	Flat-leaf
+flatleaf	flat-leaf
+long grain	long-grain
+short grain	short-grain
+whole grain	whole-grain
+whole wheat	whole-wheat
+Medium-size	medium
+medium-size	medium
+Reducedfat	Reduced-fat
+reducedfat	reduced-fat
+
+#The following items identify ingredient>prep field breaks where 'or' appears in ingredient lines.
+ or almonds	 -- or almonds
+ or butternut	 -- or butternut
+ or cherries	 -- or cherries
+ or cotto	 -- or cotto
+ or fresh	 -- or fresh
+ or frozen	 -- or frozen
+ or margarine	 -- or margarine
+ or mini eggs	 -- or mini eggs
+ or natural	 -- or natural
+ or nectarines	 -- or nectarines
+ or nutmeg	 -- or nutmeg
+ or other	 -- or other
+ or parsley	 -- or parsley
+ or pecans	 -- or pecans
+ or pineapple	 -- or pineapple
+ or pistachios	 -- or pistachios
+ or raisins	 -- or raisins
+ or ranch	 -- or ranch
+ or sliced	 -- or sliced
+ or shelled	 -- or shelled
+ or soy	 -- or soy
+ or torn	 -- or torn
+
+apple cider or juice	apple cider -- or apple juice
+apricot jam or conserve	apricot jam -- or apricot conserve
+balsamic or sherry vinegar	balsamic vinegar -- or sherry vinegar
+basil or	basil -- or
+blueberries or	blueberries -- or
+bow-tie or farfalle pasta	bow-tie pasta -- or farfalle pasta
+broiler or fryer chicken	broiler -- or fryer chicken
+chicken stock or broth	chicken stock -- or chicken broth
+coffee or vanilla ice cream	coffee ice cream -- or vanilla ice cream
+cornmeal or	cornmeal -- or
+cranberries or	cranberries -- or
+crunchy or creamy peanut butter	crunchy peanut butter -- or creamy peanut butter
+dark rum or 	dark rum -- or 
+dark sweet or bittersweet chocolate	dark sweet chocolate -- or bittersweet chocolate
+egg whites or 	egg whites -- or 
+extract or	extract -- OR
+fontina or provolone cheese	fontina cheese -- or provolone cheese
+French or blue	French salad dressing -- or blue
+fresh or frozen blueberries	fresh blueberries -- or frozen blueberries
+fresh or frozen cranberries	fresh cranberries -- or frozen cranberries
+frozen or fresh blueberries	frozen blueberries -- or fresh blueberries
+frozen or fresh cranberries	frozen cranberries -- or fresh cranberries
+half-and-half or light cream	half-and-half -- or light cream
+harina or	harina -- or
+milk or dark chocolate	milk chocolate -- or dark chocolate
+nonfat or low-fat cream cheese	nonfat cream cheese -- or low-fat cream cheese
+noodles or	noodles -- or
+oregano or 	oregano -- or 
+orange or lemon curd	orange curd -- or lemon curd
+parsley or 	parsley -- or 
+parsnips or	parsnips -- or
+pears or	pears -- or
+pear or	pear -- or
+red or green gelatin	red gelatin -- or green gelatin
+red or yellow pepper	red pepper -- or yellow pepper
+rice or 	rice -- or 
+rolls or	rolls -- or
+semisweet or bittersweet chocolate	semisweet chocolate -- or bittersweet chocolate
+square or round won ton	square won ton -- or round won ton
+slivered or flaked almonds	slivered almonds -- or flaked almonds
+tomato or	tomato -- or
+tarragon or	tarragon -- or
+turkey or chicken	turkey -- or chicken
+thyme or	thyme -- or
+vanilla or chocolate chip ice cream	vanilla ice cream -- or chocolate chip ice cream
+vinegar or 	vinegar -- or 
+yellow or white cornmeal	yellow cornmeal -- or white cornmeal
+
+#The following items identify other ingredient>prep breaks in ingredient lines
+# (100°	 -- (100°
+# (105°	 -- (105°
+# (110°	 -- (110°
+# (120°	 -- (120°
+ 
+#(about 	 -- (about 
+#amaretto (almond	amaretto -- (almond
+# (apple	 -- (apple
+# (at room temperature)	 -- (at room temperature)
+# (black currant-flavored	 -- (black currant-flavored
+#breast (skinned	breast -- (skinned
+#bulgur (cracked	 bulgur -- (cracked
+#capellini (angel	capellini -- (angel
+#chèvre (mild	chèvre -- (mild
+# (coffee-flavored	 -- (coffee-flavored
+# (cooked without	 -- (cooked without
+#crumbs (about	crumbs -- (about
+#Midori (melon	Midori -- (melon
+#miso (soybean	miso -- (soybean
+#mostaccioli (tube	mostaccioli -- (tube
+# (optional)	 -- (optional)
+# (orange-flavored	 -- (orange-flavored
+# (packed without	 -- (packed without
+# penne (short	 penne -- (short
+# penne (tubular	 penne -- (tubular
+ plus	 -- PLUS
+ PLUS	 -- PLUS
+#radiators (short	radiators -- (short
+# (reserved	 -- (reserved
+# (such as	 -- (such as
+# (sweet rice wine)	 -- (sweet rice wine)
+# tahini (sesame-seed	 tahini -- (sesame-seed
+# (without salt	 -- (without salt
+
+#The following items correct errors caused by running this file in NoteTab.
+'teaspoons 	't 
+ -- -- 	 -- 
+,,	,
+, -- 	, 
+, chopped -- 	, chopped 
+, halved -- 	, halved 
+#, quartered -- (about	, quartered (about
+ -- or other airtight lid	 or other airtight lid
+cups -- PLUS 	cups plus 
+cup -- PLUS 	cup plus 
+charlotte -- PLUS	charlotte plus

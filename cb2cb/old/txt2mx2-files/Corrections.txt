@@ -1,0 +1,614 @@
+º	°
+’	'
+‘	'
+“	"
+”	"
+
+1 fl. oz.	1 fluid ounce
+1 fl oz	1 fluid ounce
+ fl. oz.	 fluid ounces
+ fl oz	 fluid ounces
+-oz.	-ounce
+-oz	-ounce
+1 oz.	1 ounce
+1 oz	1 ounce
+oz.	ounces
+oz	ounces
+-lb.	-pound
+-lb	-pound
+1 lb.	1 pound
+1 lb	1 pound
+ lb.	 pounds
+ lb	 pounds
+1 tsp.	1 teaspoon
+1 tsp	1 teaspoon
+ tsp.	 teaspoons
+ tsp	 teaspoons
+1 t.	1 teaspoon
+1 t	1 teaspoon
+ t.	 teaspoons
+ t 	 teaspoons 
+1 tbs.	1 tablespoon
+1 tbs	1 tablespoon
+ tbs.	 tablespoons
+ tbs	 tablespoons
+1 tbsp.	1 tablespoon
+1 tbsp	1 tablespoon
+ tbsp.	 tablespoons
+ tbsp	 tablespoons
+1 T.	1 tablespoon 
+1 T 	1 tablespoon 
+ T.	 tablespoons 
+ T 	 tablespoons 
+1 c.	1 cup
+1 c 	1 cup 
+ c.	 cups
+ c 	 cups 
+1 pt.	1 pint
+1 pt	1 pint
+ pt.	 pints
+ pt 	 pints 
+1 qt.	1 quart
+1 qt	1 quart
+ qt.	 quarts
+ qt	 quarts
+1 gal.	1 gallon
+1 gal 	1 gallon 
+ gal.	 gallons
+ gal 	 gallons 
+ doz.	 dozen
+ doz 	 dozen 
+-in.	-inch
+
+TT.	to taste 
+TT 	to taste 
+
+a la 	à la 
+A la	À la 
+aioli	aïoli	
+Aioli	Aïoli
+Albondigas	Albóndigas
+albondigas	albóndigas
+all purpose	all-purpose
+All purpose	All-purpose
+Bechamel	Béchamel
+bechamel	béchamel
+bernaise	bérnaise
+Bernaise	Bérnaise
+Bouchees	Bouchées
+bouchees	bouchées
+brisee	brisée
+Brisee	Brisée
+Brulee	Brûlée
+brulee	brûlée
+Brulot	Brûlot
+brulot	brûlot
+Cafe	Café
+cafe	café
+Caffe	Caffé
+caffe	caffé
+Canape	Canapé
+canape	canapé
+Careme	Carême
+careme	carême
+Chateaubriand	Châteaubriand
+chateaubriand	châteaubriand
+chevre	chèvre
+Chevre	Chèvre
+Concasse	Concassée
+concasse	concassée
+concassee	Concassée
+Concassee	concassée
+Consumme	Consummé
+consumme	consummé
+Cotes	Côtes
+cotes	côtes
+Creme	Crème
+creme	crème
+Crepe	Crêpe
+crepe	crêpe
+Crudite	Crudité
+crudite	crudité
+Dash of 	1 dash 
+deep fat	deep-fat
+Deep fat	Deep-fat
+Eclair	Éclair
+eclair	éclair
+Entree	Entrée
+entree	entrée
+fat free	fat-free
+File	Filé
+file	filé
+Flambe	Flambé
+flambe	flambé
+fraiche	fraîche
+Fraiche	Fraîche
+Gateau	Gâteau
+gateau	gâteau
+Gewurztraminer	Gewürztraminer
+Glace	Glacé
+glace	glacé
+Gratine	Gratiné
+gratine	gratiné
+Gratinee	Gratinée
+gratinee	gratinée
+Gruyere	Gruyère
+gruyere	gruyère
+Habanero	Habañero
+habanero	habañero
+Highheat	High-heat
+highheat	high-heat
+Jalapeno	Jalapeño
+jalapeno	jalapeño
+Jalapefio	Jalapeño
+Jalapeflo	Jalapeño
+jalape?o	jalapeño
+Jicama	Jícama
+jicama	jícama
+Kahlua	Kahlúa
+less sodium	less-sodium
+low sodium	low-sodium
+lowersalt	lower-salt
+Limon	Limón
+limon	limón
+Lowheat	Low-heat
+lowheat	low-heat
+mache	mâche
+Mache	Mâche
+Mariniere	Marinière
+medium high	medium-high
+mediumhigh	Medium-high
+medium low	medium-low
+Neufchatel	Neufchâtel
+Nicoise	Niçoise
+nicoise	niçoise
+Noel	Noël
+pan fry	pan-fry
+Pan fry	Pan-fry
+Pate	Pâté
+pate	pâté
+Patissiere	Pâtissière
+patissiere	pâtissière
+Pina	Piña
+pina	piña
+Piperade	Pipérade
+piperade	pipérade
+Pique	Piqué
+pique	piqué
+Provencale	Provençale
+provencale	provençale
+Puree	Purée
+puree	purée
+pureed	puréed
+Ragout	Ragoût
+ragout	ragoût
+Ragu	Ragù
+ragu	ragù
+reduced fat	reduced-fat
+Remoulade	Rémoulade
+remoulade	rémoulade
+Salpicon	Salpicón
+salpicon	salpicón
+Sate	Saté
+sate	saté
+saute	sauté
+Saute	Sauté
+saut?	sauté
+short grain	short-grain
+soft cooked	soft-cooked
+Souffle	Soufflé
+souffle	soufflé
+Veloute	Velouté
+veloute	velouté
+Veronique	Véronique
+veronique	véronique
+Flatleaf	Flat-leaf
+flatleaf	flat-leaf
+long grain	long-grain
+short grain	short-grain
+whole grain	whole-grain
+whole wheat	whole-wheat
+Medium-size	medium
+medium-size	medium
+Reducedfat	Reduced-fat
+reducedfat	reduced-fat
+
+, packed without oil	#C# packed without oil
+chopped, unpeeled	chopped#C# unpeeled
+cooked, cubed	cooked#C# cubed
+cooked, mashed	cooked#C# mashed
+cooked, shelled 	cooked#C# shelled 
+cooked, shelled, 	cooked#C# shelled#C# 
+cubed, unpeeled	cubed#C# unpeeled
+diced, unpeeled	diced#C# unpeeled
+drained, chopped	drained#C# chopped
+fat-free, less-sodium	fat-free#C# less-sodium
+fine, dry	fine#C# dry
+firm, ripe	firm#C# ripe
+lean, bone-in	lean#C# bone-in
+lean, boneless	lean#C# boneless
+lean, lower	lean#C# lower
+mashed, unsweetened	mashed#C# unsweetened
+natural-style, reduced fat	natural-style#C# reduced fat
+ packed, chopped	packed#C# chopped
+peeled, (1/2-inch)	peeled#C# (1/2-inch)
+peeled, chopped	peeled#C# chopped
+peeled, chopped,	peeled#C# chopped#C#
+peeled, coarsely	peeled#C# coarsely
+peeled, cored	peeled#C# cored
+peeled, cubed	peeled#C# cubed
+peeled, diced	peeled#C# diced
+peeled, grated	peeled#C# grated
+peeled, mashed	peeled#C# mashed
+peeled, minced	peeled#C# minced
+peeled, seeded,	peeled#C# seeded#C# 
+peeled, shredded	peeled#C# shredded
+peeled, sliced	peeled#C# sliced
+peeled, thinly sliced	peeled#C# thinly sliced
+penne (tubular	penne -- (tubular
+pitted, chopped	pitted#C# chopped
+pitted, halved	pitted#C# halved
+prewashed, chopped	prewashed#C# chopped
+reduced-fat, low-salt	reduced-fat#C# low-salt
+seeded, coarsely	seeded#C# coarsely
+seeded, chopped	seeded#C# chopped
+seeded, cubed	seeded#C# cubed
+seeded, diced	seeded#C# diced
+seeded, finely	seeded#C# finely
+seeded, minced	seeded#C# minced
+seeded, sliced	seeded#C# sliced
+seeded, thinly	seeded#C# thinly
+shredded, cooked	shredded#C# cooked
+skinned, boned	skinned#C# boned
+skinned, boned, shredded	skinned#C# boned#C# shredded
+skinless, boneless	skinless#C# boneless
+small, firm	smallC#C firm
+smoked, fully cooked	smoked#c# fully cooked
+thawed, drained, and squeezed	thawed#C# drained#C# and squeezed
+trimmed, chopped	trimmed#C# chopped
+trimmed, coarsely chopped	trimmed#C# coarsely chopped
+trimmed, halved Brussels	trimmed#C# halved Brussels
+unpeeled, diced	unpeeled#C# diced
+unpeeled, seeded,	unpeeled#C# seeded,#C#
+
+ (100°	 -- (100°
+ (105°	 -- (105°
+ (110°	 -- (110°
+ (120°	 -- (120°
+0?	0°
+5?	5°
+
+ (about 	 -- (about 
+amaretto (almond	amaretto -- (almond
+ (apple brandy)	 -- (apple brandy)
+ (at room temperature)	 -- (at room temperature)
+ (black currant-flavored	 -- (black currant-flavored
+breast (skinned	breast -- (skinned
+bulgur (cracked	 bulgur -- (cracked
+capellini (angel	capellini -- (angel
+ (coffee-flavored	 -- (coffee-flavored
+ (cooked without	 -- (cooked without
+Midori (melon	Midori -- (melon
+miso (soybean	miso -- (soybean
+ (optional)	 -- (optional)
+ or 	 -- or 
+ (orange-flavored	 -- (orange-flavored
+ penne (short	 penne -- (short
+ plus 	 -- PLUS 
+ (reserved	 -- (reserved
+ (such as	 -- (such as
+ (sweet rice wine)	 -- (sweet rice wine)
+ tahini (sesame-seed	 tahini -- (sesame-seed
+ (without salt	 -- (without salt
+
+(3 1/2-ounce) bags	(#OP#3 1/2-ounce#CP# bags)
+(3 1/2-ounce) bag	(#OP#3 1/2-ounce#CP# bag)
+(6-ounce) bags	(#OP#6-ounce#CP# bags)
+(6-ounce) bag	(#OP#6-ounce#CP# bag)
+(7-ounce) bags	(#OP#7-ounce#CP# bags)
+(7-ounce) bag	(#OP#7-ounce#CP# bag)
+(8-ounce) bags	(#OP#8-ounce#CP# bags)
+(8-ounce) bag	(#OP#8-ounce#CP# bag)
+(10-ounce) bags	(#OP#10-ounce#CP# bags)
+(10-ounce) bag	(#OP#10-ounce#CP# bag)
+(12-ounce) bags	(#OP#12-ounce#CP# bags)
+(12-ounce) bag	(#OP#12-ounce#CP# bag)
+(13.5-ounce) bags	(#OP#13.5-ounce#CP# bags)
+(13.5-ounce) bag	(#OP#13.5-ounce#CP# bag)
+(16-ounce) bags	(#OP#16-ounce#CP# bags)
+(16-ounce) bag	(#OP#16-ounce#CP# bag)
+(1-pound) bags	(#OP#1-pound#CP# bags)
+(1-pound) bag	(#OP#1-pound#CP# bag)
+(8-ounce) blocks	(#OP#8-ounce#CP# blocks)
+(8-ounce) block	(#OP#8-ounce#CP# block)
+(750-milliliter) bottles	(#OP#750-milliliter#CP# bottles)
+(750-milliliter) bottle	(#OP#750-milliliter#CP# bottle)
+(5 1/2-ounce) bottles	(#OP#5 1/2-ounce#CP# bottles)
+(5 1/2-ounce) bottle	(#OP#5 1/2-ounce#CP# bottle)
+(7-ounce) bottles	(#OP#7-ounce#CP# bottles)
+(7-ounce) bottle	(#OP#7-ounce#CP# bottle)
+(8-ounce) bottles	(#OP#8-ounce#CP# bottles)
+(8-ounce) bottle	(#OP#8-ounce#CP# bottle)
+(8.5-ounce) bottles	(#OP#8.5-ounce#CP# bottles)
+(8.5-ounce) bottle	(#OP#8.5-ounce#CP# bottle)
+(11.5-ounce) bottles	(#OP#11.5-ounce#CP# bottles)
+(11.5-ounce) bottle	(#OP#11.5-ounce#CP# bottle)
+(12-ounce) bottles	(#OP#12-ounce#CP# bottles)
+(12-ounce) bottle	(#OP#12-ounce#CP# bottle)
+(25.4-ounce) bottles	(#OP#25.4-ounce#CP# bottles)
+(25.4-ounce) bottle	(#OP#25.4-ounce#CP# bottle)
+(33.8-ounce) bottles	(#OP#33.8-ounce#CP# bottles)
+(33.8-ounce) bottle	(#OP#33.8-ounce#CP# bottle)
+(48-ounce) bottles	(#OP#48-ounce#CP# bottles)
+(48-ounce) bottle	(#OP#48-ounce#CP# bottle)
+(10-ounce) boxes	(#OP#10-ounce#CP# boxes)
+(10-ounce) box	(#OP#10-ounce#CP# box)
+(16-ounce) boxes	(#OP#16-ounce#CP# boxes)
+(16-ounce) box	(#OP#16-ounce#CP# box)
+(2 1/4-ounce) cans	(#OP#2 1/4-ounce#CP# cans)
+(2 1/4-ounce) can	(#OP#2 1/4-ounce#CP# can)
+(4-ounce) cans	(#OP#4-ounce#CP# cans)
+(4-ounce) can	(#OP#4-ounce#CP# can)
+(4.5-ounce) cans	(#OP#4.5-ounce#CP# cans)
+(4.5-ounce) can	(#OP#4.5-ounce#CP# can)
+(5 1/3-ounce) cans	(#OP#5 1/3-ounce#CP# cans)
+(5 1/3-ounce) can	(#OP#5 1/3-ounce#CP# can)
+(5 1/2-ounce) cans	(#OP#5 1/2-ounce#CP# cans)
+(5 1/2-ounce) can	(#OP#5 1/2-ounce#CP# can)
+(6-ounce) cans	(#OP#6-ounce#CP# cans)
+(6-ounce) can	(#OP#6-ounce#CP# can)
+(6 1/8-ounce) cans	(#OP#6 1/8-ounce#CP# cans)
+(6 1/8-ounce) can	(#OP#6 1/8-ounce#CP# can)
+(7-ounce) cans	(#OP#7-ounce#CP# cans)
+(7-ounce) can	(#OP#7-ounce#CP# can)
+(7.5-ounce) cans	(#OP#7.5-ounce#CP# cans)
+(7.5-ounce) can	(#OP#7.5-ounce#CP# can)
+(8-ounce) cans	(#OP#8-ounce#CP# cans)
+(8-ounce) can	(#OP#8-ounce#CP# can)
+(8 1/4-ounce) cans	(#OP#8 1/4-ounce#CP# cans)
+(8 1/4-ounce) can	(#OP#8 1/4-ounce#CP# can)
+(8 1/2-ounce) cans	(#OP#8 1/2-ounce#CP# cans)
+(8 1/2-ounce) can	(#OP#8 1/2-ounce#CP# can)
+(8.5-ounce) cans	(#OP#8.5-ounce#CP# cans)
+(8.5-ounce) can	(#OP#8.5-ounce#CP# can)
+(8 3/4-ounce) cans	(#OP#8 3/4-ounce#CP# cans)
+(8 3/4-ounce) can	(#OP#8 3/4-ounce#CP# can)
+(10-ounce) cans	(#OP#10-ounce#CP# cans)
+(10-ounce) can	(#OP#10-ounce#CP# can)
+(10 1/2-ounce) cans	(#OP#10 1/2-ounce#CP# cans)
+(10 1/2-ounce) can	(#OP#10 1/2-ounce#CP# can)
+(10.75-ounce) cans	(#OP#10.75-ounce#CP# cans)
+(10.75-ounce) can	(#OP#10.75-ounce#CP# can)
+(11-ounce) cans	(#OP#11-ounce#CP# cans)
+(11-ounce) can	(#OP#11-ounce#CP# can)
+(13 1/2-ounce) cans	(#OP#13 1/2-ounce#CP# cans)
+(13 1/2-ounce) can	(#OP#13 1/2-ounce#CP# can)
+(13.5-ounce) cans	(#OP#13.5-ounce#CP# cans)
+(13.5-ounce) can	(#OP#13.5-ounce#CP# can)
+(13 3/4-ounce) cans	(#OP#13 3/4-ounce#CP# cans)
+(13 3/4-ounce) can	(#OP#13 3/4-ounce#CP# can)
+(13.8-ounce) cans	(#OP#13.8-ounce#CP# cans)
+(13.8-ounce) can	(#OP#13.8-ounce#CP# can)
+(14-ounce) cans	(#OP#14-ounce#CP# cans)
+(14-ounce) can	(#OP#14-ounce#CP# can)
+(14 1/4-ounce) cans	(#OP#14 1/4-ounce#CP# cans)
+(14 1/4-ounce) can	(#OP#14 1/4-ounce#CP# can)
+(14 1/2-ounce) cans	(#OP#14 1/2-ounce#CP# cans)
+(14 1/2-ounce) can	(#OP#14 1/2-ounce#CP# can)
+(14.4-ounce) cans	(#OP#14.4-ounce#CP# cans)
+(14.4-ounce) can	(#OP#14.4-ounce#CP# can)
+(14.5-ounce) cans	(#OP#14.5-ounce#CP# cans)
+(14.5-ounce) can	(#OP#14.5-ounce#CP# can)
+(14 3/4-ounce) cans	(#OP#14 3/4-ounce#CP# cans)
+(14 3/4-ounce) can	(#OP#14 3/4-ounce#CP# can)
+(15-ounce) cans	(#OP#15-ounce#CP# cans)
+(15-ounce) can	(#OP#15-ounce#CP# can)
+(15 1/2-ounce) cans	(#OP#15 1/2-ounce#CP# cans)
+(15 1/2-ounce) can	(#OP#15 1/2-ounce#CP# can)
+(15.5-ounce) cans	(#OP#15.5-ounce#CP# cans)
+(15.5-ounce) can	(#OP#15.5-ounce#CP# can)
+(15.8-ounce) cans	(#OP#15.8-ounce#CP# cans)
+(15.8-ounce) can	(#OP#15.8-ounce#CP# can)
+(16-ounce) cans	(#OP#16-ounce#CP# cans)
+(16-ounce) can	(#OP#16-ounce#CP# can)
+(19-ounce) cans	(#OP#19-ounce#CP# cans)
+(19-ounce) can	(#OP#19-ounce#CP# can)
+(20-ounce) cans	(#OP#20-ounce#CP# cans)
+(20-ounce) can	(#OP#20-ounce#CP# can)
+(28-ounce) cans	(#OP#28-ounce#CP# cans)
+(28-ounce) can	(#OP#28-ounce#CP# can)
+(29-ounce) cans	(#OP#29-ounce#CP# cans)
+(29-ounce) can	(#OP#29-ounce#CP# can)
+(46-ounce) cans	(#OP#46-ounce#CP# cans)
+(46-ounce) can	(#OP#46-ounce#CP# can)
+(4-ounce) cartons	(#OP#4-ounce#CP# cartons)
+(4-ounce) carton	(#OP#4-ounce#CP# carton)
+(8-ounce) cartons	(#OP#8-ounce#CP# cartons)
+(8-ounce) carton	(#OP#8-ounce#CP# carton)
+(12-ounce) cartons	(#OP#12-ounce#CP# cartons)
+(12-ounce) carton	(#OP#12-ounce#CP# carton)
+(15-ounce) cartons	(#OP#15-ounce#CP# cartons)
+(15-ounce) carton	(#OP#15-ounce#CP# carton)
+(32-ounce) cartons	(#OP#32-ounce#CP# cartons)
+(32-ounce) carton	(#OP#32-ounce#CP# carton)
+(8 ounce) containers	(#OP#8 ounce#CP# containers)
+(8 ounce) container	(#OP#8 ounce#CP# container)
+(10 ounce) containers	(#OP#10 ounce#CP# containers)
+(10 ounce) container	(#OP#10 ounce#CP# container)
+(12 ounce) containers	(#OP#12 ounce#CP# containers)
+(12 ounce) container	(#OP#12 ounce#CP# container)
+(16 ounce) containers	(#OP#16 ounce#CP# containers)
+(16 ounce) container	(#OP#16 ounce#CP# container)
+(1 pound) containers	(#OP#1 pound#CP# containers)
+(1 pound) container	(#OP#1 pound#CP# container)
+(.77-ounce) envelopes	(#OP#.77-ounce#CP# envelopes)
+(.77-ounce) envelope	(#OP#.77-ounce#CP# envelope)
+(1.25-ounce) envelopes	(#OP#1.25-ounce#CP# envelopes)
+(1.25-ounce) envelope	(#OP#1.25-ounce#CP# envelope)
+(2-ounce) jars	(#OP#2-ounce#CP# jars)
+(2-ounce) jar	(#OP#2-ounce#CP# jar)
+(2 1/2-ounce) jars	(#OP#2 1/2-ounce#CP# jars)
+(2 1/2-ounce) jar	(#OP#2 1/2-ounce#CP# jar)
+(4-ounce) jars	(#OP#4-ounce#CP# jars)
+(4-ounce) jar	(#OP#4-ounce#CP# jar)
+(6-ounce) jars	(#OP#6-ounce#CP# jars)
+(6-ounce) jar	(#OP#6-ounce#CP# jar)
+(7.3-ounce) jars	(#OP#7.3-ounce#CP# jars)
+(7.3-ounce) jar	(#OP#7.3-ounce#CP# jar)
+(7.5-ounce) jars	(#OP#7.5-ounce#CP# jars)
+(7.5-ounce) jar	(#OP#7.5-ounce#CP# jar)
+(13-ounce) jars	(#OP#13-ounce#CP# jars)
+(13-ounce) jar	(#OP#13-ounce#CP# jar)
+(16-ounce) jars	(#OP#16-ounce#CP# jars)
+(16-ounce) jar	(#OP#16-ounce#CP# jar)
+(25-ounce) jars	(#OP#25-ounce#CP# jars)
+(25-ounce) jar	(#OP#25-ounce#CP# jar)
+(25 1/2-ounce) jars	(#OP#25 1/2-ounce#CP# jars)
+(25 1/2-ounce) jar	(#OP#25 1/2-ounce#CP# jar)
+(26-ounce) jars	(#OP#26-ounce#CP# jars)
+(26-ounce) jar	(#OP#26-ounce#CP# jar)
+(27.5-ounce) jars	(#OP#27.5-ounce#CP# jars)
+(27.5-ounce) jar	(#OP#27.5-ounce#CP# jar)
+(8-ounce) loaves	(#OP#8-ounce#CP# loaves)
+(8-ounce) loaf	(#OP#8-ounce#CP# loaf)
+(10-ounce) loaves	(#OP#10-ounce#CP# loaves)
+(10-ounce) loaf	(#OP#10-ounce#CP# loaf)
+(10 1/2-ounce) loaves	(#OP#10 1/2-ounce#CP# loaves)
+(10 1/2-ounce) loaf	(#OP#10 1/2-ounce#CP# loaf)
+(1-pound) loaves	(#OP#1-pound#CP# loaves)
+(1-pound) loaf	(#OP#1-pound#CP# loaf)
+(.75-ounce) packages	(#OP#.75-ounce#CP# packages)
+(.75-ounce) package	(#OP#.75-ounce#CP# package)
+(7/8-ounce) packages	(#OP#7/8-ounce#CP# packages)
+(7/8-ounce) package	(#OP#7/8-ounce#CP# package)
+(1-ounce) packages	(#OP#1-ounce#CP# packages)
+(1-ounce) package	(#OP#1-ounce#CP# package)
+(1 3/4-ounce) packages	(#OP#1 3/4-ounce#CP# packages)
+(1 3/4-ounce) package	(#OP#1 3/4-ounce#CP# package)
+(1.25-ounce) packages	(#OP#1.25-ounce#CP# packages)
+(1.25-ounce) package	(#OP#1.25-ounce#CP# package)
+(2.1-ounce) packages	(#OP#2.1-ounce#CP# packages)
+(2.1-ounce) package	(#OP#2.1-ounce#CP# package)
+(3-ounce) packages	(#OP#3-ounce#CP# packages)
+(3-ounce) package	(#OP#3-ounce#CP# package)
+(3 1/2-ounce) packages	(#OP#3 1/2-ounce#CP# packages)
+(3 1/2-ounce) package	(#OP#3 1/2-ounce#CP# package)
+(4-ounce) packages	(#OP#4-ounce#CP# packages)
+(4-ounce) package	(#OP#4-ounce#CP# package)
+(4.9-ounce) packages	(#OP#4.9-ounce#CP# packages)
+(4.9-ounce) package	(#OP#4.9-ounce#CP# package)
+(5.25-ounce) packages	(#OP#5.25-ounce#CP# packages)
+(5.25-ounce) package	(#OP#5.25-ounce#CP# package)
+(6-ounce) packages	(#OP#6-ounce#CP# packages)
+(6-ounce) package	(#OP#6-ounce#CP# package)
+(7-ounce) packages	(#OP#7-ounce#CP# packages)
+(7-ounce) package	(#OP#7-ounce#CP# package)
+(8-ounce) packages	(#OP#8-ounce#CP# packages)
+(8-ounce) package	(#OP#8-ounce#CP# package)
+(8 1/2-ounce) packages	(#OP#8 1/2-ounce#CP# packages)
+(8 1/2-ounce) package	(#OP#8 1/2-ounce#CP# package)
+(8.5-ounce) packages	(#OP#8.5-ounce#CP# packages)
+(8.5-ounce) package	(#OP#8.5-ounce#CP# package)
+(9-ounce) packages	(#OP#9-ounce#CP# packages)
+(9-ounce) package	(#OP#9-ounce#CP# package)
+(10-ounce) packages	(#OP#10-ounce#CP# packages)
+(10-ounce) package	(#OP#10-ounce#CP# package)
+(10.25-ounce) packages	(#OP#10.25-ounce#CP# packages)
+(10.25-ounce) package	(#OP#10.25-ounce#CP# package)
+(10.5-ounce) packages	(#OP#10.5-ounce#CP# packages)
+(10.5-ounce) package	(#OP#10.5-ounce#CP# package)
+(11-ounce) packages	(#OP#11-ounce#CP# packages)
+(11-ounce) package	(#OP#11-ounce#CP# package)
+(12-ounce) packages	(#OP#12-ounce#CP# packages)
+(12-ounce) package	(#OP#12-ounce#CP# package)
+(12.3-ounce) packages	(#OP#12.3-ounce#CP# packages)
+(12.3-ounce) package	(#OP#12.3-ounce#CP# package)
+(15-ounce) packages	(#OP#15-ounce#CP# packages)
+(15-ounce) package	(#OP#15-ounce#CP# package)
+(16-ounce) packages	(#OP#16-ounce#CP# packages)
+(16-ounce) package	(#OP#16-ounce#CP# package)
+(16.7-ounce) packages	(#OP#16.7-ounce#CP# packages)
+(16.7-ounce) package	(#OP#16.7-ounce#CP# package)
+(18.25-ounce) packages	(#OP#18.25-ounce#CP# packages)
+(18.25-ounce) package	(#OP#18.25-ounce#CP# package)
+(20-ounce) packages	(#OP#20-ounce#CP# packages)
+(20-ounce) package	(#OP#20-ounce#CP# package)
+(30-ounce) packages	(#OP#30-ounce#CP# packages)
+(30-ounce) package	(#OP#30-ounce#CP# package)
+(32-ounce) packages	(#OP#32-ounce#CP# packages)
+(32-ounce) package	(#OP#32-ounce#CP# package)
+(1/2-pound) packages	(#OP#1/2-pound#CP# packages)
+(1/2-pound) package	(#OP#1/2-pound#CP# package)
+(1-pound) packages	(#OP#1-pound#CP# packages)
+(1-pound) package	(#OP#1-pound#CP# package)
+(1/2-inch) pieces	(#OP#1/2-inch#CP# pieces)
+(1/2-inch) piece	(#OP#1/2-inch#CP# piece)
+(1-inch) pieces	(#OP#1-inch#CP# pieces)
+(1-inch) piece	(#OP#1-inch#CP# piece)
+(2-inch) pieces	(#OP#2-inch#CP# pieces)
+(2-inch) piece	(#OP#2-inch#CP# piece)
+(3-inch) pieces	(#OP#3-inch#CP# pieces)
+(3-inch) piece	(#OP#3-inch#CP# piece)
+(1/4-inch-thick) rings	(#OP#1/4-inch-thick#CP# rings)
+(1/4-inch-thick) ring	(#OP#1/4-inch-thick#CP# ring)
+(8-ounce) rounds	#OP8-ounce#CP rounds)
+(8-ounce) round	#OP8-ounce#CP round)
+(14 x 9-inch) sheets	(#OP#14 x 9-inch#CP# sheets)
+(14 x 9-inch) sheet	(#OP#14 x 9-inch#CP# sheets)
+(1/2-ounce) slices	(#OP#1/2-ounce#CP# slices)
+(1/2-ounce) slice	(#OP#1/2-ounce#CP# slice)
+(2/3-ounce) slices	(#OP#2/3-ounce#CP# slices)
+(2/3-ounce) slice	(#OP#2/3-ounce#CP# slice)
+(3/4-ounce) slices	(#OP#3/4-ounce#CP# slices)
+(3/4-ounce) slice	(#OP#3/4-ounce#CP# slice)
+(4/5-ounce) slices	(#OP#4/5-ounce#CP# slices)
+(4/5-ounce) slice	(#OP#4/5-ounce#CP# slice)
+(1-ounce) slices	(#OP#1-ounce#CP# slices)
+(1-ounce) slice	(#OP#1-ounce#CP# slice)
+(1-ounce) diagonally-cut slices	(#OP#1-ounce#CP# slices) diagonally-cut
+(1-ounce) diagonally-cut slice	(#OP#1-ounce#CP# slice) diagonally-cut
+(1 1/2-ounce) slices	(#OP#1 1/2-ounce#CP# slices)
+(1 1/2-ounce) slice	(#OP#1 1/2-ounce#CP# slice)
+(1.5-ounce) slices	(#OP#1.5-ounce#CP# slices)
+(1.5-ounce) slice	(#OP#1.5-ounce#CP# slice)
+(2-ounce) slices	(#OP#2-ounce#CP# slices)
+(2-ounce) slice	(#OP#2-ounce#CP# slice)
+(1-pound) slices	(#OP#1-pound#CP# slices)
+(1-pound) slice	(#OP#1-pound#CP# slice)
+(1/8-inch) slices	(#OP#1/8-inch#CP# slices)
+(1/8-inch) slice	(#OP#1/8-inch#CP# slice)
+(1/2-inch) slices	(#OP#1/2-inch#CP# slices)
+(1/2-inch) slice	(#OP#1/2-inch#CP# slice)
+(1/8-inch-thick) slices	(#OP#1/8-inch-thick#CP# slices)
+(1/8-inch-thick) slice	(#OP#1/8-inch-thick#CP# slice)
+(1/4-inch-thick) slices	(#OP#1/4-inch-thick#CP# slices)
+(1/4-inch-thick) slice	(#OP#1/4-inch-thick#CP# slice)
+(1/2-inch-thick) slices	(#OP#1/2-inch-thick#CP# slices)
+(1/2-inch-thick) slice	(#OP#1/2-inch-thick#CP# slice)
+(1/2-inch-thick) diagonally cut slices	(#OP#1/2-inch-thick#CP# slices) diagonally-cut
+(1/2-inch-thick) diagonally cut slice	(#OP#1/2-inch-thick#CP# slice) diagonally-cut
+(3/4-inch-thick) slices	(#OP#3/4-inch-thick#CP# slices)
+(3/4-inch-thick) slice	(#OP#3/4-inch-thick#CP# slice)
+(1-inch-thick) slices	(#OP#1-inch-thick#CP# slices)
+(1-inch-thick) slice	(#OP#1-inch-thick#CP# slice)
+(2-inch-thick) slices	(#OP#2-inch-thick#CP# slices)
+(2-inch-thick) slice	(#OP#2-inch-thick#CP# slice)
+(3-inch-thick) slices	(#OP#3-inch-thick#CP# slices)
+(3-inch-thick) slice	(#OP#3-inch-thick#CP# slice)
+(1-ounce) squares	(#OP#1-ounce#CP# squares)
+(1-ounce) square	(#OP#1-ounce#CP# square)
+(5-inch) stalks	(#OP#5-inch#CP stalks)
+(5-inch) stalk	(#OP#5-inch#CP stalk)
+(1 x 4-inch) strips	(#OP#1 x 4-inch#CP# strips)
+(1 x 4-inch) strip	(#OP#1 x 4-inch#CP# strip)
+(1 1/2 x 1/2-inch) strips	(#OP#1 1/2 x 1/2-inch#CP# strips)
+(1 1/2 x 1/2-inch) strip	(#OP#1 1/2 x 1/2-inch#CP# strip)
+(2 x 1/2-inch) strips	(#OP#2 x 1/2-inch#CP# strips)
+(2 x 1/2-inch) strip	(#OP#2 x 1/2-inch#CP# strip)
+(3-inch) strips	(#OP#3-inch#CP# strips)
+(3-inch) strip	(#OP#3-inch#CP# strip)
+(16-ounce) tubes	(#OP#16-ounce#CP# tubes)
+(16-ounce) tube	(#OP#16-ounce#CP# tube)
+
+'teaspoons 	't 
+ -- -- 	 -- 

@@ -1,0 +1,64 @@
+# Commas.txt.
+# If a term below is found in the ingredients column, keep the comma.
+# Otherwise, delete the comma and space and move everything after the
+# comma and space  to the preparation column. Users may add new combinations
+# to this file.
+# Note that there are leading or trailing commas and spaces sometimes.
+#
+#
+, packed without oil
+chopped, unpeeled
+cooked, cubed
+cooked, mashed
+cooked, shelled
+cooked, shelled, 
+cubed, unpeeled
+diced, unpeeled
+drained, chopped
+fat-free, less-sodium
+fine, dry
+firm, ripe
+lean, bone-in
+lean, boneless
+lean, lower
+mashed, unsweetened
+natural-style, reduced fat
+packed, chopped
+peeled, (1/2-inch)
+peeled, chopped
+peeled, chopped,
+peeled, coarsely
+peeled, cored
+peeled, cubed
+peeled, diced
+peeled, grated
+peeled, mashed
+peeled, minced
+peeled, seeded,
+peeled, shredded
+peeled, sliced
+peeled, thinly sliced
+pitted, chopped
+pitted, halved
+prewashed, chopped
+reduced-fat, low-salt
+seeded, coarsely
+seeded, chopped
+seeded, cubed
+seeded, diced
+seeded, finely
+seeded, minced
+seeded, sliced
+seeded, thinly
+shredded, cooked
+skinned, boned
+skinned, boned, shredded
+skinless, boneless
+small, firm
+smoked, fully cooked
+thawed, drained, and squeezed
+trimmed, chopped
+trimmed, coarsely chopped
+trimmed, halved Brussels
+unpeeled, diced
+unpeeled, seeded,

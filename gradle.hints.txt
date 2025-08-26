@@ -1,0 +1,2 @@
+gradle dependencies > dependencies
+gradle dependencyUpdates

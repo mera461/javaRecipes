@@ -1,0 +1,99 @@
+How do you recognize person names in the ingredient list? I have also seen that, and dont really understand where it comes from, but they can be really difficult to recognize and remove.
+
+[It comes from McTagit, and McBuster, and it was previously a way that people used to show where a recipe came from, or who formatted it. I think that drastically harms recipes, and don’t believe personal information like email addresses, etc, should be in recipes. Likewise the old Prodigy codes that people used. I have coded those and remove any line they appear in, after I make sure there’s nothing else in the line that should be kept. It is tricky, at times.]
+
+=============================================================================
+
+How you do find out which lines to merge if there is no continuation mark?
+
+[This too is a bit difficult, but most of the time, there is a clue. A line that doesn’t start with an amount in an ingredient line can be inspected both for the line before it, and what is in front of it. For example, if a line ends with a comma or semicolon (except the bogus ones), or certain words like or, and, the, is, etc, you can learn that a line has not been properly ended, even if it is an ingredient line. (Ingredient line cannot end with or…) So, I inspect the last word to see if I should bring the next line up. I have run what I am doing against quite a few cookbooks, but nothing like your library of cookbooks. Also, I inspect the first word, since lines cannot start with certain words, as shown in this example: (can’t start with ‘and’, or end with [;] or [a])
+
+      1 c  Sweet milk [this is a
+
+           -southern term for milk;
+
+           -and it means regular milk
+
+           -and not buttermilk]
+
+
+=============================================================================
+
+First, I look for internet junk and delete it or convert it to the appropriate character. Examples:
+
+           -teaspoon salt  =20
+
+           Keebler Toasteds=99 or
+
+=============================================================================
+
+If a line ends with a period, and has a hard CR, I add an extra line to split out paragraphs. That puts ‘bad’ lines in their own paragraph for later deletion, most of the time.
+
+ 
+
+If (non-ingredient) lines end with a lower case character, and the first character on the next line is lower case, I join the lines. There are other rules for pulling the next line to complete paragraphs when the next line starts with a number or upper case letter. 
+
+=============================================================================
+
+ I detect addresses, and cities, for example. Here’s an example that I join: (Recipe\RArchive)
+
+  From the Jewish Food recipe list.  Downloaded from Glen's MM Recipe
+
+  Archive, http://www.erols.com/hosey.
+
+=============================================================================
+
+If a line has a paren close before a paren open, join the lines
+
+      2 lb Ground meat (hamburger, or
+
+           -other mince)
+
+ 
+
+If a line starts with a paren open, join to the previous line.
+
+      4 tb Beef bouillon
+
+           (instant, crushed)
+
+=============================================================================
+
+I have a list of names that commonly show up with no ‘tag’ and routinely delete those. There aren’t really that many names, but it is a list that grows. Stephen often has his name as an ingredient, below, and there’s no other way to detect it than to have a lookup table.
+
+1  stephen ceideburg
+
+3/4 cup whole blanched almonds
+
+1 1/2 cup + 1 tb sugar
+
+=============================================================================
+
+ A lot of people inserted their names in such a way that they look like subtitles – I have a lookup table for some of those, based generally on first name (since names shouldn’t start subtitles anyway.)
+
+      ----BILLS20086----
+
+
+=============================================================================
+
+
+=============================================================================
+
+
+=============================================================================
+
+
+=============================================================================
+
+
+=============================================================================
+
+
+=============================================================================
+
+
+=============================================================================
+
+
+=============================================================================
+

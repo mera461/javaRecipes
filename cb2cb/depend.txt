@@ -1,0 +1,580 @@
+
+> Configure project :cb2cb
+DEPENDENCIES: [ZIP 'C:\pr\projekter\java\JavaRecipes\cb2cb\lib\groovy-swt-0.95-windows-all-32.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-log4j12\1.7.25\110cefe2df103412849d72ef7a67e4e91e4266b4\slf4j-log4j12-1.7.25.jar', ZIP 'C:\Users\frank\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\io.fastjson\boon\0.34\fa10a6c6637ffe87e62f0223d2a64f2b40163ce7\boon-0.34.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\com.healthmarketscience.jackcess\jackcess\2.2.2\b1b656d9f7cbf0fb9167015cfb81d7cae92981f5\jackcess-2.2.2.jar', ZIP 'C:\Users\frank\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-ant\2.5.9\2770580ca7b8d0a8410a9990e40558da147a833b\groovy-ant-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-cli-commons\2.5.9\100c46e6beba9bf759800c8303888375f9908137\groovy-cli-commons-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-groovysh\2.5.9\48e1aef253740a95b48c68a8fbfb5d885025ff61\groovy-groovysh-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-console\2.5.9\4c6adba757d7694b50d7f905e04ca1dda19d6033\groovy-console-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-docgenerator\2.5.9\cfb19f4bea60292ab9e2c5bea4f6ee863a2bd0db\groovy-docgenerator-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-groovydoc\2.5.9\525489ee34c4dcc7e62da5b16fcbb6b0df144648\groovy-groovydoc-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-cli-picocli\2.5.9\6e81b70ff97c771da8f88ea7f303ddad246150d7\groovy-cli-picocli-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-datetime\2.5.9\a6b4ecd2bc297e31e82545423e4b7b4589a0658a\groovy-datetime-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-jmx\2.5.9\6e9ccfd13371e1fc2363f72d88fb96c042f360a1\groovy-jmx-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-json\2.5.9\5be9ac3081d348f5d4a6caaf067aa8828d9ab7d9\groovy-json-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-jsr223\2.5.9\eb91a9580b9f2627639f3f3e1de56b09a5f7d848\groovy-jsr223-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-macro\2.5.9\bfc1404aff44e48d1ec65a1bea1b7fbcadb6b68a\groovy-macro-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-nio\2.5.9\611503bc212b4c099e20450c6cc32929ff0f9aa5\groovy-nio-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-servlet\2.5.9\eb2db484d24c6c904b5c79eb82790a265e18f2fd\groovy-servlet-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-sql\2.5.9\369824a15efdaa0379c98d2816d893eda511ffb8\groovy-sql-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-swing\2.5.9\ac1090269110ad510885fded29d11c82951a5e42\groovy-swing-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-templates\2.5.9\dedb82d52869805499df30cee7059ef486f11622\groovy-templates-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-test\2.5.9\fb82501475d92f821243a9a5d6838a1c7408b99c\groovy-test-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-test-junit5\2.5.9\6b882176f2109a13860fa21227fff342d7e535e0\groovy-test-junit5-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-testng\2.5.9\398311d1b02f74707a279162886217233b9ba8f\groovy-testng-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-xml\2.5.9\dc96b317b6d922cdbf8966a465d1769c6e7c0080\groovy-xml-2.5.9.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.6\ce1edb914c94ebc388f086c6827e8bdeec71ac2\commons-lang-2.6.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.apache.ant\ant\1.9.13\7aff87f91ffda6916751e39bb5688f0a53710ec4\ant-1.9.13.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.4\c51c00206bb913cd8612b24abd9fa98ae89719b1\commons-cli-1.4.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\com.thoughtworks.qdox\qdox\1.12.1\f7122f6ab1f64bdf9f5970b0e89bfb355e036897\qdox-1.12.1.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\jline\jline\2.14.6\c3aeac59c022bdc497c8c48ed86fa50450e4896a\jline-2.14.6.jar', ZIP 'C:\Users\frank\.m2\repository\junit\junit\4.12\junit-4.12.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.junit.platform\junit-platform-launcher\1.4.0\5cc8b7b305ffc79aa124a1a4fe5efab114f28cac\junit-platform-launcher-1.4.0.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.apache.ant\ant-launcher\1.9.13\24cf1a899bb4b69373dc4cd000bb52a9f46c459d\ant-launcher-1.9.13.jar', ZIP 'C:\Users\frank\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.junit.platform\junit-platform-engine\1.4.0\b4419dc190a5d82b9cac6b52e0af9140895c3f87\junit-platform-engine-1.4.0.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.junit.platform\junit-platform-commons\1.4.0\e0b2ed8fac32ad6469d75d034e759f1969db8dda\junit-platform-commons-1.4.0.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.apiguardian\apiguardian-api\1.0.0\3ef5276905e36f4d8055fe3cb0bdcc7503ffc85d\apiguardian-api-1.0.0.jar', ZIP 'C:\Users\frank\.gradle\caches\modules-2\files-2.1\org.opentest4j\opentest4j\1.1.1\efd9f971e91074491ea55b19f67b13470cf4fcdd\opentest4j-1.1.1.jar']
+
+> Task :cb2cb:dependencies
+
+------------------------------------------------------------
+Project :cb2cb
+------------------------------------------------------------
+
+annotationProcessor - Annotation processors and their dependencies for source set 'main'.
+No dependencies
+
+apiElements - API elements for main. (n)
+No dependencies
+
+archives - Configuration for archive artifacts.
+No dependencies
+
+compile - Dependencies for source set 'main' (deprecated, use 'implementation' instead).
+No dependencies
+
+compileClasspath - Compile classpath for source set 'main'.
++--- org.slf4j:slf4j-api:1.7.25
++--- org.slf4j:slf4j-log4j12:1.7.25
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    \--- log4j:log4j:1.2.17
++--- io.fastjson:boon:0.34
++--- project :core
++--- org.codehaus.groovy:groovy-all:2.5.9
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-ant:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.apache.ant:ant:1.9.13
+|    |    |    \--- org.apache.ant:ant-launcher:1.9.13
+|    |    \--- org.codehaus.groovy:groovy-groovydoc:2.5.9
+|    |         +--- org.codehaus.groovy:groovy-templates:2.5.9
+|    |         |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |         |    \--- org.codehaus.groovy:groovy-xml:2.5.9
+|    |         |         \--- org.codehaus.groovy:groovy:2.5.9
+|    |         +--- org.codehaus.groovy:groovy:2.5.9
+|    |         \--- org.codehaus.groovy:groovy-cli-picocli:2.5.9
+|    |              \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-cli-commons:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- commons-cli:commons-cli:1.4
+|    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-console:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    \--- org.codehaus.groovy:groovy-swing:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-datetime:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-docgenerator:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    \--- com.thoughtworks.qdox:qdox:1.12.1
+|    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovysh:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy-console:2.5.9 (*)
+|    |    \--- jline:jline:2.14.6
+|    +--- org.codehaus.groovy:groovy-jmx:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-json:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-jsr223:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-macro:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-nio:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-servlet:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-swing:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-test:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- junit:junit:4.12
+|    |         \--- org.hamcrest:hamcrest-core:1.3
+|    +--- org.codehaus.groovy:groovy-test-junit5:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.junit.platform:junit-platform-launcher:1.4.0
+|    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |         \--- org.junit.platform:junit-platform-engine:1.4.0
+|    |              +--- org.apiguardian:apiguardian-api:1.0.0
+|    |              +--- org.opentest4j:opentest4j:1.1.1
+|    |              \--- org.junit.platform:junit-platform-commons:1.4.0
+|    |                   \--- org.apiguardian:apiguardian-api:1.0.0
+|    +--- org.codehaus.groovy:groovy-testng:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+\--- com.healthmarketscience.jackcess:jackcess:2.2.2
+     +--- commons-lang:commons-lang:2.6
+     \--- commons-logging:commons-logging:1.1.3
+
+compileOnly - Compile only dependencies for source set 'main'.
+No dependencies
+
+default - Configuration for default artifacts.
++--- org.slf4j:slf4j-api:1.7.25
++--- org.slf4j:slf4j-log4j12:1.7.25
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    \--- log4j:log4j:1.2.17
++--- io.fastjson:boon:0.34
++--- project :core
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    +--- org.slf4j:slf4j-log4j12:1.7.25 (*)
+|    +--- io.fastjson:boon:0.34
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-dateutil:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- c3p0:c3p0:0.9.0.4
+|    +--- commons-lang:commons-lang:2.6
+|    +--- commons-cli:commons-cli:1.4
+|    +--- commons-codec:commons-codec:1.11
+|    +--- org.xBaseJ:xbasej:20091203
+|    |    +--- commons-logging:commons-logging:1.1.1 -> 1.1.3
+|    |    \--- xerces:xercesImpl:2.9.1
+|    |         \--- xml-apis:xml-apis:1.3.04
+|    \--- net.sf.ucanaccess:ucanaccess:4.0.4
+|         +--- org.hsqldb:hsqldb:2.3.1
+|         \--- com.healthmarketscience.jackcess:jackcess:2.1.11 -> 2.2.2
+|              +--- commons-lang:commons-lang:2.6
+|              \--- commons-logging:commons-logging:1.1.3
++--- org.codehaus.groovy:groovy-all:2.5.9
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-ant:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.apache.ant:ant:1.9.13
+|    |    |    \--- org.apache.ant:ant-launcher:1.9.13
+|    |    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9
+|    |    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9
+|    |    |    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    |    |    \--- org.codehaus.groovy:groovy-docgenerator:2.5.9
+|    |    |         +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    |         +--- org.codehaus.groovy:groovy:2.5.9
+|    |    |         +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    |         \--- com.thoughtworks.qdox:qdox:1.12.1
+|    |    +--- org.apache.ant:ant-junit:1.9.13
+|    |    |    \--- org.apache.ant:ant:1.9.13 (*)
+|    |    +--- org.apache.ant:ant-launcher:1.9.13
+|    |    \--- org.apache.ant:ant-antlr:1.9.13
+|    +--- org.codehaus.groovy:groovy-cli-commons:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- commons-cli:commons-cli:1.4
+|    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-console:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    \--- org.codehaus.groovy:groovy-swing:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-datetime:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-docgenerator:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovysh:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy-console:2.5.9 (*)
+|    |    \--- jline:jline:2.14.6
+|    +--- org.codehaus.groovy:groovy-jmx:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-json:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-jsr223:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-macro:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-nio:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-servlet:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-swing:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-test:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- junit:junit:4.12
+|    |         \--- org.hamcrest:hamcrest-core:1.3
+|    +--- org.codehaus.groovy:groovy-test-junit5:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.junit.platform:junit-platform-launcher:1.4.0
+|    |    |    +--- org.apiguardian:apiguardian-api:1.0.0
+|    |    |    \--- org.junit.platform:junit-platform-engine:1.4.0
+|    |    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |    |         +--- org.opentest4j:opentest4j:1.1.1
+|    |    |         \--- org.junit.platform:junit-platform-commons:1.4.0
+|    |    |              \--- org.apiguardian:apiguardian-api:1.0.0
+|    |    \--- org.junit.jupiter:junit-jupiter-engine:5.4.0
+|    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |         +--- org.junit.platform:junit-platform-engine:1.4.0 (*)
+|    |         \--- org.junit.jupiter:junit-jupiter-api:5.4.0
+|    |              +--- org.apiguardian:apiguardian-api:1.0.0
+|    |              +--- org.opentest4j:opentest4j:1.1.1
+|    |              \--- org.junit.platform:junit-platform-commons:1.4.0 (*)
+|    +--- org.codehaus.groovy:groovy-testng:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.testng:testng:6.13.1
+|    |         \--- com.beust:jcommander:1.72
+|    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+\--- com.healthmarketscience.jackcess:jackcess:2.2.2 (*)
+
+implementation - Implementation only dependencies for source set 'main'. (n)
++--- org.slf4j:slf4j-api:1.7.25 (n)
++--- org.slf4j:slf4j-log4j12:1.7.25 (n)
++--- io.fastjson:boon:0.34 (n)
++--- project core (n)
++--- org.codehaus.groovy:groovy-all:2.5.9 (n)
++--- com.healthmarketscience.jackcess:jackcess:2.2.2 (n)
+\--- unspecified (n)
+
+runtime - Runtime dependencies for source set 'main' (deprecated, use 'runtimeOnly' instead).
+No dependencies
+
+runtimeClasspath - Runtime classpath of source set 'main'.
++--- org.slf4j:slf4j-api:1.7.25
++--- org.slf4j:slf4j-log4j12:1.7.25
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    \--- log4j:log4j:1.2.17
++--- io.fastjson:boon:0.34
++--- project :core
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    +--- org.slf4j:slf4j-log4j12:1.7.25 (*)
+|    +--- io.fastjson:boon:0.34
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-dateutil:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- c3p0:c3p0:0.9.0.4
+|    +--- commons-lang:commons-lang:2.6
+|    +--- commons-cli:commons-cli:1.4
+|    +--- commons-codec:commons-codec:1.11
+|    +--- org.xBaseJ:xbasej:20091203
+|    |    +--- commons-logging:commons-logging:1.1.1 -> 1.1.3
+|    |    \--- xerces:xercesImpl:2.9.1
+|    |         \--- xml-apis:xml-apis:1.3.04
+|    \--- net.sf.ucanaccess:ucanaccess:4.0.4
+|         +--- org.hsqldb:hsqldb:2.3.1
+|         \--- com.healthmarketscience.jackcess:jackcess:2.1.11 -> 2.2.2
+|              +--- commons-lang:commons-lang:2.6
+|              \--- commons-logging:commons-logging:1.1.3
++--- org.codehaus.groovy:groovy-all:2.5.9
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-ant:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.apache.ant:ant:1.9.13
+|    |    |    \--- org.apache.ant:ant-launcher:1.9.13
+|    |    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9
+|    |    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9
+|    |    |    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    |    |    \--- org.codehaus.groovy:groovy-docgenerator:2.5.9
+|    |    |         +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    |         +--- org.codehaus.groovy:groovy:2.5.9
+|    |    |         +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    |         \--- com.thoughtworks.qdox:qdox:1.12.1
+|    |    +--- org.apache.ant:ant-junit:1.9.13
+|    |    |    \--- org.apache.ant:ant:1.9.13 (*)
+|    |    +--- org.apache.ant:ant-launcher:1.9.13
+|    |    \--- org.apache.ant:ant-antlr:1.9.13
+|    +--- org.codehaus.groovy:groovy-cli-commons:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- commons-cli:commons-cli:1.4
+|    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-console:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    \--- org.codehaus.groovy:groovy-swing:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-datetime:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-docgenerator:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovysh:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy-console:2.5.9 (*)
+|    |    \--- jline:jline:2.14.6
+|    +--- org.codehaus.groovy:groovy-jmx:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-json:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-jsr223:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-macro:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-nio:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-servlet:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-swing:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-test:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- junit:junit:4.12
+|    |         \--- org.hamcrest:hamcrest-core:1.3
+|    +--- org.codehaus.groovy:groovy-test-junit5:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.junit.platform:junit-platform-launcher:1.4.0
+|    |    |    +--- org.apiguardian:apiguardian-api:1.0.0
+|    |    |    \--- org.junit.platform:junit-platform-engine:1.4.0
+|    |    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |    |         +--- org.opentest4j:opentest4j:1.1.1
+|    |    |         \--- org.junit.platform:junit-platform-commons:1.4.0
+|    |    |              \--- org.apiguardian:apiguardian-api:1.0.0
+|    |    \--- org.junit.jupiter:junit-jupiter-engine:5.4.0
+|    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |         +--- org.junit.platform:junit-platform-engine:1.4.0 (*)
+|    |         \--- org.junit.jupiter:junit-jupiter-api:5.4.0
+|    |              +--- org.apiguardian:apiguardian-api:1.0.0
+|    |              +--- org.opentest4j:opentest4j:1.1.1
+|    |              \--- org.junit.platform:junit-platform-commons:1.4.0 (*)
+|    +--- org.codehaus.groovy:groovy-testng:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.testng:testng:6.13.1
+|    |         \--- com.beust:jcommander:1.72
+|    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+\--- com.healthmarketscience.jackcess:jackcess:2.2.2 (*)
+
+runtimeElements - Elements of runtime for main. (n)
+No dependencies
+
+runtimeOnly - Runtime only dependencies for source set 'main'. (n)
+No dependencies
+
+testAnnotationProcessor - Annotation processors and their dependencies for source set 'test'.
+No dependencies
+
+testCompile - Dependencies for source set 'test' (deprecated, use 'testImplementation' instead).
+No dependencies
+
+testCompileClasspath - Compile classpath for source set 'test'.
++--- org.slf4j:slf4j-api:1.7.25
++--- org.slf4j:slf4j-log4j12:1.7.25
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    \--- log4j:log4j:1.2.17
++--- io.fastjson:boon:0.34
++--- project :core
++--- org.codehaus.groovy:groovy-all:2.5.9
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-ant:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.apache.ant:ant:1.9.13
+|    |    |    \--- org.apache.ant:ant-launcher:1.9.13
+|    |    \--- org.codehaus.groovy:groovy-groovydoc:2.5.9
+|    |         +--- org.codehaus.groovy:groovy-templates:2.5.9
+|    |         |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |         |    \--- org.codehaus.groovy:groovy-xml:2.5.9
+|    |         |         \--- org.codehaus.groovy:groovy:2.5.9
+|    |         +--- org.codehaus.groovy:groovy:2.5.9
+|    |         \--- org.codehaus.groovy:groovy-cli-picocli:2.5.9
+|    |              \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-cli-commons:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- commons-cli:commons-cli:1.4
+|    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-console:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    \--- org.codehaus.groovy:groovy-swing:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-datetime:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-docgenerator:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    \--- com.thoughtworks.qdox:qdox:1.12.1
+|    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovysh:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy-console:2.5.9 (*)
+|    |    \--- jline:jline:2.14.6
+|    +--- org.codehaus.groovy:groovy-jmx:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-json:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-jsr223:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-macro:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-nio:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-servlet:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-swing:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-test:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- junit:junit:4.12
+|    |         \--- org.hamcrest:hamcrest-core:1.3
+|    +--- org.codehaus.groovy:groovy-test-junit5:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.junit.platform:junit-platform-launcher:1.4.0
+|    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |         \--- org.junit.platform:junit-platform-engine:1.4.0
+|    |              +--- org.apiguardian:apiguardian-api:1.0.0
+|    |              +--- org.opentest4j:opentest4j:1.1.1
+|    |              \--- org.junit.platform:junit-platform-commons:1.4.0
+|    |                   \--- org.apiguardian:apiguardian-api:1.0.0
+|    +--- org.codehaus.groovy:groovy-testng:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
++--- com.healthmarketscience.jackcess:jackcess:2.2.2
+|    +--- commons-lang:commons-lang:2.6
+|    \--- commons-logging:commons-logging:1.1.3
+\--- junit:junit:4.12 (*)
+
+testCompileOnly - Compile only dependencies for source set 'test'.
+No dependencies
+
+testImplementation - Implementation only dependencies for source set 'test'. (n)
+\--- junit:junit:4.12 (n)
+
+testRuntime - Runtime dependencies for source set 'test' (deprecated, use 'testRuntimeOnly' instead).
+No dependencies
+
+testRuntimeClasspath - Runtime classpath of source set 'test'.
++--- org.slf4j:slf4j-api:1.7.25
++--- org.slf4j:slf4j-log4j12:1.7.25
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    \--- log4j:log4j:1.2.17
++--- io.fastjson:boon:0.34
++--- project :core
+|    +--- org.slf4j:slf4j-api:1.7.25
+|    +--- org.slf4j:slf4j-log4j12:1.7.25 (*)
+|    +--- io.fastjson:boon:0.34
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-dateutil:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- c3p0:c3p0:0.9.0.4
+|    +--- commons-lang:commons-lang:2.6
+|    +--- commons-cli:commons-cli:1.4
+|    +--- commons-codec:commons-codec:1.11
+|    +--- org.xBaseJ:xbasej:20091203
+|    |    +--- commons-logging:commons-logging:1.1.1 -> 1.1.3
+|    |    \--- xerces:xercesImpl:2.9.1
+|    |         \--- xml-apis:xml-apis:1.3.04
+|    \--- net.sf.ucanaccess:ucanaccess:4.0.4
+|         +--- org.hsqldb:hsqldb:2.3.1
+|         \--- com.healthmarketscience.jackcess:jackcess:2.1.11 -> 2.2.2
+|              +--- commons-lang:commons-lang:2.6
+|              \--- commons-logging:commons-logging:1.1.3
++--- org.codehaus.groovy:groovy-all:2.5.9
+|    +--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-ant:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.apache.ant:ant:1.9.13
+|    |    |    \--- org.apache.ant:ant-launcher:1.9.13
+|    |    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9
+|    |    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9
+|    |    |    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    |    |    \--- org.codehaus.groovy:groovy-docgenerator:2.5.9
+|    |    |         +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    |         +--- org.codehaus.groovy:groovy:2.5.9
+|    |    |         +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    |         \--- com.thoughtworks.qdox:qdox:1.12.1
+|    |    +--- org.apache.ant:ant-junit:1.9.13
+|    |    |    \--- org.apache.ant:ant:1.9.13 (*)
+|    |    +--- org.apache.ant:ant-launcher:1.9.13
+|    |    \--- org.apache.ant:ant-antlr:1.9.13
+|    +--- org.codehaus.groovy:groovy-cli-commons:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- commons-cli:commons-cli:1.4
+|    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-console:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    \--- org.codehaus.groovy:groovy-swing:2.5.9
+|    |         \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-datetime:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-docgenerator:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovydoc:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-groovysh:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-cli-picocli:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy-console:2.5.9 (*)
+|    |    \--- jline:jline:2.14.6
+|    +--- org.codehaus.groovy:groovy-jmx:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-json:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-jsr223:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-macro:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-nio:2.5.9
+|    |    \--- org.codehaus.groovy:groovy:2.5.9
+|    +--- org.codehaus.groovy:groovy-servlet:2.5.9
+|    |    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-sql:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-swing:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-templates:2.5.9 (*)
+|    +--- org.codehaus.groovy:groovy-test:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- junit:junit:4.12
+|    |         \--- org.hamcrest:hamcrest-core:1.3
+|    +--- org.codehaus.groovy:groovy-test-junit5:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    +--- org.junit.platform:junit-platform-launcher:1.4.0
+|    |    |    +--- org.apiguardian:apiguardian-api:1.0.0
+|    |    |    \--- org.junit.platform:junit-platform-engine:1.4.0
+|    |    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |    |         +--- org.opentest4j:opentest4j:1.1.1
+|    |    |         \--- org.junit.platform:junit-platform-commons:1.4.0
+|    |    |              \--- org.apiguardian:apiguardian-api:1.0.0
+|    |    \--- org.junit.jupiter:junit-jupiter-engine:5.4.0
+|    |         +--- org.apiguardian:apiguardian-api:1.0.0
+|    |         +--- org.junit.platform:junit-platform-engine:1.4.0 (*)
+|    |         \--- org.junit.jupiter:junit-jupiter-api:5.4.0
+|    |              +--- org.apiguardian:apiguardian-api:1.0.0
+|    |              +--- org.opentest4j:opentest4j:1.1.1
+|    |              \--- org.junit.platform:junit-platform-commons:1.4.0 (*)
+|    +--- org.codehaus.groovy:groovy-testng:2.5.9
+|    |    +--- org.codehaus.groovy:groovy:2.5.9
+|    |    \--- org.testng:testng:6.13.1
+|    |         \--- com.beust:jcommander:1.72
+|    \--- org.codehaus.groovy:groovy-xml:2.5.9 (*)
++--- com.healthmarketscience.jackcess:jackcess:2.2.2 (*)
+\--- junit:junit:4.12 (*)
+
+testRuntimeOnly - Runtime only dependencies for source set 'test'. (n)
+No dependencies
+
+(*) - dependencies omitted (listed previously)
+
+(n) - Not resolved (configuration is not meant to be resolved)
+
+A web-based, searchable dependency report is available by adding the --scan option.
+
+BUILD SUCCESSFUL in 1s
+1 actionable task: 1 executed

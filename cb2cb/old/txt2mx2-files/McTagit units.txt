@@ -1,0 +1,250 @@
+batch
+batches
+block
+blocks
+bottle
+bottles
+bunch
+bunches
+can
+cans
+carton
+cartons
+centiliter
+centiliters
+clove
+cloves
+cob
+cobs
+cup
+cups
+dash
+dashes
+deciliter
+deciliters
+dozen
+drop
+drops
+each
+ear
+ears
+envelope
+envelopes
+fluid-ounce
+fluid-ounces
+gallon
+gallons
+gram
+grams
+head
+heads
+jar
+jars
+jigger
+jiggers
+kilogram
+kilograms
+large
+liter
+liters
+lump
+lumps
+measure
+measures
+medium
+medium-size
+medium-sized
+milligram
+milligrams
+milliliter
+milliliters
+ounce
+ounces
+package
+packages
+packet
+packets
+piece
+pieces
+pinch
+pinches
+pint
+pints
+pound
+pounds
+quart
+quarts
+rasher
+rashers
+recipe
+recipes
+scoop
+scoops
+serving
+servings
+shot
+shots
+slice
+slices
+small
+sprig
+sprigs
+square
+squares
+stalk
+stalks
+stick
+sticks
+tablet
+tablets
+tablespoon
+tablespoons
+teaspoon
+teaspoons
+tub
+tubs
+whole
+1 ounce
+2 ounce
+3 ounce
+4 ounce
+5 ounce
+6 ounce
+7 ounce
+8 ounce
+9 ounce
+10 ounce
+11 ounce
+12 ounce
+13 ounce
+14 ounce
+15 ounce
+16 ounce
+1-ounce
+2-ounce
+3-ounce
+4-ounce
+5-ounce
+6-ounce
+6 1/2-ounce
+7-ounce
+8-ounce
+9-ounce
+10-ounce
+11-ounce
+12-ounce
+13-ounce
+14-ounce
+15-ounce
+16-ounce
+3/4-pound
+1 pound
+1 1/4 pound
+1 1/4-pound
+1 1/2 pound
+1 1/2-pound
+1 3/4 pound
+2 1/4 pound
+2 1/2 pound
+2 1/2-pound
+2 3/4 pound
+3 pound
+3-pound
+3 1/4 pound
+3 1/2 pound
+3 3/4 pound
+4 pound
+4 1/4 pound
+4 1/2 pound
+4 3/4 pound
+5 pound
+5 1/4 pound
+5 1/2 pound
+5 3/4 pound
+6 pound
+6 1/4 pound
+6 1/2 pound
+6 3/4 pound
+7 pound
+7 1/4 pound
+7 1/2 pound
+7 3/4 pound
+8 pound
+8 1/4 pound
+8 1/2 pound
+8 3/4 pound
+9 pound
+9 1/4 pound
+9 1/2 pound
+9 3/4 pound
+10 pound
+10 1/4 pound
+10 1/2 pound
+10 3/4 pound
+1-inch
+1/2-inch-thick
+2-inch
+2 1/2-inch
+3-inch
+4-inch
+5-inch
+6-inch
+7-inch
+8-inch
+9-inch
+10-inch
+11-inch
+12-inch
+13-inch
+14-inch
+15-inch
+5 1/3-ounce can
+5 1/3-ounce cans
+6-ounce can
+6-ounce cans
+7-ounce can
+7-ounce cans
+8-ounce can
+8-ounce cans
+10 1/2-ounce can
+10 1/2-ounce cans
+11-ounce can
+11-ounce cans
+14 1/2-ounce can
+14 1/2-ounce cans
+15-ounce can
+15-ounce cans
+16-ounce can
+16-ounce cans
+28-ounce can
+28-ounce cans
+46-ounce can
+46-ounce cans
+8-ounce carton
+8-ounce cartons
+12-ounce carton
+12-ounce cartons
+1.25-ounce envelope
+1.25-ounce envelopes
+2-ounce jar
+2-ounce jars
+4-ounce jar
+4-ounce jars
+1 3/4-ounce package
+1 3/4-ounce packages
+8-ounce package
+8-ounce packages
+10-ounce package
+10-ounce packages
+1/2-ounce slice
+1/2-ounce slices
+2/3-ounce slice
+2/3-ounce slices
+3/4-ounce slice
+3/4-ounce slices
+4/5-ounce slice
+4/5-ounce slices
+1-ounce slice
+1-ounce slices
+1-ounce square
+1-ounce squares

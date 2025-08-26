@@ -1,0 +1,1173 @@
+Frank, I discovered I could copy and paste the entire help file from Mctagit, so here it is. There is a lot that McTagit can do that we don’t have to deal with any more, since it does a lot of stuff with ‘old’ mastercook formats, so users can continue to use McTagit for those. I have placed a few comments…[jbs]
+
+
+
+Welcome to MC-TagIt
+
+Version 6.0
+
+ 
+
+MC-TagIt is a utility designed to convert standard recipe export formats into MasterCook version 5 and 6 XML-tagged import format. If you do not use MasterCook version 5 or 6, you do not need this utility.
+
+ 
+
+In addition to interpreting MasterCook versions II, 3 through 6 and MealMaster recipe exports, MC-TagIt also has it's own generic format enabling you to easily import generic text recipes into MasterCook 5/6 without going through the Import Assistant one by one.
+
+ 
+
+ACCEPTABLE INPUT FORMATS
+
+ 
+
+MasterCook II
+
+MasterCook 3.x
+
+MasterCook 4.x
+
+MasterCook 5.x
+
+MasterCook 6.x
+
+MasterCook Buster
+
+MealMaster
+
+MealMaster Buster
+
+MC-TagIt Text Formats
+
+[jbs – we’re only looking for the text format that we’ve been discussing.]
+
+ 
+
+INPUT DATA FILE FORMATS
+
+ 
+
+ASCI text files with .txt extension
+
+MasterCook II, 3, 4, 5 or 6 export files with .mxp extension
+
+MasterCook Mac format with .mxp or .txt extension **
+
+    **(This format has not been fully tested through email and may be unpredictable)
+
+MasterCook 5/6 export files with .mx2 extension
+
+MealMaster export file with .mmf extension
+
+ 
+
+EXPORT DATA FILE FORMAT
+
+ 
+
+MasterCook 5/6 export file format with .mx2 extension.
+
+ 
+
+GENERAL INSTRUCTIONS
+
+ 
+
+1. Edit file for importing. Take care to make sure the formatting is correct.
+
+ 
+
+2. Run MC-TagIt by clicking the shortcut on the Start Menu, or if you installed it, double click the desktop icon.
+
+ 
+
+3. Select Preferences and make changes as desired. The different options are explained further below. MC-TagIt will remember your setting until you change them.
+
+ 
+
+4. If desired, type a short line of information in the comment box located at the bottom of the main window. Select either the Notes or Directions button to tell MC-TagIt where to place your comment. The comment will be placed at the end of the field selected in every recipe converted in the file.
+
+ 
+
+5. Click the File menu then Select item, or click the Select File command button.  Navigate to the directory where your recipe files are stored. Select a file, then click OK (or double-click on the file name).
+
+ 
+
+6. Depending on the options you selected in Preferences, you may be presented with a dialog box where you can make further selections or changes to the author, source and copyright field of the recipes you are importing.
+
+ 
+
+7. If format errors are detected, MC-TagIt will try to supply the name of the recipe and the file name it was found in. That recipe will not be converted, and MC-TagIt will continue with the next detected recipe.
+
+ 
+
+8. As MC-TagIt moves through the recipes in the file, the recipe title is displayed in the Recipe Title display window.
+
+ 
+
+9. When all recipes have been converted, you will be notified. Click Ok. A new file with the same name as the one just converted will be created in the same directory as the input file, but it will have an extension of .mx2. Your original file will not be changed. MC-TagIt lists the original file name and date of conversion at the beginning of the file, and places a list of Recipe Titles and the count of recipes converted at the beginning of the file, before the recipe listings.
+
+ 
+
+10. If additional files need to be converted, repeat the steps above. When completed, click the Quit button, or on the menu bar select File, then Exit.
+
+ 
+
+SPECIAL FEATURES PROVIDED
+
+ 
+
+1. Separating paragraphs in the directions section with blank lines instructs MC-TagIt to move each paragraph into a separate recipe section in MasterCook 5/6. Importing directly into MasterCook 5/6, the entire directions will always import into the first directions block, regardless of how it is formatted. Blank lines may be added by editing the text-input file.
+
+[jbs – keep this function – blank lines for new paragraphs.]
+
+ 
+
+2. Paragraphs in the directions section will be automatically word wrapped. This feature can be turned off in the preferences. See the preferences settings, below, for special-editing features provided for lists and multiple paragraphs in the directions sections.
+
+[jbs – I keep word wrap off, always in McTagit]
+
+ 
+
+3. If done carefully, the new field tags used by MasterCook 5/6 can be added below the directions of any MasterCook recipe formats. Follow the spacing and formatting guidelines in the sample below. This may save additional formatting time within MasterCook 5/6 since MC-TagIt will recognize these tags and convert them to the correct MasterCook 5/6 fields. MC-TagIt does not require the quotes nor the indentation; however, the content must be on the line following the tag.
+
+[jbs - The tag begins the line, the data follows on the same line. The only exception for this might be that Title, Ing and Dir might be on their own lines, in the TXT3MX2, in the currently blank line locations.]
+
+ 
+
+4. NEW IN VERSION 4: Added a tag that allows comments from outside the recipe format to be included in the recipe. These may be comments written by the original poster attesting to how great or how easy that the recipe is. To include these comments, type "Footer:" (without the quotes) at the start of the comment to be included. MC-TagIt will include all text from the "Footer:" tag to the first blank line it encounters in the field. If you would like to include lists or multiple paragraphs, use the special formatting characters (;;) and (^P) described below . If multiple recipes are included in the post, the footer will be added to every recipe following the "Footer:" tag. To clear the field, type an empty tag at the end of the last recipe in which you want the footer included. The field will automatically be cleared when a new file is opened for processing.
+
+[jbs – not required – all text should be in the text file.]
+
+ 
+
+5. Many of the formatting features of the generic format can also be used in the MC4 format as well. Subtitle, Text, and Embedded Recipe tags can be added to ingredient lines. Because some posters who do not use MasterCook post recipes that do not follow the strict ingredient column formatting, MC-TagIt will recognize these lines and use the generic line parsing. This allows for use of the special units and amount range formatting within the MC4 (mxp) format. Just be sure the ingredient line is flush to the left of the page, not in the MC4 column format.  The list and multiple paragraph special formatting characters will work in the directions, notes, serving ideas and footer fields of all formats.
+
+[jbs – not required]
+
+ 
+
+6. NEW IN VERSION 4.0: Clicking the "Create an Out File" checkbox in the preferences will cause MC-TagIt to generate a file of the same name with an extension of .out. This file contains all lines processed that were not included in a recipe. This can allow you to verify that MC-TagIt has not missed any recipes.
+
+[jbs – optional..might be useful for testing, but not general use.]
+
+ 
+
+7. NEW IN VERSION 4.0: When recipes are received through email list exchanges, particularly digest versions, incompatibilities between the source and the mailing list processing computer can cause strange characters to appear that will disrupt. This occurs when recipes are posted using the "Quoted-Printable" format. MC-TagIt will recognize the line in the digest file describing the encoding and will process that post to remove the extra characters or replace them with the extended ASCII character that was intended.
+
+[jbs – Not required. It is easy enough to save email recipes to a text file and format them as needed.]
+
+ 
+
+8. IMPROVED AND EXPANDED IN VERSION 4.1: The title case routine used by MC-TagIt has been expanded to recognize some special words and abbreviations commonly used in recipes. The list is now user defined and is contained in Capitals.txt file. Open this file in any text processor (like Note Tab or Notepad) to add your special abbreviations that you want capitalized. Be careful in your selections. Limit them to letter sequences that do not make up the beginnings of other words. Include spaces before and after the characters, if appropriate.  Remember, this is a very literal search. If you tell Tagit to look for "WW", it will look for any sequence of WW.  If you add the abbreviation as " WW" (a space preceeding the WW), Tagit will not properly capitalize "Ww Chocolate Brownies", but it will properly capitalize "Chocolate Brownies WW". Remember, spaces count. Also, letter sequences that can be parts of other word will also be capitalized, unless you can make them unique by using parenthesis, angle brackets or some other means of puncuation or spaces. You can still capitalize by adding a period behind each letter. I also cleaned up a few bugs in this routine. Adding selections: add the character sequence to be searched for, using lower case, to the Capitals.txt file. Be sure there is only one sequence per line.
+
+[jbs – I think we use the corrections file to handle most of this. Your preference. One thing that is required is that recipe titles and ingredient items should have options for how to handle the capitalization. In general, we want recipe titles to be in title case, and ingredients all in lower case, except for embedded recipes (Title Case) and subtitle recipes (UPPER CASE)
+
+ 
+
+9. NEW AND IMPROVED IN VERSION 4.2: Eliminated errors caused by extra lines inserted in the MasterCook 2, 3 and 4 header (mxp format). These recipes will now pass through MC-TagIt and be recognized without causing an error condition. Added additional "text line" recognition in the MasterCook 2, 3 and 4 header (mxp format) and the generic text formats. Now ingredients that begin with a single hyphen (a method used by several regular posters) or the word "or" will create a text-type line in the MasterCook 5/6 format.
+
+[jbs – na]
+
+ 
+
+10. NEW IN VERSION 4.2: MC-TagIt now verifies the units it finds in the units column of the MasterCook 2, 3 and 4 header (mxp format). If the unit is not validated (found in the units.txt file), it is moved into the ingredients field. This will allow MC-TagIt to read the complex units used in MasterCook 5/6, as printed in the mxp export format from MasterCook 5/6. You may have noticed that these complex ingredients start in the units column, but often expand into the ingredients column. To keep these complex units in the units field of the line, surround it with parenthesis and MC-TagIt will recognize it as a complex unit. This gives users the best of both worlds.
+
+[jbs – handled in the corrections.txt file.]
+
+ 
+
+11. NEW IN VERSION 5.0: Nutritional links exported with the MC5/6 export format will be carried through the tagging process. Previous versions simply ignored these tags, and the nutritional links had to be re-established after importing. If desired, this can be turned off in version 5.1
+
+[jbs – na]
+
+ 
+
+12. NEW IN VERSION 5.0: If you want to turn off the nutritional analysis for an ingredient, add "^N" to the beginning of the ingredient name. On importing into MC5/6, this line will be marked with an "I" in a brown circle when viewed in edit mode. This ingredient is ignored when MC5/6 calculates the nutritional information for the recipe. Coding this ingredient as text or a subtitle will also remove it from the nutritional analysis, but using the new "^N" tag, the display in recipe view mode is more uniform and easier to read. This tag can be added to all MasterCook based formats and MC-TagIt's generic text format when editing. (Does not apply to Meal Master formats)
+
+[jbs – na]
+
+ 
+
+13. NEW IN VERSION 5.0: MC-TagIt can now accomodate more than one Ratings field. If adding these to the mxp (MC4) format while editing, pay special attention to the format. (See notes in troubleshooting, below and the example format).
+
+[jbs – should support up to 3 ratings tags.]
+
+ 
+
+14. NEW IN VERSION 5.1: MC-TagIt will now verify if the output file already exists and will prompt you if it does. You can choose to overwrite the existing file (if you are re-tagging after correcting some errors) or give a new name to the file. If you choose to create an "out" file, MC-TagIt will use the same name as the output file.
+
+[jbs – your choice how to handle.]
+
+ 
+
+15. ADDED IN VERSION 5.1: You can now select three types of title formats, All Capitals, Title Case, or make no changes to the title as typed. Select the desired format in the Preferences.
+
+[jbs – some will want this. I prefer Title Case, but some may want the other options.]
+
+ 
+
+16. ENHANCED IN VERSION 5.1: When importing nutritional links in the MC4 (.mxp) format, if the number of links do not match the number of ingredient lines, the nutritional linking may not be correct. This may happen if you edit the ingredient lines before tagging, creating or deleting them. If you have preferences set to import the nutition links, you are asked if you wish to be notified if the links and ingredient lines do not match. Selecting "Yes" will present you with a message each time this occurrs. Selecting "No" will import the links as they are presented. Any extra links are ignored. Lines without links are treated as if they had no links. These settings have no effect on the ^N "Ignore Nutritional Analysis" tags.
+
+[jbs – na]
+
+ 
+
+17. NEW IN VERSION 6.0: I've had numerous requests for a method to insert a blank separator line in the ingredients section. This was frequently used in the older MC4 and earlier versions instead of a subtitle line. When Mc-TagIt  parses the blank ingredient line, it is interpreted as the end of the ingredients section. Putting a space as a holder in the line does not help, and may be removed automatically if you use NoteTab with the "clear white spaces" option checked to edit your recipes. While I cannot make it painless to include a blank line, I have created a new character tag, ^B (or ^b), that can be placed in the otherwise blank line as a holder. When Mc-TagIt parses this line, it ends up with only the "^B" holder and will create a completely blank line in the XML format for it. This will not trigger the end of the ingredients, and you can include as many blank lines as you wish. Once a truly blank line is encountered, the ingredients section will be closed, and Mc-TagIt will proceed to parse the directions. This line holder works in the text, MealMaster and MC4 export formats.
+
+ 
+
+To add a blank line in a MC5/6 export, insert an opening and closing tag with no data between them. The tags would look like:
+
+<IngR></IngR>
+
+[jbs – because we will have explicit tags, blank lines will not be a problem. If blank lines show up in the ingredients section, they should show up in MasterCook.]
+
+ 
+
+18. NEW IN VERSION 6.0: New Preference option to group all direction paragraphs into the first directions section. This will allow you to number your paragraphs, if desired, rather than allow MC5/6 to number them for you. This is not a mix-and-match setting. Selecting this preference puts everything into the first directions section of the recipe. If you want to combine options, leave this unchecked and use the "^P" and ";;" markers to indicate positioning.
+
+[jbs – na – people will control this by whether they have blank lines in the directions.]
+
+ 
+
+19. NEW IN VERSION 6.0: If you include an ingredients line that is completely enclosed within Parenthesis, Mc-TagIt will now recognize it as a text line.
+
+[jbs – I prefer a tag T: in ingredients line for this. We also have tags for embedded and subtitle recipes.]
+
+ 
+
+20. NEW IN VERSION 6.0: Description fields over 255 characters are automatically moved to the end of the notes field. If no notes are included, the description will become the notes. Importing a description over 255 characters will cause an error in MC5/6.
+
+[jbs – Descriptions are not usually part of the recipe – it is a mastercook specific term that you see when you are browsing recipes by name, not ‘in’ the recipe. I guess we have to duplicate this behavior, since it will fail if we don’t.
+
+ 
+
+21. ENHANCED IN VERSION 6.0: More information is provided when errors occur to assist in detecting the format problem. Hopefully, I got most of them, but it is very possible that I may not have anticipated everything. Please continue to notify me as these occur so they can be added in future updates.
+
+[jbs – these are the types of problems that are generally corrected with the corrections.txt file. Improper ingredient line formatting causes most errors.]
+
+ 
+
+SETTING PREFERENCES
+
+ 
+
+1.     Ignore existing categories. Check this box to instruct MC-TagIt to skip over any categories set by the person who shared the recipe. Although MasterCook 5/6 can strip these categories on import, it will place all recipes imported like this into the "Uncategorized" category. MC-TagIt assigns the category of "New Import" when this box is checked. This provides a way to identifying the recipes you import as a group. If left unchecked, MC-TagIt will read, tag and include all categories in its export format. If no categories are assigned, MC-TagIt will assign them the "New Import" default category.
+
+[jbs – na - I think the categories should already be in the text file.]
+
+ 
+
+2.     Source/Author Options. This option allows you to instruct MC-TagIt how you want to handle the transfer the contents of the "Recipe By:" field in MasterCook versions II, 3 and 4. MasterCook 5/6 defaults to moving the contents of this field to its "Author" field when importing these recipes. If you have been placing magazine or cookbook titles into the "Recipe By:" field, you may prefer this information to be imported into the new "Source" field of MasterCook 5/6. Click the "Switch Author (Recipe By:) and Source Fields" button to instruct MC-TagIt to do this for you. If your "Recipe By:" field contains information that you want to be transferred to the "Author" field of MasterCook 5/6, click the "Recipe By: to Author Field" button. Selecting either of these buttons will cause all the recipes in the file to be converted in this manner. This is fine for some cases. However, when dealing with mixed recipe sources, selecting the "Prompt for each Recipe" radio button will provide the most options.
+
+[jbs – na -  I think this information should be in the text file.]
+
+ 
+
+"Prompt for each Recipe" causes a dialog box to display for each recipe being converted. On the dialog box, recipe data in the Author (Recipe By), Source, and Copyright fields, is displayed. You may edit the information in these fields. To save time, if Author (Recipe By) and Source, or Author (Recipe By) and Copyright data needs to be exchanged, select the proper button in the upper-right corner of the window. Alternately, you can use standard Windows copy (control-c), cut (control-x) and paste (control-v) commands to move data around.  To help you keep track of the recipes being converted, the recipe title is also displayed in the window. No editing is allowed in this field.
+
+ 
+
+Click "Accept" to have MC-TagIt make the changes you indicated. If you change your mind, click "Cancel". Recipe conversion will continue using the data in the original file.  If you wish to abort processing the current file, click "Abort Conversion". You will be prompted to confirm your decision and reminded that this action will remove all recipes already converted from this file. Click "Yes" to proceed or "No" to continue converting the file.
+
+[jbs – na]
+
+ 
+
+3. Mailing List Tracking Options. Check the box to instruct MC-TagIt to look for the From: and Date: fields in postings from Email Recipe Exchange lists. MC-TagIt will place this information into the new Alternate Source field of MasterCook 5/6. This will overwrite any existing data in the Alternate Source Title with the Mailing List name as typed in the Lists.txt file, and the actual source text with the name of the poster and date of the message. If you wish to track this information, but do not want to overwrite the existing information, leave the "Replace Existing Alternate Source Field" box unchecked. This will fill in the list information if the Alternate Source fields are initially empty, but retain any pre-existing data. List information will not be recorded.
+
+ 
+
+In order to make the most of this feature, you must tell MC-TagIt what lists you will be importing from. To do this, open the file Lists.txt in the MC-TagIt directory in any plain text editor like Notepad or Note Tab. Assign each list a 2 or 3 character code. Type the list identifier in the first 3 spaces of the line, the fourth character a blank space, and then type the list name in the line beginning in the fifth (5th) space. Use the sample data provided as a guide. Type only one list entry per line. Save the file in the same location you found it.  When saving your email messages for conversion, use the 2 or 3 character identifier code as the first 2-3 characters of the file name. Immediately follow this identifier with at least one number. For example, save all email messages received from MC-Recipes on June 6, 1999 in a file called mc060699.txt. Also acceptable would be mc1.txt. But mcemail.text would not allow MC-TagIt to determine the list name and the default label "Mailing List" will be applied.
+
+ 
+
+To even more fully utilize this feature for recipes you scan or transfer from other sources, you can set up a list identifier in the Lists.txt file such as "SCN" and a List Name of "Scanned By". Add the following headers to the beginning of your input file.
+
+From: Your Name
+
+Date: 22 Jul 1999
+
+Save your file as SCN2 (the identifier followed by a number) as if it were from a mailing list. MC-TagIt will place "Scanned By" in the Alt Source label field and "Your Name on 22 Jul 1999" in the data field. Use your imagination to create tags to suit every occasion.  Note the date format used for this header: a 2-digit day followed by a three-letter month, followed by the year (2 or 4 digit is acceptable). Alternately, the date can be written out provided a comma precedes the entry. For example ",July 22, 1999". These follow email standards, which is why they seem unusual.
+
+[jbs – na]
+
+ 
+
+4. Select Title Format - Select one of the three. No changes is the default.
+
+Title In All Capitals: Check the radio button to convert the recipe title to all capital letters.
+
+Tagit Title Case: While MC5/6 has a "Title Case" for recipe titles, it fails to capitalize letters following punctuation marks (such as ( , -). I have corrected this in MC-TagIt. Select "Normal Case" in the MC5/6 Import Window to avoid changing the capitalization.
+
+Import Title As Is: TagIt will make no changes in how the recipe title is formatted.
+
+[jbs – need this option.]
+
+ 
+
+5. Capitalize Subtitles: This option allows you to force all ingredient subtitle lines to all capital letters. This allows them to stand out more readily as dividers in your ingredient lists. Check this box to have MC-TagIt capitalize all the letters in ingredient subtitle lines.
+
+[jbs –. This should already be in the text file.
+
+ 
+
+6. Make Ingredient Lines Lower Case: Check this box to tell MC-TagIt to make all units, ingredients and preparation fields lower case. If left unchecked, MC-TagIt will copy whatever case the original recipe is presented in.
+
+[jbs – this is needed, although we can create clips to handle caps in the text file. For example, because we will identify Titles, we can choose to UPPER or TITLE case titles explicitly in the text file. Same for ingredients.]
+
+ 
+
+7. Import Nutrition Links: The Nutritional Association links at the end of the MC4 (mxp) recipe format will be associated with the ingredient lines. MC-TagIt will import links only if they are not "0". When selected, you are asked at the beginning of each file if you want to be warned if the number of links do not match the number of nutritional lines. You can select to ignore the differences. However, if you edited the ingredient lines, the links may not match properly.
+
+[jbs – na]
+
+ 
+
+8. Create "Out" File: An out file is basically a garbage file. Any line from the original file that is not used in the recipe format is written here. You can open it in a text processing file (like Word Pad or Note Tab) to see if any recipes you wanted have been missed. After all recipes have been processed, be sure to delete these files as they will take up space on your hard drive. If you don't want to deal with this, leave the option box unchecked.
+
+[jbs – optional]
+
+ 
+
+9. Turn off Word Wrap in Directions: This option turns off MC-TagIt's automatic word wrapping feature. Click this box to copy each line in the directions exactly as it appears in the original. This will allow you to copy "lists" of items into the XML format and place them into a single recipe division within MasterCook5, however regular paragraphs of directions will not look very nice if they have not been word wrapped during edit. MC-TagIt also provides a means to get the best of both worlds, continue reading.
+
+[jbs – word wrap should just be off. The text file itself should provide the input.]
+
+ 
+
+10. One Big Directions Section: Use this option to tell Mc-TagIt to place all directions into the first directions section. This will allow you to number each paragraph yourself, rather than have MasterCook do it for you. Each parsed paragraph will be word-wrapped as before (if this is turned on). However, instead of creating a separate directions section for each, a blank line will be inserted between the paragraphs and all will appear in the first directions section.
+
+[jbs – not needed. If user doesn’t place blank lines between paragraphs, it will be in one big block.]
+
+ 
+
+11. Default Alternate Source: If you want to use something other than the "Mailing List" default alternate source label, enter it here and save the preferences. This label will be retained until you replace it with something else.
+
+[jbs – this is simply a tag, which should be in the source text file if wanted.]
+
+ 
+
+SPECIAL EDITING FEATURES FOR LISTS AND MULTIPLE PARAGRAPHS WITH WORD WRAP
+
+[ jbs – na on mailing lists]
+
+Word wrap joins lines which may have been broken through posting in emails or other means, making the directions section more readable. To create distinct sections, just place a blank line between each paragraph during editing.  However, there may be times when you will want to enter a list of items, say the nutritional values of a recipe. Or you may want to include more than one paragraph of directions within the directions section of MC5/6. MC-TagIt provides special editing characters that allow you to selectively turn off the automatic word wrap line by line, while keeping the remainder of your recipe directions clear and easy to read.
+
+ 
+
+MC-TagIt version 4.0 has incorporated these special formatting characters into the Notes, Serving Ideas and the new Footer fields also.
+
+ 
+
+To copy a list of items, add two semi-colons to the end of all but the last line of the list. This tells MC-TagIt to begin the next line it reads on the line directly below this one. This creates a list of items that is transferred into the same recipe block. Usually this list is followed by a blank line, causing MC-TagIt to create a new recipe block for the next line or paragraph. To place more than one list in the same section, with a line between, use the multi-paragraph formatting tag (^P), described next, at the end of the last item in the first list. Follow this line with the first line of the next list immediately below it.
+
+ 
+
+Sample of lists:
+
+Type this:
+
+ 
+
+*Crumbs;;
+
+Vanilla wafer;;
+
+Chocolate wafer;;
+
+Gingersnap cookie;;
+
+Quick cooking oats;;
+
+Wheat germ
+
+ 
+
+And get this:
+
+ 
+
+<DirT>
+
+*Crumbs
+
+Vanilla wafer
+
+Chocolate wafer
+
+Gingersnap cookie
+
+Quick cooking oats
+
+Wheat germ
+
+</DirT>
+
+ 
+
+To create multiple paragraphs within one directions section, add "^p" (without the quotes) to the end of a paragraph or line. This will cause MC-TagIt to add a blank line to this line, creating a new paragraph, without moving into a new directions section. Be sure there is no blank line between the paragraphs already. When a blank line is read within the ingredients section of a recipe, MC-TagIt will always create a new MC5/6 directions section.
+
+ 
+
+Sample of multi-paragraphing:
+
+Type this:
+
+ 
+
+Preheat oven to 350 (325 for glass dish). In 13 x 9-inch baking pan, melt margarine in oven. Sprinkle crumbs over margarine; pour sweetened condensed milk evenly over crumbs. Sprinkle with chips then coconut and nuts. Press down firmly.^p
+
+Bake 25 to 30 minutes or until lightly browned. Cool. Chill thoroughly if desired. Cut into bars. Store loosely covered at room temperature.
+
+ 
+
+And get this:
+
+ 
+
+<DirT>
+
+Preheat oven to 350 (325 for glass dish). In 13 x 9-inch baking pan, melt margarine in oven. Sprinkle crumbs over margarine; pour sweetened condensed milk evenly over crumbs. Sprinkle with chips then coconut and nuts. Press down firmly.
+
+ 
+
+Bake 25 to 30 minutes or until lightly browned. Cool. Chill thoroughly if desired. Cut into bars. Store loosely covered at room temperature.
+
+</DirT>
+
+ 
+
+WARNING: While these editing tags create the correctly formatted XML code for MC5/6 formatting, the code does not import correctly into MasterCook 5.01. The list will import with a blank line between each element, although it will be in one recipe section. The multi-paragraph option will import with 2 to 3 blank lines between the paragraphs within the recipe section. You will probably wish to remove these lines after importing. This bug in MC5/6 has been corrected in the 5.03 MasterCook patch.
+
+ 
+
+ 
+
+GENERIC TEXT FORMAT
+
+ 
+
+[[[
+
+Red, White and Blue Dessert
+
+D: A very simple and patriotic dessert for any National Holiday!
+
+S: 18
+
+Y: 18 servings
+
+C: desserts, cream cheese, holidays
+
+Cus: American
+
+B: Sue Gronholz, Columbus, WI
+
+SRC: Taste of Home Savings Pack
+
+CPR: Taste of Home?
+
+R: Taste: 9
+
+R: Texture: 2
+
+R: Color 4
+
+AS: Magazine: Ad section 7/99
+
+PT: 0:20
+
+TT: 2:20
+
+W: Light Sweet Wine
+
+SI: Use as a centerpiece on a Holiday Picnic table
+
+N: Serving this rich, fresh-tasting dessert decorated like the flag is a great salute to the nation's independence! I used a new recipe I found and made some modifications based on tricks my grandma taught me.
+
+ 
+
+2 (8 ounce packages) cream cheese, softened
+
+1/2 cup sugar
+
+1/2 teaspoon vanilla extract
+
+1/2 teaspoon almond extract
+
+2 cups whipping cream, whipped
+
+2 quarts strawberries, halved and divided
+
+2 quarts blueberries, divided
+
+ 
+
+In a mixing bowl, beat cream cheese, sugar and extracts until fluffy. Fold in the whipped cream. Spoon a third of the mixture into a 4-quart bowl. Reserve 19 strawberry halves and 1/2 cup blueberries for garnish. Layer half of the remaining strawberries and blueberries over cream mixture. Top with another third of the cream mixture and the remaining berries. Spread remaining cream mixture over top. Use the reserved strawberries and blueberries to make a "flag" on top. Store in the refrigerator.
+
+ 
+
+Yield: 18 servings.
+
+ 
+
+]]]
+
+ 
+
+The three left brackets ([[[) indicate the beginning of a new recipe. MC-TagIt also recognizes the 5 left brackets ([[[[[) used in earlier versions of MC-Buster. Type the recipe title on the line immediately below the brackets. The fields between the recipe title and blank line before the ingredients listing are optional. If you have data for these fields, use these tags to direct the data to the correct MasterCook 5/6 field. All field tags must be aligned flush to the left margin, as shown above. Specifics of the fields are listed below. Order is not important. Upper, mixed or lower case entries will be recognized. Some of the longer fields such as Descriptions, Notes and Serving Ideas may span multiple lines. Once the tag identifier is recognized, all lines following it will be included in this field until MC-TagIt recognizes another tag, or finds a blank line (completely blank, no spaces).
+
+ 
+
+[jbs – below is every field except the three new ones]
+
+Description Field: tag = D: or Description:
+
+Servings Field: tag=S: or Serves:  Follow this with a number containing up to 3 digits. This is the number of servings the recipe provides.
+
+Yield Field: tag=Y: or Yield:  This field is made up of a number followed by a space then the units. 1 gallon, 1 1/2 cups, etc. It indicates the volume the recipe makes. This is used my MasterCook 5/6 to calculate the nutritional value when this recipe is embedded in another as an ingredient.
+
+Category Fields: tag = C: or Cat: or Category:  Category names may be made up of multiple words, each separated by a single space. Separate multiple categories on the line with commas.
+
+Cuisine Field: tag=Cus: or Cuisine:  Enter the cuisine for this recipe. Only one entry is allowed, although it may be multiple words.
+
+Author: tag=A: or B: or By: or Author:  Type the name of the person who created the recipe. The entire entry is considered the author.
+
+Source Field: tag=Src: or Source:  Type the name of the recipe source. This may be a cookbook or magazine, WebPages, friend, relative or whatever you desire.
+
+Copyright Field: tag=Cpr: or Copyright:  Enter any copyright information you wish to retain on this recipe.
+
+Ratings Field: tag = R: or Rate:  Enter the label name desired followed by a colon, then the numerical rating from 0 to 10. To enter multiple ratings, repeat the line as often as desired, keeping each rating on a separate line. (See sample above.)
+
+Alternate Source Field: tag=AS: or Alts:   Enter the Alternate Source label desired followed by a colon. Then enter the information for the source field. Do not use colons at any other place in the field other than where indicated. If the tracking of mailing lists option is turned on in preferences, and there is valid poster and date information already extracted from the file, this field may be over-written. To avoid this, be sure the "Replace existing Alternate Source Field" in preferences is not checked.
+
+Preparation Time Field: tag=PT:  Enter the preparation time required in the h:mm format where h is hours and mm are minutes. If no hours are required, be sure to include a 0. For example, 20 minutes would be entered as 0:20.
+
+Total Time Field: tag=TT: Enter the total time the recipe requires. Follow the same entry guidelines as for Preparation Time.
+
+Wine Suggestion Field: tag=W: or Wine:  If a wine is suggested, enter it here.
+
+Serving Ideas Field: tag=SI  This can be a long, multi-line field. MC-TagIt will assume all lines following the Tag belong in this field until it recognizes a new tag, or encounters a blank line.
+
+Notes Field: tag=N: or Notes: Add any comments here. This can be a long, multi-line field. MC-TagIt will assume all lines following the Tag belong in this field until it recognizes a new tag, or encounters a blank line.
+
+ 
+
+A blank line must be present immediately before the ingredients section. Be sure it is a blank line and does not contain any spaces.
+
+[jbs – we want a tag, instead of a blank line]
+
+Ingredient lines should be entered in the typical format of "quantity units ingredient, preparation" used by most cookbooks.
+
+ 
+
+If MC-TagIt does not find a number in the first character, it assumes no quantity is presented. The next full word it reads is assumed to be the units. This word is then run through a list of known abbreviations to expand any abbreviations into full units. If the unit does not match an abbreviation, no action is taken on it. MC-TagIt then compares the unit to a list of known units acceptable to MasterCook 5/6. If the unit is not verified as a proper unit, MC-TagIt moves it to the ingredients field. In this way MC-TagIt moves across the line.  Once the ingredient name portion of the line is identified, MC-TagIt assumes that everything following is the ingredient until it finds a comma. The comma is interpreted as the position where the preparation field begins. Understanding how this works is very important when editing your recipes for conversion.  Some examples follow.
+
+[jbs – these assumptions lead to the majority of the formatting problems. Corrections.txt is a better way to do this.]
+
+1 cup flour, sifted
+
+1 1/2 tsp. cinnamon
+
+1/2 c butter, melted
+
+Dash nutmeg
+
+Salt and pepper, to taste
+
+ 
+
+2 boneless, skinless chicken breasts ===  "skinless chicken breasts" will appear in the preparation field. Edit the line by removing the comma.
+
+[jbs - This is an example of the problems created by the assumptions. We don’t WANT to remove the comma, for it is needed for comprehension in Mastercook.]
+
+Special features available with ingredient editing:
+
+ 
+
+*To tell MC-TagIt about a special units entry, surround it with ( ) or [ ]. When MC-TagIt reads this, it includes everything between the parenthesis or brackets in the units field. This unit is accepted as read.  For example:
+
+ 
+
+1 (8 ounce carton) sour cream.
+
+4 (6-ounce) chicken breasts
+
+2 [14 1/2 ounce cans] diced tomatoes, undrained
+
+[jbs – more problems. It can’t handle (8-ounce) cans. Cans goes into the ingredient column. Corrections.txt solves this.]
+
+ 
+
+*Additional "acceptable" units may be added to the units.txt file. Open the file in a text editor such as Notepad or Note Tab. Enter a single word unit, one per line. Case is not important. Sorry, MC-TagIt can only handle one-word units, however you may use hyphens to create multiple word units.
+
+ 
+
+*Embed a recipe by placing "^R" or "^r" (without the quotes) in front of the ingredient name. MC-TagIt will set this line as an embedded recipe when imported into MC5/6. However, it will import with the link broken. You will have to manually go into each recipe and re-link the recipes. This is typical of how MasterCook 5/6 imports any recipe with embedded recipes.
+
+[jbs – this will already be in the text file.]
+
+ 
+
+*Remove ingredient nutrition by placing "^N" or ^n" (without the quotes) in front of the ingredient name. MC-TagIt. Any previous nutritional link information will be removed for this ingredient. After importing, this ingredient will have an "I" in a brown circle at the beginning of the line in recipe edit view. It will not be included in calculating the recipes nutritional values.
+
+[jbs – na]
+
+*Insert a blank ingredient line using the holder character "^B" or "^b" (without quotes) anywhere in the blank line.
+
+[jbs – na, since a blank line should simply pass through if in the text file.]
+
+1 (4 ounce box) Cherry Gelatin
+
+^B
+
+1 (3 ounce package) cream cheese
+
+ 
+
+ 
+
+*Omit the quantity and units in a line, and add two hyphens at the start of the line to tell MC-TagIt to set this line as a MasterCook 5/6 text type ingredient. Or enclose the line completely in parenthesis. Add three hyphens or follow the phrase with a colon, ":" and it will be tagged as a subtitle.  As opposed to regular ingredient lines, text and subtitle lines may include commas.
+
+[jbs [ A ‘T’ will begin a text line in an ingredient section in the text file.]
+
+1 tablespoon freshly chopped basil
+
+--Or 1 teaspoon dried basil
+
+(try oregano or dill for a change)
+
+1 cup mixed berries
+
+--strawberries, blueberries, or raspberries
+
+ 
+
+---Cake
+
+(List cake ingredients here)
+
+---Frosting
+
+(List frosting ingredients here)
+
+ 
+
+OR
+
+ 
+
+Cake:
+
+(List cake ingredients here)
+
+Frosting:
+
+(List frosting ingredients here)
+
+ 
+
+Ingredient ranges may be entered by using the "to" keyword or a hyphen. The lower amount will be used in the amounts field, and the range will be placed into the preparation field.
+
+ 
+
+1 to 1 1/2 teaspoons salt
+
+3-4 cups flour  
+
+ 
+
+Blank Line: Place an empty blank line after the last ingredient. This tell MC-TagIt that the ingredients are finished and sets up the utility to read the directions section.
+
+[jbs – we will  use an explicit tag for this. Dir::]
+
+Directions: Type the directions for preparing this recipe following the blank line. If you separate paragraphs by one blank line, MC-TagIt will place each paragraph into a different numbered directions section in MasterCook 5/6. You may choose to also remove any pre-existing numbers on the paragraphs since the recipe sections are already numbered.
+
+[jbs – yes, we want this behavior – the text file will be formatted as desired]
+
+ 
+
+Recipe Terminator: Indicate the end of the recipe with three right brackets ]]] aligned to the left margin.
+
+[jbs – we may want to keep the ]]] as a terminator. Easy enough to use.]
+
+ 
+
+[jbs – end of my comments – the rest is just FYI…]
+
+ 
+
+COMMON ERROR CAUSING SITUATIONS
+
+ 
+
+MC-TagIt relies on the correct formatting of the input recipes. In preformatted (MC II-4 and MM style) recipes, email has a tendency to disrupt the proper flow of lines and columns by shortening long lines, causing them to wrap to the next line unexpectedly. Often a carriage return is also added. Sometimes blank lines are deleted, or added. Spaces can also be added at the beginnings of "blank" lines, preventing MC-TagIt from recognizing it as blank. The utility will recognize some errors and skip the offending recipe. However, some may slip through and may cause MasterCook 5/6 to crash when importing the file. If this occurs, restart MasterCook 5/6 and import the recipes, one at a time until the crash reoccurs. This will identify the recipe causing the problem. Open the file in a text editor and try to determine where the error is.  If you cannot locate it, open the source file and examine the original format to see if a line is missing or wrapped incorrectly.
+
+ 
+
+I recommend you save all messages from Mailing Lists to a text file. Most email programs can do this with little effort.  This also allows you to set the file name correctly if you are tracking the List Name in the Alternate Source field. Open the text file in a text editor like NotePad, Note Tab or WordPad. It is best to use a non-proportional font such as Courier so you can see how the columns line up. Use the samples below as a guide to look for deleted or extra blank lines and improper word wrapping, particularly in the ingredients section. I also use this editing session to adjust my categories, add lines between paragraphs and remove paragraph numbers. For MasterCook II-4 recipes, you may add the new MC5/6 tags if you carefully follow the sample below. Pat Hanneman has created a Note Tab Clip that makes adding the fields and editing recipes particularly easy when using Note Tab. There is a link to the clip on MC-TagIt's download page.
+
+ 
+
+Things to look for during an editing session:
+
+1. Extra or missing blank lines. Correct by adding blank lines where needed and deleting the extra ones. Use the samples below as a guide. To determine if a line is actually blank, position the blinking insertion point at the end of the preceding ling. Using the right arrow button, move the insertion point one character at a time. The insertion point should move from the end of the line, to the beginning of the blank line, and then to the beginning of the line following the blank. If the insertion point moves to the right in the blank line, there is a space present that must be removed. Another way is to click in the blank line, press the end key to position the insertion point at the end of the line and then press the backspace key until the line disappears. Now re-add the line by pressing the Enter key once. If your text editor has a means of displaying non-printing characters, you can also use this. Often a dot is placed where a space is so you can see it.
+
+ 
+
+2. Ingredient lines where the preparation field wraps to the left margin of the next line. Correct this by deleting the carriage return at the end of the first section of the line. You may need to be sure that word wrap is turned off if using a program like NoteTab.
+
+ 
+
+3. Several fields can be so long that they wrap to the next line in all MasterCook formats (including MC5/6). I have tried to compensate for this in the parser, but if the recipe is rejected by MC-TagIt, or causes a crash in MC5/6, examine all the field tags to be sure they have not been wrapped.
+
+ 
+
+4. When converting MC II-4 formatted recipes that have a "Notes:" comment in the directions, you can move this line below the dotted line that terminates the recipe and MC-TagIt will place it into the "Notes" field of MC5/6. If not moved, MC-TagIt will interpret the line as directions and include it in the directions field.
+
+ 
+
+5. Fields listed below the recipe terminator line (line of dashes) in MCII-4 formats should not have more than one blank line between them. They can be right next to each other with no blank lines. If the "Per Serving:" nutritional output from MasterCook is present, place the Notes:, Serving Ideas: and Wine Suggestions: below this line. However, all these fields should be placed before the Nutr. Assoc: line. This line will trigger the end of the recipe and send it to the print file, missing any information beyond it. If the Nutr. Assoc: line is missing, there should be at least one blank line, preferably two following the last field in the recipe. If the recipe runs into text in the email message, the extraneous text will be included in the last field. However, MC-TagIt will recognize if a new recipe header is read and properly execute the conversion.
+
+ 
+
+6. Separate paragraphs of directions with a blank line and MC-TagIt will tag each paragraph sequentially to the numbered recipe directions sections of MasterCook 5/6. MC-TagIt will automatically word-wrap each paragraph of the directions for you, recognizing hyphenated words and properly matching them. One word of caution, if a word is broken at a proper hyphen, MC-TagIt will remove the hyphen, causing the properly hyphenated word to be misspelled. Example, if Medium-High is broken at the hyphen and "High" is wrapped to the next line, MC-TagIt will import this as MediumHigh, which is incorrect. You may want to look for these types of occurrences and manually remove the carriage return before converting.
+
+ 
+
+7. MasterCook II, 3.x and 4.x formats should line up by columns.  Ingredient units should begin in column 11, ingredients in column 25 and preparation information following a " -- " break indicator. Justification within these column settings does not matter. MC-TagIt does not recognize tabs instead of spaces. It isn't important to have everything line up, but they should fall within the column boundaries. Sometimes a recipe is posted with the ingredient lines left justified, or you may move the ingredients for an embedded recipe to the already formatted ingredient lines. Version 2 now recognizes these and properly reads them.
+
+ 
+
+8. When importing recipes exported from MasterCook 5/6 in MasterCook 4.x format, watch for the new field tags following the directions sections. Each tag begins flush against left column, but in most cases the actual data in the field begins on the line below, indented two spaces and surrounded by quotes. Watch out for wrapping of long fields that can cause problems on importing to MC5/6.
+
+ 
+
+If you want, you can add these new fields to earlier MasterCook version formats. Be sure the tag is left justified on one line, and the content of the field is on the line below. MC-TagIt does not require the indentation or quotation marks, but the tag and the content must be on separate, consecutive lines. Notes, Serving Ideas, and Wine Suggestions should be placed below the recipe terminator line (line of dashes in the center of the page).  Follow the sample below.
+
+ 
+
+9. MealMaster units begin in column 9 and are only two characters long. These abbreviations are expanded during the conversion of the recipe, provided they are recognized. Otherwise, they are included as presented.  The ingredient begins in column 12 with preparation method specified following a semi-colon ";". The double-column export format uses a similar layout, but places a second column of ingredients beginning at column 44. The double column Meal Master recipe format has been successfully tested, but not thoroughly. This may cause some difficulty and require some additional utility upgrades. Some double column Meal Master recipes also have long section headers that may not convert properly.
+
+ 
+
+10. MC-TagIt version 4.0 has added a module that will recognize and tag recipes exported using the MasterCook Mac format. The recipe header is "{ Exported from MasterCook Mac }". While the samples that were supplied to me during development were all successfully converted, this format has not be fully tested through email list submissions and my function inconsistently.
+
+ 
+
+11. When using multiple ratings, the label fields must begin at column (character) 17 and 48 of the line. The identifying tag "Ratings       : " must only appear on the first line, but MC-TagIt will allow it to be on every line. That way, you can put one rating per line to make it easier.  A sample showing how MC5/6 exports these in the mxp format appears below in a font where you can see the correct spacing.
+
+ 
+
+Ratings       : Convenience 2                   Family 8
+
+                Points 0-10 4                   Portability 2
+
+                Speed 4                         Taste 7
+
+                Texture 3
+
+ 
+
+12. The most common problem when processing recipes exported from MasterCook 5/6 is broken lines. If a line is broken (split over two lines) MC-TagIt will either not include the full information in the field, or it may cause an error during processing. When reviewing MC5/6 formats, run your eye along the left margin of the recipe. All lines should begin with a < unless they are contained within field tags or are part of the MC4 format display. This is made easier if you do your editing in a text editor where word-wrap can be turned off, like in Note Tab or Note Pad. If broken tags are found, they need to be reconnected before processing.
+
+ 
+
+Starting and stopping field tags are identical, except for the addition of a forward slash following the first angle bracket < in the stopping tag. For example, the <DirS> tag indicates the start of the direction section. Each separate section is then started with a <DirT> tag. The end of the section is indicated by a </DirT> tag. Each section is delimited this way until all have been listed. Then the entire direction section is closed using a </DirS> tag. All tags start with the < angle bracket and end with a closing angle bracket>. Some tags, like those used in the ingredients lines contain parameters that have labels. The ingredient labels are name, untis and qty, which are contained within the starting ingredients tag. If no preparation is included, the ingredient line is ended with a </IngR> tag. If a preparation field is included, it is delimited with it's own set of tags, then is followed by the closing </IngR> tag. The preparation field may be contained in two or three lines. However, the ingredients line must be on only one line. If it is broken, an error will occur in MC-TagIt's processing.
+
+ 
+
+The MC5/6 export format (XML) is probably the most difficult to edit, and it is the format most easily disrupted through email. But if you spend time working with it, you will notice the logic of the tags and editing it will become easier. You can start by exporting several recipes from your database to a file and examining them. These recipes will not have been damaged through email routing software and you can see how it is supposed to look. Be sure you are using a text editor with Word Wrap turned off.  One word of caution; the export format was changed slightly in MasterCook 5/6.01. The code &#013;&#010; was added to make the format smaller. These codes tell MC5/6 that the information following them should really be on the next line. Sometimes these codes may be interpreted by the email software, rather than displaying the codes. Therefore you may see one style on exporting from MasterCook 5/6, and another when it is received. Below are some samples of how the code may be changed. However, MC-TagIt will see these as equivilent and interpret each identically.
+
+ 
+
+<CatT>&#013;&#010;Main Dishes
+
+</CatT>
+
+ 
+
+<CatT>
+
+main dishes
+
+</CatT>
+
+ 
+
+===========
+
+ 
+
+<IngR name="cannellini beans" unit="15 1/2-ounce can" qty="1">
+
+<IPrp>&#013;&#010;rinsed and drained
+
+</IPrp>
+
+</IngR>
+
+ 
+
+<IngR name="cannellini beans" unit="15 1/2-ounce can" qty="1">
+
+<IPrp>
+
+rinsed and drained
+
+</IPrp>
+
+</IngR>
+
+ 
+
+ 
+
+ 
+
+MasterCook (II-4) Export Sample
+
+ 
+
+ 
+
+                     *  Exported from  MasterCook  *
+
+ 
+
+                     Sweet and Hot Peach Chutney - WW
+
+ 
+
+Recipe By     : Weight Watchers Slim Ways Grilling
+
+Serving Size  : 4    Preparation Time :1:20
+
+Categories    : *wwm                         condiments
+
+ 
+
+  Amount  Measure       Ingredient -- Preparation Method
+
+--------  ------------  --------------------------------
+
+   1      teaspoon      extra virgin olive oil
+
+   2      tablespoons   raisins
+
+   1      cup           onion slices
+
+   1      tablespoon    seeded jalapeno peppers -- thinly sliced
+
+   4      medium        garlic cloves -- minced
+
+   2      cups          sliced peaches
+
+     1/2  cup           cider vinegar
+
+     1/8  teaspoon      ground ginger
+
+     1/4  cup           firmly packed brown sugar -- light or dark
+
+   1      Pinch         ground cloves
+
+ 
+
+This rich and flavorful chutney will spice up any grilled meat, but it is
+
+particularly nice with pork or chicken.
+
+ 
+
+CAUTION: Remember to wear gloves to prevent irritation from the peppers.
+
+ 
+
+Place medium nonstick saucepan over medium-high heat 30 seconds; heat
+
+oil 30 seconds more. Add onion and cook, stirring constantly, until
+
+translucent, 6-8 minutes.
+
+ 
+
+Add garlic; cook, stirring, 1 minute. Add peaches, vinegar, sugar,
+
+raisins, peppers, ginger and cloves. Bring to a boil, reduce heat and
+
+simmer gently, stirring occasionally, 50 minutes. Remove from heat and let
+
+cool; cover and refrigerate until ready to use, up to 2 weeks.
+
+ 
+
+Makes 4 servings. EACH SCANT 1/2 CUP) PROVIDES: 1/4 Fat, 1 1/4 Fruits, 1/2
+
+Vegetable, 45 Optional Calories.  PER SERVING: 135 Calories, 1 g Total Fat,
+
+0 g Saturated Fat, 0 mg Cholesterol, 8 mg Sodium, 33 g Total Carbohydrate,
+
+2 g Dietary Fiber, 1 g Protein, 32 mg Calcium
+
+ 
+
+Recipe from Weight Watchers Slim Ways Grilling ~ Weight, Watchers
+
+International (1996). MC and email from Pat Hanneman
+
+<kitpath@earthlink.net>  01/99
+
+ 
+
+ 
+
+                   - - - - - - - - - - - - - - - - - -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MasterCook5 Export as MC4 Format Sample
+
+ 
+
+* Exported from MasterCook *
+
+ 
+
+                          MC5/6 Test Recipe Format - MC4mxp
+
+ 
+
+Recipe By     :Author Field
+
+Serving Size  : 8     Preparation Time :2:20
+
+Categories    : Cat1                            Cat2
+
+ 
+
+  Amount  Measure       Ingredient -- Preparation Method
+
+--------  ------------  --------------------------------
+
+  1                cup  apple juice -- chilled
+
+  2 1/2         pounds  flour -- sifted
+
+  6            4 ounce  flounder fillets -- skinned
+
+                        Header Number 1
+
+  1       15 ounce can  black beans, canned -- rinsed
+
+                        Text line under ingredients
+
+                        Recipe Ingredient Specified
+
+  2          teaspoons  sugar
+
+  3        tablespoons  chopped onion -- raw
+
+ 
+
+Directions Section 1
+
+ 
+
+Directions Section 2
+
+ 
+
+Directions Section 3
+
+ 
+
+Description:
+
+  "Description Field"
+
+Cuisine:
+
+  "Cuisine"
+
+Source:
+
+  "Source Field"
+
+S(Email):
+
+  "Alternate Source"
+
+Copyright:
+
+  "Copyright Field"
+
+Yield:
+
+  "3 pounds"
+
+Start to Finish Time:
+
+  "6:25"
+
+T(Bake):
+
+  "0:45"
+
+Ratings       : Ratings 0                       Ratings2 0
+
+                                    - - - - - - - - - - - - - - - - - - -
+
+ 
+
+Suggested Wine: Wine Suggestion
+
+ 
+
+Serving Ideas : Serving Ideas
+
+ 
+
+NOTES : Notes Information goes here.
+
+ 
+
+ 
+
+ 
+
+MealMaster Single Column Format
+
+ 
+
+ 
+
+---------- Recipe via Meal-Master (tm) v8.02
+
+ 
+
+      Title: Smoked Bean Dip
+
+ Categories: Vegetables, Spicy, Dips
+
+      Yield: 4 servings
+
+ 
+
+      1 tb Vegetable oil
+
+    1/2    Onion ;chopped
+
+      4    Garlic cloves ; minced
+
+      1 ts Cumin
+
+    1/2 ts Salt
+
+      2    Chipotle chiles in adobo;
+
+           ;minced
+
+      1 c  Cooked pinto or black beans
+
+           (or canned refried beans)
+
+ 
+
+  1. Heat oil in skillet and add onion and garlic and sauté until onions are
+
+  soft, about 5 minutes. Add cumin, salt and chipotles, and cook about 2
+
+  minutes longer.
+
+ 
+
+  2. If using whole beans, puree in food processor with little water until
+
+  smooth paste. Add, paste, or canned refried beans, to mixture in skillet
+
+  and cook 2 minutes, stirring constantly.  Use as dip for chips or filling
+
+  for burritos or soft tacos. Makes 4 servings.
+
+ 
+
+  From "The Pepper Pantry: Chipotle" by David DeWitt and Chuck Evans
+
+  Published in Newsday (Long Island Newspaper) Taking The Heat
+
+  on Chiles by Wendy Lin p.34-35. Wed, June 4, 1997.
+
+ 
+
+-----
+
+ 
+
+ 
+
+MealMaster Double Column Format
+
+ 
+
+---------- Recipe via Meal-Master (tm) v8.05
+
+ 
+
+      Title: "Little Chief" Smoked Salmon Deluxe
+
+ Categories: Appetizers
+
+      Yield: 1 servings
+
+ 
+
+    1/3 c  Sugar                             1/2 ts Garlic powder
+
+    1/4 c  Non-iodized salt                  1/2 ts Pepper
+
+      2 c  Soy sauce                         1/2 ts Tabasco sauce
+
+      1 c  Water                               1 c  Dry white wine
+
+    1/2 ts Onion powder                  
+
+ 
+
+  Mix thoroughly.  Brine salmon chunks 8 or more hours, keeping refrigerated.
+
+  Rinse thoroughly after brining.  Pat dry with a paper towel and allow to
+
+  air dry for at least one hour prior to smoking.
+
+ 
+
+  (also used for Steelhead and other large trout)
+
+ 
+
+  Credit: Luhr-Jensen
+
+ 
+
+-----
+
+ 
+
+ 
+
+John Shotsky
+
+100 SW 195th Avenue #155
+
+Beaverton, Oregon, 97006
+
+971.404.9321

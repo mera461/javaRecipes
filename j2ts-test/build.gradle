@@ -1,0 +1,66 @@
+buildscript {
+	repositories {
+		mavenCentral()
+		maven { url "http://repository.jsweet.org/artifactory/libs-release-local" }
+		maven { url "http://repository.jsweet.org/artifactory/libs-snapshot-local" }
+		maven { url "http://repository.jsweet.org/artifactory/plugins-release-local" }
+		maven { url "http://repository.jsweet.org/artifactory/plugins-snapshot-local" }
+		maven { url "http://google-diff-match-patch.googlecode.com/svn/trunk/maven" }
+	}
+	dependencies {
+		classpath('org.jsweet:jsweet-gradle-plugin:2.3.5') { //
+			transitive = true }
+	}
+}
+
+apply plugin:'java'
+apply plugin: 'org.jsweet.jsweet-gradle-plugin'
+
+defaultTasks 'jsweet'
+sourceCompatibility = "1.11"
+targetCompatibility = "1.11"
+compileJava {
+	enabled = false
+}
+
+repositories {
+	mavenCentral()
+	maven { url "http://repository.jsweet.org/artifactory/libs-release-local" }
+	maven { url "http://repository.jsweet.org/artifactory/libs-snapshot-local" }
+	maven { url "http://repository.jsweet.org/artifactory/plugins-release-local" }
+	maven { url "http://repository.jsweet.org/artifactory/plugins-snapshot-local" }
+	maven { url "http://google-diff-match-patch.googlecode.com/svn/trunk/maven" }
+}
+
+
+dependencies {
+    implementation group: 'org.jsweet', name: 'jsweet-core', version:'6.0.1'
+//    implementation group: 'org.jsweet.candies.ext', name: 'angular', version:'1.4.0-SNAPSHOT'
+//    implementation group: 'org.jsweet.candies.ext', name: 'angular-route', version:'1.2.0-SNAPSHOT'
+//    implementation group: 'org.jsweet.candies.trusted', name: 'es6-promise', version:'0.0.0-SNAPSHOT'
+
+// Adding j4ts make it use ArrayList, HashMap, etc... instead of compiling them to ts 
+//	implementation group: 'org.jsweet', name: 'j4ts', version: '0.5.0'
+    implementation group: 'org.jsweet', name: 'jsweet-transpiler', version:'2.3.5'
+	
+    // for java recipes
+	implementation 'org.slf4j:slf4j-api:1.7.36'
+	// JSON parser/generator
+	implementation 'io.fastjson:boon:0.34'
+	implementation 'commons-codec:commons-codec:1.15' // used by Image for decoding...
+	implementation 'commons-lang:commons-lang:2.6'
+}
+
+jsweet {
+	verbose = true
+	module = 'commonjs'
+	encoding = 'UTF-8'
+	sourceMap = true
+	outDir = new File('target/javascript')
+	candiesJsOut = new File('target/candies')
+	targetVersion = 'ES6'
+	tsOnly = true
+	tsOut = new File('target/ts')
+	includes = ['**/net/sf/**/*.java', '**/java/util/regex/*.java'  ]
+	// extraSystemPath = '/my/path/to/npm'
+}

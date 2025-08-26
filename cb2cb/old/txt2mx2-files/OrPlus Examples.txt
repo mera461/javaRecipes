@@ -1,0 +1,107 @@
+Examples of usage of 'plus' and 'or' in ingredient lines
+
+Comma after ingredient name causes whatever follows to go to prep column
+ -- after ingredient name causes whatever follows to go to prep column (Added manually)
+
+Before
+1 tablespoon plus 1 teaspoon dill seeds, crushed
+after
+1 tablespoon dill seeds, crushed, PLUS
+1 teaspoon dill seeds, crushed
+
+Before
+2 eggs plus 3 egg whites, lightly beaten
+After
+2 eggs, lightly beaten, PLUS
+2 egg whites, lightly beaten
+
+Before 
+2 cups. plus 2 tablespoons water, divided
+After
+2 cups water -- PLUS
+2 tablespoons water, divided
+
+Before
+1/4 cup plus 2 tablespoons hot mango chutney
+After
+1/4 cup hot mango chutney -- PLUS
+2 tablespoons hot mango chutney
+
+Before
+1/4 cup plus 2 tablespoons finely chopped red bell pepper
+After
+1/4 cup finely chopped red bell pepper -- PLUS
+2 tablespoons finely chopped red bell pepper
+
+Before
+Yield: 4 servings (serving size: 1 pita half and 1/4 cup plus 1 tablespoon sauce) .
+This is not changed, as it is not in the ingredients
+
+Before
+3 tablespoons plus 1 teaspoon chilled stick margarine, cut into small pieces
+After
+3 tablespoons chilled stick margarine, cut into small pieces PLUS
+1 teaspoon chilled stick margarine, cut into small pieces
+
+OR
+Before
+3/4 pound cod or other lean white fish fillets, cut into 1/2-inch pieces
+After
+3/4 pound cod -- or other lean white fish fillets, cut into 1/2-inch pieces
+
+Before
+2 tablespoons balsamic or sherry vinegar
+After
+2 tablespoons balsamic vinegar -- or sherry vinegar
+
+Before
+1/4 cup Burgundy or other dry red wine
+After
+1/4 cup Burgundy -- or other dry red wine
+OR
+1/4 cup Burgundy wine -- or other dry red wine
+
+Before
+1 tablespoon chopped fresh oregano or 1 teaspoon dried whole oregano
+After
+1 tablespoon chopped fresh oregano -- or 1 teaspoon dried whole oregano
+
+Before
+1 tablespoon Triple Sec or other orange-flavored liqueur
+after
+1 tablespoon Triple Sec -- or other orange-flavored liqueur
+
+Before
+2 large firm, unpeeled ripe Bartlett or Cornice pears
+After
+2 large firm, unpeeled ripe Bartlett pears -- or Cornice pears
+
+Before
+1/2 cup dried cranberries or dried tart cherries
+After
+1/2 cup dried cranberries -- or dried tart cherries
+
+Before
+6 (1/4-inch-thick) slices unpeeled yellow or red tomato
+After
+6 (1/4-inch-thick) slices unpeeled yellow tomato -- or red tomato
+
+Before
+1/2 cup fresh or frozen blueberries, unthawed
+After
+1/2 cup fresh blueberries -- or frozen blueberries, unthawed
+
+Before
+3/4 cup 1% low-fat milk or beer
+After
+3/4 cup 1% low-fat milk -- or beer
+
+Before
+1 (6-inch) vanilla bean, split lengthwise or 1 tablespoon vanilla extract
+After (Note comma - no change required)
+1 (6-inch) vanilla bean, split lengthwise or 1 tablespoon vanilla extract
+
+Before
+1 teaspoon instant espresso granules or 2 teaspoons instant coffee granules
+After
+1 teaspoon instant espresso granules -- or 2 teaspoons instant coffee granules

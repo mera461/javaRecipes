@@ -1,0 +1,33 @@
+Each item below, when encountered in an ingredient line, should be moved to the prep column starting with the parenthesis.
+The [ -- ] indicates 'Move to Prep'. So, the first part is what to search for, and the second part is what goes into the prep column.
+Each of these is a case where parenthesis FOLLOWS the ingredient name. So, the rule is simply to move everything in parenthesis after an ingredient name into the prep column.
+Some of these may be easier to do in NoteTab, but NoteTab cannot restrict its function to ingredients only.
+If you need more complete examples of these, let me know. There will be many more examples, so it is best handled with a rule.
+
+ (100°	 -- (100°
+ (105°	 -- (105°
+ (110°	 -- (110°
+ (120°	 -- (120°
+ (about 	 -- (about 
+amaretto (almond	amaretto -- (almond
+ (apple	 -- (apple
+ (at room temperature)	, (at room temperature)
+ (black currant-flavored	 -- (black currant-flavored
+breast (skinned	breast -- (skinned
+bulgur (cracked	 bulgur -- (cracked
+capellini (angel	capellini -- (angel
+chèvre (mild	chèvre -- (mild
+ (coffee-flavored	 -- (coffee-flavored
+ (cooked without	 -- (cooked without
+Midori (melon	Midori -- (melon
+miso (soybean	miso -- (soybean
+ (optional)	 -- (optional)
+ or 	 -- or 
+ (orange-flavored	 -- (orange-flavored
+ penne (short	 penne -- (short
+ plus 	 -- PLUS 
+ (reserved	 -- (reserved
+ (such as	 -- (such as
+ (sweet rice wine)	 -- (sweet rice wine)
+ tahini (sesame-seed	 tahini -- (sesame-seed
+ (without salt	 -- (without salt

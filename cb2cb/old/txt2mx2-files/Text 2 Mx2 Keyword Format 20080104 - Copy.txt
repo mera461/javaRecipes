@@ -1,0 +1,189 @@
+=============================
+THE TXT2MX2 KEYWORD FORMAT
+=============================
+
+The proposed TXT2MX2 keyword format described below is intended to be utilized by the NoteTab text editor to convert tagged text to XML that can be imported into Mastercook and Living Cookbook. At the end of this document is an MX2 recipe export from Mastercook, with every Mastercook field populated to be used as a reference, and a copy of the Mastercook MX2.DTD format.
+
+The primary goal of the TXT2MX2 keyword format is to eliminate the need for the McTagit tool, which is no longer supported, and for which workarounds are necessary to overcome some of its shortcomings. By streamlining the process, files can be created that are ready for either Mastercook or Living Cookbook directly from NoteTab.
+
+Another goal of the TXT2MX2 keyword format is that the keywords be easy for both humans and computers to work with. In the TXT2MX2 keyword format, each keyword ends with double colon, which should not be found in any recipe copied off the web, from email, out of a book or in an export from another program. Each keyword has one or more aliases, to simpilfy effort for those familiar with the process. There are additional keywords added so that there is no doubt as to what part of a recipe is being processed at any given time. Keywords can appear anywhere within a recipe to switch the recipe processor into a new mode, or recipe part. 
+
+Usage: In its simplest form, one should be able to copy a recipe off the web, paste it into NoteTab, add a few tags, and create the MX2 file.
+
+Another goal of this format is that it be capable of processing an existing McTagit File. There should be a NoteTab clip to process an existing McTagit file to add the new tags (title, ingredients, directions) and the additional colons.
+
+It is not a goal of the TXT2MX2 keyword format to create a standard McTagit file FROM TXT2MX2. Standard McTagit files can still be created using existing methods. The TXT2MX2 keyword format is meant to replace McTagit. An existing NoteTab clip creates a McTagit file from an MX2 file. A new clip should be added that creates the new keyword format. There is no requirement to reverse the process.
+
+TAGS			Mastercook FieldName
+TITLE::,T::		Title <Text until next tag encountered> [NEW]
+DESCRIPTION::, D::	Description <Text until next tag encountered>
+SERVES::, S::, 		Servings <0-999>
+YIELD::, Y::		Yield <Enter [Number: Units>
+YAMT::, YA::		Yield Amount <Optional>
+YUNIT::, YU::		Yield Unit <Optional>
+ING::, I::		Ingredients <Ingredient rows until next tag encountered> [NEW]
+DIR::, DIR::		Directions <Text until next tag encountered> [NEW]
+CAT::, C::		Categories <Text until next tag encountered>
+NOTES::	, N::		Notes <Text until next tag encountered>
+CUISINE::, CUS::	Cuisine <Text until next tag encountered>
+SRVIDEA::, SI::		Serving Ideas <Text until next tag encountered>
+PREPTIM::, PT::		Preparation Time
+TOTALTIM::, TT::	Start to Finish Time
+ALTTIM::, AT::		Alternate Time <Enter [TIMELABEL: HH:MM]
+ALTTIMLBL::, ATL::	Alternate Time Label <Optional>
+ALTTIMTXT::ATT		Alternate Time Text <Optional>
+AUTHOR::, A::, B::	Author <Text until next tag encountered>
+SOURCE::, SRC::		Source <Text until next tag encountered>
+COPYRIGHT::, CPR::	Copyright <Text until next tag encountered>
+ALTS::, AS::		Alternate Source <Enter [SOURCE: Data about source]>
+ALTSRCLBL::, ASL::	Alternate Source Label <Optional
+ALTSRCTXT::, AST::	Alternate Source Text <Optional
+WINE::, W::		Suggested Wine <Text until next tag encountered>
+RATE::, R::		Ratings < Requires LABEL: Number from 0-10> (Supports up to 3 ratings)
+
+
+==============================================================
+
+Mastercook Exported MX2 Example:
+==============================================================
+<?xml version="1.0" standalone="yes" encoding="ISO-8859-1"?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook" date="January 04, 2008">
+<Summ>
+<Nam>
+Title: MX2 Export Recipe
+</Nam></Summ>
+<RcpE name="Title: MX2 Export Recipe" author="Author: John Shotsky">
+<Serv qty="6"/>
+<PrpT elapsed="1:10"/>
+<CatS>
+<CatT>
+Category 1
+</CatT>
+<CatT>
+Category 2
+</CatT>
+</CatS>
+<IngR name="peeled, chopped tomatoes" unit="(6-ounce) can" qty="1">
+<IPrp>
+drained
+</IPrp>
+</IngR>
+<IngR name="one text line in ingredients" code="T"></IngR>
+<IngR name="one embedded recipe in ingredients" code="R"></IngR>
+<IngR name="one subtitle in ingredients" code="S"></IngR>
+<DirS>
+<DirT>
+Direction line 1 
+</DirT>
+<DirT>
+Direction line 2
+</DirT>
+<DirT>
+Direction line 3
+</DirT>
+</DirS>
+<Desc>
+Description: This is a test export to populate every field in a Mastercook Recipe
+</Desc>
+<Natn>
+Cuisine 1
+</Natn>
+<Srce>
+Source: John Shotsky
+</Srce>
+<AltS label="Formatted By:" source="John Shotsky"/>
+<CpyR>
+Copyright: John Shotsky
+</CpyR>
+<Yield unit="slices" qty="12.000000"/>
+<TTim elapsed="2:30"/>
+<AltT label="Custom Time 2" elapsed="1:20"/>
+<RatS>
+<RatE name="Look Rating" value="8"/>
+<RatE name="Smell Rating" value="6"/>
+<RatE name="Taste Rating" value="4"/>
+</RatS>
+<Wine>
+Charles Krug; Merlot; 1995
+</Wine>
+<SrvI>Serving Idea 1&#013;&#010;&#013;&#010;Serving Idea 2
+</SrvI>
+<Note>
+Note 1: This is a note.&#013;&#010;&#013;&#010;This is a 2nd note.
+</Note>
+<Nutr>
+Per Serving (excluding unknown items): 0 Calories; 0g Fat (0.0% calories from fat); 0g Protein; 0g Carbohydrate; 0g Dietary Fiber; 0mg Cholesterol; 0mg Sodium.  Exchanges: .
+</Nutr>
+</RcpE></mx2>
+
+=======================================================
+The Mastercook MX2.DTD file:
+=======================================================
+<!ELEMENT mx2 (Summ, RcpE+)>
+<!ELEMENT Summ (Nam)+>
+<!ELEMENT RcpE (RTxt?,
+	CatS?,
+	IngR?,
+	DirS?,
+	Desc?,
+	Annot?,
+	Yield?,
+	Serv?,
+	Note?,
+	Natn?,
+	SrvI?,
+	PrpT?,
+	TTim?,
+	AltT?,
+	Srce?,
+	CpyR?,
+	AltS?,
+        Wine?,
+        RatS?)>
+<!ELEMENT RTxt (#PCDATA)>
+<!ELEMENT CatS (CatT)+>
+<!ELEMENT CatT (#PCDATA)>
+<!ELEMENT Nam (#PCDATA)>
+<!ELEMENT IngR (IPrp?,INtI?,IERp?)>
+<!ELEMENT IPrp (#PCDATA)>
+<!ELEMENT IntI (#PCDATA)>
+<!ELEMENT IERp (EMPTY)>
+<!ELEMENT Desc (#PCDATA)>
+<!ELEMENT IAnno (#PCDATA)>
+<!ELEMENT Yield (EMPTY)>
+<!ELEMENT Serv (EMPTY)>
+<!ELEMENT DirS (DirT)+>
+<!ELEMENT DirT (#PCDATA)>
+<!ELEMENT Note (#PCDATA)>
+<!ELEMENT Natn (#PCDATA)>
+<!ELEMENT SrvI (#PCDATA)>
+<!ELEMENT PrpT (EMPTY)>
+<!ELEMENT TTim (EMPTY)>
+<!ELEMENT AltT (EMPTY)>
+<!ELEMENT Srce (#PCDATA)>
+<!ELEMENT CpyR (#PCDATA)>
+<!ELEMENT AltS (EMPTY)>
+<!ELEMENT Wine (#PCDATA)>
+<!ELEMENT RatS (RatE)+>
+<!ELEMENT RatE (EMPTY)>
+<!ATTLIST mx2 source CDATA #IMPLIED date CDATA #IMPLIED>
+<!ATTLIST RcpE name CDATA #REQUIRED
+		author CDATA #IMPLIED>
+<!ATTLIST IngR qty CDATA #IMPLIED
+		name CDATA #IMPLIED
+		unit CDATA #IMPLIED
+		code CDATA #IMPLIED>
+<!ATTLIST IERp refname CDATA #REQUIRED>
+<!ATTLIST PrpT elapsed CDATA #REQUIRED>
+<!ATTLIST TTim elapsed CDATA #REQUIRED>
+<!ATTLIST AltT label CDATA #REQUIRED
+		elapsed CDATA #REQUIRED>
+<!ATTLIST AltS label CDATA #REQUIRED
+		source CDATA #REQUIRED>
+<!ATTLIST Serv qty CDATA #REQUIRED>
+<!ATTLIST Yield unit CDATA #REQUIRED
+		qty CDATA #REQUIRED>
+<!ATTLIST RatE name  CDATA #REQUIRED
+                value CDATA #REQUIRED>
+
