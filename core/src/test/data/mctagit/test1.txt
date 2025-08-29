@@ -1,0 +1,41 @@
+[[[
+D:: 
+C::  
+Cus:: 
+Y:: 20 bars
+S:: 
+PT:: 
+TT:: 
+W:: 
+SI:: 
+B:: 
+Src:: Brownies: Over 100 Scrumptious Recipes, page 24 
+Cpr:: © 1984 by Linda Burum (ISBN 0-684-18138-X) 
+N:: 
+T:: BASIC FUDGE CAKE BROWNIE
+DIR:: 
+PREHEAT OVEN TO 375°F (350°F FOR GLASS). 9 X 9 METAL PAN
+
+The corn syrup in this deep chocolate batter keeps the finished product moist while the brownie retains a slight cake-like quality — an excellent basic recipe.
+ING:: 
+4 ounces unsweetened chocolate 
+1/2 cup butter or margarine at room temperature
+1/4 teaspoon salt
+3/4 cup granulated sugar
+2/3 cup packed golden brown sugar 
+1/3 cup light corn syrup
+3 large eggs
+1 teaspoon vanilla extract
+1 cup sifted all-purpose flour 
+1 cup nut pieces (optional)
+Powdered sugar, or Chocolate Glaze 1 (page 34), or frosting of your choice (optional)
+DIR:: 
+1. In a small pan within a larger pan over simmering water or a double boiler, melt chocolate. Let cool to room temperature.
+
+2. In a food processor or with an electric mixer, cream butter or margarine, salt, and granulated sugar until light and fluffy. Add light brown sugar and beat until creamy. Beat in corn syrup, and then add eggs one at a time, beating each in well. Beat in vanilla extract and melted chocolate. Stir in flour by hand. Stir in nuts if you are using them.
+
+3. Spray or lightly grease pan, and spread in batter. Bake in the center of the oven 30-35 minutes or until the top is dry and a wooden toothpick inserted 1/2 inch from the center comes out barely moist.
+
+4. Cool completely in the pan on a rack before sprinkling with powdered sugar, glazing, or frosting, as desired. Cut into 20 or 24 bars.
+
+]]]

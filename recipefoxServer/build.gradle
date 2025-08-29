@@ -1,0 +1,108 @@
+/********************** recipefoxServer ******************************/
+
+defaultTasks 'releaseZip'
+
+def versionNumber = "0.96"
+
+buildscript {
+	ext {
+		springBootVersion = '2.6.5'
+	}
+	repositories {
+		mavenCentral()
+		maven { url "https://repo.spring.io/snapshot" }
+		maven { url "https://repo.spring.io/milestone" }
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+		classpath 'net.sf.proguard:proguard-gradle:5.2.1'
+	}
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+
+jar {
+	archiveBaseName = 'recipefoxServer'
+	archiveVersion = versionNumber
+}
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+	maven { url "https://repo.spring.io/snapshot" }
+	maven { url "https://repo.spring.io/milestone" }
+}
+
+configurations.all
+{
+	resolutionStrategy
+	{
+		force 'org.codehaus.groovy:groovy-all:2.5.9'
+	}
+}
+
+dependencies {
+	implementation("org.springframework.boot:spring-boot-starter-web:${springBootVersion}") 
+	implementation("org.springframework.boot:spring-boot-starter-actuator:${springBootVersion}")
+	implementation (project(':core'), {
+		exclude group:'org.slf4j', module:'slf4j-log4j12'
+	})
+	implementation('org.springframework.boot:spring-boot-starter-test')
+	testImplementation('com.jayway.jsonpath:json-path:2.7.0')
+	implementation 'commons-fileupload:commons-fileupload:1.4'
+}
+
+configurations {
+	all*.exclude(group:'org.slf4j', module:'slf4j-log4j12')
+}
+
+eclipse {
+	classpath {
+		 containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
+		 containers 'org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8'
+	}
+}
+
+task releaseZip (type:Zip, dependsOn:[build]) {
+	destinationDirectory = new File('releases')
+	archiveFileName = "${jar.archiveBaseName}-${versionNumber}.zip"
+	from('src/main/dist')
+	from("build/libs/${jar.archiveBaseName}-${versionNumber}.jar") {
+		eachFile {
+			it.path = it.path.replaceAll(/-[\d\.]+/, '.')
+		}
+	}
+	
+}
+
+/*
+  ProGuard cannot obfuscate any embedded jar, so it doesn't work
+*/
+task proguard(type: proguard.gradle.ProGuardTask)  {
+	libraryjars    "${System.getProperty('java.home')}/lib/rt.jar" // <java.home>
+	injars         "build/libs/${jar.archiveBaseName}-${versionNumber}.jar"
+	outjars        "build/libs/${jar.archiveBaseName}-${versionNumber}-pro.jar"
+		
+		//debugging:
+		//verbose
+		//printseeds
+		//dontobfuscate
+		//dontshrink
+
+		// lot of warnings because of annotations, groovy, javax, etc.
+		//dontwarn 'org.apache.**'
+		// dont warn about class files in BOOT-INF/classes
+		dontwarn '**.RecipefoxApi'
+		dontwarn '**.RecipefoxController'
+			dontwarn '**.RecipefoxServerApplication'
+		
+		ignorewarnings
+		
+		keep 'class **.RecipefoxServerApplication {public *;}'
+				
+}
+

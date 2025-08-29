@@ -1,0 +1,124 @@
+<?xml version="1.0"  encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="Recipe2html.xsl"?> 
+<!-- <!DOCTYPE mx2 SYSTEM "mx2.dtd"> -->
+<mx2 source="MasterCook" date="July 26, 2009">
+<Summ>
+<Nam>
+All Fields Recipe
+</Nam>
+<Nam>
+No Fields Recipe
+</Nam></Summ>
+<RcpE name="All Fields Recipe" author="Happy New Year Chinatown Style by Sharon Lloyd Spence">
+<Serv qty="8"/>
+<PrpT elapsed="0:10"/>
+<CatS>
+<CatT>
+Appetizers and Party Foods
+</CatT>
+<CatT>
+Happy New Year
+</CatT>
+<CatT>
+Seafood, Shellfish
+</CatT>
+</CatS>
+<IngR name="fresh large prawns" unit="pound" qty="1" code="I">
+<IPrp>
+or tiger prawns, rinsed and unshelled
+</IPrp>
+</IngR>
+<IngR name="fresh ginger" unit="slices" qty="3" code="I">
+<IPrp>
+approximately 1 x 2 inches long (3-4)
+</IPrp>
+</IngR>
+<IngR name="green onions" unit="whole" qty="2" code="I">
+<IPrp>
+mash white part with side of cleaver
+</IPrp>
+</IngR>
+<IngR name="soy sauce" unit="tablespoon" qty="1" code="I"></IngR>
+<IngR name="dry sherry" unit="tablespoons" qty="2" code="I"></IngR>
+<IngR name="chicken broth" unit="teaspoons" qty="2" code="I">
+<IPrp>
+low-salt preferred
+</IPrp>
+</IngR>
+<IngR name="vegetable oil" unit="tablespoons" qty="3" code="I"></IngR>
+<IngR name="salt" unit="teaspoon" qty="1/2" code="I"></IngR>
+<IngR name="hot chili pepper oil" unit="teaspoon" qty="1/4" code="I"></IngR>
+<DirS>
+<DirT>
+With small knife, gently cut back of each prawn about 1/4 inch to reveal and remove the black intestinal vein.
+</DirT>
+<DirT>
+Cut half of the ginger into matchstick pieces and mince remainder.
+</DirT>
+<DirT>
+Cut the green onion into 1-inch slanted pieces.
+</DirT>
+<DirT>
+Combine the soy sauce, dry sherry, and chicken broth.
+</DirT>
+<DirT>
+Heat vegetable oil in wok, swirling to coat sides. When oil begins tosmoke, quickly toss in prawns, ginger, and green onion.
+</DirT>
+<DirT>
+Stir-fry constantly for 1-2 minutes, and as the prawns begin to turn pink, sprinkle in salt and chili pepper oil.
+</DirT>
+<DirT>
+Gradually add soy sauce, sherry, and broth mixture.
+</DirT>
+<DirT>
+Stir-fry another minute at high heat until liquid reduces completely.Serve immediately.
+</DirT>
+<DirT>
+
+</DirT>
+</DirS>
+<Desc>
+To make this dish even hotter, some people like to dip this already spicy prawn into a mixture of hot mustard and soy sauce. Zowie!
+</Desc>
+<Srce>
+Chile Pepper Magazine, Dec, 2001, page 96
+</Srce>
+<AltS label="Formatted by" source="John Shotsky"/>
+<CpyR>
+© 2001 Avenue Communications; ISSN 1069-7985 Volume 15, No. 6
+</CpyR>
+<Yield unit="appetizers" qty="8.000000"/>
+<TTim elapsed="0:35"/>
+<AltT label="Cooking time" elapsed="0:25"/>
+<RatS>
+<RatE name="Cost" value="5"/>
+<RatE name="Flavor" value="10"/>
+<RatE name="Presentation" value="8"/>
+<RatE name="Time" value="7"/>
+</RatS>
+<Wine>
+Rabbit Ridge; Sangiovese; 1994
+</Wine>
+<SrvI>Eat Hearty Mate - this is a serving idea.&#013;&#010;&#013;&#010;This is another serving idea.
+</SrvI>
+<Note>
+Note1: The traditional way to prepare this dish does not call for the removal of the vein from the prawn. After cooking, the whole prawn is consumed, shell and all.&#013;&#010;&#013;&#010;Note2: Test field from email below does not import at all. Suspect colons.&#013;&#010;Putting quotes around them keeps them in Notes.&#013;&#010;&quot;Date: Mon, June 22, 2009&quot;&#013;&#010;&#010;
+</Note>
+<Nutr>
+Per Serving (excluding unknown items): 58 Calories; 5g Fat (83.8% calories from fat); trace Protein; 2g Carbohydrate; trace Dietary Fiber; 0mg Cholesterol; 268mg Sodium.  Exchanges: 0 Lean Meat; 1/2 Vegetable; 1 Fat.
+</Nutr>
+</RcpE>
+<RcpE name="No Fields Recipe" author="">
+<Serv qty="0"/>
+<PrpT elapsed="0:00"/>
+<IngR name="salt" unit="teaspoon" qty="1"></IngR>
+<DirS>
+<DirT>
+Smoke the salt.
+</DirT>
+</DirS>
+<AltS label="Customization" source=""/>
+<Nutr>
+Per Serving (excluding unknown items): 0 Calories; 0g Fat (0.0% calories from fat); 0g Protein; 0g Carbohydrate; 0g Dietary Fiber; 0mg Cholesterol; 2132mg Sodium.  Exchanges: .
+</Nutr>
+</RcpE></mx2>

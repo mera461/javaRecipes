@@ -1,0 +1,4526 @@
+RezkonvSuite v1.2 & REZKONV.dll v2.1.1 - *DAS* Team
+           Datum : 04.01.2007-20:48
+        Benutzer : Michael Staib
+
+  Quelle ( ANSI) : RkSuite
+    Ziel ( ANSI) : C:\Dokumente und Einstellungen\michael staib\Eigene Dateien\Kochbücher\Vollwertrezepte\Vollwertrezepte.rk
+   Ausgabeformat : REZKONV-Format
+
+===== Titelliste (92 Rezepte) =====
+
+Anisplaetzchen aus Reismehl
+Apfel-Nuss-Kuchen
+Auberginen-Maisgriess-Auflauf
+Baguettes
+Bohnen, Birnen und Speck (Cholesterin)
+Bratlinge aus Amaranth
+Brot-Kartoffel-Salat (Cholesterin)
+Buchweizen-Eierkuchen mit buntem Quark
+Buchweizen-Pfannkuchen
+Buchweizen-Pfannkuchen mit Wirsingfuellung
+Buchweizen-Waffeln mit Obstsalat
+Buchweizensalat mit Zitronensahne
+Camemberttorte
+Champignons mit Olivenfüllung u. Kartoffelgratin
+Champignontoast (Cholesterin)
+Cordon "Mehrkorn" mit Maissalat (Cholesterin)
+Crepes mit Mandelmus
+Dinkel-Eierkuchen mit Kraeuter-Frischkaese
+Düvelstädeter Carobcreme
+Erbsen-Omelette
+Erbsencremesuppe mit Croutons
+Feine Hirseplaetzchen
+Fischsouffle mit Hirse
+Flaumige Tomaten-Quiche
+Fruehlingsgemuese auf Hirse-Pfannkuchen
+Fruehlingsgemuese in Sesamsauce mit Kartoffelschnee
+Fruehlingsrollen
+Gebackene Kartoffeln
+Gefuellte Blaetterteignester
+Gefuellte Sommer-Fladen
+Gemuese-Auflauf
+Gemuese-Auflauf m. Hirsekruste
+Gemuese-Getreide-Terrine (Cholesterin)
+Gemuese-Puffer aus vollem Korn
+Gemuese-Tofu-Auflauf
+Gemuesepfanne mit Roggen
+Gemuesezwiebel mit Schrotfuellung (Cholesterin)
+Gnocchi mit Alfalfa-Erdnuss-Butter
+Gratinierte Blumenkohlplaetzchen (Cholesterin)
+Gratinierte Pfannkuchen
+Gruenkernfladen
+Gruenkernrisotto "Roma"
+Gruenkohl mit Gruenkernkuechlein
+Gurkenpfanne
+Haferplinsen
+Hefe-Pfannkuchen mit Kuerbis und Sesam
+Hirse-Sesam-Plaetzchen
+Kaeseschnitten
+Kartoffel-Moehren-Pfanne mit Bulgur
+Kohlrabi-Gurkensalat mit Kraeuter-Joghurtsauce
+Kohlrabi mit Gefluegelfuellung
+Kraeuter-Sahne-Creme
+Krautspaetzle
+Lammkoteletts mit Gruenkern
+Mandel-Nuss-Entchen
+Maultaschen mit Gemuese
+Muesli-Apfel-Broetchen
+Naturreis-Nuesschen
+Pfannkuchen-Rollen mit Gruenkern-Fuellung
+Pikante Roggenkuechlein mit exotischem Gemuese
+Pilzknoedel mit Kraeutersauce
+Pilzragout - Vollwertauflauf
+Quark-Spinat-Kloesschen
+Quinoa-Eierkuchen mit Sellerie-Pilz-Fuellung
+Quittenplaetzchen
+Rosenkohl unter der Haube
+Rote Fischsuppe
+Saftiger Bananenkuchen
+Sahne-Bobbys mit Nockerln
+Sahniger Wurzeltopf
+Salat mit Schafskaesenocken
+SCHNELLES DINKEL-BUCHWEIZEN-BROT
+Schnelles Dinkel-Buchweizen-Brot
+Sesamstaebchen
+Sirup-Sesam-Plaetzchen
+Soja-Nudeln mit Spinat
+Sojapastete
+Spinatgratin mit Polenta-Nusskloesschen
+Suesse Osterhasen
+Thymian-Champignons unter der Haube
+Tofu-Baellchen
+Tofu im Sesam-Mantel
+Tofu-Kraeuter-Tortellini
+Trueffelspitzen
+Ueberbackene Zucchini m. Erbsen u. Sesam
+Ueberbackener Porree auf Bohengemuese
+Vollkorn-Knusperfladen
+Vollkorn-Risotto
+Vollwertige Quark-Sahne-Torte mit Rosinen und Trauben
+Wirsingkohlsuppe
+Wirsingnester mit Petersiliensauce
+Zucchini-Eierpfanne
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Anisplaetzchen aus Reismehl
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 40 Stueck
+
+  1 1/2      Teel. Anissamen
+      2            Eier
+     80     Gramm  Zuckerrohrgranulat
+    180     Gramm  Naturreis; feingemahlen
+                   Butter; fuer das Backblech
+                   Mehl; fuer das Backblech
+
+============================ QUELLE ============================
+         Plaetzchen und Konfekt
+         Annette Wolter (Hrsg.)
+         Verlag Graefe & Unzer
+         ISBN 3-7742-5890-2
+         erfasst von:
+         Elisabeth Hafeneger
+
+Zwei Backbleche mit wenig Butter bestreichen und mit Mehl bestaeuben.
+Die Anissamen im Moerser fein zerstossen. Die Eier und das
+Zuckerrohrgranulat mit dem Ruehrbesen des Handruehrgeraetes sehr
+schaumig schlagen. Den Anis und das Reismehl mit einem Schneebesen
+unter den Teig heben; der Teig soll weich, aber formbar sein. Wenn
+noetig, noch etwas Reismehl untermengen. Mit zwei Teeloeffeln kleine
+Plaetzchen mit genuegend Abstand voneinander auf die Backbleche
+setzen und diese bei Raumtemperatur etwa eine Stunde antrocknen
+lassen. Den Backofen auf 150 Grad vorheizen. Die Anisplaetzchen auf
+der untersten Schiene 40 Minuten backen; Die "Fuesschen" sollen
+hellbraun, die Haeubchen heller sein. Die Plaetzchen vom Blech
+loesen und auf einem Kuchengitter abkuehlen lassen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Apfel-Nuss-Kuchen
+Kategorien: Backen, Kuchen, Vollwert
+     Menge: 1 Springform
+
+    200     Gramm  Vollkornmehl
+    120     Gramm  Butter oder Margarine
+      2      Essl. Sauerrahm (10% Fett)
+      1     Prise  Salz
+      1      Essl. Vollrohrzucker
+    100     Gramm  Geriebene Haselnuesse
+    100     Gramm  Honig
+    100        ml  Suesse Sahne
+      5            Delicious-Aepfel (ca. 600 g)
+      2      Essl. Haselnussblaettchen
+
+============================ QUELLE ============================
+         Eltern 9/92
+
+Fuer die Familie: Vollwertrezept
+
+Nuesse und Aepfel gibt es jetzt aus neuer Ernte. Frische Haselnuesse
+sollten Sie im Ganzen roesten und dann erst mahlen. Bei Aepfeln
+sollten Sie Sorten bevorzugen, die nicht braun werden, z.B.
+Delicious.
+
+Mehl mit Butterfloeckchen, Sauerrahm, Salz und Zucker zu einem
+geschmeidigen Teig verkneten, am besten ueber Nacht im Gemuesefach
+des Kuehlschranks ruhen lassen. Dann die Springform einfetten. Den
+Teig ausrollen und die Form damit auslegen, einen kleinen Rand
+hochziehen und den Boden mit einer Gabel mehrfach einstechen. Die
+Nuesse in einer Pfanne ohne Fett behutsam roesten, bis sie duften.
+Mit Sahne und Honig mischen. Die Aepfel schaelen und halbieren, das
+Kerngehaeuse entfernen, die Haelften auf der Oberseite parallel
+einschneiden. Die Nussmasse auf dem Boden verteilen, die
+Apfelhaelften mit der Schnittflaeche nach unten darauflegen:
+rundherum eine Reihe und in die Mitte die letzte Haelfte. Den Ofen
+auf 200 Grad (Gas Stufe 3) vorheizen. Den Kuchen auf der unteren
+Schiene etwa 40 Minuten backen, bis die Aepfel gar sind. Nach Wunsch
+mit geroesteten Haselnussblaettchen bestreuen.
+
+Tip: Der Kuchen schmeckt auch ohne Obst. Verdoppeln Sie die
+Nussfuellung, und backen Sie den Kuchen in einer rechteckigen Form.
+Schneiden Sie ihn in Streifen als Kleingebaeck.
+
+12    Stuecke … ca. 293 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Auberginen-Maisgriess-Auflauf
+Kategorien: Gemuese, Auflauf, Aubergine, Vollwert
+     Menge: 4 Portionen
+
+      2      groß. Auberginen (ca. 1 kg)
+                   Salz
+                   Pfeffer
+      5      Essl. Olivenoel
+      1            Zwiebel
+      1            Knoblauchzehe
+    200     Gramm  Grober Maisgriess
+    700        ml  Gemuesebruehe
+    200     Gramm  Kraeuterfrischkaese
+      1            Zitrone, Saft davon
+    250     Gramm  Kirschtomaten
+                   Fett; fuer die Form
+
+============================ QUELLE ============================
+         Eltern 7/92
+
+Fuer die Familie: Vollwertkost
+
+Werden Auberginen durch Salz "entwaessert", bekommen sie eine
+festere Konsistenz und saugen auch nicht mehr soviel Fett auf.
+
+Auberginen waschen, quer halbieren, dann laengs in ca. 1 cm dicke
+Scheiben schneiden. Mit Salz bestreuen, 1 Stunde Wasser ziehen
+lassen. Abbrausen und mit Kuechenpapier trockentupfen, pfeffern und
+mit 4/5 des Olivenoels einpinseln. Auberginen auf ein gefettetes
+Blech legen und unter den vorgeheizten Backofengrill schieben. Auf
+jeder Seite goldbraun braten. Zwiebel schaelen und hacken, mit der
+durchgepressten Knoblauchzehe in dem restlichen Olivenoel anbraten,
+dann den Maisgriess zugeben, kurz mitbraten, mit der Bruehe
+abloeschen, eine Viertelstunde quellen lassen, dann den
+Kraeuterfrischkaese unterziehen. Mit Salz, Pfeffer und Zitronensaft
+abschmecken. Kirschtomaten waschen, Stielansaetze entfernen und
+Fruechte halbieren. Eine flache Auflaufform mit einer Schicht
+Auberginen auslegen, mit Maisgriess bestreichen. Tomatenhaelften
+hineindruecken, wieder mit Auberginen bedecken, Maisgriess mit
+Tomaten daruebergeben - und so fort, bis alle Zutaten verbraucht
+sind. Im Backofen bei 180 Grad (Gas Stufe 2) nur noch 15 Minuten
+erhitzen, heiss oder lauwarm zu Tisch geben.
+
+Pro Portion ca. 570 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Baguettes
+Kategorien: Backen, Brot, Vollwert, Vegetarisch
+     Menge: 5 Personen
+
+    500     Gramm  Weizen
+    100     Gramm  Roggen
+      1    Würfel  Hefe (42g)
+    200        ml  Kefir
+    200        ml  ; Wasser
+      1      Teel. ; Salz
+                   Milch zum Bestreichen
+                   Milch fuer die Hefe
+
+============================ QUELLE ============================
+         Vegetarisch fit 1/94
+         Erfasst von Nadja Kramer
+
+Das Getreide fein amhlen, wobei ganz zum Schluss etwa 1 Essloeffel
+grob geschrotet wird. Das Getreide- ausser dass Schrot -in eine
+grosse Schuessel geben. In die Mitte die Hefe einbroeseln. Die Hefe
+hat uebrigens beste Qualitaet, wenn sich in der Mitte an der
+Bruchstelle ein waffel-oder muschelartiges Muster zeigt. Mit dieser
+Hefe gelingen die Baguettes garantiert. Nun etwas leicht warme Milch
+(nicht zu warm, aber auch nicht so kalt, wie sie ist, wenn sie
+direkt aus dem Kuehlschrank kommt) dazu geben. Mit einem Holzloeffel
+etwas Mehl dazuruehren, die Schuessel mit einem sauberen Kuechentuch
+abdecken und alles an einem warmen Plaetzchen gehen lassen. Im
+Sommer reicht ein Platz in der Sonne. Im Winter ist die Schuessel im
+Backofen, bei angeschaltetem Licht, gut aufgehoben. VORSICHT!! Nicht
+den Backofen auf 50 Grad einstellen. Das ist schon zu warm. Der Teig
+geht bei diesen Temperaturen erst gewaltig hoch und faellt dann
+wieder zusammen. Die Schuessel mit dem Hefeteigansatz muss immer
+zugedeckt sein, damit der Teig nicht austrocknet. Ganz einfach ist
+es auch mit Spezial-Hefeteigschuesseln aus Kunststoff, die einen
+verschliessbaren Deckel haben. Wenn der DEckel sich hochgedrueckt
+hat, dann ist der Teig genuegend gegangen. Wer keine
+Spezialschuessel hat, der muss selbst beurteilen, ob der Teig gut
+gegangen ist. Das ist nach 15 bis 30 Minuten derr Fall, wenn der
+Ansatz hochgeqollen ist und sich dicke Blasen gebildet haben.
+
+Wenn der Teig gut gegangen ist, werden die restlichen Zutaten
+dazugegeben. Nun muss der Teig kraeftig geknetet werden. Das geht am
+einfachsten mit etwas feuchten Haenden ( mit Wasser anfeuchten),
+dabei den Teig immer von aussen nach innen kneten. Der Teig muss
+eine pappig-klebrige Konsistenz haben, da Vollkonteig viel Wasser
+aufsaugt. Zwischendurch ruhig die Haende oefter mal anfeuchten.
+
+Den Teig in zwei Haelften teilen, zwei Rollen formen und auf ein
+eingefettetes Backblech legen. Die Baguettes mit dem Messer
+einritzen. Ein Baguett mit dem uebriggebliebenen Schrot bestreuen.
+Beide Baguettes zum Schluss mit Wasser oder Milch bestreichen und im
+Backofen bei 200 Grad ca. 20 bis 30 Minuten backen. Dazu eine Tasse
+mit heissem Wasser stellen, wodurch bei Backen Wasserdampf abgegeben
+wird. So werden die Baguettes besonders schoen.
+
+TIP: Wer keine Getreidemuehle besitzt, kann sich das Korn auch im
+Reformhaus oder Natur-Laden mahlen lassen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Bohnen, Birnen und Speck (Cholesterin)
+Kategorien: Vollwert, Bohne, Birne, Speck, Kartoffel
+     Menge: 4 Portionen
+
+    160     Gramm  Durchwachsener Speck
+    400        ml  ; Wasser
+    800     Gramm  Frische gruene Bohnen
+      1     Zweig  Bohnenkraut
+    500     Gramm  Kartoffeln
+    500     Gramm  Feste Birnen
+     30     Gramm  Mehl (Type 405)
+                   ; Salz + Pfeffer
+      4    Stücke  Stangenweissbrot
+                   -- … 125g
+
+============================ QUELLE ============================
+         Vereinigung Getreide,
+         Markt- u. Ernaehrungsforsch
+         ERFASST von
+         Renate Schnapka
+         am 13.05.97
+
+Bohnen waschen, putzen und brechen, Speck fein wuerfeln und
+auslassen. Die Bohnen und Bohnenkraut hinzufuegen, mit Wasser
+angiessen und 10 Min. kochen lassen. Geschaelte und grob gewuerfelte
+Kartoffeln sowie geschaelte, geviertelte Birnen hinzufuegen und alle
+Zutaten langsam garen. Ggfls. den Eintopf mit Mehl binden und
+abschliessend wuerzen.
+
+Stangenweissbrot portionsweise zum Eintopf reichen.
+
+:Pro Person ca. :    820 kcal
+:Pro Person ca. :   3433 kJoule
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Bratlinge aus Amaranth
+Kategorien: Getreide, Vegetarisch, Vollwert
+     Menge: 3 Portionen
+
+    150     Gramm  Amaranth
+    300        ml  Getreidebruehe aus Extrakt
+      1            Ei
+      2      Essl. Vollkornsemmelbroesel
+      2      Essl. Geriebener Kaese
+      2      Essl. Haselnusskerne; grob geh.
+                   ; Meersalz
+                   ; weisser Pfeffer
+      5            Korianderkoerner; zerstossen
+                   Kokosfett zum Braten
+
+Amaranth in kochende Gemuesebruehe geben, aufkochen lassen und bei
+geringer Energiezufuhr ca. 45 Min. garen (nach 30 Min. den
+Tofpdeckel abnehmen).
+
+Restliche Zutaten bis auf das Kokosfett zugeben und alles
+miteinander vermischen. Ca. 10 Min. quellen lassen und aus dem
+weichen Teig acht flache Bratlinge formen.
+
+In heissem Kokosfett von beiden Seiten goldgelb braten.
+
+Nach Bedarf koennen die Bratlinge auch vor dem Braten in
+Semmelbroesel oder in Sesam gewendet werden.
+
+Dazu koennen dann diverse Gemuese und auch Kartoffeln gereicht
+werden.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Brot-Kartoffel-Salat (Cholesterin)
+Kategorien: Vollwert, Kartoffel, Brot, Pilz, Gemuese
+     Menge: 1 Portionen
+
+      1   Scheibe  Weizenvollkornbrot (… 50g)
+      5     Gramm  Sonnenblumenoel
+     30     Gramm  Radieschen
+     50     Gramm  Champignons a.d. Dose
+     50     Gramm  Kartoffeln
+     15        ml  Kraeuteressig
+     25     Gramm  Joghurt (1,5% Fett)
+            Etwas  Senf
+                   ; Salz + Pfeffer
+                   Worcestersauce
+                   Frische Kraeuter
+
+============================ QUELLE ============================
+         Vereinigung Getreide,
+         Markt- u. Ernaehrungsforsch
+         ERFASST von
+         Renate Schnapka
+         am 14.05.97
+
+Kartoffeln waschen, kochen, pellen und fein wuerfeln.
+Weizenvollkornbrot ebenfalls wuerfeln und in Oel roesten. Radieschen
+und Champignons fein wuerfeln. Joghurt, Senf, Kraeuteressig und
+Zucker verruehren und nach Belieben abschmecken. Die Zutaten - bis
+auf das geroestete Vollkornbrot mit dem Dressing vermengen und
+durchziehen lassen. Brotwuerfel kurz vor dem Servieren unterheben.
+
+:Pro Person ca. :    230 kcal
+:Pro Person ca. :    963 kJoule
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Buchweizen-Eierkuchen mit buntem Quark
+Kategorien: Eierspeise, Pikant, Buchweizen, Pfannkuchen, Vollwert
+     Menge: 4 Portionen
+
+    125     Gramm  Buchweizenmehl
+     75     Gramm  Weizenmehl (Type 550)
+    1/4      Teel. Vollmeersalz
+      1      Teel. Honig
+     20     Gramm  Hefe; frisch
+      2      Essl. ; Wasser (1)
+    375        ml  ; Wasser (2)
+      4            Eier
+      1            Rote Paprikaschote
+                   Frischer Meerrettich
+                   -- davon ein Stueck von 8 cm
+    500     Gramm  Sahnequark
+      2      Teel. Eingelegter gruener Pfeffer
+                   ; Oel zum Backen
+      1      Bund  Schnittlauch
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 05.05.1997
+
+Beide Mehlsorten mit dem Vollmeersalz mischen. In die Mitte eine
+Vertiefung druecken. Den Honig, zerbroeckelte Hefe und das Wasser
+(1) hineingeben und mit etwas Mehl verruehren. Mit einem Kuechentuch
+abdecken und bei Raumtemperatur ca. 15 Minuten gehen lassen. Danach
+Wasser (2) und Eier zuufuegen und mit dem Schneebesen eines
+Handruehrgeraetes zu einem glatten Teig verarbeiten. Abdecken und ca.
+60 Minuten gehen lassen.
+
+In der Zwischenzeit Paprika vierteln und abspuelen. Die weissen
+Rippen und Kerne entfernen. Paprika laengs in schmale Streifen
+schneiden und dann fein wuerfeln. Meerrettich schaelen und fein
+reiben. Quark mit Paprika, Meerrettich und gruenem Pfeffer
+verruehren. Mit Vollmeersalz abschmecken.
+
+In Oel bei mittlerer Hitze pro Person 2 Pfannkuchen backen. Vierteln
+und mit dem Quark anrichten. Mit Schnittlauch garnieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Buchweizen-Pfannkuchen
+Kategorien: Vollwert
+     Menge: 4 Personen
+
+    3/4       Ltr. Klare Bruehe
+    175     Gramm  Ganzer Buchweizen; Reformh.
+    250     Gramm  Moehren
+                   ; Salz
+      1      Bund  Fruehlingszwiebeln
+     50     Gramm  Durchwachsener Speck
+                   -- geraeuchert
+      3     klein. Eier
+     50     Gramm  Buchweizenmehl
+                   ; weisser Pfeffer
+      7      Essl. Oel
+      1            Endiviensalatkopf
+    300     Gramm  Vollmilchjoghurt; 2 Becher
+      2      Essl. Zitronensaft
+
+============================ QUELLE ============================
+         02.03.96
+         I. Benerts
+
+Die Bruehe zum Kochen bringen. Buchweizen zufuegen, kurz aufkochen
+lassen un bei schwacher Hitze 30 bis 40 Minuten ausquellen lassen.
+Buchweizen abkuehle lassen. Moehren putzen, waschen und in kleine
+Wuerfel schneiden. In wenig Salzwasser 8 bis 10 Minuten garen.
+
+Moehren auf einem Sieb abtropfen lassen. Fruehlingszwiebeln putzen,
+waschen und in Ringe schneiden.
+
+Speck in feine Streifen schneiden und in einer Pfanne ausbraten.
+Moehren und die Haelfte der Fruehlingszwiebeln kurz darin anduensten.
+
+Eier und Buchweizenmehl zum Buchweizen geben. Alles gut verruehren
+und mit Salz und Pfeffer wuerzen. Speck-Gemuesegemisch unterruehren.
+
+Etwas Oel in der Pfanne erhitzen und darin kleine Buchweizen-
+Pfannkuchen von beiden Seiten goldbraun backen.
+
+Endiviensalat putzen, waschen und zerpfluecken. Joghurt und
+Zitronensaft verruehren und mit Salz und Pfeffer abschmecken.
+Restliche Fruehlingszwiebel unterruehren.
+
+Salat mit Joghurt-Sosse anrichten und mit den Pfannkuchen servieren.
+
+:Pro Person ca. :    710 kcal
+:Pro Person ca. :   2980 kJoule
+:Zubereitungs-Z.: 1 1/2 Stunden
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Buchweizen-Pfannkuchen mit Wirsingfuellung
+Kategorien: Teigware, Gemuese, Vollwert
+     Menge: 4 Portionen
+
+===================== FUER DIE PFANNKUCHEN =====================
+    150     Gramm  Feines Buchweizenmehl
+    250        ml  Mineralwasser
+      2            Eier
+      1     Prise  Meersalz
+      1  Messersp. Muskatnuss
+                   Butterschmalz; zum Backen
+
+======================= FUER DIE FUELLUNG =======================
+    750     Gramm  Wirsing
+      1      Essl. Butter
+    100        ml  Gemuesebruehe (Instant)
+    100     Gramm  Creme fraiche
+      3            Eier
+    100     Gramm  Schafskaese
+    350        ml  Milch
+
+============================ QUELLE ============================
+         Eltern 12/93
+
+Fuer die Familie: Vollwertrezept
+
+Dieses Mittagessen ist gut vorzubereiten. Backen Sie die Pfannkuchen
+mit Deckel: Buchweizen kann sonst trocken werden. In einer
+beschichteten Pfanne gelingen sie am besten.
+
+Aus dem Mehl, dem Mineralwasser, den Eiern, Salz und Muskat einen
+glatten Teig herstellen und 30 Minuten ausquellen lassen. Wenn der
+Teig zu dick ist, so viel Mineralwasser zugeben, dass ein
+dickfluessiger Teig entsteht. Wenig Butterschmalz in einer Pfanne
+erhitzen und darin etwa 6 duenne Pfannkuchen von beiden Seiten
+goldbraun backen. Pfannkuchen stapeln, warm halten. Den Wirsing
+putzen, in feine Streifen hobeln, waschen und gut abtropfen lassen.
+Die Butter in einem Topf erhitzen. Den Wirsing zugeben und kurz
+anschmoren. Die Gemuesebruehe angiessen und den Wirsing etwa 10
+Minuten duensten. Mit Salz und Muskat pikant abschmecken. Den
+Backofen auf 180 Grad (Gas Stufe 3) vorheizen. Eine grosse flache
+Auflaufform einfetten. Die Creme fraiche mit den Eiern, dem
+Schafskaese und der Milch puerieren. Wirsing auf die Pfannkuchen
+verteilen, diese aufrollen und in die Form legen. Creme fraiche-
+Masse ueber die Pfannkuchen giessen und im Backofen etwa 20 Minuten
+gratinieren.
+
+Pro Portion ca. 600 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Buchweizen-Waffeln mit Obstsalat
+Kategorien: Backen, Gebaeck, Waffel, Vollwert
+     Menge: 6 Waffeln
+
+     80     Gramm  Butter
+     75     Gramm  Akazienhonig
+      2            Eier
+    1/2            Vanilleschote, Mark davon
+     90     Gramm  Buchweizenmehl
+     80     Gramm  Weizenvollkornmehl
+      1      Teel. Weinsteinbackpulver
+    150        ml  Mineralwasser
+    100     Gramm  Quark
+     50     Gramm  Naturjoghurt
+      1      Essl. Ahornsirup
+      1            Apfel
+      1            Birne
+    250     Gramm  Beeren
+                   Zitronensaft
+      1     Prise  Ingwerpulver
+
+============================ QUELLE ============================
+         Eltern 9/93
+
+Fuer die Familie: Vollwertrezept
+
+In frisch gebackenen Waffeln schmecken vollwertige Mehlsorten
+besonders gut. Ausserdem kommen sie mit wenig Fett aus. Kurz: eine
+gesunde Zwischenmahlzeit.
+
+Butter mit Honig cremig ruehren. Eier und das Vanillemark einruehren.
+Beide Mehlsorten mit Backpulver mischen. Die Mischung in die
+Eiermasse einruehren. So viel Mineralwasser zugeben, dass ein
+zaehfluessiger Teig entsteht. Den Teig mindestens 15 Minuten quellen
+lassen. Bei Bedarf nochmals Mineralwasser zugeben und dann so lange
+aus 2 bis 3 EL Teig Waffeln backen, bis der Teig verarbeitet ist.
+Quark mit Joghurt glattruehren und mit der Haelfte des Ahornsirups
+suessen. Apfel, Birne und Beeren waschen. Apfel und Birne vierteln,
+das Kerngehaeuse entfernen und wuerfeln. Die Wuerfel mit etwas
+Zitronensaft betraeufeln. Beeren verlesen und mit dem anderen Obst
+mischen. Den Obstsalat mit dem restlichen Ahornsirup und
+Ingwerpulver abschmecken. Zwischen zwei Waffeln etwas Quark
+streichen, die "Waffeldoppeldecker" in Herzchen teilen und den Salat
+zu den Waffeln essen.
+
+Tip: Wer kein Buchweizenmehl im Haus hat, kann auch ausschliesslich
+Vollkornmehl verwenden.
+
+Pro Waffelportion ca. 340 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Buchweizensalat mit Zitronensahne
+Kategorien: Salat, Getreide, Vollwert
+     Menge: 4 Portionen
+
+    200     Gramm  Buchweizen
+    400        ml  Wasser (1)
+    250     Gramm  Kirschtomaten
+     80     Gramm  Butterkaese
+      1      Kopf  Gruener Blattsalat
+                   (z.B. Lollo Verde)
+      1            Kohlrabi
+      1     klein. Zwiebel
+      1            Knoblauchzehe
+      2      Essl. Zitronensaft
+      3      Essl. Wasser (2)
+      2      Essl. Walnussoel
+      1      Teel. Hefeflocken
+                   Gekoernte Gemuesebruehe
+                   Kraeutersalz
+                   Pfeffer
+      1      Bund  Basilikum
+
+==================== FUER DEN ZITRONENSCHAUM ====================
+      1            Unbehandelte Zitrone
+                   Salz
+                   Pfeffer
+      1      Essl. Saure Sahne (10% Fett)
+      2      Teel. Ger. Meerrettich
+    125        ml  Schlagsahne
+
+============================ QUELLE ============================
+         Eltern 5/93
+
+Fuer die Familie: Vollwertrezept
+
+Mit Getreide kombiniert, wird aus Rohkost-Salaten eine Hauptmahlzeit.
+
+Buchweizen in einem Topf mit Wasser bedecken und zum Kochen bringen,
+2 Minuten koecheln lassen, in ein Sieb schuetten und kalt abbrausen,
+damit der roetliche Schleim entfernt wird. Nun Buchweizen mit dem
+leicht gesalzenem Wasser (1) in 15 Minuten bissfest garen,
+abschuetten, abschrecken und abkuehlen lassen. Kirschtomaten waschen,
+Butterkaese in Stifte schneiden. Salat waschen, putzen,
+trockentupfen und 4 Teller damit auslegen. Kohlrabi schaelen, putzen
+und grob raspeln. Mit Kirschtomaten, restlichem Salat, Kaese und
+Buchweizen mischen. Zwiebel und Knoblauch schaelen und feinhacken.
+Zitronensaft mit Wasser (2), Oel und Hefeflocken verquirlen. Mit
+Zwiebel, Knoblauch, Gemuesebruehe, Salz, Pfeffer und gehacktem
+Basilikum wuerzen. Die Marinade unter den Salat heben, Salat auf die
+Teller verteilen. Zitrone auspressen, Schale abraspeln. Beides mit
+saurer Sahne, Salz, Meerrettich und Pfeffer verruehren, halbsteif
+geschlagene Sahne unterziehen und zum Salat reichen.
+
+Pro Portion ca. 448 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Camemberttorte
+Kategorien: Backen, Pikant, Kaese, Vollwert
+     Menge: 4 Personen
+
+========================= FUER DEN TEIG =========================
+    250     Gramm  Weizenvollkornmehl
+    1/2      Pack. Trocken-Backhefe
+    175        ml  ; lauwarmes Wasser
+      1      Essl. Oel
+      1      Teel. ; Salz
+
+======================== FUER DEN BELAG ========================
+      2     klein. Stangen Lauch
+    200     Gramm  Champignons
+      3      Essl. Oel
+      3      Essl. Weizenvollkornmehl
+    125        ml  Milch
+    1/2      Teel. ; Salz
+                   ; weisser Pfeffer
+      1      Essl. Gekoernte Fleischbruehe
+                   -- (Instant)
+      1      Essl. ; heisses Wasser
+      1      Teel. Zitronensaft
+      2      Essl. Sojasosse
+    375     Gramm  Camembert; in Scheiben
+    100     Gramm  Gefuellte Oliven; halbiert
+
+Mehl in eine Ruehrschuessel geben und mit der Hefe sorgfaeltig
+vermischen. Wasser, Oel und Salz hinzufuegen und die Zutaten mit
+einem Handruehrgeraet mit Knethaken zunaechst auf niedrigster, dann
+auf hoechster Stufe in etwa 5 Minuten zu einem glatten Teig
+verarbeiten. Den Teig so lange an einem warmen Ort stehen lassen,
+bis er sich sichtbar vergroessert hat.
+
+Lauch putzen, waschen und in Ringe schneiden. Champignons putzen und
+blaettrig schneiden. Oel erhitzen, Gemuese darin anduensten und
+erkalten lassen. Einige Lauchringe und Champignons zum Garnieren
+zuruecklassen.
+
+Mehl in eine Ruehrschuessel geben und mit der Milch sowie Salz und
+Pfeffer verruehren. Fleischbruehe (in heissem Wasser aufgeloest) und
+Zitronensaft hinzufuegen, mit Sojasosse abschmecken und mit dem
+Gemuese vermengen.
+
+Den Teig nochmals gut durchkneten, 2/3 des Teiges auf dem Boden
+einer gefetteten Springform (etwa 28 cm Durchmesser) ausrollen, den
+Rest zu einer Rolle formen, sie als Rand auf den Teigboden legen und
+so an die Form druecken, dass ein 2-3 cm hoher Rand entsteht.
+Teigboden mehrmals mit einer Gabel einstechen, die Fuellung
+daraufgeben und mit Camembertscheiben belegen. Oliven darauf
+anrichten, mit dem zurueckgelassenen Lauch und den Pilzscheiben
+garnieren, nochmals an einem warmen Ort stehenlassen, bis sich der
+Teig sichtbar vergroessert hat, dann die Form auf dem Rost in den
+vorgeheizten Ofen schieben und etwa 30 Minuten bei 200-255 Grad
+backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Champignons mit Olivenfüllung u. Kartoffelgratin
+Kategorien: Backen, Vollwert, Champignons, Kartoffeln
+     Menge: 2 Personen
+
+=================== LÄ T SICH GUT VORBEREITEN ===================
+      6            Mittelgro e Champignonköpfe
+    1/4      Teel. Kräutersalz
+     30     Gramm  Butter
+
+========================= OLIVENFÜLLUNG =========================
+      2            Tomaten
+      1            Zwiebel
+     10            Oliven
+    1/2      Bund  Petersilie
+     60     Gramm  Creme fraiche
+      2      Essl. Weizen-Vollkornmehl, fein
+    1/4      Teel. Kräutersalz
+    1/4      Teel. Gemüsebrühe (Konzentrat)
+
+======================== KARTOFFELGRATIN ========================
+    400     Gramm  Kartoffeln
+     50     Gramm  Creme fraiche
+    1/2      Teel. Kräutersalz
+    1/2      Teel. Gemüsebrühe (Konzentrat)
+
+:Pro Person ca. :    562 kcal
+:Pro Person ca. :   2350 kJoule
+:Eiwei          :     12 Gramm
+:Fett           :     33 Gramm
+:Kohlenhydrate  :     48 Gramm
+:Dauert ca.     : 90 Minuten
+
+Die  Champingons  putzen,  den Stiel herausbrechen  und  das  Innere
+leicht aushöhlen.  Die  Champingons  mit Kräutersalz bestreuen und
+in  der  Butter andünsten. Die Stiele kleinschneiden und mit dem
+Inneren der Champignons  in etwas Gemüsebrühe andünsten.
+
+Olivenfüllung:
+
+Für  die  Füllung  die Tomaten häuten und in kleine  Würfel
+schneiden.  Die Zwiebel  schälen  und  in  kleine  Würfelchen
+schneiden  sowie  die  Oliven entkernen und kleinschneiden. Die
+Petersilie waschen, trockenschleudern  und kleinhacken.  Das  Innere
+der   Champignons  mit  den  Tomatenstücken,  den Zwiebeln,  den
+Oliven und der Petersilie mischen und in die  Champignonköpfe füllen.
+Die  Creme  fraiche  mit dem Mehl  mischen  und  mit  den  Gewürzen
+abschmecken.  Die Champignonköpfe in eine feuerfeste Form setzen und
+mit  je einem  Klecks  Creme  fraiche-Masse bestücken. Die
+Champignonköpfe  ca.  25 Minuten bei 200 Grad backen.
+
+Kartoffelgratin:
+
+Die  Kartoffel  unter  flie endem Wasser abbürsten und  in  dem
+Wasser  gar kochen.  Danach  pellen  und in Scheiben  geschnitten in
+eine  Auflaufform füllen. Die Creme fraiche mit dem Kräutersalz und
+dem  Gemüsebrühekonzentrat verrühren  und  über die Kartoffeln gie
+en. Das Gratin bei 200 Grad  ca.  30 Minuten backen.
+
+Quelle: Vegetarisch fit 3/97  Erfasst von Nadja Kramer
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Champignontoast (Cholesterin)
+Kategorien: Vollwert, Getreide, Div, Pilz, Kaese
+     Menge: 1 Portionen
+
+      1   Scheibe  Leinsamenbrot (… 50g)
+      5     Gramm  Sonnenblumenoel
+     15     Gramm  Zwiebeln
+    125     Gramm  Champignons a.d. Dose
+      1            Ei
+     10     Gramm  Edamer (40% Fett i.Tr.)
+                   ; gerieben
+                   ; Salz + Pfeffer
+                   Knoblauch
+                   Frische Kraeuter
+
+============================ QUELLE ============================
+         Vereinigung Getreide,
+         Markt- u. Ernaehrungsforsch
+         ERFASST von
+         Renate Schnapka
+         am 14.05.97
+
+Zwiebeln schaelen, waschen und fein wuerfeln. Zwiebeln und
+Champignons goldgelb duensten, abschmecken und auf der Scheibe
+Leinsamenbrot anrichten. Eiweiss zu Schnee schlagen und auf das Brot
+eine Haube aufsetzen. Mit geriebenem Edamer bestreuen und unter dem
+Grill zwei Minuten ueberbacken.
+
+:Pro Person ca. :    220 kcal
+:Pro Person ca. :    921 kJoule
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Cordon "Mehrkorn" mit Maissalat (Cholesterin)
+Kategorien: Vollwert, Brot, Schinken, Kaese, Pilz
+     Menge: 4 Rezept
+
+                   FUER DAS CORDON MEHRKORN
+      8  Scheiben  Mehrkornbrot (… 65g)
+    120     Gramm  Emmentaler (45% Fett i.Tr.)
+                   -- es werden 1/2 soviel
+                   -- Scheiben Kaese benoetigt,
+                   -- wie Brotscheiben vorhanden
+    120     Gramm  Kochschinken
+                   -- es werden 1/2 soviel
+                   -- ScheibenSchinken benoetigt
+                   -- wie Brotscheiben vorhanden
+     40     Gramm  Margarine
+     40     Gramm  Zwiebeln
+    500     Gramm  Frische Champignons
+     20     Gramm  Weizenmehl (Type 405)
+    250        ml  ; Wasser
+                   ; Salz + Pfeffer
+                   Muskat
+                   Liebstoeckel
+                   Basilikum
+                   -- o. aehnliche fr. Kraeuter
+                   FUER DEN SALAT
+    400     Gramm  Mais a.d.Dose
+    120     Gramm  Joghurt (3,5% Fett)
+                   ; Salz + Pfeffer
+                   Frische Kraeuter (z.B. Zi-
+                   -- tronenmelisse, Estragon
+                   -- oder aehnliches)
+
+============================ QUELLE ============================
+         Vereinigung Getreide,
+         Markt- u. Ernaehrungsforsch
+         ERFASST von
+         Renate Schnapka
+         am 13.05.97
+
+Cordon "Mehrkorn":
+
+Mehrkornbrot in Scheiben schneiden, je eine Scheibe mit einer
+Scheibe Kaese und einer Scheibe Schinken belegen. Mit der zweiten
+Brotscheibe abdecken und im Backofen (ohne Umluft) von beiden Seiten
+bei 220øC je 5 Minuten roesten.
+
+Zwiebeln putzen, waschen, hacken und in Margarine goldgelb duensten.
+Geputzte, gewaschene (und evtl. zerkleinerte) Champignons zugeben
+und 5 Minuten mitduensten. Mit Mehl bestaeuben und evtl. etwas
+Wasser zugeben, abschmecken. Champignongemuese ueber dem heissen
+Brotgericht anrichten.
+
+Salat:
+
+Mais gut abtropfen lassen, Joghurt glattruehren und abschmecken.
+Mais in die Marinade geben und gut durchmengen, portionieren.
+
+:Pro Person ca. :    801 kcal
+:Pro Person ca. :   3350 kJoule
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Crepes mit Mandelmus
+Kategorien: Omelett, Vollwert
+     Menge: 4 Personen
+
+    125     Gramm  Weizen
+    1/2       Ltr. Milch
+      4            Eier
+      1     Prise  Salz
+    1/3       Ltr. Weisswein; Ersatz: Apfelsaft
+      4      Essl. Birkendicksaft; Reformhaus
+      4            Nelken; Ersatz: 2 cm Ingwer
+    700     Gramm  Birnen; (4 Stueck)
+    120     Gramm  Honig
+      1      Teel. Naturvanille
+      3            Eigelb
+    250     Gramm  Schlagsahne
+     70     Gramm  Gemahlene Mandeln
+     50     Gramm  Maismehl
+      3      Essl. OeL; zum Backen
+
+====================== ZUBEREITUNGSZEIT CA ======================
+                   -- 45 Minuten
+
+======================== PRO PORTION CA ========================
+                   -- 1095 Kalorien / 4584 Joule
+
+============================ QUELLE ============================
+         Gepostet von I. Benerts
+         13.01.96
+
+Weizen fein mahlen. Mit Milch, Eiern und Salz zu einem fluessigen
+Teig verruehren. Wein mit Birkendicksaft und Ingwer aufkochen.
+Birnen darin 10 Minuten duensten. Herausnehmen und den Saft saemig
+einkochen.
+
+Honig und Vanille und Eigelb schaumig schlagen. Sahne aufkochen.
+Honig-Ei-Mischung unterruehren. Mandeln und Maismehl unter Ruehren
+zugeben. Einmal aufkochen.
+
+Aus dem Teig in einer leicht geoelten Pfanne etwa zwoelf duenne
+Crepes backen. Sofort mit Mandelmus bestreichen, zusammenklappen und
+warm stellen.
+
+Birnen halbieren, in dem Birnensaft wenden und mit den gefuellten
+Crepes anrichten.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Dinkel-Eierkuchen mit Kraeuter-Frischkaese
+Kategorien: Eierspeise, Pikant, Pfannkuchen, Dinkel, Vollwert
+     Menge: 4 Portionen
+
+     50        ml  Milch; (1)
+    150        ml  Milch; (2)
+    150     Gramm  Dinkel; gemahlen
+                   Vollmeersalz
+     10     Gramm  Hefe; frisch
+      1      Teel. Honig
+     40     Gramm  Butter
+                   -- oder Margarine
+      3            Eier
+      1      Bund  Fruehlingszwiebeln
+    200     Gramm  Doppelrahm-Frischkaese
+    100     Gramm  Sahne
+                   ; weisser Pfeffer
+      1      Pack. Kresse
+                   ; Oel zum Backen
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 04.05.1997
+
+Milch leicht erwaermen. Dinkelmehl und Salz in eine Schuessel geben.
+In die Mitte mit einem Kochloeffel eine Vertiefung druecken.
+Zerbroeckelte Hefe, Milch (1) und Honig hineingeben und mit etwas
+Dinkelmehl verruehren. mit einem Geschirrtuch abdecken. Den Teig 15
+Minuten gehen lassen. Fett in einem Topf schmelzen. Die Eier, Milch
+(2) und das Fett zum Teig geben. Alles mit den Schneebesen des
+Handruehrgeraetes zu einem glatten Teig verarbeiten. Nochmals mit
+einem Tuch gut abdecken und ca. 60 Minuten gehen lassen.
+
+Die Fruehlingszwiebeln waschen, putzen und klein schneiden.
+Frischkaese und die Sahne verruehren. Mit Salz und Pfeffer wuerzen.
+Die Kresse abschneiden und mit den Fruehlingszwiebeln zu der
+Kaesecreme geben. In Oel bei mittlerer Hitze pro Person 2 kleine
+Eierkuchen backen. Die Haelfte davon mit Frischkaesecreme
+bestreichen, die anderen als Deckel aufsetzen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Düvelstädeter Carobcreme
+Kategorien: Dessert, Vollwert, Alkohol
+     Menge: 4 Personen
+
+======================= NICHTS FÜR KINDER =======================
+     50     Gramm  Rosinen
+      3      Essl. Rum
+    500        ml  Milch
+     70     Gramm  Weizen
+     20     Gramm  Carobpulver oder Kakao
+      4      Essl. Honig
+
+:Pro Person ca. :    287 kcal
+:Pro Person ca. :   1200 kJoule
+:Eiwei          :      7 Gramm
+:Fett           :      6 Gramm
+:Kohlenhydrate  :     41 Gramm
+:Dauert ca.     : 20 Minuten
+
+Die  Rosinen  auf ein Sieb geben, waschen und in den Rum  etwa  4-5
+Stunden einlegen.  Den  Weizen  fein  mahlen und aussieben. Von  der
+Milch  150  ml abnehmen  und  den  Rest  aufkochen  lassen. Das Mehl
+zusammen    mit  dem Carobpulver  in  der  kalten  Milch anrühren
+und  zu  der  kochenden  Milch hinzugeben. Anschlie end die Creme
+unter Rühren aufkochen und Blasen  werfen lassen.  Wenn die Creme
+dick ist, die Masse von der Kochstelle  nehmen  und etwas abkühlen
+lassen.  Danach den Honig  unterrühren  sowie  die Rosinen
+unterheben.  Die  Carobcreme in mit kaltem  Wasser ausgespülte
+Glasschalen füllen und vollständig erkalten lassen.
+
+TIP:  Für  Kinder  eine  extra Schale Carobcreme  machen  ohne  die
+in  Rum eingelegten  Rosinen. Wer nicht auf die Rosinen verzichten
+will, kann  diese auch in Orangensaft oder Apfelsaft einweichen.
+
+Quelle: Vegetarisch fit 3/97   Erfasst von Nadja Kramer
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Erbsen-Omelette
+Kategorien: Gemuese, Erbse, Vollwert
+     Menge: 4 Portionen
+
+    800     Gramm  Frische Erbsen in der Schale
+                   (ausgeloest ca. 300 g)
+      4            Eier
+    150     Gramm  Sauerrahm (10% Fett)
+                   Kraeutersalz
+                   Weisser Pfeffer
+      1      Bund  Frisches Basilikum
+    250     Gramm  Kirschtomaten
+     30     Gramm  Butter oder Margarine
+
+============================ QUELLE ============================
+         Eltern 6/92
+
+Fuer die Familie: Vollwertrezept
+
+Vollwertkost ist nicht gleichzusetzen mit vegetarischer Ernaehrung.
+Allerdings sollte der Anteil an tierischem Eiweiss geringer sein als
+in der Durchschnittskost: Ein- bis zweimal die Woche duerfen Fleisch,
+Fisch und Ei auf dem Speisezettel stehen. Milchprodukte sollten in
+gesaeuerter Form verzehrt werden. Mit diesem Omelette haben Sie Ihr
+Wochensoll an Ei fast erfuellt!
+
+Die Erbsen aus der Schote loesen. Eier mit der sauren Sahne gut
+verschlagen, dann die Erbsen unterziehen. Die Masse mit Kraeutersalz
+und Pfeffer wuerzen. Basilikum abbrausen, gut abtropfen lassen, die
+Blaettchen abzupfen. Grosse Blaetter etwas kleinschneiden.
+Kirschtomaten waschen und halbieren. Die Haelfte der Butter oder
+Margarine in einer Pfanne erhitzen. Haelfte der Eiermasse
+hineingeben. Die Haelfte der Basilikumblaettchen und Tomatenhaelften
+darauf verteilen. Das Omelette etwa 5 Minuten mit Deckel braten,
+dann in dem restlichen Fett ein zweites Omelette ausbacken. Die
+Omelettes jeweils halbieren und auf 4 Teller verteilen. Dazu passen
+neue Kartoffeln in Butter geschwenkt.
+
+Tip: Statt Erbsen schmecken im Omelette auch Maiskoerner,
+Zucchinistreifen, Pilze oder Moehrenraspel. Statt neuen Kartoffeln
+kann man zum Omelett auch einen frischen gruenen Blattsalat essen.
+
+Pro Portion ca. 265 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Erbsencremesuppe mit Croutons
+Kategorien: Suppe, Creme, Erbse, Vollwert, Brunch
+     Menge: 4 Personen
+
+    150     Gramm  Getrocknete gruene Erbsen
+    800        ml  Gemuesebruehe
+      1            Zwiebel
+      1            Knoblauchzehe
+      3      Essl. Butter
+    200     Gramm  TK-Erbsen
+    100     Gramm  Creme fraiche (oder Schmand)
+    100     Gramm  Suesse Sahne
+                   Kraeutersalz
+                   ; frisch gemahl. Pfeffer
+                   ; frisch gerieb. Muskatnuss
+      1     Prise  Gemahlener Fenchel
+      2  Scheiben  Kraeftiges Roggenbrot
+
+Die getrockneten erbsen ueber Nacht in 400 ml Gemuesebruehe
+einweichen. Am naechsten Tag die Zwiebel und die Knoblauchzehe
+schaelen, fein hacken und in einem Essloeffel Butter anduensten. Die
+eingeweichten Erbsen und die restliche Bruehe angiessen und alles in
+etwa 40 Minuten weich duensten. Die tiefgekuehlten Erbsen dazugeben,
+nochmals etwa 10 Minuten duensten und etwa 2 Essloeffel Erbsen zum
+Verzieren ganz lassen. Die restlichen Erbsen mit der Fluessigkeit im
+Mixer puerieren. Danach die Creme fraiche und die Sahne unterziehen,
+die Suppe erneut erhitzen und mit den Gewuerzen kraeftig abschmecken.
+Die Brotscheiben im Toaster anroesten und in Wuerfel schneiden. Die
+Suppe auf vier Teller verteilen und mit den ganzen Erbsen und den
+Brotwuerfeln garnieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Feine Hirseplaetzchen
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 60 Stueck
+
+    150     Gramm  Butter; weich
+      1            Eigelb; (1)
+      3      Essl. Ahornsirup
+    150     Gramm  Weizen-Vollkornmehl
+    150     Gramm  Hirse; fein gemahlen
+    1/2            Zitrone, Schale davon
+      1            Eigelb; (2)
+      1      Essl. Milch; oder 2
+     60     Gramm  Mandelhaelften; abgezogen
+                   Butter; fuer das Backblech
+
+============================ QUELLE ============================
+         Plaetzchen und Konfekt
+         Annette Wolter (Hrsg.)
+         Verlag Graefe & Unzer
+         ISBN 3-7742-5890-2
+         erfasst von:
+         Elisabeth Hafeneger
+
+Die Butter mit dem Eigelb (1) und dem Ahornsirup schaumig ruehren.
+Das Weizenmehl, das Hirsemehl und die Zitronenschale darueber
+streuen und alles zu einem glatten Teig verkneten. Den Teig zu einer
+Rolle formen, in Pergamentpapier wickeln und eine Stunde in den
+Kuehlschrank legen. Den Backofen auf 180 Grad vorheizen. Das
+Backblech mit Butter bestreichen. Von der Teigrolle gleich duenne
+Scheiben abschneiden und auf das Backblech legen. Das Eigelb (2) mit
+der Milch verquirlen, die Plaetzchen damit bestreichen und mit je
+einer Mandelhaelfte verzieren. Die Hirseplaetzchen auf der mittleren
+Schiene in etwa 20 Minuten goldgelb backen. Die Plaetzchen auf einem
+Kuchengitter abkuehlen lassen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Fischsouffle mit Hirse
+Kategorien: Fisch, Auflauf, Hirse, Vollwert
+     Menge: 1 Rezept
+
+    200     Gramm  Seelachsfilet
+      1      Essl. Zitronensaft
+      1     Prise  Pfeffer; weiss
+    1/2      Teel. Meersalz
+    100     Gramm  Moehren
+     50     Gramm  Hirse
+    1/8       Ltr. Wasser
+      6      Essl. Milch
+      2            Eier
+      1      Teel. Basilikum; frisch
+      2      Teel. Arrowroot; (Pfeilwurzmehl)
+                   -- Butter f. d. Form
+
+============================ QUELLE ============================
+         Nach Graefe und Unzer
+         Kochen koestlich
+         wie noch nie "Fisch"
+         erfasst Ilka Spiess
+
+: Pro Person 165 Kcal/690 Kj
+: 15g Eiweiss
+:  4g Fett
+: 16g Kohlehydrate
+: Vorbereitungszeit: 50 Minuten
+: Backzeit: 30 Minuten
+
+Das Fischfilet eventuell 10 Minuten in das Gefrierfach des
+Kuehlschranks legen, weil es sich dann besser schneiden laesst.
+
+Den Fisch dann in 1/2 cm grosse Wuerfel schneiden und mit dem
+Zitronensaft, dem Pfeffer und dem Salz mischen.
+
+Die Moehre schaben, waschen, fein wuerfeln und mit der Hirse in dem
+Wasser 10 Minuten zugedeckt bei schwacher Hitze kochen lassen. Die
+Milch hinzufuegen. Den Brei weitere 10 Minuten ziehen, dann in einem
+Sieb abtropfen lassen.
+
+Den Backofen auf 200 Grad vorheizen. Eine feuerfeste Souffleform
+einfetten.
+
+Die Eier in Eigelbe und Eiweiss trennen. Die Gemuesehirse mit dem
+marinierten Fisch, dem gehackten Basilikum und den Eigelben mischen.
+Die Eiweisse zu steifem Schnee schlagen, das Pfeilwurzmehl
+unterheben. Den Eischnee vorsichtig unter die Fischmasse mischen.
+
+Den Teig in die Form fuellen und 30 Minuten backen. Das Souffle
+sofort servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Flaumige Tomaten-Quiche
+Kategorien: Gemuese, Vollwert
+     Menge: 1 28-cm-form
+
+============================= TEIG =============================
+    200     Gramm  Feingemahlenes Dinkelvoll-
+                   Kornmehl
+    150     Gramm  Magerquark
+     80     Gramm  Butter
+                   Salz
+
+=========================== FUELLUNG ===========================
+    150     Gramm  Kraeuter-Frischkaese
+    200     Gramm  Magerquark
+      2            Eier
+      5            Tomaten (… ca. 100 g)
+                   Weisser Pfeffer
+                   Muskat
+    1/2      Bund  Frisches Basilikum
+                   Fett; fuer die Form
+
+============================ QUELLE ============================
+         Eltern 10/92
+
+Fuer die Familie: Vollwertkost
+
+Eine Quiche koennen Sie auch einmal zum Abendbrot reichen. Durch
+wenig Ei wird der Guss flaumig. Wer's fester mag, nimmt ein bis zwei
+Eier mehr.
+
+Das Mehl in eine Schuessel geben, den Magerquark und die kalte
+Butter in Floeckchen daraufgeben. Etwas Salz zufuegen und alles
+rasch zu einem geschmeidigen Teig kneten. Den Teig in Haushaltsfolie
+wickeln und mindestens 30 Minuten im Gemuesefach des Kuehlschranks
+ruhen lassen. Dann den Teig zwischen zwei Stueck Frischhaltefolie
+ausrollen und eine gefettete Quicheform damit auslegen, einen ca.
+einen Zentimeter hohen Rand formen. Den Boden mit einer Gabel
+mehrmals einstechen, im vorgeheizten Ofen bei 200 Grad (Gas Stufe 3)
+ca. 10 Minuten vorbacken. Den Kraeuter-Frischkaese mit Quark und
+Eigelb gut verruehren, mit Pfeffer, Salz und Muskat pikant
+abschmecken. Die Eiweisse steifschlagen, unterziehen. Diese Masse
+auf dem Quicheboden verteilen. Die Tomaten waschen, halbieren,
+Stielansaetze herausschneiden. Die Tomatenhaelften in den
+Kaeseschaum druecken. Die Quiche in den Ofen schieben und in ca. 40
+Minuten fertig backen. Basilikum feinhacken, vor dem Servieren ueber
+die Quiche streuen.
+
+Bei 8 Stueck je ca. 297 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Fruehlingsgemuese auf Hirse-Pfannkuchen
+Kategorien: Eierspeise, Pikant, Hirse, Pfannkuchen, Vollwert
+     Menge: 4 Portionen
+
+    200     Gramm  Hirse
+    1/2       Ltr. Gemuesebruehe; Instant
+      1      Bund  Moehren
+    250     Gramm  Weisser Spargel
+    250     Gramm  Zuckerschoten
+                   Vollmeersalz
+    125     Gramm  Butter
+      2            Eier; (1)
+                   -- davon nur Eigelb
+      4            Eier; (2)
+                   ; weisser Pfeffer
+    200     Gramm  Sahne
+     50     Gramm  Kaese; gerieben
+                   ; Oel zum Backen
+                   Kerbel; zum Garnieren
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 05.05.1997
+
+Hirse in die heisse Bruehe ruehren und aufkochen. Bei abgeschalteter
+Platte 20 Minuten ausquellen und dann erkalten lassen.
+
+Das Gemuese waschen und putzen. Moehren und Spargel schaelen und in
+lange, schraege Scheiben oder Stuecke schneiden. Das Gemuese
+getrennt in wenig Salzwasser bissfest garen.
+
+Fuer die Sauce Butter schmelzen. Die Eigelb (1), Salz, Pfeffer und
+etwas Spargelwasser in einer Schuessel schaumig schlagen und auf
+einem Wasserbad unter Ruehren zu einer cremigen Masse verarbeiten.
+Zum Schluss in duennem Strahl die Butter zufuegen. Dabei kraeftig
+weiterschlagen, weil die Sauce sonst gerinnt.
+
+Eier (2) trennen, Sahne, Kaese und die Eigelb (2) unter den
+Hirsebrei ruehren. Das Eiweiss (2) steif schlagen und locker
+unterheben. In Oel bei mittlerer Hitze pro Person 2 Pfannkuchen
+backen. Mit Gemuese und Sauce hollandaise anrichten, mit Kerbel
+garnieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Fruehlingsgemuese in Sesamsauce mit Kartoffelschnee
+Kategorien: Gemuese, Kartoffel, Sesam, Vollwert, Vegetarisch
+     Menge: 4 Personen
+
+    200     Gramm  Moehren
+    200     Gramm  Lauch
+    200     Gramm  Blumenkohl
+     50     Gramm  Butter / Magarine
+    250        ml  Gemuesebruehe
+
+========================== SESAMSAUCE ==========================
+     60     Gramm  Sesam
+      2      Essl. Weizen-Vollkornmehl
+    100        ml  Sahne
+                   ; Kraeutersalz
+                   Petersilie
+
+======================== KARTOFFELSCHNEE ========================
+                   Mehlige Kartoffeln
+     50     Gramm  Butter
+
+Das Gemuese waschen und putzen. Die Moehren in Scheiben, den Lauch
+in Ringe schneiden und den Blumenkohl in kleine Roeschen brechen.
+Die Butter bei mittlerer hitze zerlassen und zuerst die Moehren
+anduensten, danach den Blumenkohl zugeben und zum Schluss die
+Lauchringe. Alles zusammen noch etwa 5 Minuten duensten, dann die
+Gemuesebruehe angiessen und das Gemuese in etwa 10 Minuten garen.
+
+Sesamsauce: Den Sesam ohne Fettzugabe in einer beschichteten Pfanne
+roesten. Das Gemuese aus dem Topf nehmen und auf einem Sieb
+abtropfen lassen. Die Gemuesebruehe auffangen. Das Mehl in die Sahne
+einruehren und mit dem Sesam und der Gemuesebruehe verruehren. Alles
+zusammen aufkochen lassen und mit dem Kraeutersalz abschmecken. Das
+Gemuese entweder auf Tellern oder in einer Auflaufschale anrichten,
+mit der Sesamsauce uebergiessen und mit gehackter Petersilie
+bestreuen.
+
+Kartoffelschnee: Die Kartoffeln abbuersten und mit der Schale in
+Salzwasser garen. Anschliessend pellen und noch heiss durch die
+Kartoffelpresse direkt in eine vorgewaermte Servierschuessel
+druecken. Die Butter zerlassen und ueber die Kartoffelmasse geben.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Fruehlingsrollen
+Kategorien: Vorspeise, Reis, Gemuese, Vollwert
+     Menge: 1 Rezept
+
+      4            Muh-err-Pilze
+      1            Lauchstange
+      3            Moehren
+    200     Gramm  Champignons
+    120     Gramm  Bambussprossen
+      1            Knoblauchzehe
+      1     klein. Stueckchen Ingwerwurzel
+      1      Teel. Sesamoel
+                   Salz
+                   Pfeffer
+                   Soja-Sauce
+     16   Blätter  Reispapier
+      1            Eiweiss
+                   Kokosfett; zum Backen
+
+============================ QUELLE ============================
+         Eltern 10/91
+
+Fuer die Familie: Vollwertkost-Vorspeise
+
+Erst mit Reispapier schmecken Fruehlingsrollen "wie beim Chinesen".
+Das Reispapier gibt es in Chinalaeden und Kaufhaeusern. Wer es dort
+nicht bekommt, sollte Blaetter- oder Strudelteig nehmen und die
+Rollen im Ofen backen.
+
+Pilze in Wasser einweichen. Gemuese waschen und putzen. Lauch in
+schmale Ringen, Moehren in duenne Streifchen, Champignons in duenne
+Blaettchen und die Bambussprossen in kleine Wuerfel schneiden.
+Knoblauchzehe abziehen und feinhacken. Ingwer schaelen und reiben.
+Die eingeweichten Pilze in Streifen schneiden. Gemuese samt
+Knoblauch und Ingwer in einem Wok in Sesamoel kurz anduensten, mit
+Salz, Pfeffer und Sojasauce wuerzen. Das Reispapier eine halbe
+Minute in Wasser einweichen, dann einzeln auf einem Kuechentuch
+abtropfen lassen. Jeweils zwei Blaetter aufeinanderlegen, die
+Fuellung darauf verteilen, und die Seiten nacheinander ueber der
+Fuellung zusammenschlagen. Raender mit Eiweiss bestreichen und fest
+aufeinanderdruecken. In einer grossen Pfanne in reichlich Fett von
+beiden Seiten goldgelb ausbacken. Auf Kuechenpapier kurz abtropfen
+lassen.
+
+Tip: Ohne Beilage reichen die Rollen fuers Abendbrot, mit Reis wird
+es eine Hauptmahlzeit.
+
+Pro Person ca. 345 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gebackene Kartoffeln
+Kategorien: Kartoffel, Vollwert, Dip
+     Menge: 4 Personen
+
+  1 1/2        kg  Kartoffeln
+                   Vollmeersalz
+                   ; Pfeffer
+                   Kuemmel
+      3      Essl. Sesamsamen
+      2      Essl. Oel
+
+========================= FUER DEN DIP =========================
+      1      Pack. Sahnequark (250g)
+    300     Gramm  Vollmilchjoghurt
+      1            Zwiebel (50g)
+      1            Knoblauchzehe
+      1      Bund  Radieschen
+      1      Bund  Schnittlauch
+                   Vollmeersalz
+                   ; Pfeffer
+
+============================ QUELLE ============================
+         "Fuer Sie"  1/93
+         Erfasst: T.Pfaffenbrot
+         14.01.1997
+
+Kartoffeln gruendlich waschen und laengs halbieren. Gewuerze und
+Sesam mischen. Kartoffeln mit der Schnittflaeche in die Mischung
+druecken, auf ein gefettetes Backblech legen (Schnittflaeche nach
+oben). Bei 225 Grad ca. 40-50 Minuten backen, nach 30 Minuten mit
+Oel bepinseln.
+
+Fuer den Dip Quark, Joghurt, Zwiebel-, Knoblauch- und
+Radieschenwuerfel sowie Schnittlauchroellchen verruehren.
+Abschmecken, auf den Kartoffeln anrichten. Nach Wunsch mit Salat und
+Kresse garnieren. Pro Person ca. 450 kcal (1890 kJ)
+Zubereitungszeit: ca. 1 1/2 Stunden
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gefuellte Blaetterteignester
+Kategorien: Vorspeise, Vollwert, Vegetarisch
+     Menge: 4 Personen
+
+    200     Gramm  Blaetterteig
+                   Butter zum Einfetten d. Form
+    250     Gramm  Blumenkohl
+    200     Gramm  Moehren
+    125     Gramm  Zucchini
+    200        ml  Gemuesebruehe
+
+========================= GRUENE SAUCE =========================
+    1/2      Bund  Petersilie
+     10     Gramm  Speisestaerke
+                   Kraeutersalz
+                   Frugola
+
+========================== SAHNESAUCE ==========================
+    100        ml  Suesse Sahne
+     10     Gramm  Speisestaerke
+                   Kraeutersalz
+                   Frugola
+
+Den Blaetterteig auf einer bemehlten Flaeche nicht zu duenn
+auswellen und runde Kreise von etwa 10cm Durchmesser ausstechen.
+Eine Porzelantasse ohne Henkel von aussen mit Butter einfetten, auf
+den Kopf stellen und ein rundes Teigstueck darueberstuelpen. Den
+Teig leicht an die Tasse andruecken. Wer eine Mikrowelle hat, kann
+nun die Tasse hineinstellen und den Teig hoechstens 60 Sekunden auf
+hoechster Stufe aufplustern lassen (Vorsichtt, der Blaetterteig
+verbrennt schenll). Aber auch im vorgeheizten Backofen bei 220 Grad
+(Heissluft 200 Grad) wird aus dem Teig in 5-10 Minuten ein
+Blaetterteignest. Das Nestchen vorsichtig von der Tasse nehmen,
+gerade aufsetzen (so dass es nicht kippt) und auskuehlen lassen. In
+der Zwischenzeit das naechste Nest fertigen. Werden mehrere Nester
+gleichzeitig gebacken, verlaengert sich die Laufzeit der Mikrowelle.
+Fuer die Fuellung den Blumenkohl in kliene Roeschen brechen und
+waschen. Die Moehren schaelen und laengs in duenne Streifen
+schnedien. Die Zucchini putzen, waschen und in Scheiben schneiden.
+Mit einem Ausstechfoermchen kleine Pilze ausstechen. Das Gemuese in
+der Gemuesebruehe in etwa 5 Minuten duensten, anschliessend auf ein
+Sieb geben und gut abtropfen lassen. Die Gemuesebruehe fuer die
+Saucen auffangen. Das Gemuese zurueck in den Topf geben und
+warmhalten.
+
+Gruene Sauce: Die Petersilienblaetter von den Stielen zupfen und
+waschen. Danach mit etwa 100 ml der aufgefangenen Gemuesebruehe im
+Mixer puerieren. Die gruene Sauce durch ein feines Sieb streichen.
+Die gruene Sauce mit der Speisestaerke verruehren, aufkochen lassen
+und mit den Gewuerzen abschmecken.
+
+Sahnesauce: Die Sahnesauce mit der Speisestaerke verruehren und
+aufkochen lassen. Anschliessend etwa 100 ml Gemuesebruehe angiessen,
+aufkochen lassen und mit den Gewuerzen abschmecken. Die Nestchen
+fuer etwa 5 Minuten zum Waermen in den vorgeheizten Backofen stellen
+(Vorsicht sie werden leicht braun). Anschliessend jeweils etwa 2
+Essloeffel gruene Sauce auf einem Teller verteilen, einen Essloeffel
+hellse Sauce daraufgeben und leicht verruehren. Danach jeweils ein
+Nestchen in die Mitte des Tellers setzen und mit dem Gemuese fuellen.
+Das Gericht mit Moehren- und Zucchinischeiben verzieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gefuellte Sommer-Fladen
+Kategorien: Backen, Pikant, Vollwert
+     Menge: 6 Fladen
+
+    300     Gramm  Dinkel-Vollkornmehl
+      1      Pack. Trockenhefe
+    200        ml  Lauwarmes Wasser
+                   Salz
+      3      Essl. Olivenoel
+                   Fett; fuer das Blech
+      1      Essl. Sesamsamen
+      1      Teel. Kreuzkuemmel
+
+=========================== FUELLUNG ===========================
+    150     Gramm  Zucchini
+    200     Gramm  Kirschtomaten
+      1      Bund  Schnittlauch
+    100     Gramm  Feta
+    150     Gramm  Saure Sahne (10% Fett)
+      1            Knoblauchzehe
+                   Kraeutersalz
+                   Pfeffer
+      1      Essl. Olivenoel
+      6            Schoene Salatblaetter
+
+============================ QUELLE ============================
+         Eltern 8/92
+
+Fuer die Familie: Vollwertkost
+
+Im Nahen Osten sind solche Fladen ein beliebter Imbiss - genau
+richtig fuer einen Sonnentag auf der Terrasse.
+
+Mehl mit Trockenhefe und Salz mischen. Nach und nach Wasser und Oel
+zugeben, bis ein weicher, geschmeidiger Teig entsteht. In einer
+Schuessel, abgedeckt mit einem feuchten Kuechentuch, an einer warmen
+Stelle etwa 1 Stunde gehen lassen. Den Backofen auf 200 Grad (Gas
+Stufe 3) vorheizen. Mit bemehlten Haenden 6 flache Fladen formen,
+auf ein gefettetes Blech legen und mit Sesam und Kreuzkuemmel
+bestreuen. Die Fladen nochmals 20 Minuten gehen lassen, dann im
+heissen Ofen 20 Minuten goldbraun backen. Inzwischen die Fuellung
+vorbereiten: Das Gemuese waschen, Ende der Zucchini abschneiden,
+Zucchini feinwuerfeln. Die Tomaten waschen, putzen und halbieren.
+Schnittlauch in Roellchen schneiden, den Feta wuerfeln. Saure Sahne
+mit gehacktem Knoblauch, Kraeutersalz, Pfeffer und Olivenoel
+verruehren. Dieses Dressing mit allen uebrigen Zutaten vermischen.
+Die warmen Fladen aufschneiden, jeweils mit einem Salatblatt
+auskleiden und das Gemuese einfuellen. Aus der Hand essen.
+
+Pro Fladen ca. 376 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gemuese-Auflauf
+Kategorien: Gemuese, Auflauf, Vollwert
+     Menge: 4 Portionen
+
+    750     Gramm  Kartoffeln
+    300     Gramm  Kohlrabi
+    300     Gramm  Moehren
+      1            Zwiebel
+      1      Bund  Petersilie
+     20     Gramm  Butter oder Margarine
+    300        ml  Milch
+    200        ml  Gemuesebruehe
+    125     Gramm  Reibekaese
+     30     Gramm  Sonnenblumenkerne
+                   Salz
+                   Pfeffer
+                   Muskatnuss
+      1     Prise  Zucker
+                   Fett; fuer die Form
+
+============================ QUELLE ============================
+         Eltern 4/93
+
+Fuer die Familie: Vollwertrezept
+
+Jetzt sind die jungen Gemuesesorten wieder auf dem Markt. Durch
+ihren frischen Geschmack werden auch die einfachsten Zubereitungen
+zu einem kulinarischen Erlebnis. Fuer die Zubereitung braucht man
+also nicht viel Zeit, und die Vitamine des Gemueses geben viel
+Schwung fuer Unternehmungen an der frischen Luft.
+
+Die Kartoffeln und Kohlrabi schaelen. Kartoffeln in Scheiben
+schneiden, Kohlrabi achteln und ebenfalls in Scheiben schneiden. Die
+Moehren waschen, falls noetig schaelen und gleichfalls in Scheiben
+schneiden. Den Backofen auf 200 Grad (Gas Stufe 3) vorheizen. Eine
+rechteckige Auflaufform einfetten. Die Zwiebel schaelen und
+feinwuerfeln. Die Petersilie waschen, trockentupfen und feinhacken.
+Das Fett erhitzen, die Zwiebelwuerfel darin glasig duensten. Milch
+und Gemuesebruehe zugeben und erhitzen. Den Kaese in der Sauce
+schmelzen und unter Ruehren etwas einkoecheln lassen. Die Sauce mit
+den Gewuerzen kraeftig abschmecken. Etwa die Haelfte der Petersilie
+unterruehren. Kartoffeln-, Kohlrabi- und Moehrenscheiben in die
+Auflaufform schichten, die Sonnenblumenkerne in den Auflauf streuen
+und die Kaesesauce daruebergiessen. Im vorgeheizten Backofen auf der
+untersten Schiene 45 Minuten backen. Mit der restlichen Petersilie
+bestreuen.
+
+Pro Portion ca. 450 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gemuese-Auflauf m. Hirsekruste
+Kategorien: Auflauf, Gemuese, Vollwert
+     Menge: 4 Personen
+
+      1            Zwiebel
+      1            Zucchini
+      1            Aubergine
+    1/2       Ltr. Gemuesebruehe
+      1      Essl. Oel
+    100     Gramm  Hirse
+      1            Knoblauchzehe
+     70     Gramm  Bergkaese
+      2      Essl. Zitronensaft
+      1            Ei
+      5      Essl. Sahne
+     50     Gramm  Sonnenblumenkerne
+      1      Bund  Petersilie
+                   Salz
+                   Pfeffer, frisch gemahlen
+
+============================ QUELLE ============================
+         ERFASST: PETER MESS
+
+Zwiebeln kleinschneiden, in dem Oel glasig duensten.
+
+Hirse zugeben und unter Ruehren kurz mitduensten, mit Gemuesebruehe
+aufgiessen und 40 Minuten bei kleiner Hitze koecheln lassen.
+
+Knoblauchzehe fein hacken, Bergkaese fein wuerfeln. Knoblauch, Kaese,
+Zitronensaft, Ei und Sahne zur gekochten Hirse geben und alles gut
+vermischen, mit Salz und Pfeffer kraeftig wuerzen.
+
+Sonnenblumenkerne ohne Fett hellbraun roesten, feingehackte
+Petersilie unter den Hirsebrei geben.
+
+Backofen auf 200 Grad vorheizen.
+
+Zucchini und Aubergine in Scheiben schneiden, beides abwechselnd in
+eine gefettete Auflaufform schichten. Hirsebrei darueber verteilen
+und mit Butterfloeckchen bestreuen.
+
+25 - 30 Minuten goldbraun backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gemuese-Getreide-Terrine (Cholesterin)
+Kategorien: Vollwert, Eintopf, Gemuese, Getreide, Speck
+     Menge: 2 Portionen
+
+     40     Gramm  Weizenkoerner
+     40     Gramm  Roggenkoerner
+     20        ml  Sonnenblumenoel
+     50     Gramm  Durchwachsenen Speck
+     40     Gramm  Zwiebeln
+     60     Gramm  Kartoffeln
+    100     Gramm  Blumenkohl
+     60     Gramm  Moehren
+    100     Gramm  Gruene Bohnen
+     60     Gramm  Erbsen
+    100     Gramm  Weisse Bohnen a.d.Dose
+    1/2       Ltr. Bruehe
+                   ; Salz + Pfeffer
+                   Kuemmel
+                   Majoran
+                   BEILAGE
+      2            Sesambroetchen (… 50g)
+
+============================ QUELLE ============================
+         Vereinigung Getreide,
+         Markt- u. Ernaehrungsforsch
+         ERFASST von
+         Renate Schnapka
+         am 13.05.97
+
+Weizen- und Roggenkoerner ueber Nacht gekuehlt in Wasser einweichen,
+am naechsten Tag ca. 1 Stunde langsam gar kochen. Gemuese und
+Kartoffeln waschen, putzen und wuerfeln bzw. Blumenkohl in kleine
+Roeschen zerteilen, gruene Bohnen in kleine Stuecke brechen.
+Zwiebeln und Speck in kleine Wuerfel schneiden, Speckwuerfel hell
+braten, Sonnenblumenoel zugiessen. zwiebeln, Gemuese und Kartoffeln
+darin goldgelb werden lassen. Weisse Bohnen, Weizen- und
+Roggenkoerner zugeben. Mit Gewuerzen (u.evtl. etwas gekoernter
+Bruehe) abschmecken und nochmals kurz aufkochen lassen.
+
+Sesambroetchen als Beilage reichen.
+
+:Pro Person ca. :    781 kcal
+:Pro Person ca. :   3266 kJoule
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gemuese-Puffer aus vollem Korn
+Kategorien: Eierspeise, Pikant, Sesam, Pfannkuchen, Vollwert
+     Menge: 4 Portionen
+
+     50     Gramm  Sesam; ungeschaelt
+    200     Gramm  Weizenvollkornmehl
+    1/8       Ltr. Milch
+    200        ml  ; Wasser
+      2            Eier
+    1/4      Teel. Vollmeersalz
+    250     Gramm  Moehren
+    250     Gramm  Rettich
+    250     Gramm  Zucchini
+                   ; Oel zum Backen
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 05.05.1997
+
+Sesam in einer beschichteten Pfanne ohne Fett roesten. Das
+Vollkornmehl, Sesam, Milch, Wasser, verquirlte Eier und das
+Vollmeersalz in einer Schuessel verruehren. Den Teig 30 Minuten
+quellen lassen.
+
+Inzwischen Gemuese waschen, putzen, schaelen und grob reiben. Den
+Teig in drei Portionen teilen und je eine Gemuesesorte unterruehren.
+In einer beschichteten Pfanne Oel erhitzen und aus den Teigen auf
+mittlerer Stufe Pro Person etwa 2 kleine Pfannkuchen backen.
+
+Die wertvollen Gemuese-Puffer aus vollem Korn schmecken solo, aber
+auch zu herzhaftem Kraeuterquark.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gemuese-Tofu-Auflauf
+Kategorien: Gemuese, Auflauf, Tofu, Vollwert
+     Menge: 4 Personen
+
+    400     Gramm  Geraeucherter Tofu
+                   ("Sojabohnen-Quark)
+      2      Essl. Sojasauce
+      1      Essl. Worcestersauce
+      1      Essl. Oel
+      2            Rote Paprikaschoten (400g)
+    200     Gramm  Rosenkohl
+    700        ml  Gemuese-Hefebruehe
+    100     Gramm  Hirse
+                   Vollmeersalz
+                   Pfeffer
+    100     Gramm  Geraspelter Emmentaler
+     20     Gramm  Vollkorn-Paniermehl
+     30     Gramm  Butter
+    1/2      Bund  Schnittlauch
+
+============================ QUELLE ============================
+         "Fuer Sie"  23/96
+         erfasst von T.Pfaffenbrot
+
+Tofuscheiben in Soja- und Worcestersauce ca. 30 Minuten marinieren.
+Abtropfen lassen, im heissen Oel anbraten. Gemuese putzen, waschen,
+Paprika in Streifen schneiden, in 200 ml Bruehe ca. 20 Minuten
+duensten.
+
+Hirse in restlicher Bruehe ca. 20 Minuten garen. Gemuese, Tofu und
+Hirse mischen. Wuerzen. In einer gefetteten Form verteilen Kaese
+Paniermehl und Fettfloeckchen daraufgeben.
+
+Bei 200 Grad ca. 20 Minuten ueberbacken. Mit Schnittlauchroellchen
+bestreuen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gemuesepfanne mit Roggen
+Kategorien: Getreide, Roggen, Gemuese, Vollwert
+     Menge: 4 Portionen
+
+    200     Gramm  Roggenkoerner
+      1      Essl. Gemuesebruehe; Instant
+      3            Karotten
+      1            Knollenselleriestueck
+      1      Bund  Fruehlingszwiebeln
+    250     Gramm  Austernpilze
+      1            Zwiebel
+      1            Knoblauchzehe
+      2      Essl. Oel
+      4      Essl. Sojasauce
+                   ; Salz
+                   ; Pfeffer a.d.M.
+      1      Bund  Petersilie
+    1/2       Ltr. ; Wasser (1)
+
+============================ QUELLE ============================
+         12.01.97
+         I. Benerts
+         Aus der Rezeptsammlung
+         von 1987 bis 1995
+
+Darren heisst: ohne Fett in der beschichteten Pfanne roesten. Roggen
+bekommt dadurch einen nussartigen Geschmack.
+
+Roggen darren, bis er deutlich dunkler geworden ist. Dabei immer
+wieder ruetteln. Ueber Nacht in Wasser (1) einweichen. Dann mit dem
+Einweichwasser aufkochen.
+
+Instant-Bruehe unterruehren. Koerner ca. 45 Minuten zugedeckt
+koecheln lassen. Die herdplatte ausschalten, den Roggen noch ca. 30
+Minuten nachquellen lassen.
+
+Inzwischen Gemuese putzen und waschen. Karotten und Sellerie in
+feine Stifte, Fruehlingszwiebeln und Austernpilze in Ringe bzw.
+Streifen schneiden.
+
+Feingeschnittene Zwiebel und den durchgepressten Knoblauch im
+erhitzten Oel glasig duensten. Gemuese zugeben und ca. 5 Minuten
+mitroesten. Dann den Roggen mit der Fluessigkeit hinzufuegen und
+kurz miterhitzen.
+
+Zuletzt mit Sojasauce, Salz und Pfeffer pikant abschmecken. Mit
+feingehackter Petersilie bestreut servieren.
+
+Tip:
+
+Wenn Sie den Roggen nicht darren, verlaengern sich Koch- und
+Quellzeit folgendermassen: Roggen mit Einweichwasser aufkochen, ca.
+1 Stunde koecheln und 45 Minuten nachquellen lassen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gemuesezwiebel mit Schrotfuellung (Cholesterin)
+Kategorien: Vollwert, Gemuese, Getreide, Brot, Schinken
+     Menge: 4 Portionen
+
+      4            Gemuesezwiebeln (… 250g)
+    200        ml  ; Wasser; Menge anpassen
+     40        ml  Sonnenblumenoel
+    160     Gramm  Schrotbrot
+    200     Gramm  Mais a.d. Dose
+      2            Eier (Kl. M)
+                   ; Salz + Pfeffer
+                   Knoblauch
+                   Petersilie; gehackt
+                   FUER DIE BEILAGE
+    800     Gramm  Frische gruene Bohnen
+     20     Gramm  Margarine
+                   Bohnenkraut
+                   ; Salz + Pfeffer
+      4  Scheiben  Roggenmischbrot (… 50g)
+    100     Gramm  Roher Schinken
+
+============================ QUELLE ============================
+         Vereinigung Getreide,
+         Markt- u. Ernaehrungsforsch
+         ERFASST von
+         Renate Schnapka
+         am 13.05.97
+
+Gefuellte Zwiebel:
+
+Gemuesezwiebeln schaelen, waschen, oberes Viertel abschneiden,
+aushoehlen und das Innere kleinhacken. Schrotbrot fein wuerfeln,
+gehackte Zwiebeln, Mais und Brot in Oel anduensten, Masse abkuehlen
+lassen. Die zwiebel-Brot-Masse mit Eiern und Gewuerzen vermischen
+und in die ausgehoehlte Zwiebel fuellen. Zwiebeldeckel mit
+Zahnstocher geststecken und in Salzwasser etwa 20 Min. gar duensten.
+
+Beilagen:
+
+Brechbohnen waschen, putzen und mit Gewuerzen in Salzwasser 15 Min.
+kochen. Dann abgiessen, Margarine hinzufuegen, Bohnen gut
+durchschwenken und mit Kraeutern und Gewuerzen abschmecken.
+Raggenmischbrot mit Schinken belegen und als Beilage zu gefuellten
+Gemuesezwiebeln mit Bohnengemuese reichen.
+
+:Pro Person ca. :    851 kcal
+:Pro Person ca. :   3559 kJoule
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gnocchi mit Alfalfa-Erdnuss-Butter
+Kategorien: Teigware, Gnocchi, Vollwert
+     Menge: 4 Portionen
+
+      1        kg  Mehlig kochende Kartoffeln
+      1      Teel. Salz
+    350     Gramm  Weizenvollkornmehl
+    100     Gramm  Alfalfasprossen
+     50     Gramm  Ungesalzene Erdnusskerne
+     80     Gramm  Butter
+      1            Zitrone, Saft davon
+
+============================ QUELLE ============================
+         Eltern 1/92
+
+Fuer die Familie: Vollwert-Rezept
+
+Nur mit wirklich mehligen Kartoffeln (z.B. Bintje) gelingen Gnocchi.
+Wichtig: Sie brauchen Platz zum Abtropfen, sonst kleben sie zusammen.
+Also jede Partie gleich in die Butter legen.
+
+Die Kartoffeln waschen, in der Schale in einem Daempfeinsatz oder im
+Schnellkochtopf garen. Die heissen Kartoffeln pellen und durch die
+Presse druecken. Nach und nach das Salz und so viel Mehl unterkneten,
+bis der Teig nicht mehr klebt. Je nach Wassergehalt der Kartoffeln
+wird etwas mehr oder weniger Mehl benoetigt. Entscheidend ist, dass
+der Teig leicht formbar ist. Den Teig portionsweise zu etwa 2 cm
+dicken Rollen formen, in etwa 3 cm lange Abschnitte schneiden, mit
+dem flachen Gabelruecken eindruecken. Viel Wasser mit Salz in einem
+grossen Topf zum Kochen bringen, die Gnocchi portionsweise einlegen
+und 1-2 Minuten ziehen lassen, bis sie an der Oberflaeche schwimmen.
+Mit dem Schoepfloeffel herausheben und abtropfen lassen. Inzwischen
+in der Pfanne die feingehackten Nuesse in der Butter braeunen, etwas
+Salz und den Zitronensaft zugeben. Pfanne vom Herd ziehen, die gut
+abgetropften und abgekuehlten Gnocchi in der Nussbutter schwenken,
+erst zum Schluss die abgebrausten Sprossen unterziehen. Die Gnocchi
+auf vier Tellern anrichten und moeglichst gleich servieren.
+
+Pro Portion ca. 710 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gratinierte Blumenkohlplaetzchen (Cholesterin)
+Kategorien: Vollwert, Gemuese, Bratling, Blumenkohl, Haferflocke
+     Menge: 4 Portionen
+
+                   FUER DIE PLAETZCHEN
+      4  Scheiben  Zwiebelbrot (… 50g)
+    120     Gramm  Edamer (40% Fett i.Tr.)
+                   -- in Scheiben
+    400     Gramm  Blumenkohl
+    200     Gramm  Kartoffeln; roh geraffelt
+     80     Gramm  Haferflocken
+     80     Gramm  Paniermehl
+     40     Gramm  Weizenmehl (Type 405)
+      2            Eier (Kl. M)
+                   ; Salz + Pfeffer
+                   Muskat
+                   Petersilie; gehackt
+     40        ml  Sonnenblumenoel z. Braten
+                   FUER DAS GEMUESE
+    400     Gramm  Erbsen (Dose o. TK)
+    400     Gramm  Moehren (Dose o. TK)
+     20     Gramm  Butter
+                   Gekoernte Bruehe
+                   ; Salz + Pfeffer
+                   Muskat
+                   Frische Kraeuter
+                   FUER DIE SAUCE
+     20     Gramm  Margarine
+     20     Gramm  Mehl (Type 405)
+    500        ml  Bruehe o. gekoernte Bruehe
+                   ; Salz + Pfeffer
+                   Frische Kraeuter (z.B.Kerbel
+                   -- Schnittlauch, Petersilie)
+
+============================ QUELLE ============================
+         Vereinigung Getreide,
+         Markt- u. Ernaehrungsforsch
+         ERFASST von
+         Renate Schnapka
+         am 13.05.97
+
+Die Plaetzchen:
+
+Den Blumenkohl saeubern und in 10 Min. fast gar kochen. Kartoffeln
+schaelen und raffeln. Aus Blumenkohl, Kartoffeln, Paniermehl,
+Haferflocken, Mehl und Eiern einen Teig bereiten, pikant abschmecken
+und zu frikadellenaehnlichen Blumenkohlplaetzchen formen. Dann in
+Oel abbacken. Zwiebelbrot portionieren, auf je 1 Scheibe Brot ein
+Blumenkohlplaetzchen legen und mit einer Scheibe Edamer ueberbacken.
+
+Gemuese:
+
+Erbsen und Moehren in Butter langsam erhitzen (bzw. weichdaempfen
+bei TK) und wuerzen.
+
+Sauce:
+
+Aus Mehl und Margarine eine Schwitze bereiten, mit Wasser oder
+Bruehe auffuellen, aufkochen lassen und abschmecken. Die gehackten
+Kraeuter kurz vor dem Servieren unterruehren.
+
+:Pro Person ca. :    781 kcal
+:Pro Person ca. :   3266 kJoule
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gratinierte Pfannkuchen
+Kategorien: Eierspeise, Vollwert
+     Menge: 4 Portionen
+
+========================== PFANNKUCHEN ==========================
+    150     Gramm  Dinkel-Vollkornmehl
+                   (Reformhaus)
+      1     Prise  Salz
+      2            Eier
+    300        ml  Milch
+
+====================== FUELLUNG UND SAUCE ======================
+      2            Eier
+    100     Gramm  Honig
+    500     Gramm  Quark (20% Fett)
+      1     klein. Glas Schattenmorellen
+                   (Fuellmenge 680 g)
+      2      Teel. Speisestaerke
+                   Ungehaertetes Kokosfett
+      2      Teel. Butter oder Margarine
+
+============================ QUELLE ============================
+         Eltern 12/92
+
+Fuer die Familie: Vollwertrezept
+
+Suessspeisen sind besser als ihr Ruf - wenn sie mit vollwertigen
+Zutaten zubereitet werden. Denn sie enthalten viel Kohlenhydrate,
+dabei maessige Mengen Eiweiss und Fett.
+
+Dinkelmehl mit Salz, Eiern und Milch verquirlen. Teig 1 Stunde
+quellen lassen. In einer beschichteten Pfanne etwas Kokosfett
+erhitzen und nacheinander 4-6 moeglichst duenne Pfannkuchen von
+beiden Seiten goldbraun backen. Dabei einen Deckel auflegen. Die
+Eigelbe mit dem Honig cremig ruehren, dann den Quark unterruehren.
+Eiweiss sehr steif schlagen und unterziehen. Schattenmorellen
+abtropfen lassen, Saft dabei auffangen. Die Haelfte der Kirschen
+vorsichtig unter die Quarkmasse ziehen. Pfannkuchen mit der
+Quarkmasse fuellen, locker zusammenrollen und in eine gut gefettete
+Auflaufform legen. Die restliche Fuelle gleichmaessig auf die
+Pfannkuchen streichen. Form mit Pergamentpapier abdecken,
+Pfannkuchen im vorgeheizten Ofen bei 200 Grad (Gas Stufe 3) 45
+Minuten backen. Waehrenddessen Kirschsaft mit restlichen Kirschen
+erhitzen, Staerke mit etwas Kirschsaft anruehren, in die Sauce
+ruehren, kurz aufkochen lassen. Palatschinken lauwarm mit Sauce
+servieren.
+
+Pro Portion ca. 765 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gruenkernfladen
+Kategorien: Backen, Gebaeck, Fladen, Vollwert
+     Menge: 3 Fladen
+
+    675     Gramm  Weizenmehl; type 550
+    400     Gramm  Gruenkernflocken
+      1      Pack. Sauerteig-Extrakt
+      2      Pack. Trockenhefe
+      1      Essl. ; Salz
+
+========================= ZUM BESTREUEN =========================
+                   Milch
+                   Mohn
+
+=========================== AUSSERDEM ===========================
+    600        ml  ; lauwarmes Wasser
+
+============================ QUELLE ============================
+         15.12.96
+         I. Benerts
+         Aus der Rezeptsammlung
+         von 1987 bis 1995
+
+Die Zutaten in angegebener Reihenfolge mit den Knethaken des
+Handruehrgeraetes vermengen, lauwarmes Wasser zugiessen, gut
+durchkneten, bis ein glatter Teig entstanden ist. Zugedeckt an einem
+waren Ort 30 Minuten gehen lassen.
+
+Nochmals durchkneten und den Teig in drei Teile teilen. Zu flachen
+ovalen Fladen formen und weitere 30 Minuten auf einem mit Backpapier
+ausgelegten Backblech gehen lassen.
+
+Die Oberflaeche mit Milch bestreichen, Mohn daraufstreuen, mit einem
+Messer rautenfoermig einschneiden. Im Backofen 20 bis 25 Minuten
+backen.
+
+E-Herd:    Grad: 200 Gas:      Stufe: 3
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gruenkernrisotto "Roma"
+Kategorien: Reis, Risotto, Vollwert, Gruenkern
+     Menge: 2 Personen
+
+    300     Gramm  Gruenkern
+      1       Ltr. Bruehe
+      2            Zwiebeln
+    250     Gramm  Moehren
+      1    Stange  Porree (Lauch)
+     50     Gramm  Butter
+     60     Gramm  Bahlsen Kaschu-Kerne
+      2      Essl. Sherry
+                   ; Salz
+                   ; Pfeffer
+
+============================ QUELLE ============================
+         Rundblick d. Stadt
+         Sankt Augustin
+         gepostet:v. Renate Schnapka
+
+Den gruendlich gewaschenen Gruenkern in die kochende Bruehe geben
+und 40 Minuten gar ziehen lassen (aehnlich wie Reis behandeln). In
+der Zwischenzeit dir zwiebeln wuerfeln, die Moehren und den Porree
+in Scheiben schneiden und in der ausgelassenen Butter anduensten.
+Dann die Kaschu-Kerne und den Gruenkern untermengen und mit Sherry
+und Gewuerzen abschmecken.
+
+Beilage: Radiccio-Salat mit Orangenstuecken, Bahlsen Ti.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gruenkohl mit Gruenkernkuechlein
+Kategorien: Gemuese, Vollwert
+     Menge: 4 Portionen
+
+      1        kg  Gruenkohl
+     30     Gramm  Butter oder Margarine
+      2            Zwiebeln
+    1/2       Ltr. Gemuesebruehe
+      2            Kartoffeln
+      2      Essl. Haferflocken
+                   Salz
+                   Pfeffer
+                   Soja-Sauce
+    150     Gramm  Gruenkernschrot
+      1            Stueckchen Sellerie
+      1            Ei
+     30     Gramm  Frisch geriebenen Parmesan
+      1            Knoblauchzehe
+      1      Essl. Gehackte Petersilie
+                   Fett; zum Ausbacken
+
+============================ QUELLE ============================
+         Eltern 1/93
+
+Fuer die Familie: Vollwertrezept
+
+Auch vegetarische Kueche kann deftig-kraeftig schmecken! Zwiebeln,
+Knoblauch, rauchiger Gruenkern und Gruenkohl haben ein natuerlich
+pikantes Aroma, das im Winter besonders gut schmeckt.
+
+Gruenkohl waschen, die Blaetter von den Struenken streifen und in
+feine Streifen schneiden. Zwiebeln abziehen und feinwuerfeln, im
+Fett kraeftig anbraten. Gruenkohl zugeben und wuerzen. Mit der
+Haelfte der Gemuesebruehe abloeschen und in etwa 1 Stunde gar kochen.
+Kartoffeln schaelen, in 1 cm grosse Wuerfel schneiden und die
+letzten 20 Minuten mitkochen. Kohl mit Haferflocken binden. Fuer die
+Kuechlein Sellerie schaelen und fein reiben. Die restliche Bruehe
+zum Kochen bringen, Sellerie und Gruenkernschrot einstreuen und 5
+Minuten kochen. Abkuehlen lassen, dann das Ei, den Kaese, die mit
+Salz und einer Gabel zerdrueckten Knoblauchzehe und die Petersilie
+unterziehen, abschmecken. Mit bemehlten Haenden 8 kleine Kuechlein
+formen. In einer beschichteten Pfanne rundherum ausbraten und zum
+Gruenkohl reichen.
+
+Tip: Wenn Sie es nicht eilig haben, formen Sie aus dem Teig kleine
+Wuerstchen.
+
+Pro Portion ca. 410 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Gurkenpfanne
+Kategorien: Gemuese, Gurke, Vollwert
+     Menge: 4 Personen
+
+      2            Salatgurken (zu 500g)
+      4      Essl. Oel
+      6            Tomaten (300 g)
+                   Vollmeersalz
+                   ; Pfeffer
+     20     Gramm  Butter
+      1            Zerdrueckte Knoblauchzehe
+      1      Essl. Mango-Chutney (Wuerzsauce)
+    400     Gramm  Schmand
+     80     Gramm  Cashewkerne
+    1/2      Bund  Thymian
+
+============================ QUELLE ============================
+         "Fuer Sie"  9/92
+         Erfasst: T.Pfaffenbrot
+         13.01.1997
+
+Gurkenscheiben im heissen Oel 5 Minuten braten. Tomaten haeuten,
+vierteln, dazugeben, ca. 5 Minuten duensten. Wuerzen. Butter
+erhitzen, Knoblauch darin anduensten. Chutney, Schmand und 40 g
+gehackte Cashewkerne zufuegen.
+
+Abschmecken, ueber das Gemuese geben. Mit restlichen geroesteten
+Cashewkernen bestreuen und mit Thymian garnieren.
+
+Dazu: Naturreis.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Haferplinsen
+Kategorien: Vollwert
+     Menge: 4 Personen
+
+      1      Bund  Petersilie
+      1      Bund  Estragon
+    150     Gramm  Feine Haferflocken
+      1            Zwiebel
+      2            Moehren
+      2      Essl. Sojamehl
+      2            Eier
+                   ; Kraeutersalz
+    200        ml  Gemuesebruehe; Instant
+      3      Essl. Oel
+      2     klein. Salatgurken
+     30     Gramm  Butter
+    250     Gramm  Schlagsahne
+    200     Gramm  Doppelrahmfrischkaese
+     30     Gramm  Kuerbiskerne
+
+====================== ZUBEREITUNGSZEIT CA ======================
+                   -- 30 Minuten
+
+======================== PRO PORTION CA ========================
+                   -- 810 Kalorien / 3391 Joule
+
+============================ QUELLE ============================
+         Gepostet von I. Benerts
+         14.01.96
+
+Petersilie und Estragon fein hacken. Haferflocken, Zwiebelwuerfel,
+geriebene Moehren, Sojamehl, Eier, Kraeutersalz und Bruehe zu einem
+Teig verruehren. Je einen Essloeffel Kraeuter unterruehren.
+
+In einer grossen Pfanne Oel erhitzen und gleichzeitig mehrere
+handtellergrosse Plinsen knusprig braun braten. Warm stellen.
+
+Gurken schaelen, entkernen und in 1 cm dicke Scheiben schneiden. In
+heisser Butter anduensten. Mit Kraeutersalz wuerzen. Sahne und Kaese
+zugeben und einmal aufkochen.
+
+Restliche Kraeuter unterheben. Mit Kuerbiskernen bestreuen und zu
+den Plinsen servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Hefe-Pfannkuchen mit Kuerbis und Sesam
+Kategorien: Eierspeisen, Pikant, Roggen, Pfannkuchen, Vollwert
+     Menge: 4 Portionen
+
+    200     Gramm  Roggenmehl (Type 1150)
+     20     Gramm  Hefe; frisch
+    1/4      Teel. Vollmeersalz
+      1      Teel. Honig
+    1/4       Ltr. ; lauwarmes Wasser
+      3      Essl. Sonnenblumenkerne; geschaelt
+      2      Essl. Kuerbiskerne; geschaelt
+    1/4       Ltr. Kefir
+      2            Eier
+      2      Teel. Sesam; ungeschaelt
+      1      groß. Aubergine
+      2            Zucchini
+      2            Paprikaschoten
+      1     klein. Gemuesezwiebel
+      2            Knoblauchzehen
+      3      Essl. Olivenoel
+      1            Rosmarin-Zweig
+    1/2      Pack. Thymian
+    250     Gramm  Tomaten
+                   ; weisser Pfeffer
+                   ; Oel zum Backen
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 05.05.1997
+
+Mehl und Vollmeersalz mischen. In die Mitte eine Vertiefung druecken.
+Zerbroeckelte Hefe, Honig und Wasser hineingeben. Mit etwas Mehl
+verruehren. Zugedeckt 30 Minuten gehen lassen.
+
+Inzwischen die Kerne roesten und nach der Gehzeit mit Kefir, Eiern
+und Sesam zufuegen. Alles zu einem lockeren Teig verarbeiten.
+Zugedeckt nochmal ca. 60 Minuten gehen lassen.
+
+Gemuese waschen, putzen und wuerfeln. Knoblauch durchpressen.
+Olivenoel erhitzen, zuerst die Zwiebeln glasig braten. Die Kraeuter,
+Knoblauch und das Gemuese zufuegen und 10 Minuten schmoren. Die
+Tomaten in Spalten schneiden, unterruehren und miterhitzen. Mit Salz
+und Pfeffer wuerzen.
+
+In Oel bei mittlerer Hitze pro Person 2 Pfannkuchen backen und mit
+dem Gemuese anrichten.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Hirse-Sesam-Plaetzchen
+Kategorien: Backen, Gebaeck, Vollwert, Hirse
+     Menge: 1 Rezept
+
+    100     Gramm  Sesam
+    120     Gramm  Honig
+     70     Gramm  Butter
+      1            Ei
+     50     Gramm  Rosinen; in Rum eingeweicht
+    100     Gramm  Hirse
+    100     Gramm  Weizen
+                   Muskatbluete
+                   Vanillepulver
+
+============================ QUELLE ============================
+         erfasst durch Peter Mess
+
+Sesam bei milder Hitze in der trockenen Pfanne roesten, bis er
+duftet.
+
+Butter, Honig und Ei schaumig ruehren. Mit Muskatbluete und
+Vanillepulver wuerzen. Hirse und Weizen fein mahlen. Den
+ausgekuehlten Sesam, Rosinen und Mehl zu der Buttermischung geben
+und unterruehren. Teig etwa 1/2 Stunde ruhen lassen.
+
+Mit dem Kaffeeloeffel kleine Haeufchen auf ein gefettetes Blech
+setzen und im vorgeheizten Backofen bei 180X 15 - 20 Minuten backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Kaeseschnitten
+Kategorien: Kaese, Vollwert, Getreide, Sahne
+     Menge: 8 Portionen
+
+    200     Gramm  Zwiebeln
+     40     Gramm  Butter
+    200     Gramm  Grahamschrot
+    175     Gramm  Hartweizengruetze
+    3/4       Ltr. Gemuesebruehe
+      2            Pfefferschoten; gehackt
+      4            Knoblauchzehen
+      4            Eier
+    1/4       Ltr. Schlagsahne
+                   ; Vollmeersalz
+    200     Gramm  Gouda
+      4      Essl. Thymianblaetter
+
+============================ QUELLE ============================
+         Natuerliche Ernaehrung
+         Herausgeber: essen&trinken
+         Erfasst: Renate Schnapka
+         am 05.04.97
+
+Die Zutaten sind fuer 8-10 Personen berechnet.
+
+Zwiebeln pellen, wuerfeln, in der Butter glasig duensten. Schrot und
+Gruetze unterruehren, die Bruehe zugiessen.
+
+Kurz aufkochen und zugedeckt 15Min ausquellen lassen. Mit
+Pfefferschoten und gepresstem Knoblauch wuerzen.
+
+Eier mit 100ml Sahne verquirlen, unterruehren und mit Salz
+abschmecken. Masse auf eine gefettete Saftpfanne streichen.
+
+Mit geraspeltem Kaese und Thymian bestreuen, restliche Sahne
+daruebertraeufeln. Bei 200oC (Gas 3) auf dem Backofenboden 25-30 Min.
+backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Kartoffel-Moehren-Pfanne mit Bulgur
+Kategorien: Gemuese, Vollwert, Hauptspeise
+     Menge: 4 Portionen
+
+      2      Essl. Sonnenblumenkerne
+    500     Gramm  Kartoffel
+    400     Gramm  Moehren
+      3      Essl. Sonnenblumenkernoel
+                   Vollmeersalz
+    1/8       Ltr. Gemuesebruehe (1)
+    1/4       Ltr. Gemuesebruehe (2)
+    100     Gramm  Bulgur(Hartweizengruetze)
+      2      Bund  Fruehlingszwiebeln
+    200     Gramm  Schlagsahne
+  1 1/2      Essl. Senf
+                   Pfeffer a.d.Muehle
+      1      Bund  Dill
+
+Die Sonnenblumenkerne in einer Pfanne ohne Fett hellbraun roesten
+und auf einen Teller schuetten. Kartoffeln und Moehren schaelen und
+in Scheiben schneiden.
+
+Kartoffeln im Oel anbraten und mit Salz wuerzen. Bruehe (1)
+zugiessen und zugedeckt 5 Minuten schmoren, gelegentlich wenden.
+
+Moehren und Bulgur unterruehren. Bruehe (2) zugiessen und zugedeckt
+weitere 15    Minuten garen.
+
+Inzwischen die Fruehlingszwiebeln putzen und in Ringe schneiden.
+Sahne und Senf verruehren. Fruehlingszwiebeln unter die Kartoffeln
+heben, mit Salz und Pfeffer abschmecken.
+
+Senfsahne ueber das Gemuese geben und ohne ruehren zugedeckt etwa 5
+Minuten ziehen lassen. Mit Dillaestchen und Sonnenblumenkernen
+bestreut servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Kohlrabi-Gurkensalat mit Kraeuter-Joghurtsauce
+Kategorien: Salat, Gurke, Rohkost, Vollwert, Vegetarisch
+     Menge: 5 Personen
+
+      1            Kohlrabiknolle
+    1/2            Salatgurke
+
+======================= FUER DEN DRESSING =======================
+    200     Gramm  Joghurt
+    1/2            Zitrone; Saft
+                   Frische Kraeuter
+                   ; Salz
+                   ; Pfeffer
+
+============================ QUELLE ============================
+         Vegetarisch fit 1/94
+         Erfasst von Nadja Kramer
+
+Die Kohlrabiknolle schaelen und fein raspeln. Die Gurke gruendlich
+abwaschen und grob raspeln. Kohlrabi- und Gurkenraspeln vermischen.
+
+Fuer die Joghurtsauce die Kraeuter fein schneiden. Joghurt damit,
+sowie der Zitrone, dem Salz und dem Pfeffer abschmecken. Die
+Kraeuter-Joghurtsauce extra reichen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Kohlrabi mit Gefluegelfuellung
+Kategorien: Gemuese, Vollwert, Gefluegel, Hell, Pute
+     Menge: 4 Portionen
+
+    250     Gramm  Parboiled Reis
+    500        ml  Gemuesebruehe
+    300     Gramm  Putenschnitzel
+      1      groß. Ei
+      3      Essl. Suesse Sahne
+      3      Essl. Haferflocken
+                   Jodsalz
+                   Pfeffer
+                   Muskat
+      1      Bund  Petersilie
+      8            Kohlrabi
+     20     Gramm  Butter oder ungehaertete
+                   Margarine
+    100     Gramm  Saure Sahne (20%)
+    150        ml  Sahne
+
+============================ QUELLE ============================
+         Eltern 7/91
+
+Fuer die Familie: Vollwert-Rezept mit Fleisch
+
+Wer sich vollwertig ernaehrt, muss nicht ganz auf Fleisch
+verzichten: 1-2 mal pro Woche kann es auf dem Speisezettel stehen.
+Allerdings in maessigen Portionen und von natuerlich gehaltenen
+Tieren. Statt Pute koennen Sie Haehnchen nehmen.
+
+Den Reis im Topf erwaermen und mit Bruehe angiessen. Aufkochen und
+10 Minuten quellen lassen. Inzwischen das Putenfleisch
+kleinschneiden und mit dem Ei im Blitzhacker puerieren. Haferflocken,
+Sahne, Salz, Pfeffer, Muskat und feingehackte Petersilie
+unterarbeiten. Kohlrabiblaetter abzupfen, feine Triebe beiseite
+legen. Die Knollen waschen, schaelen und mit einem Ausstecher
+aushoehlen. 3 Loeffel Reis unter die Fleischmasse heben, in die
+Knollen fuellen. Kohlrabi im Fett anduensten, einige Loeffel Wasser
+zugeben und 20 Minuten duenstne. Wenn die Kohlrabi ansetzen,
+zwischendurch etwas Wasser nachgiessen. Das ausgehoehlte
+Kohlrabifleisch und die zarten Triebe zufuegen und weitere 15
+Minuten garen. Die Kohlrabi aus dem Topf heben, den Fond mit
+Puerierstab puerieren und mit saurer Sahne, suesser Sahne, Salz,
+Muskat und Pfeffer abschmecken.
+
+Pro Person ca. 625 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Kraeuter-Sahne-Creme
+Kategorien: Vegetarisch, Vollwert
+     Menge: 4 Personen
+
+    125     Gramm  Magerquark
+    250     Gramm  Sahnejoghurt
+      1      Essl. Zitronensaft
+      1     Tasse  Feingehackte Kraeuter
+                   ; (Schnittlauch,Petersilie,
+                   ; Liebstoeckel/Maggikraut,
+                   ; Dill,Borretesch, Zitronen-
+                   ; melisse,Estragon)
+      1            Knoblauchzehe
+    1/4      Teel. Selleriesalz
+                   Frisch gemahlener Pfeffer
+
+Quark mit Sahnejoghurt und Zitronensaft cremig ruehren. Kraeuter und
+geschaelte, durchgepresste Knoblauchzehe zugeben. Mit Salz und
+Pfeffer abschmecken. Gut gekuehlt servieren.
+
+Varianten: Statt Knoblauch feingehackte Kapern (1El/4Portionen) oder
+schwarze Oliven oder Gewuerzgurken oder Meerrettich nehmen. Zur
+Abwechslung mit Curry oder Paprika wuerzen.
+
+Passt zu: Knusprigen Kaesebroetchen oder Vollkornbrot,
+Pellkartoffeln, Schmorkartoffeln, Kartoffeln vom Blech.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Krautspaetzle
+Kategorien: Teigware, Spaetzle, Vollwert
+     Menge: 1 Rezept
+
+      2            Zwiebeln
+  1 1/2      Essl. Butter oder Margarine
+      1            Rote Paprika
+    350     Gramm  Frisches Sauerkraut
+    200        ml  Apfelsaft
+    300     Gramm  Feingemahlenes Dinkel-
+                   Vollkornmehl
+      3            Eier
+                   Salz
+                   Pfeffer
+    220        ml  Milch
+
+============================ QUELLE ============================
+         Eltern 2/92
+
+Fuer die Familie: Vollwertrezept
+
+Sauerkraut ist eine tolle Winteralternative zu Frischgemuese - wenn
+Sie es nicht waschen. Sonst landen die Vitamine naemlich im Wasser
+statt im Topf!
+
+Zwiebeln schaelen, in feine Ringe schneiden. Das Fett in einer
+Pfanne erhitzen, Zwiebeln darin goldbraun braten, Paprika halbieren,
+Trennwaende und Kerne entfernen und die Schote in kleine Wuerfel
+schneiden. Mit dem Sauerkraut zu den Zwiebeln geben, kurz anbraten,
+dann den Apfelsaft zugeben, einen Deckel auflegen und das Sauerkraut
+in etwa 15 Minuten garen. Mehl mit Eiern, etwas Salz und der Milch
+gut verschlagen. Reichlich Salzwasser zum Kochen bringen. Den
+Spaetzleteig portionsweise in einen Spaetzlehobel fuellen und in das
+kochende Wasser reiben. Die Spaetzle - sobald sie oben schwimmen mit
+einem Schaumloeffel herausnehmen, in ein Sieb geben, abtropfen
+lassen. Das Sauerkraut mit Salz und Pfeffer abschmecken und mit den
+Spaetzle in einer Schuessel gut mischen. Sofort servieren.
+
+Tip: Wenn Sie vorkochen wollen, bereiten Sie das Sauerkraut zu, die
+Spaetzle schrecken Sie kalt ab und stellen beides kalt. Kurz vor dem
+Essen Spaetzle zum Sauerkraut in die Pfanne geben, alles erhitzen.
+Sie koennen die Spaetzle aber auch in Butter braun braten und
+getrennt zum Kraut servieren.
+
+Pro Portion ca. 500 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Lammkoteletts mit Gruenkern
+Kategorien: Fleisch, Lamm, Vollwert, Gruenkern
+     Menge: 4 Personen
+
+    500     Gramm  Gruene Bohnen
+      2      Essl. Olivenoel
+     50     Gramm  Gruenkernschrot; grob
+      1      Teel. Gekoernte Gemuesebruehe
+      1      Teel. Bohnenkraut; getrocknet
+    1/2      Teel. Basilikum; gehackt
+      4            Lammkoteletts; a 160g
+      2      Essl. Traubenkernoel
+                   ; Salz
+                   ; Pfeffer
+      4      Essl. Rotwein; trocken
+      1            Fleischtomate
+    3/8       Ltr. Wasser
+
+============================ QUELLE ============================
+         Nach: Graefe und Unzer
+         Fleisch
+         erfasst Ilka Spiess
+
+:Pro Person etwa 740 kcal * 28g Eiweiss * 58g Fett * 22g Kohlehydrate
+
+Die Zwiebel wuerfeln. Die Bohnen waschen, putzen und halbieren. Das
+Oel erhitzen, die Zwiebel und den Gruenkernschrot unter haeufigem
+Wenden darin anbraten, bis die Zwiebel glasig und der Schrot
+hellfleckig ist.
+
+Die Bohnen mit 3/8l Wasser, der gekoernten Bruehe, den Kraeutern und
+einer Messerspitze Pfeffer hinzufuegen und bei schwacher Hitze 25
+Minuten kochen lassen.
+
+Die Koteletts kalt waschen, trockentupfen, die Fettraender im
+Abstand von 5cm einschneiden. Das Fleisch mit Pfeffer einreiben. Das
+Oel erhitzen die Koteletts darin von jeder Seite bei mittlerer Hitze
+etwa 3 bis 4 Minuten knusprig braun braten.
+
+Die Bohnen abgiessen, mit dem Gruenkernschrot mischen und das
+Gemuese auf einer vorgewaermten Platte anrichten, Die Koteletts
+daneben verteilen und salzen.
+
+Den Bratfond in der Pfanne mit dem Rotwein abloeschen, ueber die
+Koteletts giessen und die Platte mit Tomatenachteln garnieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Mandel-Nuss-Entchen
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 15 Stueck
+
+========================= FUER DEN TEIG =========================
+      1      Pack. Trockenhefe
+    150        ml  Lauwarmes Wasser oder Milch
+    500     Gramm  Dinkel-Vollkornmehl
+    100        ml  Suesse Sahne
+     75     Gramm  Weiche Butter/Magarine
+     50     Gramm  Honig
+      1     Prise  ; Salz
+
+======================= FUER DIE FUELLUNG =======================
+     75     Gramm  Hasalnusskerne
+     75     Gramm  Mandeln
+     75        ml  Wasser
+     50     Gramm  Honig
+      1            Eiweiss zum Bestreichen
+      1            Eigelb
+      1      Essl. Wasser
+                   Rosinen zum verzieren
+
+Teig:
+
+Die Hefe in dem lauwarmen Wasser aufloesen und etwa 10 Minuten
+quellen lassen. Anschliessend die Hefe mit dem Mehl, der Sahne, dem
+Fett, dem Honig und dem Salz zu einem glatten Teig verkneten. Den
+Teig zugedeckt an einem warmen Ort etwa 1 Stunde gehen lassen.
+
+Fuellung:
+
+Inzwischen fuer die Fuellung die Nuesse und die Mandeln fein hacken.
+Das Wasser und den Honig in einem Topf zu einem dicken Sirup kochen.
+Die gehackten Nuesse und Mandeln unterruehren und die Masse erkalten
+lassen. Zwischenzeitlich das Eiweiss steif schlagen und unter die
+Nussmasse heben. Den Hefeteig auf einer bemehlten Flaeche noch
+einmal durchkneten und anschliessend 0,5 cm dick ausrollen. Danach
+Plaetzchen ausstechen: Fuer jedes Entchen ( fuer den Entenbauch ) je
+zwei Plaetzchen von 6-7cm Durchmesser (wobei die Fluegel noch
+geformt werden muessen), fuer den Entenkopf je ein Plaetzchen mit
+einem Durchmesser von 5cm und jeweils ein kleines, ovales Plaetzchen
+fuer den Schnabel ausstechen beziehungsweise formen.
+
+Nun ein Entenkopfplaetzchen an ein Entenbauchplaetzchen druecken,
+letzteres mit Wasser bestreichen und in die Mitte einen Essloeffel
+Nussfuellung setzen. Das zweite Plaetzchen daraufsetzen und an den
+Teigraendern gut andruecken. Die Entchen fertig zusammensetzen, Ei
+und Wasser vermischen und die Entchen damit bestreichen. Eine Rosine
+als Auge eindruecken. Die Entchen nochmals 20 Minuten gehen lassen
+und bei 220 Grad etwa 12 Minuten backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Maultaschen mit Gemuese
+Kategorien: Teigware, Gefuellt, Gemuese, Vollwert
+     Menge: 4 Portionen
+
+========================= FUER DEN TEIG =========================
+      2            Eier; Gew.-Kl. 3
+      6      Essl. Oel
+    1/2      Teel. ; Salz
+    300     Gramm  Weizenvollkornmehl
+                   ; Mehl zum Ausrollen
+      1            Eiweiss
+
+======================= FUER DIE FUELLUNG =======================
+    250     Gramm  Porree (Lauch)
+      2     klein. Rote Paprikaschoten
+    250     Gramm  Champignons
+     20     Gramm  Butter oder Oel
+                   -- z.B. Sojaoel
+                   ; Salz
+                   ; weisser Pfeffer
+      1      Essl. Edelsuess-Paprika
+
+==================== FUER DIE KRAEUTERSOSSE ====================
+     30     Gramm  Butter
+     30     Gramm  Weizenvollkornmehl
+    1/4       Ltr. Gemuese-Hefrbruehe; Instant
+    1/4       Ltr. Milch
+                   ; Salz
+      1      Bund  Schnittlauch
+      1      Bund  Petersilie
+
+=========================== AUSSERDEM ===========================
+      4      Essl. ; Wasser (1)
+
+============================ QUELLE ============================
+         07.12.96
+         I. Benerts
+         Aus der Rezeptsammlung
+         von 1987 bis 1995
+
+Eier, Oel, Salz und Wasser (1) verruehren. Mehl nach und nach
+unterkneten. Teig in ein feuchtes Kuechentuch wickeln und ca. 30
+Minuten ruhenlassen.
+
+Fuer die Fuellung Gemuese putzen, waschen und fein wuerfeln. Fett
+erhitzen, Gemuese darin anduensten. Mit Salz, Pfeffer und Paprika
+wuerzen. Abkuehlen lassen.
+
+Nudeleig auf etwas Mehl duenn ausrollen. Je 1 Essloeffel Gemuese in
+kleinen Abstaenden auf eine Haelfte des Teiges geben. Teig um das
+Gemuese mit Eiweiss bestreichen. Andere Teighaelfte darueberlegen
+und um die Fuellung herum leicht andruecken. Dann kreise (ca. 8 cm
+Durchmesser) ausstechen und in reichlich kochendem Salzwasser ca. 5
+Minuten garen.
+
+Fuer die Sosse Fett erhitzen, Mehl darin anschwitzen. Mit Bruehe und
+Milch abloeschen und kurz leicht kochen lassen. Mit Salz abschmecken.
+Kraeuter waschen, fein hacken und unterruehren. Alles anrichten.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Muesli-Apfel-Broetchen
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 12 Broetchen
+
+    350     Gramm  Weizenvollkornmehl
+    150     Gramm  Buchweizenmehl
+      1    Würfel  Hefe
+      1      Teel. Apfeldicksaft
+    200        ml  Lauwarme Milch
+      1            Ei
+    150     Gramm  Muesli
+    150     Gramm  Geraspelten Apfel
+      1      Teel. Salz
+                   Milch; zum Bestreichen
+                   Buchweizenschrot; zum
+                   Bestreuen
+
+============================ QUELLE ============================
+         Eltern 2/93
+
+Fuer die Familie: Vollwertrezept
+
+Kinder haben ungeheuren Spass am Backen. Mit diesen leckeren Muesli-
+Apfel-Broetchen koennen Sie ihren Hunger auf Suesses auf gesunde
+Weise stillen.
+
+Das Mehl in eine Schuessel geben. In die Mitte eine Mulde druecken.
+Hefe in die Mulde broeseln, den Apfeldicksaft daruebertropfen und so
+viel Milch auf die Hefe giessen, bis sie bedeckt ist. Den Vorteig
+zugedeckt an einem warmen Ort ca. 20 Minuten gehen lassen. Danach
+die restlichen Zutaten zum Vorteig geben und alles gut verkneten.
+Der Teig sollte sich geschmeidig anfuehlen und sich gut von der
+Schuesselwand loesen. Zugedeckt nochmals 30 Minuten gehen lassen.
+Aus dem Teig 12 gleich grosse Broetchen formen und auf ein gut
+gefettetes, bemehltes Backblech setzen. Mit Milch bestreichen und
+mit Buchweizenschrot bestreuen. Eine Tasse Wasser in den Backofen
+stellen, Backblech in den kalten Backofen geben und Broetchen bei
+200 Grad (Gas Stufe 3) 25-30 Minuten backen. Waehrend der Backzeit
+die Broetchen nochmals mit Milch bestreichen.
+
+Tip: Sie koennen den Teig auch am Abend zuvor fertig zubereiten und
+in einem gut verschliessbaren Gefaess in den Kuehlschrank legen. Er
+geht dann "kalt" und laesst sich am naechsten Tag wunderbar
+verarbeiten.
+
+Pro Stueck ca. 220 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Naturreis-Nuesschen
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 50 Stueck
+
+    200     Gramm  Naturreis; fein gemahlen
+     30     Gramm  Zuckerrohrgranulat
+    1/2      Teel. Gemahlene Vanille
+    1/2      Teel. Ingwerpulver
+      1     Prise  Gemahlene Gewuerznelken
+     70     Gramm  Butter
+    150     Gramm  Honig
+     50     Gramm  Hirseflocken; evntl. mehr
+      2      Teel. Kakaopulver
+
+============================ QUELLE ============================
+         Plaetzchen und Konfekt
+         Verlag Graefe & Unzer
+         ISBN 3-7742-5890-2
+         erfasst von:
+         Elisabeth Hafeneger
+
+Das Reismehl mit dem Zuckerrohrgranulat, der Vanille, dem Ingwer und
+dem Nelkenpulver mischen und in einer trockenen schweren Pfanne
+unter staendigem Umruehren bei mittlerer Hitze roesten, bis die
+Mischung hellbraun wird und angenehm duftet. Die Butter in
+Floeckchen schneiden und mit dem Honig unter das Reismehl mischen.
+Die Pfanne sofort vom Herd nehmen und so viele Hirseflocken unter
+die Konfektmasse mischen, wie diese aufnimmt. Die Reismasse
+halbieren und eine Haelfte mit dem Kakaopulver vermengen. Sobald die
+Masse kuehl genug ist, dass sie sich anfassen laesst, gut
+haselnussgrosse Kugeln daraus formen und diese auf Pergamentpapier
+voellig abkuehlen lassen. Das Konfekt in einer gut verschlossenen
+Blechdose aufbewahren. Es haelt sich darin etwa 2 Wochen frisch.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Pfannkuchen-Rollen mit Gruenkern-Fuellung
+Kategorien: Eierspeise, Pikant, Pfannkuchen, Gruenkern, Vollwert
+     Menge: 4 Portionen
+
+    125     Gramm  Weizenmehl
+    100        ml  Milch
+    125        ml  ; Wasser
+      2            Eier
+      1     Prise  Vollmeersalz
+     75     Gramm  Gruenkernschrot
+    200        ml  Gemuesebruehe
+      2      groß. Tomaten
+      1            Zwiebel
+     30     Gramm  Butter
+                   -- oder Margarine
+    125     Gramm  Champignons
+      2            Thymian-Zweige
+                   ; Pfeffer
+                   ; Oel zum Backen
+    200     Gramm  Sahne
+      2      Essl. Vollkornsemmelbroesel
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 04.05.1997
+
+Mehl, Milch, Wasser, Eier und Salz verruehren. Den Teig 60 Minuten
+quellen lassen. Gruenkernschrot mit Bruehe aufkochen und ca. 20
+Minuten bei ausgeschalteter Kochstelle ausquellen lassen.
+
+Inzwischen die Tomaten ueberbruehen, haeuten, entkernen und wuerfeln.
+Die Zwiebel schaelen und wuerfeln. Fett erhitzen und die
+Zwiebelwuerfel darin goldgelb braten. Die Pilze abspuelen, fein
+hacken und mit den Thymianblaettchen zu den Zwiebelwuerfeln geben.
+So lange schmoren, bis fast alle Fluessigkeit verdampft ist. Tomaten
+zugeben und mitschmoren. Mit Salz und Pfeffer wuerzen und mit
+Gruenkern verruehren. In Oel bei mittlerer Hitze Pfannkuchen gemaess
+der Anzahl der Personen backen. Das Gruenkern-Gemuese
+daraufstreichen und aufrollen. Die Pfannkuchen in eine Auflaufform
+legen, dann Sahne angiessen und Semmelbroesel darueberstreuen. Im
+Backofen bei 220 Grad (Gas: Stufe 4) 20-25 Minuten backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Pikante Roggenkuechlein mit exotischem Gemuese
+Kategorien: Eierspeise, Pikant, Tomate, Pfannkuchen, Vollwert
+     Menge: 4 Portionen
+
+     50     Gramm  Kuerbiskerne; geschaelt
+    200     Gramm  Roggenmehl; Type 1150
+      2      Essl. Weizenmehl; Type 550
+    250        ml  Milch
+    250        ml  Buttermilch
+      5      Essl. ; Wasser
+      3            Eier
+    1/4      Teel. Vollmeersalz
+      1     klein. Spitzkohl
+    500     Gramm  Tomaten
+      2            Chilischoten
+      2            Zwiebeln
+      1            Knoblauchzehe
+      2      Essl. Sojaoel
+      2      Teel. Curry
+                   ; weisser Pfeffer
+                   ; Oel zum Braten
+      1    Karton  Creme double
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 05.05.1997
+
+Die Kuerbiskerne fein hacken. Roggen- und Weizenmehl mit Milch,
+Buttermilch, Wasser, Eiern und dem Vollmeersalz verruehren. Den Teig
+ca. 60 Minuten an eimem warmen Ort quellen lassen.
+
+Inzwischen Spitzkohl putzen und in Streifen schneiden. Die Tomaten
+ueberbruehen, haeuten, entkernen und in Spalten schneiden.
+Chilischoten abspuelen, in Ringe schneiden und die Kerne entfernen.
+Zwiebeln und Knoblauch schaelen und wuerfeln. Sojaoel erhitzen,
+Spitzkohl, Zwiebeln, Knoblauch und Chili darin anbraten. Tomaten
+zufuegen und alles 5 Minuten durchschmoren. Mit Curry ueberstaeuben
+und mit Salz und Pfeffer pikant abschmecken.
+
+Den Teig nochmals durchruehren und in Oel bei mittlerer Hitze pro
+Person 2 Pfannkuchen backen. Mit dem Gemuese servieren. Creme double
+extra dazu reichen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Pilzknoedel mit Kraeutersauce
+Kategorien: Teigware, Knoedel, Vollwert
+     Menge: 4 Portionen
+
+      6            Altbackene Vollkornbroetchen
+                   (aus Weizen oder Dinkel, mit
+                   Hefe gebacken)
+    300        ml  Milch
+    300     Gramm  Frische Champignons
+      1            Zwiebel
+      2      Teel. Butter
+      2            Eier
+                   Salz
+                   Pfeffer
+    500     Gramm  Kohlrabi
+     50     Gramm  Creme fraiche
+      1      Bund  Frische gemischte Kraeuter
+                   Oder
+      1      Pack. TK-Kraeuter
+                   Weisser Pfeffer
+
+============================ QUELLE ============================
+         Eltern 4/92
+
+Fuer die Familie: Vollwertkost
+
+In Knoedeln kann man alte Broetchen am besten verwenden. Mit feinen
+Pilzen bekommen die Knoedel ein besonders pikantes Aroma.
+
+Die Broetchen in ganz duenne Scheiben schneiden, 2/3 der Milch
+erhitzen und die Broetchen damit begiessen. Quellen lassen. Pilze
+waschen, putzen und in duenne Scheiben schneiden. Zwiebel schaelen,
+hacken und in der Haelfte der Butter anduensten. Pilze zugeben und
+so lange braten, bis sie ganz trocken sind. Das eingeweichte Brot
+mit den Pilzen und den Eiern zu einem Teig kneten. Mit Salz und
+Pfeffer wuerzen. Die Kohlrabi waschen und schaelen. Schoene
+Blaettchen ebenfalls waschen und beiseite legen. Kohlrabi in
+Scheiben schneiden, in der restlichen Butter anduensten, die uebrige
+Milch angiessen und in 15 Minuten garen. Kohlrabi puerieren, Creme
+fraiche zugeben. In einem grossen Topf Salzwasser zum Kochen bringen.
+Aus der Brotmasse 12 Knoedel formen, in das Wasser gleiten lassen
+und im siedenden Wasser in 5 bis 10 Minuten garziehen lassen.
+Waehrenddessen die Sauce nochmals erwaermen. Die feingehackten
+Kohlrabi-Blaettchen und Kraeuter zugeben, mit weissem Pfeffer und
+Salz abschmecken. Die Sauce mit den Knoedeln servieren.
+
+Pro Portion ca. 420 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Pilzragout - Vollwertauflauf
+Kategorien: Pilz, Steinpilz, Engerling, Vollwert
+     Menge: 4 Portionen
+
+      2            Karotten
+      2            Staudensellerie
+      1      Bund  Fruehlingszwiebeln
+      1      Essl. Butter
+    400     Gramm  Egerlinge
+    100     Gramm  Steinpilze
+      1            Zitrone, Saft davon
+      2            Fleischtomaten
+    250     Gramm  Vollkornnudeln
+    500        ml  ; Wasser
+      1      Bund  Petersilie
+                   ; Salz
+                   ; Pfeffer, weiss
+    100        ml  Schlagsahne
+
+==================== ERFASST/KONVERTIERT VON ====================
+                   -- Peter Mess
+                   -- COOKNET 235:570/210
+                   -- Quelle : Compuserve
+
+Die Karotten schaelen und in Scheiben schneiden. Den Staudensellerie
+putzen, waschen und in Streifen schneiden. Die Fruehlingszwiebeln
+putzen, waschen und in Ringe schneiden.
+
+Die Butter in einem Topf erhitzen, Karotten, Staudensellerie und
+Fruehlingszwiebeln anduensten und im geschlossenen Topf 5 Minuten
+garen.
+
+Die Egerlinge und die Steinpilze putzen, wenn noetig waschen,
+halbieren oder in grosse Stuecke schneiden und mit Zitrone
+betraeufeln. Die Tomaten kurz in kochendes Wasser tauchen, haeuten,
+vierteln, entkernen, in grosse Stuecke schneiden und mit den Pilzen
+zum Gemuese geben. 10 Minuten bei geringer Hitze weitergaren lassen.
+
+In der Zwischenzeit die Vollkornnudeln 12 Minuten kochen, abgiessen
+und kalt abschrecken. Die Petersilie waschen und kleinhacken. Das
+Gemuese mit Salz, frisch gemahlenem Pfeffer und der Petersilie
+abschmecken, die Sahne einruehren. Die Nudeln unter das Ragout
+mischen und heiss servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Quark-Spinat-Kloesschen
+Kategorien: Vorspeise, Warm, Spinat, Quark, Vollwert
+     Menge: 4 Portionen
+
+    500     Gramm  Spinat
+    350     Gramm  Ricotta; ersatzweise
+                   -- ganz trockener Magerquark
+    150     Gramm  Parmesamkaese; gerieben
+      3      Essl. -- davon abteilen
+      3            Eier
+                   ; Salz
+                   ; Pfeffer
+                   Muskatnuss
+      3      Essl. Weizenmehl
+      1       Ltr. Fleischbruehe
+
+============================ QUELLE ============================
+         14.08.96
+         I. Benerts
+
+Den Spinat putzen und waschen. Nur mit dem anhaftenden Wasser im
+grossen Top erhitzen, bis die Blaetter weich sind. Dann durch ein
+Sieb in eine Teigschuessel passieren.
+
+Mit dem Ricotta oder Quark, den extra beiseitegestelltem Parmesan,
+Eiern, Salz, Pfeffer und Muskatnuss vermengen. So viel Weizenmehl
+zugeben, dass ein fester Teig entsteht.
+
+Daraus mit den Handflaechen Kloeschen formen.
+
+Die Fleischbruehe bis zum Seiden erhitzen, dann die Kloesschen darin
+garen, sie an der Oberflaeche auftauchen.
+
+Mit dem Siebloeffel herusfischen und in einer Schuessel mit wenig
+Fleichbrue und viel Parmesan servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Quinoa-Eierkuchen mit Sellerie-Pilz-Fuellung
+Kategorien: Eierspeise, Pikant, Quinoa, Pfannkuchen, Vollwert
+     Menge: 4 Portionen
+
+    300     Gramm  Quinoa; gemahlen
+    250        ml  Milch
+    200        ml  ; Wasser
+      4            Eier
+    1/4      Teel. Vollmeersalz
+    375     Gramm  Staudensellerie
+    500     Gramm  Champignons
+      2      Essl. Butterschmalz
+      2     klein. Zwiebeln
+      3      Essl. Creme fraiche
+                   ; weisser Pfeffer
+                   ; Oel zum Braten
+      1      Bund  Schnittlauch
+
+============================ QUELLE ============================
+         Aus: Pfannkuchen & Crepes
+         & Omeletts
+         Von: Burda GmbH
+         Verlag: Meine Familie&ich
+         Erfasst: Sabine Sellien
+         Am: 05.05.1997
+
+Quinoa mit Milch, Wasser, Eiern und dem Vollmeersalz gut verruehren.
+Den Teig 60 Minuten quellen lassen.
+
+Fuer die Fuellung Staudensellerie abspuelen, putzen und in duenne
+Streifen schneiden. Champignons abspuelen und vierteln. Die Haelfte
+vom Butterschmalz erhitzen, den Staudensellerie darin kurz duensten.
+Herausnehmen und warm stellen. Die Zwiebeln schaelen und wuerfeln.
+Das restliche Butterschmalz ins Bratfett geben, Pilze darin draeftig
+anbraten. Zwiebelwuerfel zufuegen und mitbraten. Mit der Bruehe
+abloeschen. Creme fraiche einruehren. Mit Salz und Pfeffer
+abschmecken.
+
+In Oel bei mittlerer Hitze pro Person 2 duenne Pfannkuchen backen.
+Mit Sellerie und Pilzsauce anrichten. Mit Schnittlauchroellchen
+bestreuen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Quittenplaetzchen
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 50 Stueck
+
+    350     Gramm  Weizen-Vollkornmehl
+    1/2      Teel. Weinstein-Backpulver
+      1     Prise  Salz
+    200     Gramm  Butter; weich
+     80     Gramm  Zuckerrohrgranulat
+     50     Gramm  Mandeln, ungehaeutet
+    200     Gramm  Quittengelee mit Honig
+      2      Essl. Kokosflocken
+      1            Eigelb
+      1      Essl. Milch; oder 2
+                   Butter; fuer das Backblech
+
+============================ QUELLE ============================
+         Plaetzchen und Konfekt
+         Annette Wolter (Hrsg.)
+         Verlag Graefe & Unzer
+         ISBN 3-7742-5890-2
+         erfasst von:
+         Elisabeth Hafeneger
+
+Das Mehl mit dem Backpulver und dem Salz in einer Schuessel mischen.
+Die Butter in Floeckchen darueber schneiden, das Zuckerrohrgranulat
+und etwas eiskaltes Wasser hinzufuegen und alle Zutaten zu einem
+geschmeidigen Teig verkneten. Den Teig in Pergamentpapier wickeln
+und eine Stunde in den Kuehlschrank legen. Die Mandeln mit
+kochendheissem Wasser ueberbruehen, kurz darin ziehen lassen, kalt
+abschrecken und die Haut abziehen. Die Mandeln trockentupfen, grob
+hacken und mit dem Quittengelee und den Kokosflocken mischen. Den
+Backofen auf 180 Grad vorheizen. Das Backblech mit Butter
+bestreichen. Den Teig portionsweise auf einer bemehlten
+Arbeitsflaeche 3 mm dick ausrollen und beliebige Formen im
+Durchmesser von etwa 4 cm ausstechen. Die Haelfte der Plaetzchen auf
+das Backblech legen, mit der Quittenmasse bestreichen und jeweils
+mit einem Plaetzchen der selben Form bedecken. Das Eigelb mit der
+Milch verquirlen, die Plaetzchen damit bestreichen und auf der
+mittleren Schiene im Backofen in etwa 15 Minuten goldgelb backen.
+Die Plaetzchen auf einem Kuchengitter abkuehlen lassen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Rosenkohl unter der Haube
+Kategorien: Gemuese, Vollwert
+     Menge: 4 Portionen
+
+      1        kg  Kartoffeln
+                   Salz
+      1        kg  Rosenkohl
+      1     klein. Zwiebel
+     40     Gramm  Durchwachsener Speck
+      2      Essl. Oel
+    120        ml  Milch
+     20     Gramm  Butter
+                   Salz
+                   Muskat
+    150     Gramm  Huettenkaese
+     75     Gramm  Reibekaese
+                   Fett; fuer die Form
+
+============================ QUELLE ============================
+         Eltern 11/93
+
+Fuer die Familie: Vollwertrezept
+
+Kohl schmeckt am besten, wenn er noch jung und zart ist. Warten Sie
+deshalb nicht den ersten Frost ab, bevor Sie Rosenkohl auftischen.
+Hier wird er ergaenzt durch Kartoffeln mit eiweissreichem
+Frischkaese ~ und ein wenig Speck. Denn in Massen ist Fleisch in der
+Vollwertkueche "zugelassen". Vorausgesetzt, es ist Fleisch aus
+biologischer Haltung. Bekommen Sie in Ihrem Bioladen keinen Speck,
+koennen Sie ihn durch die gleiche Menge Sonnenblumen- oder
+Kuerbiskerne ersetzen.
+
+Kartoffeln waschen und schaelen. Am besten in einem Daempfer ueber
+kochendem Wasser garen. Inzwischen den Rosenkohl waschen und putzen.
+Zwiebel pellen und feinwuerfeln. Speck in feine Wuerfel schneiden,
+in einer Kasserolle auslassen, das Oel zugeben und die
+Zwiebelwuerfel darin glasig duensten. Rosenkohl zugeben und 3 bis 4
+Minuten in dem heissen Fett vorduensten. Backofen auf 220 Grad (Gas
+Stufe 4) vorheizen. Eine Auflaufform einfetten. Kartoffeln durch die
+Presse druecken und mit Milch und Butter zu Pueree verarbeiten. Den
+Huettenkaese untermischen und das Pueree mit Salz und Muskat
+abschmecken. Den Rosenkohl unten in die Form geben und das Pueree
+ueber dem Rosenkohl verteilen. Mit Reibekaese bestreuen und im
+vorgeheizten Ofen etwa 20 Minuten gratinieren.
+
+Pro Portion ca. 565 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Rote Fischsuppe
+Kategorien: Fisch, Suppe, Vollwert
+     Menge: 4 Portionen
+
+    500     Gramm  Festfleischiges Fischfilet
+                   (z.B. Kabeljau oder
+                   Schellfisch)
+    600     Gramm  Graeten und Fischabfaelle
+    3/4       Ltr. Wasser
+      1    Stange  Lauch
+      1            Zwiebel
+      2            Knoblauchzehen
+                   Getrockneter Thymian
+                   Getrockneter Oregano
+      2      Essl. Olivenoel
+      3      Essl. Zitronensaft
+      1            Lorbeerblatt
+                   Salz
+                   Schwarzer Pfeffer
+    500        ml  Tomatensaft
+    150     Gramm  Rote Linsen
+
+============================ QUELLE ============================
+         Eltern 10/93
+
+Fuer die Familie: Vollwertrezept
+
+Fischreste bekommt man in Fischgeschaeften (einen Tag vorher
+bestellen) oft umsonst. Sie sind eine ideale Grundlage fuer diese
+Suppe.
+
+Die Fische, die Fischabfaelle und die Graeten gruendlich abbrausen,
+abtropfen lassen. Den Lauch waschen und putzen. Die dunkelgruenen
+Blaetter in feine Ringe schneiden und zur Seite stellen, den Rest in
+groessere Abschnitte teilen. Die Zwiebel und den Knoblauch abziehen
+und fein wuerfeln. Die Haelfte des Oels in einem Topf erhitzen und
+die Haelfte der Zwiebelwuerfel und die Lauchabschnitte darin
+anbraten. Die Fischabfaelle und Graeten zugeben, kurz anroesten und
+mit dem Wasser abloeschen. Lorbeerblatt, Salz und Pfeffer zugeben,
+zugedeckt ca. 1 Stunde koecheln lassen. Die Fischfilets in
+mundgerechte Stuecke teilen. Das restliche Oel mit den
+Zwiebelwuerfeln, dem Knoblauch, den Kraeutern, dem Zitronensaft,
+etwas Salz und den Fischstuecken vermischen und zugedeckt ca. 30
+Minuten ziehen lassen. Den Fischsud durch ein Sieb giessen, mit dem
+Tomatensaft mischen und zum Kochen bringen. Die Linsen sowie die
+feinen Lauchringe zugeben. 10 Minuten kochen lassen. Die
+Fischstuecke mit Marinade zugeben, 4 bis 5 Minuten ziehen lassen.
+Die Suppe kraeftig mit Salz und Pfeffer abschmecken.
+
+Pro Portion ca. 340 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Saftiger Bananenkuchen
+Kategorien: Backen, Kuchen, Banane, Vollwert
+     Menge: 1 Springform
+
+      4            Vollreife Bananen; ca. 700g
+      1            Zitrone; nur Saft
+    150     Gramm  Butter oder Magarine
+     50     Gramm  Honig
+                   ; Salz
+                   Getrocknete Vanille
+    1/2      Teel. Lebkuchengewuerz
+      4            Eier
+    250     Gramm  Weizen-Vollkornmehl
+      2      Teel. Backpulver
+     20     Gramm  Mandelblaettchen
+
+======================== ZUM BESTREICHEN ========================
+      1      Essl. Honig
+      1      Essl. Butter oder Magarine
+
+============================ QUELLE ============================
+         Vegetarisch fit 3/97
+         Erfasst von Nadja Kramer
+
+Die Zitrone auspressen, 3 Bananen schaelen und mit etwa 2/3 des
+Saftes zerquetschen. Das Fett mit dem Honig, dem Salz, der Vanille
+und dem Lebkuchengewuerz schaumig schlagen. Nach und nach die eier
+und das Bananenmus einruehren. Das Mehl mit dem Backpulver mischen
+und unterruehren, bis ein dicker, zaeher Teig entstanden ist. Eine
+Springfom gut fetten oder am Boden mit Backtrennpapier auslegen und
+den Ofen auf 200 Grad (Heissluft 180 Grad) vorrheizen. Den Teig
+einfuellen und glattstreichen. Die letzte Banane schaelen, laengs
+aufschneiden und strahlenfoermig auf den Kuchen legen.
+
+Die Bananenscheiben mit dem restlichen Zitronensaft bestreichen und
+mit den Mandelblaettchen bestreuen. Den Kuchen bei 200 Grad
+(Heissluft 180 Grad) circa 30-40 Minuten backen, bis beim Einstechen
+mit einem Holzspies kein Teig haengen bleibt. Im Zweifelsfall den
+Kuchen nach 40 Minuten aus dem Ofen nehmen, sonst wird der
+Bananenkuchen trocken. Fuer die Auflage den Honig mit dem Honig
+schmalzen. Den Kuchen auf einem Gitter ca. 10 Minuten abkuehlen
+lassen, aus der Form loesen und mit der Honig-Fett-Mischung
+bestreichen.
+
+Den Kuchen am besten 1 Tag durchziehen lassen und zusammen mit einem
+Klecks steifgeschlagener Sahne servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Sahne-Bobbys mit Nockerln
+Kategorien: Gemuese, Vollwert
+     Menge: 4 Portionen
+
+      1        kg  Bobby-Bohnen
+      1            Zwiebel
+      1            Knoblauchzehe
+     20     Gramm  Butter oder Margarine (1)
+     30     Gramm  Butter oder Margarine (2)
+    100        ml  Gemuesebruehe
+    100     Gramm  Creme fraiche
+    250     Gramm  Gruenkernschrot
+    1/4       Ltr. Gemuesebruehe
+    1/4       Ltr. Milch
+     30     Gramm  Geriebener Parmesan
+
+============================ QUELLE ============================
+         Eltern 8/93
+
+Fuer die Familie: Vollwertrezept
+
+Bobby-Bohnen kommen urspruenglich aus Italien und sind durch ihre
+zarte Konsistenz besonders fuer Kinder geeignet. Wie alle Bohnen
+sind sie eiweissreich und deshalb ideal fuer vegetarische Gerichte.
+Die Kombination aus Huelsenfrucht und Getreide wie Gruenkern ergibt
+einen besonders hohen biologischen Eiweisswert.
+
+Die Bohnen waschen, die Enden abzwicken, dabei vorhandene Faeden
+abziehen. Zwiebel und Knoblauch abziehen und fein wuerfelig
+schneiden. In dem Fett (1) anbraten, dann die Bohnen zugeben,
+wuerzen und mitduensten. Die Gemuesebruehe angiessen und die
+Boehnchen etwa 20 Minuten duensten. Mit Creme fraiche abbinden. In
+der Zwischenzeit den Gruenkernschrot mit Gemuesebruehe und Milch zum
+Kochen bringen, Parmesan, Salz und Pfeffer unterziehen und die
+Gruetze 15 Minuten dick kochen lassen. Dann mit einem Essloeffel
+Nockerln abstechen. Die uebrige Butter (2) schmelzen und
+daruebertraeufeln. Zu den Boehnchen reichen.
+
+Tip: Wenn Sie keinen Gruenkern moegen und etwas mehr Zeit haben,
+koennen Sie auch Polenta als Beilage servieren. Auf 1 Teil
+Maisgriess 1 Teil Gemuesebruehe und 2 Teile Milch geben und unter
+staendigem Ruehren dick kochen. Die Polenta ist gar, wenn sie sich
+leicht vom Topfrand loest.
+
+Pro Portion ca. 595 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Sahniger Wurzeltopf
+Kategorien: Gemuese, Vollwert
+     Menge: 4 Portionen
+
+    600     Gramm  Karotten
+      2      Bund  Fruehlingszwiebeln
+     20     Gramm  Butter oder Margarine
+                   Salz
+                   Pfeffer
+      1            Knoblauchzehe
+      1  Messersp. Gemahlenes Zitronengras
+    1/8       Ltr. Suesse Sahne
+     50     Gramm  Rosinen
+      1      Dose  Maiskoerner
+      2            Eier
+      1      Essl. Sesamsamen
+
+============================ QUELLE ============================
+         Eltern 1/94
+
+Fuer die Familie: Vollwertrezept
+
+Da in der Vollwertkost moeglichst Gemuese der Saison verarbeitet
+wird, ist jetzt die Auswahl eng. Doch die typischen Wintergemuese
+Rueben und Wurzeln, kombiniert mit Gewuerzen, Trockenfruechten,
+Nuessen und Kraeutern, bringen Abwechslung in den Speiseplan.
+
+Karotten waschen, schaelen und in nicht zu feine Stifte schneiden.
+Fruehlingszwiebeln putzen, waschen und in 2 cm lange, schraege
+Abschnitte teilen. Knoblauchzehe abziehen und feinhacken. Karotten
+im Fett anduensten. Nach etwa 7 Minuten die Zwiebeln zugeben,
+Gewuerze, Knoblauch, Sahne und abgetropfte Maiskoerner unterziehen
+und bei geschlossenem Deckel etwa 15 Minuten heiss werden lassen.
+Inzwischen die Eier 7 Minuten kochen, abschrecken und pellen. Das
+Gemuese in einer Schuessel anrichten. Eier halbieren und auf das
+Gemuese setzen. Mit geroesteten Sesamsamen bestreuen. Dazu passt
+Bulgur oder Reis.
+
+Tip: Wer streng nach Vollwert-Richtlinien kochen will, sollte statt
+der Fruehlingszwiebeln (die um diese Jahreszeit aus dem Treibhaus
+kommen) lieber 1 Stange Lauch nehmen. Der Lauch wird in feine Ringe
+statt in 2 cm breite Abschnitte geschnitten. Statt Mais aus der Dose
+gibt es 150 g (Rohgewicht) gekochte Azuki-Bohnen.
+
+Pro Portion ca. 407 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Salat mit Schafskaesenocken
+Kategorien: Salat, Tomate, Kaese, Vollwert
+     Menge: 4 Personen
+
+      1            Salat der Saison
+      2            Tomaten
+
+============================= SAUCE =============================
+    1/2            Zitrone; Nur Saft
+      3      Essl. ; Olivenoel
+                   ; frischer Pfeffer a.d. Muehl
+                   ; Kraeutersalz
+
+======================= SCHAFSKAESENOCKEN =======================
+    100     Gramm  Schafskaese
+     50     Gramm  Creme fraiche
+      1            Knoblauchzehe
+      1     Prise  ; Cayennepfeffer
+                   ; Kraeutersalz
+
+Den Salat (z.B. Feldsalat, Lollo Rosso, Kopfsalat) waschen, putzen
+und in mundgerechte Stuecke zerteilen. Die Tomaten waschen, von den
+Stielansaetzen befreien und achteln.
+
+Aus dem Zitronensaft, dem Olivenoel, dem Pfeffer und dem Salz eine
+Salatsauce ruehren.
+
+Den mit einer Gabel zerquetschten Schafskaese mit der Creme fraiche
+und der in einer Knoblauchpresse zerdruecken Knoblauchzehe zu einer
+dicken Masse verruehren. Mit dem Cayennepfeffer und dem Kraeutersalz
+abschmecken. Den Salat miit der Vinaigrette mischen. Mit Hilfe von
+zwei Teeloeffeln aus der Kaesemasse Nocken formen und auf dem Salat
+anrichten.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: SCHNELLES DINKEL-BUCHWEIZEN-BROT
+Kategorien: Backen, Brot, Dinkel, Vollwert
+     Menge: 1 Brot
+
+    400     Gramm  Dinkel
+    100     Gramm  Buchweizen
+    3/4     Tasse  Leinsamen
+                   Sesam
+                   Sonnenblumenkerne
+      2      Teel. Salz
+      3      Essl. Obstessig
+     25     Gramm  Frische Hefe
+    1/2       Ltr. ; warmes Wasser
+
+============================ QUELLE ============================
+         erfasst durch Peter Mess
+
+Hefe mit dem lauwarmen Wasser verruehren.
+
+Dinkel und Buchweizen fein mahlen und mit den uebrigen Zutaten und
+der aufgeloesten Hefe 10 Minuten in der Kuechenmaschine ruehren.
+
+Die zaehfluessige Masse in eine gefettete Kastenform geben und ohne
+gehen zu lassen ca. 1 Stunde bei 220ø backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Schnelles Dinkel-Buchweizen-Brot
+Kategorien: Backen, Brot, Dinkel, Vollwert
+     Menge: 1 Brot
+
+    400     Gramm  Dinkel
+    100     Gramm  Buchweizen
+    3/4     Tasse  Leinsamen
+                   Sesam
+                   Sonnenblumenkerne
+      2      Teel. ; Salz
+      3      Essl. Obstessig
+     25     Gramm  Frische Hefe
+    1/2       Ltr. ; warmes Wasser
+
+============================ QUELLE ============================
+         erfasst durch Peter Mess
+
+Hefe mit dem lauwarmen Wasser verruehren. Dinkel und Buchweizen fein
+mahlen und mit den uebrigen Zutaten und der aufgeloesten Hefe 10
+Minuten in der Kuechenmaschine ruehren.
+
+Die zaehfluessige Masse in eine gefettete Kastenform geben und ohne
+gehen zu lassen ca. 1 Stunde bei 220 Grad backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Sesamstaebchen
+Kategorien: Backen, Gebaeck, Sesam, Vollwert
+     Menge: 1 Rezept
+
+    150     Gramm  Sesamsaat; (1)
+     80     Gramm  Butter; weich
+    150     Gramm  Honig; fluessig
+      1            Zitrone, unbehandelt
+                   -- abgeriebene Schale davon
+    1/2      Teel. Zimt; gemahlen
+                   Meersalz
+    1/2      Teel. Kardamom; gemahlen
+    1/2      Teel. Nelken; gemahlen
+      1            Ei
+     50     Gramm  Gerstenmehl
+    100     Gramm  Weizenvollkornmehl
+      3      Essl. Sesamsaat; (2)
+
+Sesamsaat (1) ohne Fett unter Ruehren in der Pfanne goldgelb roesten
+und kalt stellen.
+
+Butter mit einem Handmixer mit Ruehrbesen auf hoechster Stufe
+geschmeidig ruehren, Honig, Zitronenschale, Zimt, Meersalz, Kardamom
+und Nelken unterruehren und so lange ruehren, bis eine gebundene
+Masse entstanden ist.
+
+Ei in etwa 1/2 Minute unterruehren. Gerstenmehl und
+Weizenvollkornmehl mischen und essloeffelweise auf hoechster Stufe
+unterruehren. Zum Schluss die geroestete Sesamsaat untermischen.
+
+Den Teig etwa 1 Stunde abgedeckt ruhen lassen, danach auf ein
+gefettetes Backblech streichen, mit Sesamsaat (2) bestreuen und das
+Backblech in den vorgeheizten Backofen schieben.
+
+Bei 175-200 Grad etwa 13-18 Minuten backen. Die noch warme
+Teigplatte in Staebchen von 3 x 5 cm schneiden.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Sirup-Sesam-Plaetzchen
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 1 Rezept
+
+    250     Gramm  Weizen
+      2      Teel. Backpulver; (Schwach geh.)
+    250     Gramm  Sirup
+      1      Essl. Milch
+      1     Prise  Nelken; gemahlen
+      1     Prise  Muskatbluete; gemahlen
+     50     Gramm  Orangeat; feingehackt
+     50     Gramm  Zitronat; fein gehackt
+                   Milch; oder Schlagsahne,
+                   -- zum Bestreichen
+                   Sesamsaat; zum Bestreuen
+
+============================ QUELLE ============================
+         erfasst von Peter Kuemmel
+
+Weizen fein mahlen, mit Backpulver in eine Ruehrschuessel geben und
+mischen. Sirup, Milch, Nelken, Muskat, Orangeat und Zitronat
+hinzufuegen und die Zutaten zu einem glatten Teig verkneten. Sollte
+er kleben, ihn eine Zeitlang kalt stellen. Den teig duenn ausrollen,
+beliebige Motive ausstechen, auf ein mit Backpapier belegtes
+Backblech legen, mit Milch bestreichen und mit Sesamsaat bestreuen.
+Das Backblech in den vorgeheizten Backofen schieben und bei 175-200
+Grad etwa 12 Minuten backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Soja-Nudeln mit Spinat
+Kategorien: Vollwert
+     Menge: 4 Personen
+
+    400     Gramm  Soja-Nudeln
+                   ; Salz
+     40     Gramm  Butter
+      4      Essl. Olivenoel
+    800     Gramm  Rote Paprikaschoten
+    250     Gramm  Schlagsahne
+      2      Teel. Instant-Bruehe
+                   ; weisser Pfeffer
+      1      Teel. ; edelsuess-Paprika
+      1        kg  Spinat
+      3            Zwiebeln
+      2            Knoblauchzwiebeln
+     50     Gramm  Parmesankaese
+
+====================== ZUBEREITUNGSZEIT CA ======================
+                   -- 35 Minuten
+
+======================== PRO PORTION CA ========================
+                   -- 940 Kalorien / 3935 Joule
+
+============================ QUELLE ============================
+         Gepostet von I. Benerts
+         13.01.96
+
+Nudeln in reichlich Salzwasser zehn Minuten bissfest kochen.
+
+Butter und 2 Essloeffel Oel in einer Pfanne erhitzen. Paprikastuecke
+in die Pfanne geben und zugedeckt 10 Minuten duensten. Einige
+Stuecke zum Garnieren beiseite legen.
+
+Paprika im Mixer oder mit dem Schneidstab des Handruehrgeraetes
+puerieren. Evtl. duch ein Sieb streichen. Sahne aufkochen.
+Paprikapueree zugeben.
+
+Sosse mit Bruehe, weissem Pfeffer und Paprikapulver abschmecken.
+Spinat waschen und die groben Stiele entfernen.
+
+Zwiebelviertel und zerdrueckten Knoblauch im restlichen Oel
+anduensten. Tropfnassen Spinat dazugeben und 5 Minuten duensten. Mit
+Salz abschmecken.
+
+Abgetropfte Nudeln unterheben und mit geriebenem Parmesankaese
+bestreuen. Die Paprikasosse mit restlichen Paprikastuecken bestreuen
+und dazureichen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Sojapastete
+Kategorien: Vollwert, Sojabohne, Gemuese
+     Menge: 12 Portionen
+
+    200     Gramm  Sojabohnen
+    1/2       Ltr. ; Wasser zum Kochen
+                   Sellerieblaetter
+      1            Lorbeerblatt
+            Etwas  Thymian
+      1      Essl. Instant-Gemuesebruehe o.
+                   :ein Wuerfel
+      2            Eier
+      3      Essl. Semmelmehl (Semmelbroesel)
+      1     klein. Moehre
+      1            Fruehlingszwiebel
+      1      Bund  Petersilie
+      1      Essl. Oel
+    100     Gramm  Zwiebeln
+      1            Knoblauchzehe; nach
+                   -- Geschmack mehr
+
+============================ QUELLE ============================
+         Dt. Gesellschaft f. Ernaeh-
+         rung (DGE)
+         gepostet:v. Renate Schnapka
+
+Sojabohnen ueber Nacht in reichlich Wasser einweichen.
+Einweichwasser abgiessen, mit etwa einem 1/2l Wasser auffuellen,
+Sellerieblaetter, Lorbeerblatt und Thymian hinzugeben und zum Kochen
+bringen.
+
+1 1/2 Stunden kochen lassen (Schnellkochtopf: 25Min.) und gegen Ende
+der Kochzeit die Gemuesebruehe hinzugeben.
+
+Waehrend der Kochzeit die Zwiebeln feinhacken und  in etwas Oel
+leicht anbraeunen. Die Moehre raspeln, die Fruehlingszwiebel, die
+Petersilie und die Knoblauchzehen feinhacken.
+
+Von den fertig gegarten Bohnen das restliche Wasser abgiessen,
+Lorbeerblatt entfernen. Die Bohnen mit Eiern und Semmelmehl
+puerieren.
+
+Gebraeunte Zwiebeln, Knoblauch und Kraeuter dazugeben und vermengen.
+Noch einmal abschmecken.
+
+Eine kleine Kasteform mit dem restlichen Oel ausfetten und die
+Bohnenmasse hineingeben. Etwa 40 bis 60 Min. bei 175øC backen.
+
+Naehrwerte pro Person:
+
+:Kilokalorien:     109
+:Kilojoule:        450
+:Eiweiss/g:          8
+:Kohlenhydrate/g:    7
+:Fett/g:             6
+:Ballaststoffe/g:    2,5
+
+Kuechentips:
+
+Wenn Sie die Pastete anstelle von Kraeutern mit Muskat und Curry
+wuerzen, erhalten Sie einen sehr fleischaehnlichen Geschmack.
+
+Anstelle von Sojabohnen koennen Sie fuer unser Rezept auch rote
+Linsen verwenden. Die Linsen werden ohne Einweichzeit in nur 7 Min.
+gargekocht.
+
+Ein weiteres Beispiel fuer einen leckeren vegetarischen
+Brotaufstrich aus Tofu (Sojaquark): Puerieren Sie 200g Tofu mit
+einigen Essloeffeln Gemuesebruehe (Instant-Wuerze). Geben Sie
+gehackte Kraeuter, etwas Zitronensaft und etwas Nussoel zu der
+cremigen Masse.
+
+Sohaprodukte koennen so manche Fleischmahlzeit ersetzen, denn sie
+enthalten reichlich Eiweiss, das in seiner Zusammensetzung und
+Wertigkeit fast dem tierischen gleichzusetzen ist. Ausserdem stecken
+in Soja viele bioaktive Pflanzenstoffe. Unter anderem krebshemmende
+Phytooestrogene und Substanzen, die einen cholesterinsenkenden
+Effekt haben.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Spinatgratin mit Polenta-Nusskloesschen
+Kategorien: Gemuese, Gratin, Spinat, Vollwert
+     Menge: 1 Rezept
+
+    800     Gramm  Blattspinat
+    200        ml  Milch
+    150        ml  Gemuesebruehe
+    1/2      Teel. Geriebene Muskatnuss
+                   Salz
+                   Pfeffer
+    150     Gramm  Maisgriess
+    100     Gramm  Kraeuterfrischkaese
+      1            Knoblauchzehe
+      4      Essl. Grob gehackte Walnusskerne
+    150     Gramm  Mozzarella
+
+============================ QUELLE ============================
+         Eltern 11/91
+
+Fuer die Familie: Vollwertkost
+
+Jetzt schmecken frischer Spinat und neue Nuesse am besten - mit Mais
+kombiniert, ergeben sie eine vollwertige Mahlzeit.
+
+Spinat waschen und putzen, in kochendem Salzwasser 1 Minute
+blanchieren. Den Spinat in ein Sieb schuetten, kalt abschrecken und
+abtropfen lassen. Milch und Bruehe zum Kochen bringen. Muskat, Salz
+und Pfeffer hineingeben, den Maisgriess einrieseln lassen und unter
+staendigem Ruehren etwa 2 Minuten koecheln. Von der Platte ziehen
+und etwa 15 Minuten ausquellen lassen. Die Polenta nochmals mit Salz
+und Pfeffer abschmecken. Den Frischkaese in einer Auflaufform
+verteilen. Spinat daraufgeben, mit Salz und Pfeffer wuerzen. Die
+Knoblauchzehe schaelen, durch die Presse druecken und auf dem Spinat
+verteilen. Die in einer Pfanne geroesteten Nuesse unter die Polenta
+heben. Mit 2 Teeloeffeln Nockerln formen und auf den Spinat legen.
+Mozzarella in Streifen schneiden und auf dem Gratin verteilen. In
+den Backofen-Grill schieben und so lange gratinieren, bis der
+Mozzarella leicht braeunlich ist.
+
+Tip: Wer eilig ist, kann auch tiefgefrorenen Blattspinat verwenden.
+Sie brauchen etwa 600 g. Oder bereiten Sie das Rezept mit
+vorgeduenstetem Wirsing zu.
+
+Pro Person ca. 444 kcal.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Suesse Osterhasen
+Kategorien: Backen, Gebaeck, Vollwert
+     Menge: 10 Stueck
+
+      1      Pack. Trockenhefe
+    100     Gramm  Suesse Sahne
+    100     Gramm  Warmes Wasser
+    500     Gramm  Weizen-Vollkornmehl
+    100     Gramm  Honig
+      2    Prisen  ; Salz
+    1/2      Teel. Vanillepulver
+     50     Gramm  Weiche Butter
+
+======================== ZUM BESTREICHEN ========================
+      1            Eigelb
+      2      Essl. Suesse Sahne
+                   Rosinen zum verzieren
+
+============================ QUELLE ============================
+         Vegetarisch fit 3/97
+         Erfasst: Nadja Kramer
+
+Die Trockenhefe in dem lauwarmen Wasser-Sahne-Gemisch aufloesen und
+etwa 10 Minuten quellen lassen. Das Weizenmehl anschliessend mit der
+gequollenen Hefe, dem Honig, dem Salz und dem Vanillepulver
+vermischen. Danach die Butter dazugeben und den Teig etwa 10 Minuten
+kneten. Dann den Teig abdecken und etwa 60 Minuten an einen warmen
+Platz stellen. Den Teig danach nochmals durchkneten und 80g schwere
+Stuecke abwiegen. Jedes Teigstueck nochmals teilen, und jeweils 20g
+Teig fuer den Hasenkopf und 60g fuer den Hasenbauch zurechtlegen.
+Die Hasen formen. Jeweils eine Rosine als Auge in den Hasenkopf
+druecken. Den Backofen auf 220 Grad vorheizen. Ein Backblech mit
+Backpapier auslegen, die kleinen Hasen darauflegen und mit einem
+Kuechentuch abdecken.
+
+Die Teighasen nochmals etwa 20 Minuten gehen lassen. Zum Schluss die
+Osterhasen mit verquirlter Sahne-Ei-Masse bestreichen. Die
+Osterhasen bei 220 Grad ca. 15 Minuten backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Thymian-Champignons unter der Haube
+Kategorien: Backen, Vollwert, Champignons
+     Menge: 4 Personen
+
+========================= FUER DEN TEIG =========================
+    250     Gramm  Weizen-Vollkonmehl
+  1 1/2      Teel. ; Salz
+      9      Essl. ; Wasser
+      6      Essl. Olivenoel
+
+======================= FUER DIE FUELLUNG =======================
+    550     Gramm  Champignons
+      2            Zwiebeln
+     30     Gramm  Butter/Magarine
+      1      Teel. ; Kraeutersalz
+      3      Teel. Getrockneter Thymian
+    600     Gramm  Tomaten
+    100     Gramm  Creme fraiche
+    1/2      Teel. Frugola
+    1/2      Teel. Gemuesebruehe (Konzentrat)
+
+======================== ZUM BESTREICHEN ========================
+      3      Essl. Suesse Sahne
+      1            Eigelb
+
+Teig: Das Mehl mit dem Salz mischen. Das Wasser hinzufuegen und
+danach das Oel unterkneten. soviel Wasser zugeben, dass ein
+geschmeidiger Teig entsteht. Den Teig im Kuehlschrank etwa 60
+Minuten ruhen lassen.
+
+Fuellung: In der Zwischenzeit die Champignons putzen, halbieren oder
+vierteln. Die Zwiebeln schaelen und in Wuerfel schneiden. Die Butter
+in einem Topf erhitzen, die Zwiebelwuerfel darin glasig duensten und
+die Champignons dazugeben. Mit dem Kraeutersalz und dem Thymian
+wuerzen und anbraten. Die Tomaten haeuten und in Wuerfel schneiden.
+Danach zu den Champignons dazugeben. Anschliessend die Creme fraiche
+auf das Gemuese geben, zerlaufen lassen und mit den Gewuerzen
+abschmecken. Das Gemuese in eine Auflaufform fuellen.
+
+Den Teig fuer den Deckel ausrollen. Den Teigdeckel ueber die
+Auflaufform breiten und rundherum andruecken. Die Sahne mit dem
+Eigelb verquirlen und den Teigdeckel damit bestreichen. Den Auflauf
+im heissen Backofen bei 180 Grad (Heissluft 160 Grad) ca. 40 Minuten
+backen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Tofu-Baellchen
+Kategorien: Gemuese, Tofu, Vollwert
+     Menge: 4 Personen
+
+    600     Gramm  Tofu
+      2            Moehren (150g)
+      1            Zwiebel (50g)
+      1            Knoblauchzehe
+      2      Essl. Oel
+      2      Bund  Glatte Petersilie (gehackt)
+     80     Gramm  Hefeflocken
+      1            Eigelb
+                   Vollmeersalz
+
+=========================== AUSSERDEM ===========================
+      1            Ei
+    100     Gramm  Vollkorn-Haferflocken
+    1/2       Ltr. Oel zum Ausbacken
+
+============================ QUELLE ============================
+         Fuer Sie 26/92
+         Erfasst: T.Pfaffenbrot
+         14.01.1997
+
+Tofu zerbroeckeln. Moehren waschen, schaelen und grob raspeln.
+Zwiebel- und Knoblauchwuerfel mit den Moehren im heissen Oel ca. 4
+Minuten duensten. Tofu, Petersilie, Hefeflocken, Eigelb und
+abgekuehlte Moehren vermengen, abschmecken. Aus dem Teig ca. 30
+Baellchen formen. Baellchen zuerst im verquirlten Ei, dann in
+Haferflocken waelzen und portionsweise im heissen Oel ca. 4 Minuten
+ausbacken. Auf Kuechenpapier abtropfen lassen.
+
+Nach Wunsch mit Petersilie garnieren.
+
+Dazu schmeckt Tomatengemuese.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Tofu im Sesam-Mantel
+Kategorien: Vollwert
+     Menge: 4 Personen
+
+    400     Gramm  Kohlrabi
+    500     Gramm  Moehren
+     40     Gramm  Butter
+      1      Essl. Honig
+                   ; Salz
+    400     Gramm  Tofu
+                   ; Pfeffer, frisch gemahlen
+     40     Gramm  Sojamehl
+      1            Ei
+     80     Gramm  Sesamsaat
+      3      Essl. Oel
+      1      Teel. Sesamoel
+                   Kerbel
+
+======================= ZUBEREITUNGSZEIT =======================
+                   -- ca. 25 Minuten
+
+========================== PRO PORTION ==========================
+                   -- 520 Kalorien / 2177 Joule
+
+============================ QUELLE ============================
+         Gepostet von I. Benerts
+
+Kohlrabi und Muehren in Stifte schneiden. Gemuese in Butter
+anduensten. Honig und zwei Essloeffel Wasser zufuegen und zugedeckt
+bei kleiner Hitze sieben Minuten weiterduensten. Mit einer Prise
+Salz abschmecken. Tofu in vier grosse oder acht kleine Scheiben
+schneiden. Salzen und pfeffern. Zuerst in Sojamehl, dann in
+verquirltem Ei und zum Schluss in der Sesamsaat wenden. Oel in einer
+grossen Pfanne erhitzen. Tofuscheiben von jeder Seite zwei Minuten
+goldgelb braten. Gemuese mit Kerbelblaettchen bestreuen und zu den
+Tofuscheiben servieren.
+
+Dazu Sojasosse.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Tofu-Kraeuter-Tortellini
+Kategorien: Teigware, Gefuellt, Tortellini, Tofu, Vollwert
+     Menge: 4 Portionen
+
+      1        kg  Spinat
+    150     Gramm  ; davon (1)
+    300     Gramm  Weizenvollkornmehl
+    1/2      Teel. ; Salz
+      1      groß. Ei
+      2      Essl. Olivenoel
+    150     Gramm  Tofu
+      2      Bund  Kraeuter; gemischt
+     50     Gramm  Pinienkerne
+    1/2            Zitrone; Saft und Schale
+     50     Gramm  Greyerzer Kaese
+                   ; Salz
+                   ; Pfeffer a.d.M.
+                   ; Muskatnuss,frisch gerieben
+      1            Zwiebel
+      1            Knoblauchzehe
+      1      Essl. Butter; oder ungehaertete
+                   -- Pflanzenmargarine
+    100     Gramm  Creme fraiche
+
+============================ QUELLE ============================
+         12.01.97
+         I. Benerts
+         Aus der Rezeptsammlung
+         von 1987 bis 1995
+
+Spinat verlesen und waschen. Angegebene Menge (1) in wenig Wasser
+kurz erhitzen, bis er zusammenfaellt. Gut ausdruecken und puerieren.
+
+Mehl mit Salz mischen, mit dem erhitzten Spinat, Ei, Oel und evtl.
+etwas Wasser zum glatten, elastischen teig verkneten. In
+Klarsichtfolie gewickelt ca. 1 Stunde ruhen lassen.
+
+Tofu grob zerkleinern, mit Kraeutern, Pinienkernen, Zitronensaft und
+-schale vermischt puerieren. Geriebenen Kaese untermischen. Die
+Masse wuerzen.
+
+Teig auf einer bemehlten Arbeitsflaeche duenn ausrollen und Kreise
+von 6 bis 7 cm Durchmesser ausstechen. Auf jeden Kreis 1 Teeloeffel
+Fuellung geben. Raender mit kaltem Wasser bestreichen,
+zusammenklappen und mit einer Gabel festdruecken.
+
+Die Halbmonde ringfuermig um den Zeigefinger wickeln. Die Enden
+zusammendruecken. Feingeschnittene Zwiebel und den durchgepressten
+Knoblauch im erhitzten Fett glasig duensten.
+
+Restlichen Spinet zugeben, zusammenfallen lassen. Creme fraiche
+unterruehren, mit Salz, Pfeffer und Musket abschmecken. Tortellini
+in sprodelndem Salzwasser in ca. 5 Minuten bissfest garen. Abgiessen
+und mit dem Spinat servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Trueffelspitzen
+Kategorien: Backen, Praline, Vollwert
+     Menge: 70 Stueck
+
+    100     Gramm  Gelbe Sojabohnen
+    100     Gramm  Adzukibohnen
+    1/2       Ltr. Wasser
+     50     Gramm  Zuckerrohrgranulat; (1)
+    100     Gramm  Zuckerrohrgranulat; (2)
+    1/2      Teel. Gemahlene Vanille
+    1/2      Teel. Zimtpulver
+      2    Prisen  Nelken; gemahlen
+    100     Gramm  Kokosfett
+      2      Essl. Rum
+      3      Essl. Zuckerrohrgranulat; (3)
+                   Kokosfett; fuer das Pergamen
+                   -- papier
+
+============================ QUELLE ============================
+         Plaetzchen und Konfekt
+         Annette Wolter (Hrsg.)
+         Verlag Graefe & Unzer
+         ISBN 3-7742-5890-2
+         erfasst von:
+         Elisabeth Hafeneger
+
+Die Soja- und die Adzukibohnen von Wasser bedeckt 24 Stunden quellen
+lassen. Dann abtropfen lassen und mit dem Wasser, dem
+Zuckerrohrgranulat (1), der Vanille, dem Zimt, und der Haelfte des
+Nelkenpulvers zugedeckt bei schwacher Hitze in etwa zweieinhalb
+Stunden weich kochen. Eventuell Wasser nachgiessen; die Bohnen
+sollen gerade bedeckt sein. Die Bohnen im Mixer puerieren. Das
+relativ fluessige Pueree in eine grosse Pfanne schuetten, das
+Zuckerrohrgranulat (2), die zweite Prise Nelkenpulver und das
+Kokosfett hinzufuegen und alles unter staendigem Ruehren bei
+mittlerer Hitze zu einer festen Masse einkochen lassen. Dabei das
+fluessige Fett immer wieder vom Rand in die Mitte ruehren. Die
+Trueffelmasse abkuehlen lassen. Ein grosses Stueck Pergamentpapier
+mit Kokosfett bestreichen. Den Rum unter die Trueffelmasse ruehren,
+diese in einen Spritzbeutel fuellen und 70 Spitzen auf das
+Pergamentpapier spritzen. Jede Trueffelspitze mit etwas
+Zuckerrohrgranulat (3) bestreuen. Die Trueffelspitzen fest werden
+lassen und im Kuehlschrank aufbewahren. Sie halten sich eine Woche
+frisch.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Ueberbackene Zucchini m. Erbsen u. Sesam
+Kategorien: Vollwert, Gemuese, Zucchini, Kaese, Erbse
+     Menge: 2 Portionen
+
+      1      Pack. TK-Erbsen (300g)
+                   ; Salz
+     50     Gramm  Gouda (mittelalt)
+    375     Gramm  Zucchini
+    1/2      Essl. Oel
+                   ; Pfeffer a.d.M.
+    3/4      Essl. Sesam
+     10     Gramm  Butter o. Margarine
+
+============================ QUELLE ============================
+         Natürliche Ernährung
+         Herausgeber:essen & trinken
+         erfasst: v. Renate Schnapka
+         am 26.09.96
+
+Ersen nach Vorschrift auf der Packung in Salzwasser garen. Den Kaese
+raspeln.
+
+Zucchini waschen, putzen, laengs halbieren, 5 Min. in Salzwasser
+blanchieren und kalt abschrecken.
+
+Eine ofenfeste Form mit Oel auspinseln, die Zucchini mit der
+Schnittflaeche nach oben nebeneinander hineinlegen.
+
+Erbsen puerieren, salzen, pfeffern, auf die Zucchini streichen.
+Kaese darueberstreuen und im vorgeheizten Backofen bei 200 øC (Gas
+3) 20 Min. backen.
+
+Sesam im Fett anroesten, ueber die Zucchini verteilen.
+
+Naehrwerte pro Portion:
+
+:Kilokalorien:       362
+:Kilojoule:         1517
+:Eiweiss/g:           20
+:Kohlenhydrate/g:     29
+:Fett/g:              18
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Ueberbackener Porree auf Bohengemuese
+Kategorien: Vollwert
+     Menge: 4 Personen
+
+    600     Gramm  Porree; (4 Stangen)
+      2            Knoblauchzehen
+      3      Essl. Oel
+    820     Gramm  Weisse Bohnen mit Suppen-
+                   Gemuese; (eine Dose)
+      1      Bund  Bohnenkraut
+                   -- ersatzweise
+                   -- 1 TL getrocknetes
+    200     Gramm  Schlagsahne
+                   ; Salz
+                   ; Fett fuer die Form
+    150     Gramm  Edelpilzkaese
+      2      Essl. Pinienkerne
+      1      Bund  Schnittlauch
+
+====================== ZUBEREITUNGSZEIT CA ======================
+                   -- 35 Minuten
+
+======================== PRO PORTION CA ========================
+                   -- 725 Kalorien / 3035 Joule
+
+============================ QUELLE ============================
+         Gepostet von I. Benerts
+         14.01.96
+
+Porree waschen, in zehn Zentimeter lange Stuecke schneiden. Die
+Endstuecke in Ringe schneiden. Porreeringen und gehackten Knoblauch
+in einem Essloeffel Oel anduensten.
+
+Weisse Bohnen, Bohnenkraut und Sahne zugeben und 5 Minuten bei
+grosser Hitze kochen. Porreestuecke in Salzwasser zehn Minuten
+kochen.
+
+Bohnengemuese in eine gefettete, ofenfeste Form geben. Abgetropfte
+Porreestangen auf die Bohnen setzen.
+
+Mit zerbroeckeltem Kaese und Pinienkernen bestreuen. In den Ofen
+schieben. Auf 200 Grad / Gas Stufe 3 schalten und 15 Minuten
+ueberbacken. Mit Schnittlauchroellchen bestreuen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Vollkorn-Knusperfladen
+Kategorien: Backen, Pikant, Vollwert
+     Menge: 4 Portionen
+
+    250     Gramm  Weizen
+     50     Gramm  Hirse
+     50     Gramm  Nacktgerste
+      1      Teel. Kuemmel
+      1      Teel. Koriander
+      1      Teel. Fenchelsamen
+      1      Teel. Salz
+    100     Gramm  Emmentaler; gerieben
+    350     Gramm  Mineralwasser; sollte sehr
+                   -- kohlensaeurehaltig sein
+      3      Essl. Sonnenblumenoel
+
+======================== FUER DEN BELAG ========================
+     50     Gramm  Magerer durchwachsener Speck
+                   -- und/oder
+     50     Gramm  Sonnenblumenkerne
+                   -- oder
+     50     Gramm  Mohn
+                   -- oder
+     50     Gramm  Sesamsamen
+
+======================== FUER DAS BLECH ========================
+                   Margarine; zum Bestreichen
+      1      Essl. Mehl
+
+============================ QUELLE ============================
+         Nach: Das Ingrid Fruechtel
+         Vollkornbuch; Graefe und
+         Unzer, ISBN 3-7742-2011-5
+         Gepostet v.: H.Schmitt
+
+Den Weizen, die Hirse, die Gerste und die Gewuerzkoerner fein
+schroten. Salz und Reibekaesemit dem Vollkornschrot mischen. Mit
+Mineralwasser und Oel mischen. Zugedeckt 2-4 Stunden quellen lassen.
+
+In der Zwischenzeit Backblech mit der Margarine einfetten und mit
+Mehl bestaeuben, damit sich der Fladen nach dem Backen gut vom Blech
+loest.
+
+Backofen auf 230 vorheizen.
+
+Den gequollenen Teig auf dem Blech verstreichen und mit dem Belag
+bestreuen.
+
+Ca. 30 Minuten auf der mittleren Schiene backen.
+
+Nach dem Backen sofort in Stuecke schneiden und warm mit Quarkcreme,
+Frischkaese oder einfach ohne alles servieren. Als Beilage zu Suppen
+eignen sich diese Fladen ebenfalls.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Vollkorn-Risotto
+Kategorien: Reis, Risotto, Vollwert, Vegetarisch
+     Menge: 4 Personen
+
+      1            Zwiebel
+     50     Gramm  Butter oder Margarine
+    200     Gramm  Vollkorn-Reis
+    3/4       Ltr. Klare Bruehe; (Instant)
+    1/4       Ltr. Weisswein
+      1            Lorbeerblatt
+    250     Gramm  Moehren
+      1      Bund  Lauchzwiebeln
+                   -- wahlweise
+      2     mittl. - Porreestangen
+     50     Gramm  Sonnenblumenkerne
+    150     Gramm  Gouda; mittelalt
+                   ; Salz
+                   ; schwarzer Pfeffer
+
+============================ QUELLE ============================
+         09.03.96
+         I. Benerts
+
+Zwiebel schaelen und fein wuerfeln. Fett in einem Topf erhitzen und
+die Zwiebel darin anduensten.
+
+Reis zufuegen und kurz anduensten. Bruehe und Weisswein angiessen.
+Lorbeerblatt zufuegen.
+
+Den Reis zugedeckt bei schwacher Hitze 35 Minuten kochen lassen.
+
+Moehren putzen, waschen und in Stifte schneiden. Lauchzwiebeln
+putzen, waschen und in Scheiben schneiden. Mit den Moehren zum Reis
+geben und alles 10    Minuten garen.
+
+Sonnenblumenkerne in einer trockenen Pfanne goldbraun roesten. Kaese
+grob raspeln, unter den Reis haben und schmelzen lassen. Mit Salz
+und Pfeffer abschmecken.
+
+Den Risotto in einer Schuessel anrichten und mit den
+Sonnenblumenkernen bestreuen.
+
+Tip: Sie koennen noch zusaetzlich den Risotto mit Vitaminen
+anreichern, wenn Sie kurz vor dem Servieren gehackte Kraeuter
+untermischen. Gut schmecken z.B. Petersilie, Schnittlauch und der
+etwas kraeftigere Thymian.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Vollwertige Quark-Sahne-Torte mit Rosinen und Trauben
+Kategorien: Backen, Kuchen, Quark, Traube, Vollwert
+     Menge: 12 Stuecke
+
+========================= FUER DE TEIG =========================
+      4            Eier; aufgetrennt
+      2      Essl. ; kaltes Wasser
+     90     Gramm  Zuckerrohrgranulat
+    160     Gramm  Weizenvollkornmehl
+      1      Teel. Weinstein-Backpulver
+
+======================= FUER DIE FUELLUNG =======================
+      2      Teel. Agar-Agar; a 5 g
+    125        ml  Milch; (1), davon
+      3      Essl. - abnehmen (2)
+      1        kg  Magerquark
+    100     Gramm  Zuckerrohrgranulat
+      1            Zitrone, unbehandelt
+                   -- Schale und Saft davon
+      1            Vanillestange; Mark davon
+    500        ml  Schlagsahne
+    150     Gramm  Rosinen; ungeschwefelt
+    250     Gramm  Helle Weintrauben; kleine,
+                   -- gewaschen
+
+============================ QUELLE ============================
+         erfasst von Peter Kuemmel
+
+Fuer den Teig Eiweiss mit kaltem Wasser steif schlagen.
+Zuckerrohrgranulat unter staendigem Schlagen hinzufuegen und nach
+und nach Eigelb unterschlagen. Mehl mit Weinstein-Backpulver mischen
+und essloeffelweise unterruehren.
+
+Eine Springform (26 cm Durchmesser) mit Backpapier auslegen, den
+Teig hineinfuellen, die Form auf dem Rost in den auf etwa 180 Grad
+vorgeheizten Backofen schieben und den Kuchen etwa 45 Minuten backen.
+
+Den Kuchen auf einem Kuchenrost erkalten lasse und dann einmal
+durchschneiden.
+
+Fuer die Fuellung Agar-Agar mit Milch (2) verruehren. Die restliche
+Milch (1) zum Kochen bringen, das Agar-Agar einruehren, unter
+staendigem Ruehren etwa 1 Minute mitkochen lassen und von der
+Kochstelle nehmen.
+
+Magerquark, Zuckerrohrgranulat, Zitronensaft und -schale und
+Vanillemark nach und nach unterruehren. Schalgsahne steif schlagen,
+vorsichtig unterheben und 1/3 von der Creme zurueckstellen.
+
+Die restliche Creme mit Rosinen und Weintrauben vermengen, den
+unteren Tortenboden auf eine Tortenplatte legen, mit der Fuellung
+bestreichen, mit dem oberen Tortenboden bedecken und etwas
+andruecken. Die Torte etwa 10 Minuten kalt stellen, mit der
+zurueckgelassenen Schlagsahne bestreichen und mit Rosinen und
+Weintrauben bestreuen.
+
+Die Quark-Sahne-Torte vor dem Anschneiden etwa 3 Stunden kalt
+stellen, damit die Fuellung fest wird.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Wirsingkohlsuppe
+Kategorien: Vollwert, Suppe
+     Menge: 6 Personen
+
+    200     Gramm  Naturreis
+      2      Essl. Olivenoel
+      2       Ltr. Gemuesebruehe; Instant
+    800     Gramm  Wirsingkohl
+      1      Bund  Petersilie
+      1     klein. Zweig Rosmarin
+      1            Lorbeerblatt
+    500     Gramm  Tomaten
+     60     Gramm  Butter
+    100     Gramm  Emmentaler Kaese
+      1            Ei
+     60     Gramm  Weizenmehl; Type 1050
+                   ; Salz
+      1    Schuss  Tabasco
+    1/2      Teel. Oregano; getrocknet
+
+====================== ZUBEREITUNGSZEIT CA ======================
+                   -- 45 Minuten
+
+======================== PRO PORTION CA ========================
+                   -- 410 Kalorien / 1716 Joule
+
+============================ QUELLE ============================
+         Gepostet von I. Benerts
+         14.01.96
+
+Reis in Oel anduensten. Bruehe zugeben und 10 Minuten kochen.
+
+Wirsingkohl putzen und in feine Streifen schneiden. Ein halbes Bund
+Petersilie mit Rosmarin und Lorbeerblatt zu einem
+Kraeuterstraeusschen binden. Wirsingkohl und Kraeuterstraeusschen
+zum Reis geben und 20 Minuten weiterkochen. Tomaten ueberbruehen,
+abziehen und halbieren.
+
+Fuer die Kaesekloesschen weiche Butter mit geriebenem Kaese, Ei,
+Mehl, Salz und einem halben Bund gehackter Petersilie verruehren.
+Mit zwei Teeloeffeln Kloesschen abstechen und in siedendem
+Salzwasser 10 Minuten ziehen lassen.
+
+Tomaten zur Suppe geben. Weitere 10 Minuten kochen.
+Kraeuterstraeusschen entfernen. Suppe mit Salz, Tabasco und Oregano
+abschmecken. Kaesekloesschen in der Suppe servieren.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Wirsingnester mit Petersiliensauce
+Kategorien: Backen, Vollwert, Wirsing
+     Menge: 4 Personen
+
+    200     Gramm  Bulgur
+    350        ml  Gemuesebruehe
+      1      Teel. Curry oder Kurkuma
+      1     klein. Spitzkohl
+    250        ml  Gemuesebruehe
+      1            Zwiebel
+    350     Gramm  Moehren
+     60     Gramm  TK-Erbsen
+     30     Gramm  Butter/Magarine
+      1            Zitrone; nur Saft
+      1      Teel. Kraeutersalz
+      1      Teel. Piment
+      1      Teel. Koriander
+      1      Bund  Petersilie
+     20     Gramm  Butter als Floeckchen
+
+======================= PETERSILIENSAUCE =======================
+    100        ml  Gemuesebruehe
+    100        ml  Sahne
+      2      Essl. Reismehl
+    1/2            Saft einer Zitrone
+    1/2      Teel. Frugola
+    1/2      Teel. Kraeutersalz
+
+============================ QUELLE ============================
+         Vegetarisch fit 3/97
+         Erfasst: Nadja Kramer
+
+Den Bulgur in der Gemuesebruehe zusammen mit dem Curry oder Kukuma
+in ungefaehr 15 Minuten garen. Den Wirsing in die einzelnen, ganzen
+Blaetter zerlegen. Diese in der Gemuesebruehe etwa 10 Minuten
+duensten. Dann auf einem Sieb abtropfen und etwas abkuehlen lassen.
+Die Zwiebel schaelen und in kleine Wuerfel schneiden. Die Moehren
+putzen, waschen und raspeln. Die Erbsen auf ein Sieb schuetten, mit
+heissem Wasser ueberbruehen und gut abtropfen lassen. Die Butter in
+einem Topf erwaermen und die Zwiebelwuerfel darin glasig werden
+lassen. Anschliessend die geraspelten Moehren und die Erbsen
+hinzugeben. Mit den Gewuerzen abschmecken und mit dem Zitronensaft
+abloeschen. Die Masse mit dem gegarten Bulgur vermischen. ein
+viertel der Petersilie waschen, fein zerkleinern und unter die
+Gemuesemasse mischen. Ein Foermchen (Porzellantasse oder
+Muffinfoermchen) mit Spitzkohlblaettern auskleiden und etwa 2-3
+Essloeffel Gemuesefuellung hineingeben und gut andruecken.Mit den
+Wirsingblaettern abdecken. Dann aus der Form druecken und die
+Wirsingnester in eien gefettete Auflaufform setzen. Auf jedes Nest
+ein Floeckchen Butter setzen und bei 200 Grad etwa 20 Minuten backen.
+
+Petersiliensauce:
+
+In der Zwischenzeit die restliche Petersilie grob zerhacken und
+zusammen mit der Gemuesebruehe im Mixer puerieren. Anschliessend das
+Puerierte durch ein Sieb streichen und den Petersiliensaft auffangen.
+Die Sahne in einem Topf geben, das Mehl unterruehren und aufkochen
+lassen. Den Petersiliensaft sowie den Zitronensaft angiessen und mit
+den Gewuerzen abschmecken. Die Petersilie auf Tellern anrichten, die
+Wirsingnester daraufsetzen und die Petersiliensauce dazu reichen.
+
+=====
+
+========== REZKONV-Rezept - RezkonvSuite v1.2
+
+     Titel: Zucchini-Eierpfanne
+Kategorien: Gemuese, Zucchini, Ei, Vollwert
+     Menge: 2 Portionen
+
+      2            Zwiebeln
+      1            Knoblauchzehe
+    400     Gramm  Zucchini
+     30     Gramm  Butter od Margarine
+      1            Fleischtomate
+                   ; Salz
+                   ; Pfeffer
+      4            Eier
+      1      Bund  Petersilie
+     50     Gramm  Greyerzer Kaese
+
+============================ QUELLE ============================
+         Brigitte
+         erfasst: Gritta Schulz
+
+Zwiebelringe, zerdrueckten Knoblauch und Zucchinischeiben etwa zehn
+Minuten in heissem Fett braten. Entkernte Tomatenstuecke zufuegen.
+Mit Salz und Pfeffer wuerzen und fuenf Minuten schmoren. Eier und
+etwas Salz mit einer Gabel verschlagen und grob gehackte Petersilie
+unterruehren. Ueber das Gemuese giessen. Mit geraffeltem Kaese
+bestreuen. In der geschlossenen Pfanne bei kleiner Hitze etwa fuenf
+Minuten stocken lassen.
+
+Dazu Vollkornbrot
+
+=====
+

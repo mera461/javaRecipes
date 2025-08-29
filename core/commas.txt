@@ -1,0 +1,535 @@
+# Commas.txt.
+# 20120118 - Updated by John Shotsky
+# If a term below is found in the ingredients column, keep the comma.
+# Otherwise, delete the comma and space and move everything after the
+# comma and space  to the preparation column. Users may add new combinations
+# to this file.
+# Note that there are leading or trailing commas and spaces sometimes.
+# These below are the new items - also placed in alphebetical order below.
+#New:
+;==================================
+, packed without oil
+baked, unsalted
+unsalted, baked
+basil, garlic,
+basil, pine nut,
+beans, navy
+bite-size, bear-shaped,
+bite-size, bear-shaped
+
+boiled, mashed
+mashed, boiled
+
+bone-in, lean
+lean, bone-in
+
+bone-in, shortshank
+shortshank, bone-in
+
+bone-in, skin-on
+skin-on, bone-in
+
+bone-in, skinless
+skinless, bone-in
+
+bone-in, sliced
+sliced, bone-in
+
+boned, lean
+lean, boned
+
+boned, skinned
+skinned, boned
+
+boned, split
+split, boned
+
+boneless, lean
+lean, boneless
+
+boneless, fully
+
+boneless, skinless
+skinless, boneless
+
+boneless, whole
+whole, boneless
+
+butt, ground
+butter, for
+
+canned, no-salt
+no-salt, canned
+
+chile, canned
+chiles, canned
+
+chilled, cooked
+cooked, chilled
+
+chopped, cooked
+cooked, chopped
+
+chopped, drained
+drained, chopped
+
+chopped, dried
+dried, chopped
+
+chopped, fresh
+fresh, chopped
+
+chopped, frozen
+frozen, chopped
+
+chopped, loosely
+
+chopped, packed
+packed, chopped
+
+chopped, peeled
+peeled, chopped
+peeled, chopped,
+
+chopped, pitted
+pitted, chopped
+
+chopped, prewashed
+prewashed, chopped
+
+chopped, roasted
+roasted, chopped
+
+chopped, seeded
+seeded, chopped
+
+chopped, shelled
+shelled, chopped
+
+chopped, slivered
+slivered, chopped
+
+chopped, smoked
+smoked, chopped
+
+chopped, toasted
+toasted, chopped
+
+chopped, trimmed
+trimmed, chopped
+
+chopped, unpeeled
+unpeeled, chopped
+
+chopped, unsalted
+unsalted, chopped
+
+chunky, natural-style
+natural-style, chunky
+
+cooked, crumbled
+crumbled, cooked
+
+cooked, cubed
+cubed, cooked
+
+cooked, deveined
+deveined, cooked
+
+cooked, diced
+diced, cooked
+
+cooked, mashed
+mashed, cooked
+
+cooked, peeled
+peeled, cooked
+
+cooked, shelled
+shelled, cooked
+
+cooked, shelled,
+shelled, cooked,
+
+cooked, shredded
+shredded, cooked
+
+cooked, skinless
+skinless, cooked
+
+cooked, spiral
+
+corn, in husks
+
+cored, peeled
+peeled, cored
+peeled, cored,
+
+creamy, natural
+natural, creamy
+
+crushed, dried
+dried, crushed
+
+crushed, drained
+drained, crushed
+
+crushed, packed
+packed, crushed
+
+crushed, undrained
+undrained, crushed
+
+cubed, peeled
+peeled, cubed
+
+cubed, seeded
+seeded, cubed
+
+cubed, unpeeled
+unpeeled, cubed
+
+deveined, peeled
+peeled, deveined
+peeled, deveined, and
+
+deveined, seeded,
+seeded, deveined,
+
+deveined, seeded
+seeded, deveined
+
+deveined, shelled
+shelled, deveined
+
+diced, husked
+husked, diced
+
+diced, peeled
+peeled, diced
+
+diced, seeded
+seeded, diced
+
+diced, unpeeled
+unpeeled, diced
+
+drained, finely
+
+drained, sliced
+sliced, drained
+
+dried, mixed
+mixed, dried
+
+dried, split
+
+dried, sweetened
+sweetened, dried
+
+dry, white
+
+dry-roasted, salted
+salted, dry-roasted
+
+dry-roasted, unsalted
+unsalted, dry-roasted
+
+earthy, fruity
+fruity, earthy
+
+fat-free, lower-sodium
+lower-sodium, fat-free
+
+fat-free, less-sodium
+less-sodium, fat-free
+
+fine, dry
+
+finely diced, uncooked
+uncooked, finely diced
+
+firm, fresh
+fresh, firm
+
+firm, large
+large, firm
+
+firm, medium
+medium, firm
+medium, firm,
+
+firm, ripe
+ripe, firm
+
+firm, peeled
+peeled, firm
+
+firm, seedless
+seedless, firm
+
+firm, small
+small, firm
+
+firm, unpeeled
+unpeeled, firm
+
+free, less-sodium
+less-sodium, fat
+
+free, lower-sodium
+lower-sodium, fat
+
+fresh, minced
+minced, fresh
+
+fresh, frozen
+frozen, fresh
+
+fresh, ripe
+fresh, ripe, small
+ripe, fresh
+
+fresh, sliced
+sliced, fresh
+
+fresh, soft
+soft, fresh
+
+fresh, thinly
+
+fresh, washed
+washed, fresh
+
+frozen, sliced
+sliced, frozen
+
+grated, peeled
+peeled, grated
+
+grated, raw
+raw, grated
+
+ground, toasted
+toasted, ground
+
+halibut, lingcod
+lingcod, halibut
+
+halved, pitted
+pitted, halved
+
+halved, seeded,
+seeded, halved,
+
+halved, seeded
+seeded, halved
+
+halved, trimmed, 
+trimmed, halved
+
+hot, spicy
+spicy, hot
+
+hulled, split
+split, hulled
+
+husked, finely
+
+Jiffy, Bisquick
+
+jumbo, unpeeled
+unpeeled, jumbo
+
+large, peeled
+peeled, large
+
+large, thick
+thick, large
+
+large, unpeeled
+unpeeled, large
+
+lean, grass-fed
+
+lean, lower
+lingcod, rockfish
+
+low-fat, reduced-sodium
+reduced-sodium, low-fat
+
+low-salt, reduced-fat
+reduced-fat, low-salt
+
+lower-sodium, reduced-fat
+reduced-fat, lower-sodium
+
+lower-sodium, thinly
+
+mashed, peeled
+peeled, mashed
+
+mashed, ripe
+ripe, mashed
+
+mashed, unsweetened
+unsweetened, mashed
+
+medium, peeled
+peeled, medium
+
+medium, ripe
+ripe, medium
+
+medium, unpeeled
+unpeeled, medium
+
+minced, peeled
+peeled, minced
+
+minced, seeded
+seeded, minced
+
+mozzarella, asagio
+
+natural-style, reduced fat
+reduced fat, natural-style
+
+oil, butter
+
+packed, chopped
+
+packed, shredded
+shredded, packed
+
+pared, chopped
+
+peeled, (1/2-inch)
+peeled, coarsely
+peeled, finely
+
+peeled, pitted
+pitted, peeled
+
+peeled, seeded,
+seeded, peeled,
+
+peeled, seeded
+seeded, peeled
+
+peeled, shredded
+shredded, peeled
+
+peeled, sliced
+sliced, peeled
+
+peeled, small
+small, peeled
+
+peeled, thinly
+
+pickled, sliced
+sliced, pickled
+
+pieces, white
+pitted, dark, sweet
+
+pitted, ripe
+ripe, pitted
+
+pitted, sliced
+sliced, pitted
+
+plain, low-fat
+
+portion, bone
+
+quartered, sliced
+sliced, quartered
+
+raw, shelled
+shelled, raw
+
+raw, unblanched
+unblanched, raw
+
+raw, unsalted
+unsalted, raw
+
+reduced-fat, reduced-sodium
+reduced-sodium, reduced-fat
+
+ripe, sliced
+sliced, ripe
+
+ripe, small
+small, ripe
+
+roasted, salted
+salted, roasted
+
+roasted, unsalted
+unsalted, roasted
+
+seeded, coarsely
+seeded, finely
+
+seeded, sliced
+sliced, seeded
+
+seeded, thinly
+sirloin, round
+
+shelled, deveined
+deveined, shelled
+
+shelled, deveined,
+deveined, shelled,
+;shortshank, uncooked
+
+shortshank, uncooked
+uncooked, shortshank
+
+shredded, skinned
+skinned, shredded
+
+skinned, toasted
+toasted, skinned
+
+sliced, black
+
+sliced, lower-sodium
+
+sliced, smoked
+smoked, sliced
+
+sliced, stuffed
+stuffed, sliced
+
+sliced, toasted
+toasted, sliced
+
+slivered, toasted
+toasted, slivered
+
+small, tender
+tender, small
+
+small, uncooked
+uncooked, small
+
+small, unpeeled
+unpeeled, small
+
+split, toasted
+toasted, split
+
+smoked, fully
+thawed, drained, and
+trimmed, coarsely
+unbleached, all-purpose
+unpeeled, seeded,
+white, yellow
+
+whole-grain, low-carb
+whole-grain, low-carbohydrate

@@ -1,0 +1,197 @@
+/*#############################################################
+Name: Bitter Sweet MacGourmet Theme
+Adapted for MacGourmet by Jonathan Schmid Media & Design
+http://www.jonathanschmid.com
+
+Date: 2009-1-29
+Description: Lime flavoured template with two columns.
+Author: Viktor Persson
+URL: http://templates.arcsin.se
+
+
+Feel free to use and modify but please provide credits.
+#############################################################*/
+/* Styles for ingredients list */
+.ingr-list { list-style-type: none;  }
+.ingr-sub-list { list-style-type: none; text-indent: 20px; }
+.ingr-div { color: #85AC1E; font-size: 18px; text-transform: lowercase; }
+.ingr-unit { font-weight:bold; }
+.ingr-meas { color:#777777; font-weight:bold; }
+.ingr-descr { }
+.recipe-image { width:145px; padding: 4px; border: 1px solid #a0a0a0; background: #FFF; }
+
+/* Styles for prep time list */
+.prep-list { list-style-type: none; }
+.prep-list-item
+{
+ border-top: solid 1px #F5F5F5;
+ margin-top: 4px;
+ padding-top: 4px;
+ background-position: 0px 9px;
+ }
+
+/* Styles for equipment list */
+.equip-list { list-style-type: none; }
+.equip-list-item { list-style-type: none; text-indent: -20px; }
+
+/* Style images for related items */
+.related-http://leannschmid.com/recipes/images/ { padding-right: 4px; padding-bottom: 3px; vertical-align:middle; }
+
+/* Style images for image marker on the index pages, style the index list */
+.index-list { list-style-type: none; }
+.index-list-item { list-style-type: none; text-indent: -20px; }
+.index-http://leannschmid.com/recipes/images/ { padding-left: 4px; vertical-align:middle; }
+.index-icon { padding-right: 4px; vertical-align:middle; }
+
+.download-http://leannschmid.com/recipes/images/ { padding-right: 4px; vertical-align:middle; }
+
+*
+{
+ margin: 0px;
+ padding: 0px;
+}
+
+/* standard elements */
+* {
+	margin: 0;
+	padding: 0;
+}
+a {color: #682;}
+a:hover {color: #9A6;}
+body {
+	background: #5F8000 url(http://leannschmid.com/recipes/images/bg.gif) repeat-y center top;
+	color: #333;
+	font: normal 62.5% "Lucida Sans Unicode",sans-serif;
+}
+input {
+	color: #555;
+	font: normal 1.1em "Lucida Sans Unicode",sans-serif;
+}
+p,cite,code,ul {
+	font-size: 1.2em;
+	padding-bottom: 1.2em;
+}
+ul {margin-left: 1.2em;}
+li {list-style-image: url(http://leannschmid.com/recipes/images/li.gif);}
+h1 {font-size: 1.4em;}
+blockquote {
+	background: #FFF;
+	border-bottom: 1px solid #EEE;
+	border-top: 1px solid #EEE;
+	color: #333;
+	display: block;
+	font-size: 0.9em;
+	margin-bottom: 1.2em;
+	padding: 6px 12px;
+}
+blockquote p {padding: 3px 0;}
+h1,h2,h3 {color: #654;}
+
+/* misc */
+.clearer {clear: both;}
+
+/* structure */
+.container {
+	background: url(http://leannschmid.com/recipes/images/bgcontainer.gif) repeat-y;
+	margin: 0 auto;
+	width: 702px;
+}
+
+/* top */
+.top {
+	background: #567300;
+	font: normal 2.4em Verdana,sans-serif;
+	height: 60px;
+	margin: 0 auto;
+	width: 630px;
+}
+.top a {
+	color: #FFF;
+	display: block;
+	line-height: 60px;
+	text-decoration: none;
+	width: 100%;
+}
+.top span {padding-left: 24px;}
+.top a:hover {
+	background: #688B00;
+	color: #FFF;
+}
+
+/* header */
+.header {
+	background: url(http://leannschmid.com/recipes/images/header.jpg) no-repeat;
+	height: 180px;
+	margin: 0 auto;
+	width: 630px;
+}
+
+/* item */
+.item {clear: both;}
+.item .date {
+	background: url(http://leannschmid.com/recipes/images/bgdate.gif) no-repeat;
+	color: #FDD;
+	float: left;
+	height: 40px;
+	text-align: center;
+	width: 36px;
+}
+.item .date div {padding-top: 4px;}
+.item .date span {font: normal 1.6em serif;}
+.item .content {
+	float: left;
+	width: 420px;
+}
+.item h1 {
+	background: #567300;
+	color: #FFF;
+	line-height: 40px;
+	padding-left: 16px;
+}
+.item .body {padding: 12px 18px;}
+
+/* main */
+.main {float: left;}
+
+/* navigation */
+.navigation {
+	float: left;
+	margin-left: 1px;
+	width: 208px;
+}
+.navigation h1 {
+	background: #81AC00;
+	color: #FFF;
+	font-size: 1.3em;
+	line-height: 40px;
+	padding-left: 12px;
+}
+.navigation ul {margin: 0; padding: 0;}
+.navigation li {
+	border-bottom: 1px solid #D5E8AD;
+	list-style: none;
+}
+.navigation li a {
+	background: #E8F6BF url(http://leannschmid.com/recipes/images/bgnavigation.gif) repeat-x;	
+	color: #553;
+	display: block;
+	padding: 8px 4px 8px 12px;
+	text-decoration: none;
+}
+.navigation li a:hover {
+	background: #F0FFC6;
+	color: #553;
+}
+
+/* footer */
+.footer {
+	background: url(http://leannschmid.com/recipes/images/bgfooter.gif) repeat-x;
+	color: #FFF;
+	font-size: 1.1em;
+	line-height: 40px;
+	margin: 0 auto;
+	text-align: center;
+	width: 626px;
+}
+.footer a {color: #FFF;}
+.footer a:hover {color: #FAFCB0;}

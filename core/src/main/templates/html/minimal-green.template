@@ -1,0 +1,11 @@
+#
+# Definition of the Minimal Green template.
+#
+# Template design by Andreas Viklund
+# See: http://andreasviklund.com/templates/andreas08/
+#
+#
+AllInOne = false
+Template = minimal-green-index.html
+RecipeTemplate = minimal-green.html
+SharedDirectory = minimal-green

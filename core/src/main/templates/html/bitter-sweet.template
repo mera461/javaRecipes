@@ -1,0 +1,11 @@
+#
+# Definition of the Bitter-sweet template.
+#
+# Template design by ArcSin
+# See: http://templates.arcsin.se/bitter-sweet-website-template/
+#
+#
+AllInOne = false
+Template = bitter-sweet-index.html
+RecipeTemplate = bitter-sweet.html
+SharedDirectory = bitter-sweet

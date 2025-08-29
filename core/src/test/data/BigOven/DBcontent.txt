@@ -1,0 +1,66 @@
+Tables:
+
+DBVersionInfo:
+ DBVersion  --> 1.1
+ 
+IngredientLines
+int IngredientLinesID
+bit bHeading
+String TextQty
+String Measure
+String Name
+int RecipeID
+double DblQty
+String PrepNotes
+int LineOrder
+
+
+RecipeNotes:
+int RecipeNotesID
+String Notes
+String User
+int RecipeID
+date Date
+
+Recipes:
+int RecipeID
+String Title
+String YieldText
+String Instructions
+String Source
+double YieldNumber
+bit Edited
+bit Vegetarian
+bit Desserts
+bit MainDish
+bit Drinks
+bit Salad
+bit Begetables
+bit Poultry
+bit Appetizers
+bit Breads
+bit Cakes
+bit Meats
+bit Cookies
+bit Seafood
+double ScaleMultiple
+bit PDABook
+String Categories
+String YieldUnit
+double TasteRating
+double AppearanceRating
+double EffortRating
+double AffordableRating
+String PrimaryIngredient
+String Cuisine
+String PictureFile1
+String SubHead
+String Notes
+int ActiveMinutes
+int TotalMinutes
+int UniqueID
+String AllIngredientsText
+String AllCategoriesText
+
+
+

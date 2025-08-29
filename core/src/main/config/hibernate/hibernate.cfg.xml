@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory name="SessionFactory">
+        <property name="hibernate.connection.driver_class">org.hsqldb.jdbcDriver</property>
+        <property name="hibernate.connection.url">jdbc:hsqldb:file:C:/pr/projecter/java/JavaRecipes/recipes.db</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.HSQLDialect</property>
+        <property name="hibernate.connection.shutdown">true</property>        
+        <property name="hibernate.show_sql">false</property>
+        
+        <!-- Cache -->
+		<property name="hibernate.cache.provider_class">org.hibernate.cache.EhCacheProvider</property>
+		<!-- property name="hibernate.cache.provider_class">org.hibernate.cache.HashtableCacheProvider</property -->
+		<property name="hibernate.cache.use_second_level_cache">true</property>
+        <property name="hibernate.cache.use_query_cache">true</property>
+ 
+ 		<!-- Enable Hibernate's automatic session context management -->
+        <property name="current_session_context_class">thread</property>
+        
+		<!-- database objects -->
+        <mapping class="net.sf.recipetools.javarecipes.model.Category"/>
+        <mapping class="net.sf.recipetools.javarecipes.model.FileData"/>        
+        <mapping class="net.sf.recipetools.javarecipes.model.Image"/>
+        <mapping class="net.sf.recipetools.javarecipes.model.Ingredient"/>
+        <mapping class="net.sf.recipetools.javarecipes.model.Recipe"/>
+        <mapping class="net.sf.recipetools.javarecipes.model.RecipeIngredient"/>
+        <mapping class="net.sf.recipetools.javarecipes.model.RenamingItem"/>        
+        <mapping class="net.sf.recipetools.javarecipes.model.Unit"/>        
+         
+    </session-factory>
+
+
+</hibernate-configuration>

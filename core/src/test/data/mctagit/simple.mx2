@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="win-1252" standalone="yes" ?>
+<!DOCTYPE mx2 SYSTEM "mx2.dtd">
+<mx2 source="MasterCook" date="May 11, 2023">
+<RcpE name="QUICK PICKLED GREEN BEANS" author="Mary Clifford, &quot;Memories of a Country Garden&quot;">
+<Serv qty="10"/>
+<PrpT elapsed="0:20"/>
+<CatS>
+<CatT>
+Vegetables
+</CatT>
+</CatS>
+<IngR code="I" name="fresh green beans" unit="pounds" qty="2"></IngR>
+<IngR code="I" name="water" unit="cups" qty="2"></IngR>
+<IngR code="I" name="cider vinegar" unit="cups" qty="2"></IngR>
+<IngR code="I" name="sugar" unit="tablespoons" qty="2"></IngR>
+<IngR code="I" name="dill seeds, crushed -- PLUS" unit="tablespoon" qty="1"></IngR>
+<IngR code="I" name="dill seeds, crushed" unit="teaspoon" qty="1"></IngR>
+<IngR code="I" name="dry mustard" unit="teaspoons" qty="2"></IngR>
+<IngR code="I" name="pepper" unit="teaspoon" qty="1"></IngR>
+<IngR code="I" name="salt" unit="teaspoon" qty="0.5"></IngR>
+<IngR code="I" name="garlic, crushed" unit="cloves" qty="2"></IngR>
+<DirS>
+<DirT>
+Wash beans; trim ends, and remove strings. Place beans into a large saucepan of boiling water; cook 5 minutes. Drain and plunge beans into ice water; drain again. Place beans in a large, shallow, nonmetal dish; set aside.
+</DirT>
+<DirT>
+Combine 2 cups water and next 7 ingredients in a small saucepan; bring to a boil. Pour mixture over beans; cover and marinate in refrigerator 8 hours, stirring occasionally. Store in refrigerator up to 1 week, stirring occasionally.
+</DirT>
+<DirT>
+Yield: 8 servings (serving size: 1 cup).
+</DirT>
+<DirT>
+CALORIES 61 (6% from fat) / PROTEIN 2.4g / FAT 0.4g (SAT 0g, MONO 0.1g, POLY 0.1g) / CARB 15.5g / FIBER 2.6g / CHOL 0mg / IRON 1.8mg / SODIUM 154mg / CALCIUM 65mg
+</DirT>
+</DirS>
+<Srce>
+Cooking Light Magazine, July/August 1993, page 69
+</Srce>
+<Yield unit="Cups" qty="8.000000" />
+<AltS label="Formatted By" source="John Shotsky" />
+<CpyR>
+1993, by Southern Living, Inc.
+</CpyR>
+<TTim elapsed="1:20"/>
+</RcpE>
+</mx2>

@@ -1,0 +1,101 @@
+/********************** CORE ******************************/
+apply plugin:'java'
+apply plugin:'groovy'
+apply plugin: 'jacoco'
+apply plugin: 'eclipse'
+
+import org.gradle.plugins.ide.eclipse.model.SourceFolder
+
+defaultTasks 'build'
+
+// use same output directory as Eclipse
+def myBuildDir = "target"
+project.buildDir = myBuildDir
+
+// generate the eclipse files
+eclipse.classpath.defaultOutputDir = file(myBuildDir)
+// generate correct output folder
+eclipse.classpath.file {
+	beforeMerged { classpath -> 
+        classpath.entries.clear()
+    }
+    whenMerged {  cp -> 
+        cp.entries.findAll { it instanceof SourceFolder && it.path.startsWith("src/main/") }*.output = "$myBuildDir/classes/main" 
+        cp.entries.findAll { it instanceof SourceFolder && it.path.startsWith("src/test/") }*.output = "$myBuildDir/classes/test" 
+        cp.entries.removeAll { it.kind == "output" }
+    }
+}
+
+sonarqube {
+    properties {
+		property "sonar.projectName", "JavaRecipes-core"
+    }
+}
+
+jacocoTestReport {
+    reports {
+        xml.required = false
+        csv.required = false
+        html.outputLocation = new File("${buildDir}/jacocoHtml")
+    }
+}
+
+repositories {
+	mavenLocal()
+    mavenCentral()
+	maven {
+        url "https://snapshots.repository.codehaus.org/"
+        url "https://download.java.net/maven/2"
+    } 
+}
+
+// FIX: used for a few @Grab in groovy test scripts
+configurations {
+    ivy 
+}
+
+// FIX: to fix a gradle bug GRADLE-2812 on redirecting on xml-apis
+configurations.all {
+    resolutionStrategy {
+        force 'xml-apis:xml-apis:1.4.01'
+    }
+}
+
+dependencies {
+	//for groovy 
+	ivy 'org.apache.ivy:ivy:2.4.0' // FIX: used for a few @Grab in groovy test scripts
+	implementation "org.codehaus.groovy:groovy:$groovyVersion"
+	implementation "org.codehaus.groovy:groovy-templates:$groovyVersion"
+	implementation "org.codehaus.groovy:groovy-dateutil:$groovyVersion" // needed for 3.0.10
+	implementation "org.codehaus.groovy:groovy-sql:$groovyVersion"
+	// implementation 'org.codehaus.groovy:groovy-json:2.5.9'
+	// implementation 'io.fastjson:boon:0.34' // included in root.
+	
+	//testImplementation 'junit:junit:4.13.2'
+	//implementation 'hsqldb:hsqldb:1.8.0.7'
+	implementation 'c3p0:c3p0:0.9.1.2'
+	implementation 'commons-lang:commons-lang:2.6'
+	// implementation 'xml-apis:xml-apis:1.0.b2' // only needed for json-lib redirect...
+	implementation 'net.sf.json-lib:json-lib:2.3:jdk15' // needed for testing in groovy
+	// implementation 'jaxen:jaxen:1.2.0' -- not needed? For testing XPath ??
+	// implementation 'commons-collections:commons-collections:3.2.1'
+	implementation 'commons-cli:commons-cli:1.5.0' // ONLY for old RecipeConverter
+	implementation 'commons-codec:commons-codec:1.15' // used by Image for decoding...
+	implementation 'org.xBaseJ:xbasej:20091203'
+	implementation 'com.ibm.icu:icu4j:70.1'
+	implementation 'net.sourceforge.nekohtml:nekohtml:1.9.22'
+	implementation 'dom4j:dom4j:1.6.1'
+	// sending emails
+	//implementation 'javax.mail:mail:1.4.5'
+	//implementation 'org.springframework:spring-context-support:3.1.1.RELEASE'
+	//implementation 'javax.activation:activation:1.1'
+	implementation 'net.sf.opencsv:opencsv:2.3'
+    // ODBC replacement for bigoven, etc.
+    implementation 'net.sf.ucanaccess:ucanaccess:5.0.1'
+	implementation 'com.healthmarketscience.jackcess:jackcess:4.0.1'
+}
+
+// FIX: used for a few @Grab in groovy test scripts
+tasks.withType(GroovyCompile) {
+    groovyClasspath += configurations.ivy
+}

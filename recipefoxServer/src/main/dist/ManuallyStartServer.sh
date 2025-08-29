@@ -1,0 +1,1 @@
+nohup java -Dlogging.path=logs  -Djava.io.tmpdir=tmp -server -jar recipefoxServer.jar &

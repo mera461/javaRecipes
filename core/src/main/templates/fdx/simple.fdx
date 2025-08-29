@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdx Source="Living Cookbook 2.0" FileVersion="1.2" date="${new Date().format('yyyy-MM-dd')}">
+<Recipes>
+<% def id = 0
+ for (def recipe : allRecipes) {
+ id++
+// -------------------------- FOR EACH RECIPE ----------------------------
+// ------ FILESOURCE ---------
+ if (recipe.fileSource) {
+ %><!-- Original file: ${recipe.fileSource} -->
+<% }
+// ------ RECIPE HEADER ---------
+ %>
+<Recipe ID="$id"
+        Name="${recipe.title.escapeXml()}"
+        Servings="${recipe.servings}"
+<% // ------ COMMENTS ---------
+if (recipe.description) {
+ %>        Comments="${recipe.description.escapeXml()}"
+<% }
+// ------ PREPARATION TIME ---------
+if (recipe.preparationTime > 0) {
+ %>        PreparationTime="${recipe.preparationTime}"
+<% }
+// ------ TOTAL TIME ---------
+if (recipe.totalTime > 0) {
+ %>        ReadyInTime="${recipe.totalTime}"
+<% }
+// ------ COOKING TIME ---------
+if (recipe.cookTime > 0) {
+ %>        CookingTime="${recipe.cookTime}"
+<% }
+// ------ RECIPETYPE/CATEGORIES/etc. ---------
+if (recipe.categories || recipe.cuisine) {
+    def recipetypes = recipe.getCategoriesAsString().replace(';', ',')
+    if (recipe.cuisine) {
+      recipetypes = (recipetypes ? "$recipetypes, " : "") + recipe.cuisine
+    } 
+ %>        RecipeTypes="${recipetypes.escapeXml()}"
+<% }
+// ------ SOURCE ---------
+if (recipe.source) {  
+ %>        Source="${recipe.source.escapeXml()}"
+<% } 
+// ------ COPYRIGHT ---------
+if (recipe.copyright) {  
+ %>        Copyright="${recipe.copyright.escapeXml()}"
+<% }
+// ------ WEBPAGE ---------
+if (recipe.url) { 
+ %>        WebPage="${recipe.url.escapeXml()}"
+<% }
+// ------ YIELD ---------
+if (recipe.yield.length() > 0) { 
+ %>        Yield="${recipe.yield.escapeXml()}"
+<% }
+// ------ END OF RECIPE HEADER ---------
+ %>>
+<% // ------ INGREDIENTS ---------
+if (recipe.ingredients) {
+ %>  <RecipeIngredients>
+<%
+for (def ingr : recipe.ingredients) {
+  def unit = (ingr.hasAmount() && ingr.amount > 1) ? ingr.unit.pluralize() : ingr.unit?.name
+  unit = unit ?: ""
+  def ingredient = (ingr.hasIngredient() ? ingr.ingredient.name : '') + (ingr.hasProcessing() ? " -- ${ingr.processing}" : '')
+  def heading = ingr.type == net.sf.recipetools.javarecipes.model.RecipeIngredient.TYPE_SUBTITLE ? "Y" : "N" 
+ %>    <RecipeIngredient Quantity="${ingr.hasAmount() ? ingr.amount.formatNumber() : ''}"
+                      Unit="$unit"
+                      Ingredient="$ingredient"
+                      Heading="$heading" />
+<% }
+ %>  </RecipeIngredients> 
+<% }
+// ------ DIRECTIONS ---------
+if (recipe.directions) {
+ %>  <RecipeProcedures>
+<%
+for (int i=0; i<recipe.directions.size(); i++) {
+ %>    <RecipeProcedure Heading="N"> 
+      <ProcedureText>${recipe.directions[i].escapeXml()}
+      </ProcedureText> 
+<% if (recipe.getDirectionImage(i)) {
+ %>      <ProcedureImage xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64" FileType="${recipe.getDirectionImage(i).imageType}">${recipe.getDirectionImage(i).encodeAsBase64()}</ProcedureImage>
+<% }
+ %>    </RecipeProcedure> 
+<% }
+ %>  </RecipeProcedures>
+<% }
+// ------ TIPS ---------
+if (recipe.wine || recipe.servingIdeas) {
+ %>    <RecipeTips>
+<% // ------ WINE ---------
+if (recipe.wine) {
+ %>      <RecipeTip>Wine is: ${recipe.wine.escapeXml()}
+      </RecipeTip>
+<% }
+// ------ SERVING IDEAS ---------
+if (recipe.servingIdeas) {
+ %>      <RecipeTip>Serving ideas: ${recipe.servingIdeas.escapeXml()}
+      </RecipeTip>
+<% }
+ %>    </RecipeTips>
+<% }
+// ------ RECIPE IMAGE ---------
+if (recipe.images) {
+ %>  <RecipeImage xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64" FileType="${recipe.images[0].imageType}">${recipe.images[0].encodeAsBase64()}</RecipeImage>
+<% }
+ %>
+<% // TODO: Notes, AltSource, AltTime, Ratings %>
+</Recipe>
+<% }
+// -------------------------- END FOR EACH RECIPE ----------------------------
+%></Recipes>
+</fdx>

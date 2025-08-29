@@ -1,0 +1,64 @@
+                      
+* Exported from MasterCook *
+
+                                TitleField
+
+Recipe By     :AuthorField
+Serving Size  : 111   Preparation Time :1:17
+Categories    : Category1                       Catgeory2
+
+  Amount  Measure       Ingredient -- Preparation Method
+--------  ------------  --------------------------------
+  1                can  Ingredient -- Preparation
+  2        tablespoons  sugar -- preparation-2
+
+Direction-1
+
+Direction-2
+
+Description:
+  "DescriptionField"
+Cuisine:
+  "Cuisine"
+Source:
+  "SourceField"
+S(URL):
+  "AltSourceFIeld"
+Copyright:
+  "CopyrightField"
+Yield:
+  "222 Yieldunit"
+Start to Finish Time:
+  "1:18"
+T(baking time):
+  "1:19"
+Ratings : Cholesterol Rating 3 Complete Meal 2
+Complexity 1 Cost 1
+Fanciness 4 Fat Content 5
+Looks 3 Serving Temperature 7
+  
+                                    - - - - - - - - - - - - - - - - - - - 
+
+Per Serving (excluding unknown items): 1 Calories; 0g Fat (0.0% calories
+from fat); 0g Protein; trace Carbohydrate; 0g Dietary Fiber; 0mg
+Cholesterol; trace Sodium.  Exchanges: 0 Other Carbohydrates.
+
+Suggested Wine: WineField
+
+Serving Ideas : ServingIdeasFIeld
+
+SI line 2
+SI line 3
+
+SI line 4
+
+NOTES : NotesField....
+NF line 2
+
+NF line 3
+
+NF line 4
+NF line 5
+
+Nutr. Assoc. : 0 0
+

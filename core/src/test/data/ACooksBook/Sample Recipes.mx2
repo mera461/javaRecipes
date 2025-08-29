@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!--DOCTYPE mx2 SYSTEM "mx2.dtd"-->
+<mx2 source="MasterCook" date="Nov 7, 2013">
+    <summ>
+        <nam>9-inch Single-crust Pie Crust</nam>
+        <nam>Apple Bundles</nam>
+        <nam>BBQ Sauce</nam>
+        <nam>BBQ Shrimp</nam>
+        <nam>Blueberry Cake (Cottage Pudding)</nam>
+        <nam>Broccoli Quiche</nam>
+        <nam>Bus Stop Shrimp</nam>
+        <nam>Cheddar Cheese Empanadas</nam>
+        <nam>Cherry Pie Mix Dessert</nam>
+        <nam>Chicken Paprikas</nam>
+        <nam>Curried Puffs with Parmesan and Chives</nam>
+        <nam>Jungle Curry Paste (Krung Kaeng Pha)</nam>
+        <nam>Lemon Soy Dipping Sauce</nam>
+        <nam>Old-Fashioned Sugar Cookies</nam>
+        <nam>Pesto-garlic Meatballs</nam>
+        <nam>Soft Granola Bars</nam>
+        <nam>Spinach Spirals</nam>
+        <nam>Summertime Penne</nam>
+        <nam>Winter Fair Apple Pie</nam>
+    </summ>
+    <RcpE name="9-inch Single-crust Pie Crust" author=" Betty Crocker's Cookbook">
+        <Serv qty="6"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Pies</CatT>
+            <CatT>Pastry</CatT>
+        </CatS>
+        <IngR name="flour" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="salt" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <IngR name="shortening" unit="cup" qty="1/3" code="I"></IngR>
+        <IngR name="ice water" unit="tablespoons" qty="3" code="I"></IngR>
+        <DirS>
+            <DirT>Sift flour and salt together in a bowl.  Stir to mix.  Rub in shortening.  Form well in mixture and add ice water.  Gently mix together.  Turn onto a floured surface.  Knead lightly one or two times.  Divide dough in half.  Roll out one half for the bottom and the other for the top.  Avoid overhandling the dough.</DirT>
+        </DirS>
+        <Note>
+Per serving: 1059 Calories; 70g Fat (59% calories from fat); 13g Protein; 95g Carbohydrate; 0mg Cholesterol; 1070mg Sodium
+NOTES : The colder the ingredients are at the beginning, the more the trapped air can expand and make the crust flakier.
+_____</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)1155426461278104993392265179168768.0  Calories (27996874743622440532816085123072.0  Calories From Fat - 2.42 percent of total); 3110763793239947858389055307776.0 g Fats; 32789987565455933845815890542592.0 g Protein; 242226895746006463524639439060992.0 g Carbohydrates;  0.0 mg Cholesterol; 8570471662916939817861385289728.0 g Fiber; 123040237093897630865089644449497088.0 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Apple Bundles" author=" David Ruggerio (&quot;Little Italy&quot; Restuarant)">
+        <Serv qty="4"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Desserts</CatT>
+        </CatS>
+        <IngR name="semi-sweet chocolate" unit="ounces" qty="3" code="I"></IngR>
+        <IngR name="butter" unit="tablespoons" qty="2" code="I"></IngR>
+        <IngR name="amaretto" unit="tablespoons" qty="3" code="I"></IngR>
+        <IngR name="amaretti cookies -- crushed" unit="" qty="" code="I"></IngR>
+        <IngR name="apples" unit="cooking" qty="4" code="I"></IngR>
+        <IngR name="apricot jelly" unit="" qty="" code="I"></IngR>
+        <IngR name="puff pastry dough" unit="" qty="" code="I"></IngR>
+        <IngR name="egg wash" unit="" qty="" code="I"></IngR>
+        <DirS>
+            <DirT>Combine grated chocolate and butter.  Add amaretto and cookie crumbs.</DirT>
+            <DirT>Peel and core 4 cooking apples.  Stuff with mixture.</DirT>
+            <DirT>Heat jelly and brush all over apple.</DirT>
+            <DirT>Make egg wash out of 1 whole egg and a touch of water, beaten together.</DirT>
+            <DirT>Roll puff pastry out to 1/8 inch thick.  Use a round template to cut circles large enough to cover the apples.  Brush with egg wash inside.  Wrap apple.  Brush with egg wash on outside.  This helps it brown.</DirT>
+            <DirT>Use extra dough to make leaves and stem.  Brush these with egg wash as well.</DirT>
+            <DirT>Bake 25 minutes.</DirT>
+        </DirS>
+        <Note>NOTES : I have a more thorough recipe somewhere but this is what I jotted down while watching the TV cooking show.  (Cooking Live, #CL9115)  Use small apples as this is a rich, filling dessert.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)813.8  Calories (828.5  Calories From Fat - 101.81 percent of total); 92.1 g Fats;  1.0 g Protein;  0.1 g Carbohydrates; 244.0 mg Cholesterol;  0.0 g Fiber; 653.8 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="BBQ Sauce" author=" Charles Kankelborg (6/19/93)">
+        <Serv qty="1"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Sauces</CatT>
+            <CatT>Grill</CatT>
+        </CatS>
+        <IngR name="tomato paste" unit="ounces" qty="6" code="I"></IngR>
+        <IngR name="water" unit="ounces" qty="3" code="I"></IngR>
+        <IngR name="brown sugar" unit="tablespoons" qty="3" code="I"></IngR>
+        <IngR name="white vinegar" unit="tablespoon" qty="1" code="I"></IngR>
+        <IngR name="hot chili paste" unit="tablespoons" qty="2" code="I"></IngR>
+        <IngR name="soy sauce" unit="tablespoon" qty="1/2" code="I"></IngR>
+        <IngR name="cooking sherry" unit="tablespoons" qty="2" code="I"></IngR>
+        <IngR name="garlic" unit="cloves" qty="4" code="I"></IngR>
+        <DirS>
+            <DirT>Combine ingredients and use.</DirT>
+        </DirS>
+        <Note>Needs more sugar to brown nicely.  Try molasses.
+Also, perhaps some worcestershire sauce.
+Next time, try replacing most or all the chili paste with tabasco.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)143.1  Calories ( 7.3  Calories From Fat - 5.07 percent of total);  0.8 g Fats;  7.6 g Protein; 32.9 g Carbohydrates;  0.0 mg Cholesterol;  7.0 g Fiber; 1858.4 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="BBQ Shrimp" author="Posted to acooksbooks by Terry Pogue">
+        <Serv qty="4"></Serv>
+        <CatS>
+            <CatT>Seafood</CatT>
+        </CatS>
+        <IngR name="unsalted butter (1 stick)" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="all-purpose flour" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="" unit="" qty="" code="B"></IngR>
+        <IngR name="paprika" unit="tbsp" qty="1" code="I"></IngR>
+        <IngR name="dried rosemary" unit="tsp" qty="2" code="I"></IngR>
+        <IngR name="salt" unit="tsp" qty="2" code="I"></IngR>
+        <IngR name="each black " unit="tsp" qty="1" code="I"></IngR>
+        <IngR name="each dried thyme and oregano" unit="tsp" qty="1/2" code="I"></IngR>
+        <IngR name="dry mustard" unit="tsp" qty="1/2" code="I"></IngR>
+        <IngR name="celery seed" unit="tsp" qty="1/4" code="I"></IngR>
+        <IngR name="bay leaves " unit="" qty="3" code="I"></IngR>
+        <IngR name="" unit="" qty="" code="B"></IngR>
+        <IngR name="Melted Unsalted Butter" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="Creole Seasoning " unit="tbsp" qty="3" code="I"></IngR>
+        <IngR name="garlic " unit="tbsp" qty="2" code="I"></IngR>
+        <IngR name="Shrimp Stock" unit="cup" qty="2" code="I"></IngR>
+        <IngR name="honey" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="Worcestershire sauce" unit="tbsp" qty="1" code="I"></IngR>
+        <IngR name="tomato paste" unit="tbsp" qty="1" code="I"></IngR>
+        <IngR name="Old Bay seasoning" unit="tsp" qty="1" code="I"></IngR>
+        <IngR name="shrimp " unit="lbs" qty="1" code="I"></IngR>
+        <IngR name="scallions " unit="tbsp" qty="2" code="I"></IngR>
+        <IngR name="" unit="" qty="" code="B"></IngR>
+        <DirS>
+            <DirT>Preheat oven to 350</DirT>
+            <DirT>Melt butter in an ovenproof saute pan over medium heat. Whisk in  </DirT>
+            <DirT>flour to combine and place the pan on the middle rack of the oven.  </DirT>
+            <DirT>Cook roux for 30 minutes, whisking every 10 minutes. When it's the  </DirT>
+            <DirT>color of peanut butter, remove it from the oven and set aside.  </DirT>
+            <DirT>Increase oven to 425.</DirT>
+            <DirT>Combine all ingredients for the seasoning mixture.</DirT>
+            <DirT>Saute 3 T. Creole Seasoning and garlic in butter in a large saucepan  </DirT>
+            <DirT>over medium heat.</DirT>
+            <DirT>Add the stock or clam juice, honey, Worcestershire, tomato paste, and  </DirT>
+            <DirT>Old Bay. Bring to a boil over medium-high heat, then whisk in roux 1  </DirT>
+            <DirT>T. at a time (you'll only need about 3 T. Freeze extra roux to use  </DirT>
+            <DirT>later). The sauce should be the consistency of maple syrup.</DirT>
+            <DirT>Pour sauce over shrimp arranged in a single layer in a shallow baking  </DirT>
+            <DirT>dish. Bake 6?8 minutes, or until shrimp is just firm.</DirT>
+            <DirT>Garnish with scallions. To eat, peel the shrimp by hand. Serve with  </DirT>
+            <DirT>French bread to sop up the sauce.</DirT>
+        </DirS>
+        <Srce>Cuisine at Home, Oct. 22, 2006</Srce>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)6813525416903668773383337597206528.0  Calories (1699953034029621243347035637153792.0  Calories From Fat - 24.95 percent of total); 188883672596937150797900270272512.0 g Fats; 227498407414543082533693132111872.0 g Protein; 1307996768276093962053543650131968.0 g Carbohydrates;  0.0 mg Cholesterol; 267589153615239464238501656002560.0 g Fiber; 189435625958840602320805496482693120.0 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Blueberry Cake (Cottage Pudding)" author=" Carolyn Cochrane">
+        <Serv qty="1"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Cakes</CatT>
+            <CatT>Cochrane</CatT>
+            <CatT>Cakes</CatT>
+            <CatT>Cochrane Family Recipes</CatT>
+        </CatS>
+        <IngR name="flour" unit="cup" qty="1 3/4" code="I"></IngR>
+        <IngR name="baking powder" unit="tsp" qty="2" code="I"></IngR>
+        <IngR name="salt" unit="tsp" qty="1/2" code="I"></IngR>
+        <IngR name="egg" unit="" qty="1" code="I"></IngR>
+        <IngR name="butter or shortening" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="sugar" unit="cup" qty="3/4" code="I"></IngR>
+        <IngR name="milk" unit="cup" qty="3/4" code="I"></IngR>
+        <IngR name="vanilla" unit="tsp" qty="1" code="I"></IngR>
+        <IngR name="blueberries" unit="cup" qty="1" code="I"></IngR>
+        <DirS>
+            <DirT>Sift dry ingredients. Add other ingredients and beat until smooth. Add</DirT>
+            <DirT>blueberries which have been dredged in flour. Pour into greased and floured</DirT>
+            <DirT>9-inch square pan. Bake at 350 degrees for 25-30 minutes. Serve warm with</DirT>
+            <DirT>hard sauce or custard sauce.</DirT>
+        </DirS>
+        <Note>
+Per serving (excluding unknown items): 1664 Calories; 14g Fat (7% calories from fat); 36g Protein; 350g Carbohydrate; 237mg Cholesterol; 1959mg Sodium
+Serving Ideas : Top with Hard Sauce and/or Custard Sauce.
+NOTES : My mom first had blueberry cake in Stone Harbor where she went occasionally with a
+friend from high school whose family had a place there all summer. Her mother
+made this one night and it was so good I got the recipe. The secret is having
+it warm before putting on the sauce(s).
+_____</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items) 0.0  Calories ( 0.0  Calories From Fat - nan percent of total);  0.0 g Fats;  0.0 g Protein;  0.0 g Carbohydrates;  0.0 mg Cholesterol;  0.0 g Fiber;  0.0 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Broccoli Quiche" author=" Carol Kankelborg">
+        <Serv qty="6"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Cheese</CatT>
+            <CatT>Eggs</CatT>
+            <CatT>Kankelborg</CatT>
+            <CatT>Originals</CatT>
+        </CatS>
+        <IngR name="pie crust" unit="(9)-inch" qty="1" code="I"></IngR>
+        <IngR name="eggs" unit="" qty="5" code="I"></IngR>
+        <IngR name="cottage cheese" unit="pint" qty="1" code="I"></IngR>
+        <IngR name="cheddar cheese" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="green chile" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="onion" unit="" qty="1" code="I"></IngR>
+        <IngR name="fresh broccoli" unit="cups" qty="1 1/2" code="I"></IngR>
+        <IngR name="bacon" unit="strips" qty="5" code="I"></IngR>
+        <IngR name="white pepper" unit="teaspoon" qty="1/4" code="I"></IngR>
+        <IngR name="nutmeg" unit="teaspoon" qty="1/4" code="I"></IngR>
+        <IngR name="salt" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <IngR name="mushrooms" unit="ounces" qty="8" code="I"></IngR>
+        <IngR name="spinach" unit="ounces" qty="10" code="I"></IngR>
+        <IngR name="summer savory" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <IngR name="marjoram" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <IngR name="garlic" unit="" qty="" code="I"></IngR>
+        <DirS>
+            <DirT>Make pie crust and put in 9" pie plate.</DirT>
+            <DirT>Combine ingredients and pour into pie shell.</DirT>
+            <DirT>Bake at 350 degrees F (glass pan) for 45 minutes.</DirT>
+        </DirS>
+        <Note>
+Per serving (excluding unknown items): 411 Calories; 23g Fat (50% calories from fat); 27g Protein; 25g Carbohydrate; 210mg Cholesterol; 978mg Sodium
+NOTES : Not sure if this needs both broccoli and spinach.  Proceed with caution.
+_____</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items) 0.0  Calories ( 0.0  Calories From Fat - nan percent of total);  0.0 g Fats;  0.0 g Protein;  0.0 g Carbohydrates;  0.0 mg Cholesterol;  0.0 g Fiber;  0.0 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Bus Stop Shrimp" author="Carol Kankelborg">
+        <Serv qty="5"></Serv>
+        <PrpT elapsed="00:30"></PrpT>
+        <CatS>
+            <CatT>Original</CatT>
+            <CatT>August</CatT>
+            <CatT>Shrimp</CatT>
+        </CatS>
+        <IngR name="spaghetti" unit="oz" qty="9" code="I"></IngR>
+        <IngR name="green beans" unit="lbs" qty="1/2" code="I"></IngR>
+        <IngR name="garlic" unit="cloves" qty="2" code="I"></IngR>
+        <IngR name="butter" unit="stick" qty="1" code="I"></IngR>
+        <IngR name="shrimp" unit="pound" qty="1" code="I"></IngR>
+        <IngR name="cherry tomatoes" unit="cups" qty="1 1/2" code="I"></IngR>
+        <IngR name="slivered almonds" unit="c." qty="1/2" code="I"></IngR>
+        <IngR name="feta cheese" unit="c." qty="1/2" code="I"></IngR>
+        <IngR name="fresh parsley" unit="c." qty="1/2" code="I"></IngR>
+        <IngR name="white wine" unit="tbsp" qty="3" code="I"></IngR>
+        <IngR name="lemon juice" unit="tbsp" qty="2" code="I"></IngR>
+        <IngR name="salt" unit="tsp" qty="1/2" code="I"></IngR>
+        <IngR name="black pepper" unit="tsp" qty="1/2" code="I"></IngR>
+        <IngR name="parmesan" unit="c." qty="1/2" code="I"></IngR>
+        <DirS>
+            <DirT>Cook pasta according to package directions. Meanwhile, melt butter in skillet and saute green beans and garlic about 2 minutes. Add shrimp. Cook and stir for 5 to 7 minutes or until shrimp turn pink.</DirT>
+            <DirT>Stir in tomatoes, almonds, feta, parsley, wine or broth, lemon juice, salt, and pepper. Cook for 3 to 5 minutes or until heated through. Drain pasta and place in a serving bowl. Combine with shrimp mixture and top with parmesan cheese.</DirT>
+        </DirS>
+        <Srce>Aug. 22, 2006</Srce>
+        <Note>Recipe is adapted from "Shrimp with Style," in "Simple and Delicious " magazine, Sept/Oct 2006, p. 38. I had to pick Charles up at the bus stop around 6 so I didn't have much time to prepare dinner. The magazine had arrived that day and I used what I had on hand and in the garden to make this. It was delicious.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)300.6  Calories (21.6  Calories From Fat - 7.18 percent of total);  2.4 g Fats; 26.0 g Protein; 42.4 g Carbohydrates; 138.0 mg Cholesterol;  3.2 g Fiber; 375.5 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Cheddar Cheese Empanadas" author="">
+        <Serv qty="12"></Serv>
+        <CatS>
+            <CatT>Appetizers</CatT>
+            <CatT>Mexican</CatT>
+        </CatS>
+        <IngR name="FILLING" unit="" qty="" code="I"></IngR>
+        <IngR name="vegetable oil" unit="tablespoons" qty="2" code="I"></IngR>
+        <IngR name="onion" unit="small" qty="1" code="I"></IngR>
+        <IngR name="boiling potato, cooked til just tender" unit="large" qty="1" code="I"></IngR>
+        <IngR name="grated cheddar cheese" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="eggs" unit="hard-boiled" qty="3" code="I"></IngR>
+        <IngR name="peeled, seeded, diced, drained" unit="tomato," qty="1" code="I"></IngR>
+        <IngR name="bell pepper" unit="green" qty="1/2" code="I"></IngR>
+        <IngR name="bell pepper" unit="red" qty="1/2" code="I"></IngR>
+        <IngR name="raisins" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="pine nuts" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="frozen peas" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="prepared hot sauce" unit="tablespoons" qty="2" code="I"></IngR>
+        <IngR name="olives" unit="Greek" qty="6" code="I"></IngR>
+        <IngR name="garlic" unit="cloves" qty="3" code="I"></IngR>
+        <IngR name="minced fresh parsley" unit="tablespoons" qty="2" code="I"></IngR>
+        <IngR name="minced fresh cilantro" unit="tablespoons" qty="2" code="I"></IngR>
+        <IngR name="minced drained pimentos" unit="tablespoon" qty="1" code="I"></IngR>
+        <IngR name="crushed fennel seeds" unit="teaspoons" qty="1 1/2" code="I"></IngR>
+        <IngR name="ground cumin" unit="teaspoon" qty="3/4" code="I"></IngR>
+        <IngR name="salt" unit="" qty="to taste" code="I"></IngR>
+        <IngR name="ground pepper" unit="fresh" qty="to taste" code="I"></IngR>
+        <IngR name="WHOLE WHEAT PASTRY" unit="" qty="" code="I"></IngR>
+        <IngR name="lukewarm olive oil" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="dry white wine" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="milk" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="baking powder" unit="tablespoon" qty="1" code="I"></IngR>
+        <IngR name="salt" unit="teaspoon" qty="1" code="I"></IngR>
+        <IngR name="unbleached all-purpose flour" unit="cups" qty="4 1/4" code="I"></IngR>
+        <IngR name="whole wheat pastry flour" unit="cups" qty="2 1/2" code="I"></IngR>
+        <IngR name="GLAZE (for baking)" unit="" qty="" code="I"></IngR>
+        <IngR name="yolks" unit="egg" qty="2" code="I"></IngR>
+        <IngR name="whipping cream" unit="tablespoons" qty="2" code="I"></IngR>
+        <DirS>
+            <DirT>For Filling: Heat oil in heavy small skillet over medium-low heat.  Add onion and cook until tender, stirring occasionally, about 10 minutes. Transfer to large bowl. Mix in all remaining ingredients, crushing slightly with fork. (Can be made 1 day ahead and refrigerated.)</DirT>
+            <DirT>For pastry: Mix olive oil, wine, milk, baking powder, and salt in large bowl. Sift both flours together. Mix enough four into liquid to form soft dough. Cover and let rest 30 minutes.</DirT>
+            <DirT>Divide dough in half. Roll 1 piece out on lightly floured surface to 1/8 to 1/4-inch-thick rectangle. Cut into 3-inch squares. Place 1 Tablespoon filling in center of each square. Brush edges with water. Fold in half, enclosing filling and forming triangles. Press edges with fork to seal. Transfer to baking sheet. Repeat with remaining pastry and filling. (Can be made 6 hours ahead.  Cover and refrigerate.)</DirT>
+            <DirT>To Fry: Heat 1/2 inch oil in heavy large skillet over medium-high heat to 375 degrees F. Add empanadas in batches (do not crowd) and cook until golden brown, about 2 minutes per side. Drain on paper towels.</DirT>
+            <DirT>To Bake: Preheat oven to 325 degrees F.  Grease baking sheet; transfer empanadas to prepared sheet. Beat together egg yolks and cream.   Brush on empanadas. Bake until empanadas are golden brown, about 30 minutes.</DirT>
+            <DirT>Transfer empanadas to platter. Garnish with rosemary and serve.</DirT>
+        </DirS>
+        <Srce>Bon Appetit, May 1988</Srce>
+        <Note>Serving Ideas : Garnish with fresh rosemary sprigs.
+NOTES : Makes 4 dozen.
+It looks like an odd combination of ingredients, but these are really tasty. Had trouble making them on 3-inch square triangles.  Even larger ones for light lunches worked well. Heated them in toaster oven. I baked them in the interest of time.
+I omitted pimentos and fennel.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)327.3  Calories (60.0  Calories From Fat - 18.32 percent of total);  6.7 g Fats; 12.4 g Protein; 58.9 g Carbohydrates; 26.0 mg Cholesterol;  2.0 g Fiber; 3323.8 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Cherry Pie Mix Dessert" author=" Edith Davis">
+        <Serv qty="1"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Cakes</CatT>
+            <CatT>Cochrane</CatT>
+            <CatT>Cakes</CatT>
+            <CatT>Cochrane Family Recipes</CatT>
+        </CatS>
+        <IngR name="cherry pie filling" unit="can" qty="2" code="I"></IngR>
+        <IngR name="yellow cake mix" unit="box" qty="1" code="I"></IngR>
+        <IngR name="slivered almonds" unit="" qty="" code="I"></IngR>
+        <IngR name="butter" unit="lbs" qty="1/4" code="I"></IngR>
+        <DirS>
+            <DirT>Dump pie filling in buttered sheet cake pan, 9" square pan, or 7x11" glass pan.  Spread dry cake mix evenly over top.  Sprinkle with almonds and pour melted butter over all of it.</DirT>
+            <DirT>Bake for 1 hour at 350 degrees F.  Serve with any topping.</DirT>
+        </DirS>
+        <Note>
+Per serving: 4206 Calories; 154g Fat (32% calories from fat); 29g Protein; 699g Carbohydrate; 259mg Cholesterol; 4428mg Sodium
+NOTES : Variations from Michelle Larson: Add coconut to topping (1 part coconut to 1 part nuts) and/or use walnuts instead of almonds.
+_____</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items) 0.0  Calories ( 0.0  Calories From Fat - nan percent of total);  0.0 g Fats;  0.0 g Protein;  0.0 g Carbohydrates;  0.0 mg Cholesterol;  0.0 g Fiber;  0.0 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Chicken Paprikas" author="">
+        <Serv qty="4"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Main</CatT>
+            <CatT>Dishes</CatT>
+            <CatT>Poultry</CatT>
+        </CatS>
+        <IngR name="boneless chicken breast halves" unit="large" qty="4" code="I"></IngR>
+        <IngR name="all-purpose flour" unit="" qty="" code="I"></IngR>
+        <IngR name="salt" unit="" qty="" code="I"></IngR>
+        <IngR name="pepper" unit="" qty="" code="I"></IngR>
+        <IngR name="olive oil" unit="tablespoons" qty="3" code="I"></IngR>
+        <IngR name="peppers" unit="bell" qty="2" code="I"></IngR>
+        <IngR name="onion" unit="medium" qty="1/2" code="I"></IngR>
+        <IngR name="garlic cloves" unit="large" qty="4" code="I"></IngR>
+        <IngR name="sweet Hungarian Paprika" unit="teaspoons" qty="5" code="I"></IngR>
+        <IngR name="hot Hungarian Paprika" unit="teaspoon" qty="1/4" code="I"></IngR>
+        <IngR name="chicken broth" unit="cups" qty="1 1/4" code="I"></IngR>
+        <IngR name="plum tomatoes" unit="large" qty="4" code="I"></IngR>
+        <IngR name="tomato paste" unit="tablespoon" qty="1" code="I"></IngR>
+        <DirS>
+            <DirT>Season chicken with salt &amp; pepper.  Coat with flour, shaking off excess.  heat oil in heavy large skillet over hight heat.  Add chicken to skillet and saute until brown and crisp, about 4 minutes per side.  Transfer chicken to a plate.  Add bell peppers, onion and garlic to skillet and saute 5 minutes.  Reduce heat to low.  Add both paprikas and stir 2 minutes.  Mix in broth, tomatoes, and tomato paste.  Return chicken to skillet.  Bring liquids to simmer.  Cover skillet and simmer gently until chicken is just cooked through, about 8 minutes.</DirT>
+            <DirT>Transfer chicken to platter; keep warm.  Increase heat to high and boil until sauce coats spoon thickly, about 8 minutes.  Season with salt and pepper.  Spoon sauce over chicken.</DirT>
+        </DirS>
+        <Srce>Bon Appetit, October 1993</Srce>
+        <Note>Serving Ideas : Serve over egg noodles tossed with butter &amp; poppy seeds.
+
+I prepared up to adding the paprika, then transferred to a slow cooker that had been preheated and let it simmer for 40 mins. covered. I forgot to reduce sauce. It was still great.
+
+NOTES : Quite simple and delicious.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)92.9  Calories (91.3  Calories From Fat - 98.32 percent of total); 10.1 g Fats;  0.2 g Protein;  0.8 g Carbohydrates;  0.0 mg Cholesterol;  0.2 g Fiber; 32.5 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Curried Puffs with Parmesan and Chives" author="">
+        <Serv qty="6"></Serv>
+        <CatS>
+            <CatT>Breads</CatT>
+            <CatT></CatT>
+            <CatT>Other</CatT>
+        </CatS>
+        <IngR name="unsalted butter" unit="stick" qty="1" code="I"></IngR>
+        <IngR name="curry powder" unit="teaspoon" qty="1" code="I"></IngR>
+        <IngR name="salt" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <IngR name="cayenne pepper" unit="teaspoon" qty="1/4" code="I"></IngR>
+        <IngR name="water" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="all-purpose flour" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="eggs" unit="large" qty="4" code="I"></IngR>
+        <IngR name="freshly grated Parmesan" unit="cups" qty="1 1/2" code="I"></IngR>
+        <IngR name="snipped fresh chives or green onion" unit="tablespoon" qty="1" code="I"></IngR>
+        <DirS>
+            <DirT>Melt butter in heavy medium saucepan over medium-high heat.  Add curry and stir until aromatic, about 30 seconds.  Add salt, cayenne, and then water and bring to boil.  Add flour all at once, stirring constantly.  cook until dough thickens and begins to pull away from sides of pan, about 1 minute.  Continue cooking for 1 minutes, stirring constantly. Transfer dough to food processor.  Let stand 5 minutes. With machine running, add eggs 1 at a time, blending well after each addition. Blend in cheese and chives. Transfer dough to bowl.  (Can be prepared 2 days ahead.  Cool, cover and refrigerate.)</DirT>
+            <DirT>Preheat oven to 375?F.  butter 2 large baking sheets.  Drop dough by heaping tablespoonfuls onto prepared sheets, spacing evenly apart.  Bake until puffed and light brown, about 4 minutes.  Pierce puffs with toothpick to allow steam to escape.  Bake 5 minutes.  Serve hot or at room temperature.</DirT>
+        </DirS>
+        <Srce>Bon Appetit, May 1989</Srce>
+        <Note>Serving Ideas : Smoked Turkey and Lentil Soup
+NOTES : Makes about 16.
+Goes excellently with Smoked Turkey and Lentil Soup.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)1214.5  Calories (29.8  Calories From Fat - 2.46 percent of total);  3.3 g Fats; 34.5 g Protein; 254.6 g Carbohydrates;  0.0 mg Cholesterol;  9.1 g Fiber; 3163.2 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Jungle Curry Paste (Krung Kaeng Pha)" author="Ron West">
+        <Serv qty="Yields about 1 1/3 cups."></Serv>
+        <CatS>
+            <CatT>Thai</CatT>
+            <CatT>Curries</CatT>
+            <CatT>Thai</CatT>
+            <CatT>Curries RonWest</CatT>
+        </CatS>
+        <IngR name="Dried Japanese Chilies" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="Shrimp Paste (Kapi)" unit="tbsp" qty="1" code="I"></IngR>
+        <IngR name="Fresh Lemon Grass" unit="large stalk" qty="1" code="I"></IngR>
+        <IngR name="Chopped Fresh Cilantro Stems" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="Fresh Lesser Siamese Ginger (krachai sod)" unit="tbsp" qty="6" code="I"></IngR>
+        <IngR name="Chopped Shallots" unit="cup" qty="2/3" code="I"></IngR>
+        <IngR name="Fresh Serrano Chilies" unit="med" qty="10" code="I"></IngR>
+        <IngR name="Fresh Thai Chilies (phrik khee nu)" unit="sm" qty="6" code="I"></IngR>
+        <IngR name="Mixed Fresh Herbs:" unit="" qty="" code="I"></IngR>
+        <IngR name="Fresh Italian Basil" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="Fresh Thai Basil (bai horapha)" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="Fresh Tarragon" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="Fresh Chives" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="Fresh Arugula" unit="cup" qty="1/4" code="I"></IngR>
+        <DirS>
+            <DirT>Notes: For the lemon grass ? Remove and discard the tough outer leaves, trim the lower stalk to 3-inches and thinly slice. For the lesser Siamese ginger ? Dried lesser Siamese ginger is also known as ?dried rhizome powder.?</DirT>
+            <DirT>Stem the Japanese chilies and remove seeds. Cut chilies in small pieces and place in a bowl; cover with water. Soak for at least 30 minutes.</DirT>
+            <DirT>Set a wok or skillet over medium heat. Place the shrimp paste package in and cook for about 5 minutes, turning once or twice and becomes aromatic. Remove and cool completely.</DirT>
+            <DirT>Combine the lemon grass, cilantro stems, and lesser Siamese ginger in a large heavy mortar and pound for a minute or so to break down fibers. Transfer the crushed mixture to the work bowl of a food processor fitted with the metal blade.</DirT>
+            <DirT>Pound the shallots in the mortar just until crushed and add the serrano and Thai chilies. Pound until the chilies are smashed and blended with shallots. Transfer the mixture to the work bowl.</DirT>
+            <DirT>Unwrap the shrimp paste and add it to the work bowl.</DirT>
+            <DirT>Drain the chilies, reserving the soaking liquid. Add chilies to work bowl.</DirT>
+            <DirT>Process until the mixture is well blended but still coarse. Add the mixed herbs and process until a rich, moist paste forms, scrape down bowl side as needed. Add small amounts of the chili soaking liquid as needed to ease processing (do not add more than is required).</DirT>
+            <DirT>The paste can be refrigerated in an airtight container refrigerated for 1 week, or frozen up to 1 month.</DirT>
+        </DirS>
+        <Srce>acooksbooks, 6/12/2006</Srce>
+        <Note>In the wilds of northern Thailand, people gather herbs, leafy greens, edible flowers, and young shoots and vines throughout the day. At evening, these become dinner ingredients for a robust curry.
+
+Jungle curry paste is wild in another sense, as well. With three different types of chili adding heat, it is most certainly the hottest curry paste in Thai cuisine. Yet liberal quantities of sweet, pungent greens ? such as Italian and Thai basils, tarragon, chives, and arugula ? make it as intensely herbal in flavor as it is hot in character.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items) nan  Calories ( nan  Calories From Fat - nan percent of total);  nan g Fats;  nan g Protein;  nan g Carbohydrates;  nan mg Cholesterol;  nan g Fiber;  nan mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Lemon Soy Dipping Sauce" author="Ron West">
+        <CatS>
+            <CatT>Japanese</CatT>
+        </CatS>
+        <IngR name="soy sauce " unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="fresh lemon juice " unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="mirin " unit="tbsp" qty="2" code="I"></IngR>
+        <IngR name="water
+" unit="tbsp" qty="3" code="I"></IngR>
+        <IngR name="rice vinegar " unit="tbsp" qty="2" code="I"></IngR>
+        <DirS>
+            <DirT>In a small bowl, combine all ingredients.</DirT>
+            <DirT>This is best if you allow to marinate for an hour or more.</DirT>
+        </DirS>
+        <Srce>acooksbooks, 6/18/2006</Srce>
+        <Note>Great with Tempura fried vegetables and seafoods.</Note>
+        <Nutr>Nutrition Summary by Recipe (Excluding Unknown Items) 0.0  Calories ( 0.0  Calories From Fat - nan percent of total);  0.0 g Fats;  0.0 g Protein;  0.0 g Carbohydrates;  0.0 mg Cholesterol;  0.0 g Fiber;  0.0 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Old-Fashioned Sugar Cookies" author=" Carolyn Cochrane">
+        <Serv qty="36"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Cookies</CatT>
+            <CatT>Cochrane</CatT>
+            <CatT>Cookies</CatT>
+            <CatT>Cochrane Family Recipes</CatT>
+        </CatS>
+        <IngR name="all-purpose flour" unit="cup" qty="3" code="I"></IngR>
+        <IngR name="baking soda" unit="tsp" qty="1/2" code="I"></IngR>
+        <IngR name="baking powder" unit="tsp" qty="1/2" code="I"></IngR>
+        <IngR name="butter" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="eggs" unit="" qty="2" code="I"></IngR>
+        <IngR name="sugar" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="vanilla" unit="tsp" qty="1" code="I"></IngR>
+        <DirS>
+            <DirT>Sift flour, baking soda, and baking powder together into mixing bowl.  At low speed of mixer, cut butter into dry ingredients until it resembles cornmeal.</DirT>
+            <DirT>In a small mixing bowl, beat eggs lightly;  gradually beat in sugar and vanilla flavoring.  Beat thoroughly.  Blend egg mixture into flour mixture.  Chill dough.</DirT>
+            <DirT>On lightly floured surface roll dough to 1/8" thickness; cut with floured cookie cutters to size and shape desired.  With a wide spatula lift to baking sheet.  Sprinkle with colored sugar.</DirT>
+            <DirT>Bake in pre-heated 375 degree oven for 6-8 minutes or until lightly browned at base.  Lift at once.</DirT>
+        </DirS>
+        <Note>
+Per serving: 109 Calories; 5g Fat (45% calories from fat); 1g Protein; 14g Carbohydrate; 26mg Cholesterol; 78mg Sodium
+NOTES : Some like these thick and chewy, others like them thin and crisp.  (I like the former.)
+Yield: 6 dozen
+Variation:
+Cut out circles.  Place one on cookie sheet.  Put a dollop of Date Filling in center. Cover with a second circle and press down around the edges.  Cook according to directions.
+_____</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items) 0.0  Calories ( 0.0  Calories From Fat - nan percent of total);  0.0 g Fats;  0.0 g Protein;  0.0 g Carbohydrates;  0.0 mg Cholesterol;  0.0 g Fiber;  0.0 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Pesto-garlic Meatballs" author="">
+        <Serv qty="6"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Beef</CatT>
+        </CatS>
+        <IngR name="lean ground beef" unit="pound" qty="1" code="I"></IngR>
+        <IngR name="eggs" unit="" qty="2" code="I"></IngR>
+        <IngR name="garlic" unit="cloves" qty="2" code="I"></IngR>
+        <IngR name="pesto paste" unit="tablespoon" qty="1" code="I"></IngR>
+        <IngR name="parsley" unit="tablespoon" qty="1" code="I"></IngR>
+        <IngR name="bread crumbs" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="milk" unit="cup" qty="1/8" code="I"></IngR>
+        <IngR name="Worcestershire sauce" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <IngR name="onion powder" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <IngR name="salt" unit="teaspoon" qty="1" code="I"></IngR>
+        <IngR name="pepper" unit="teaspoon" qty="1/2" code="I"></IngR>
+        <DirS>
+            <DirT>Preheat oven to 375? F.  Mix ingredients in a bowl.  Wet hands and roll into 1" balls.  Place on greased baking sheet &amp; bake 10 minutes.  Toss with buttered pasta or rice.</DirT>
+        </DirS>
+        <Note>
+NOTES : Yield: 24 meatballs.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items) 5.9  Calories ( 1.6  Calories From Fat - 27.99 percent of total);  0.2 g Fats;  0.3 g Protein;  0.9 g Carbohydrates;  0.5 mg Cholesterol;  0.1 g Fiber; 395.7 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Soft Granola Bars" author=" countrybulk.com">
+        <Serv qty="14"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <IngR name="Quick-cooking oats" unit="cups" qty="3" code="I"></IngR>
+        <IngR name="brown sugar" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="wheat germ" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="butter" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="corn syrup" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="honey" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="chocolate chips" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="raisins" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="coconut" unit="cup" qty="1/2" code="I"></IngR>
+        <DirS>
+            <DirT>Combine oats, sugar, and wheat germ.  Cut in the butter until the mixture is crumbly.  Stir in the corn syrup and honey.  Add the chocolate chips, raisins, and coconut.  Press into greased 11x7" pan.  Bake at 350 F oven for 20 to 25 minutes.  Let cool 10 minutes then cut into bars.</DirT>
+        </DirS>
+        <Note>
+Per serving: 233 Calories; 10g Fat (37% calories from fat); 4g Protein; 35g Carbohydrate; 18mg Cholesterol; 76mg Sodium
+_____</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)250.4  Calories (126.0  Calories From Fat - 50.31 percent of total); 14.0 g Fats;  2.4 g Protein; 32.4 g Carbohydrates; 34.9 mg Cholesterol;  1.5 g Fiber; 96.5 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Spinach Spirals" author="">
+        <Serv qty="7"></Serv>
+        <PrpT elapsed="00:15"></PrpT>
+        <CatS>
+            <CatT>Breads</CatT>
+            <CatT>Services Import</CatT>
+        </CatS>
+        <IngR name="(10 ounces) frozen chopped spinach" unit="pkg" qty="1" code="I"></IngR>
+        <IngR name="(4 ounces) shredded Monterey Jack cheese" unit="cup" qty="1" code="I"></IngR>
+        <IngR name="egg" unit="" qty="1" code="I"></IngR>
+        <IngR name="dried minced onion" unit="tbsp" qty="2" code="I"></IngR>
+        <IngR name="tube (13.8 ounces) refrigerated pizza crust" unit="" qty="1" code="I"></IngR>
+        <IngR name="butter" unit="tbsp" qty="1" code="I"></IngR>
+        <IngR name="grated Parmesan cheese" unit="tbsp" qty="2" code="I"></IngR>
+        <DirS>
+            <DirT>In a small bowl, combine the spinach, Monterey Jack cheese, egg and onion. On a baking sheet coated with nonstick cooking spray, roll pizza dough into a 14-in. x 10-in. rectangle; seal any holes. Spread spinach mixture to within 1/2 in. of edges.</DirT>
+            <DirT>Roll up jelly-roll style, starting with a long side; seal ends and place seam side down. Brush with butter; sprinkle with Parmesan cheese. Bake at 400 for 25-27 minutes or until golden brown. Slice and serve warm.</DirT>
+        </DirS>
+        <Srce>Quick Cooking, Jan/Feb 2006, page p.44</Srce>
+        <AltT label="cooking time" elapsed="00:25"></AltT>
+        <Note>I made this with biscuit dough instead of yeast and it was great. Also, sauteed fresh spinach and  onions.</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)14.5  Calories (14.8  Calories From Fat - 101.81 percent of total);  1.6 g Fats;  0.0 g Protein;  0.0 g Carbohydrates;  4.4 mg Cholesterol;  0.0 g Fiber; 11.7 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Summertime Penne" author=" Sarah Walker, Venice, CA">
+        <Serv qty="4"></Serv>
+        <PrpT elapsed="00:00"></PrpT>
+        <CatS>
+            <CatT>Italian</CatT>
+            <CatT>Pasta</CatT>
+            <CatT>MGD</CatT>
+        </CatS>
+        <IngR name="feta cheese" unit="ounces" qty="8" code="I"></IngR>
+        <IngR name="olive oil" unit="teaspoon" qty="1" code="I"></IngR>
+        <IngR name="olive oil" unit="cup" qty="1/3" code="I"></IngR>
+        <IngR name="bell pepper" unit="red" qty="3" code="I"></IngR>
+        <IngR name="penne" unit="pound" qty="1" code="I"></IngR>
+        <IngR name="garlic" unit="cloves" qty="6" code="I"></IngR>
+        <IngR name="basil" unit="cup" qty="1/2" code="I"></IngR>
+        <IngR name="salt -- to taste" unit="" qty="" code="I"></IngR>
+        <IngR name="pepper -- to taste" unit="" qty="" code="I"></IngR>
+        <IngR name="mild italian sausage" unit="pound" qty="1/2" code="I"></IngR>
+        <DirS>
+            <DirT>Remove feta from refrigerator, allow to come to room temperature.  Add 1 t. of olive oil to large pan of water and heat.  Peel roasted pepper under running under cold water. Remove core and cut into strips about 1.5 inches long.  Add pasta to water when boiling, to prevent sticking.  Heat 1/3 c. olive oil in a small pan over moderate heat.  Add garlic and cook, stirring occationally, until garlic turns golden color.</DirT>
+            <DirT>When cooked, drain pasta and place in large shallow bowl.  Add garlic and oil and toss quickly.  Crumble feta into bowl and add the bell peper and basil.  Season with salt and peppe and serve immediately.</DirT>
+        </DirS>
+        <Note>
+Per serving (excluding unknown items): 361 Calories; 32g Fat (76% calories from fat); 10g Protein; 12g Carbohydrate; 50mg Cholesterol; 638mg Sodium
+NOTES : A 1993 finalist recipe from Gilroy Garlic Festival.  From S.J. Mercury News, 7/21/93.
+The sausage is my own addition.  Is a generous 4 servings.
+Can roast pepper and crumble feta in advance.
+_____</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)12.4  Calories ( 1.4  Calories From Fat - 10.99 percent of total);  0.2 g Fats;  0.8 g Protein;  2.4 g Carbohydrates;  0.0 mg Cholesterol;  0.9 g Fiber;  1.6 mg Sodium</Nutr>
+    </RcpE>
+    <RcpE name="Winter Fair Apple Pie" author="Carol Kankelborg">
+        <Serv qty="6 to 8"></Serv>
+        <CatS>
+            <CatT>Pies</CatT>
+            <CatT>Winter Fair</CatT>
+            <CatT>MGD</CatT>
+        </CatS>
+        <IngR name="9-inch Double-crust Pie Crust" unit="recipe" qty="1" code="I"></IngR>
+        <IngR name="cinnamon stick" unit="inch" qty="1/2" code="I"></IngR>
+        <IngR name="nutmeg" unit="whole" qty="1/6 whole" code="I"></IngR>
+        <IngR name="allspice" unit="berries" qty="7" code="I"></IngR>
+        <IngR name="sugar" unit="cup" qty="3/4" code="I"></IngR>
+        <IngR name="all-purpose flour" unit="cup" qty="1/4" code="I"></IngR>
+        <IngR name="salt" unit="dash" qty="1" code="I"></IngR>
+        <IngR name="apples" unit="cups" qty="6" code="I"></IngR>
+        <IngR name="butter or margarine" unit="tablespoons" qty="2" code="I"></IngR>
+        <DirS>
+            <DirT>Preheat oven to 425 degrees F.</DirT>
+            <DirT>Make pie crust and line 9" pie plate.  Grind spices in a spice grinder. Mix sugar, flour, spices, and salt.  Peel, core, and slice apples.  Pour sugar mixture over apples and toss to coat.  Turn mixture into pie plate.  Dot with butter.  Cover with top crust.  Prick with fork.   Cover edge with a 3-inch strip of aluminum foil; remove foil during last 15 minutes of baking.</DirT>
+            <DirT>Bake until crust is brown and juice begins to bubble through slits in crust, 40 to 50 minutes.</DirT>
+        </DirS>
+        <Srce>Feb. 2000</Srce>
+        <TTim elapsed="02:00"></TTim>
+        <AltT label="cooking time" elapsed="00:40"></AltT>
+        <RatS>
+            <RatT name="Overall Rating" value=""></RatT>
+        </RatS>
+        <Note>Serving Ideas : Bake-off
+NOTES : For best flavor, use a variety of apples.  The best are McIntosh, Golden Delicious, and Gala.  Next are Rome Beauty and Jonagold. 1 pound of apples = 3 medium = 3 cups sliced
+For best texture, use thick slices of apples and lay them in pie plate for best filling factor.
+
+
+2000
+NOTES : Based off of Fresh Apple Pie recipe from Betty Crocker's Cookbook, p. 295.
+For best flavor, use a variety of apples.  The best are McIntosh, Golden Delicious, and Gala.  Next are Rome Beauty and Jonagold.
+For best texture, use thick slices of apples and lay them in pie plate for best filling factor.
+1 pound of apples = 3 medium = 3 cups sliced
+Perhaps experiment with a flavored pie crust.
+
+Serving Ideas : Bake-off
+NOTES : For best flavor, use a variety of apples.  The best are McIntosh, Golden Delicious, and Gala.  Next are Rome Beauty and Jonagold. 1 pound of apples = 3 medium = 3 cups sliced
+For best texture, use thick slices of apples and lay them in pie plate for best filling factor.
+Results: Third Place.
+Appearance: 16/20
+Fillings:        18/20
+Crust:          18/20
+Flavor:         38/40
+Total:           90
+
+2001
+This year: 1 golden delicious, 1 granny smith, 1 braeburn, 1 rome beauty.
+Used design from Better Homes &amp; Garden example.
+Results:
+Appearance: 18/20
+Fillings:        15/20
+Crust:          18/20
+Flavor:         30/40
+Total:           81
+Comments: Nice appearance.
+
+2002
+Serving Ideas : Bake-off
+NOTES : For best flavor, use a variety of apples.   Macintosh: loses flavor upon heating, don't use. Granny Smith, G. Delicious: Keep shape when baked. 1 pound of apples = 3 medium = 3 cups sliced
+Design: 1 center circle, 6 radial circles, radial lines cut between circles.
+For best texture, use thick slices of apples and lay them in pie plate for best filling factor.
+This year: 1 golden delicious, 2 jonathan, 1 braeburn, 1 granny smith, 1 fuji (2.25 lbs)
+Results:  Second
+Appearance:  19/20
+Fillings:         19/20
+Crust:           20/20
+Flavor:          39/40
+Total:            97
+Comments:  Filling not quite full enough.  Try steaming apples ahead of time [no gap
+under crust]
+For bake-off:
+1 gol. delicious, 1 gry smith, 2 jonathan, 2 braeburn, 1 fuji (2.75 lbs),
+about 8 cups apples.  Lay in pie pan carefully for best filling.
+Results:  First
+Appearance:  20/20
+Fillings:        20/20
+Crust:          20/20
+Flavor:         40/40
+Total:           100
+Comments: Some apples not done?</Note>
+        <Nutr>Nutrition Summary by Serving (Excluding Unknown Items)390.1  Calories ( 0.0  Calories From Fat - 0.00 percent of total);  0.0 g Fats;  0.0 g Protein; 100.8 g Carbohydrates;  0.0 mg Cholesterol;  0.0 g Fiber; 25.8 mg Sodium</Nutr>
+    </RcpE>
+</mx2>

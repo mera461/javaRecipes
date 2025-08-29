@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache>
+
+    <!-- Sets the path to the directory where cache .data files are created.
+
+         If the path is a Java System Property it is replaced by
+         its value in the running VM.
+
+         The following properties are translated:
+         user.home - User's home directory
+         user.dir - User's current working directory
+         java.io.tmpdir - Default temp file path -->
+    <diskStore path="java.io.tmpdir"/>
+
+
+    <!--Default Cache configuration. These will applied to caches programmatically created through
+        the CacheManager.
+
+        The following attributes are required for defaultCache:
+
+        maxInMemory       - Sets the maximum number of objects that will be created in memory
+        eternal           - Sets whether elements are eternal. If eternal,  timeouts are ignored and the element
+                            is never expired.
+        timeToIdleSeconds - Sets the time to idle for an element before it expires.
+                            i.e. The maximum amount of time between accesses before an element expires
+                            Is only used if the element is not eternal.
+                            Optional attribute. A value of 0 means that an Element can idle for infinity
+        timeToLiveSeconds - Sets the time to live for an element before it expires.
+                            i.e. The maximum time between creation time and when an element expires.
+                            Is only used if the element is not eternal.
+        overflowToDisk    - Sets whether elements can overflow to disk when the in-memory cache
+                            has reached the maxInMemory limit.
+
+        -->
+    <defaultCache
+            maxElementsInMemory="10000"
+            eternal="false"
+            timeToIdleSeconds="180"
+            timeToLiveSeconds="180"
+            overflowToDisk="false"
+            />
+     <!-- query caches -->
+    <cache name="query.TurRegisterDao.getTjeneste"
+        maxElementsInMemory="2000"
+        eternal="false"
+        timeToIdleSeconds="600"
+        timeToLiveSeconds="1200"
+        overflowToDisk="true"/>
+    <cache name="query.TurRegisterDao.getOpgaveKartotketType"
+        maxElementsInMemory="2000"
+        eternal="true"
+        timeToIdleSeconds="0"
+        timeToLiveSeconds="0"
+        overflowToDisk="false"/>
+<cache name="query.TurRegisterDao.getStation"
+        maxElementsInMemory="2000"
+        eternal="true"
+        timeToIdleSeconds="0"
+        timeToLiveSeconds="0"
+        overflowToDisk="false"/>
+<cache name="query.TurRegisterDao.getLitra"
+        maxElementsInMemory="200"
+        eternal="true"
+        timeToIdleSeconds="0"
+        timeToLiveSeconds="0"
+        overflowToDisk="false"/>
+    <cache name="query.SystemDao.getFravaerKartotketType"
+        maxElementsInMemory="1000"
+        eternal="true"
+        timeToIdleSeconds="0"
+        timeToLiveSeconds="0"
+        overflowToDisk="false"/>
+
+    <cache name="dk.dsb.ltd.forretningslogik.model.Address"
+        maxElementsInMemory="500"
+        eternal="false"
+        timeToIdleSeconds="0"
+        timeToLiveSeconds="50000"
+        overflowToDisk="false"
+        />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Allokering"
+            maxElementsInMemory="500"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="600"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Arbejdsversion"
+            maxElementsInMemory="10"
+            eternal="false"
+            timeToIdleSeconds="100"
+            timeToLiveSeconds="200"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.AuditLogRecord"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="10"
+            timeToLiveSeconds="100"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Bemaerkning"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Depot"
+            maxElementsInMemory="100"
+            eternal="true"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="100000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.DispTjeneste"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="100000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.FrevaerTjeneste"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="100000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Handling"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="600"
+            timeToLiveSeconds="1000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Koereplansaar"
+            maxElementsInMemory="10"
+            eternal="false"
+            timeToIdleSeconds="10"
+            timeToLiveSeconds="100"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Medarbejder"
+            maxElementsInMemory="500"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Omrade"
+            maxElementsInMemory="100"
+            eternal="true"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="0"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Opgave"
+            maxElementsInMemory="0"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.OpgaveBemaerkning"
+            maxElementsInMemory="0"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.OpgaveVersion"
+            maxElementsInMemory="0"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Tjeneste"
+            maxElementsInMemory="0"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.TjenesteVersion"
+            maxElementsInMemory="0"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Tog"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.TogStraekning"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.TplsOpgave"
+            maxElementsInMemory="2000"
+            eternal="false"
+            timeToIdleSeconds="100"
+            timeToLiveSeconds="1000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Tur"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="200"
+            timeToLiveSeconds="600"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.TurDag"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="200"
+            timeToLiveSeconds="600"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.UdrulletTjeneste"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <!-- relationer -->
+    <cache name="dk.dsb.ltd.forretningslogik.model.Omrade.delomrader"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Koereplansaar.arbejdsVersioner"
+            maxElementsInMemory="10"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+<cache name="dk.dsb.ltd.forretningslogik.model.Handling.opgaveVersioner"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+<cache name="dk.dsb.ltd.forretningslogik.model.Handling.TjenesteVersioner"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+<cache name="dk.dsb.ltd.forretningslogik.model.Tur.turDage"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="60"
+            timeToLiveSeconds="600"
+            overflowToDisk="false"
+            />
+<cache name="dk.dsb.ltd.forretningslogik.model.Arbejdsversion.ture"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="60"
+            timeToLiveSeconds="600"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.Opgave.versioner"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.TjenesteVersion.fravaerTjenester"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.TjenesteVersion.allokeringer"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.Tjeneste.tjenestevers"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.Omrade.depoter"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.TjenesteVersion.bemaerkninger"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.Medarbejder.allokeringer"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.OpgaveVersion.bemaerkninger"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.TurDag.opgaver"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="60"
+            timeToLiveSeconds="600"
+            overflowToDisk="false"
+            />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.FravaerTjeneste.tjenesteVersioner"
+            maxElementsInMemory="1000"
+            eternal="false"
+            timeToIdleSeconds="0"
+            timeToLiveSeconds="50000"
+            overflowToDisk="false"
+            />
+
+    <cache name="dk.dsb.ltd.forretningslogik.model.LitraKartotek"
+                maxElementsInMemory="1000"
+                eternal="true"
+                timeToIdleSeconds="0"
+                timeToLiveSeconds="50000"
+                overflowToDisk="false"
+                />
+     <cache name="dk.dsb.ltd.forretningslogik.model.SpecieltOenske"
+                maxElementsInMemory="1000"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+
+   <cache name="dk.dsb.ltd.forretningslogik.model.BevaegelsesKartotek"
+                maxElementsInMemory="1000"
+                eternal="true"
+                timeToIdleSeconds="0"
+                timeToLiveSeconds="5000"
+                overflowToDisk="false"
+                />
+   <cache name="dk.dsb.ltd.forretningslogik.model.Tjeneste.versioner"
+                maxElementsInMemory="1000"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+   <cache name="dk.dsb.ltd.forretningslogik.model.FravaersKartotek"
+                maxElementsInMemory="1000"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.BrugerIndstillinger"
+                maxElementsInMemory="50"
+                eternal="false"
+                timeToIdleSeconds="10"
+                timeToLiveSeconds="24"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Plan.hold"
+                maxElementsInMemory="1000"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.OpgaveKartotek"
+                maxElementsInMemory="1000"
+                eternal="true"
+                timeToIdleSeconds="0"
+                timeToLiveSeconds="5000"
+                overflowToDisk="false"
+                />
+     <cache name="dk.dsb.ltd.forretningslogik.model.AllokeringsVersion"
+                maxElementsInMemory="1000"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Omrade.tjenestesteder"
+                maxElementsInMemory="500"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Tjeneste.allokeringsVersioner"
+                maxElementsInMemory="500"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+ <cache name="dk.dsb.ltd.forretningslogik.model.Tjenestested"
+                maxElementsInMemory="500"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Station"
+                maxElementsInMemory="500"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+
+  <cache name="dk.dsb.ltd.forretningslogik.model.HoldValg"
+                maxElementsInMemory="500"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+
+<cache name="dk.dsb.ltd.forretningslogik.model.TjenesteVersion.opgaver"
+                maxElementsInMemory="2000"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.Plan"
+                maxElementsInMemory="100"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+ <cache name="dk.dsb.ltd.forretningslogik.model.Hold"
+                maxElementsInMemory="500"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+    <cache name="dk.dsb.ltd.forretningslogik.model.HoldPlacering"
+                maxElementsInMemory="500"
+                eternal="false"
+                timeToIdleSeconds="120"
+                timeToLiveSeconds="240"
+                overflowToDisk="false"
+                />
+
+</ehcache>

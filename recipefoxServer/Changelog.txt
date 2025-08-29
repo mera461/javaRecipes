@@ -1,0 +1,4 @@
+Changelog for RecipeFoxServer:
+0.95:
+	* Added code to handle RecipeFox Exceptions and return a 
+	  HTTP error code 500.

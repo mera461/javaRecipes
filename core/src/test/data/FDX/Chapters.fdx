@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fdx Source="Living Cookbook 3.0" FileVersion="2.0" date="2010-12-04">
+  <Cookbooks>
+    <Cookbook Name="Test cookbook" ID="22" Comments="comments" />
+  </Cookbooks>
+  <CookbookChapters>
+    <CookbookChapter Name="Chapter 1" ID="153" CookbookID="22" ParentChapterID="0" />
+    <CookbookChapter Name="Chapter 1.2" ID="157" CookbookID="22" ParentChapterID="153" />
+  </CookbookChapters>
+  <Recipes>
+    <Recipe Name="Test recipe" ID="7430" CookbookID="22" CookbookChapterID="157" CreateDate="2010-12-04" />
+  </Recipes>
+</fdx>

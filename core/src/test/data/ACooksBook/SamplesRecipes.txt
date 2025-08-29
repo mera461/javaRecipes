@@ -1,0 +1,87 @@
+
+003d: 00 85 84 01 i
+0041: 13  ---> Array length 19 recipes .....
+0042: 92 84 84 84 
+0046: 06 Recipe
+004d: 03 95 
+         92 84 84 84 
+	 08 NSString
+005c: 01 95 84 01 2b
+0061: 1D 9-inch Single-crust Pie Crust --------> Title
+007f: 86 92 84 99 99 0c Pies, Pastry    ----------> Categories
+0091: 86 92 84 99 99 00
+0097: 86 92 9b 92 9b 92 9b 92 9b 92 9b 92 84 99 99 19 20 Betty Crocker's Bookcook
+00c0: 86 92 84 99 99 04 0:00  --------> Prep time
+00ca: 86 92 9b 92 84 99 99 04 6 -----> Serving
+00d6: 86 92 84 99 99 0b 1-sixth pie -------> Yield??????
+00e7: 86 92 9b 92 84 84 84 12 NSAttributedString
+0101: 00 95 92 84 99 99 81 3a 01 Sift flour and salt ..............
+0244: 86 84 02 69 49 01 81 3a 01 92 84 84 84 0c NSDictionary
+025e: 00 95 96 01 92 84 99 99 06 NSFont
+026d: 86 92 84 84 84 06 NSFont
+
+...
+02b0: 86 92 84 a1 92 84 99 99 81 fa 00 0a Per serving: 1059 Calories .....
+
+03b5: 86 9b 01 01 92 84 a4 96 00
+03be: 86 9b 02 81 f9 00 92 a3
+03c6: 86 92 84 93 96
+03cb: 04 ---> Array length --> 4 ingredients
+03cc: 92 84 84 84 0a Ingredient
+03db: 01 95 92 84 99 99 05 flour
+03e7: 86 92 84 99 99 02 1 
+03ef: 86 92 84 99 99 03 cup
+03f8: 86 92 84 99 99 06 sifted
+0404: 86 92 9b 92 9b 92 85 
+040b: 86 92 84 ad 92 84 99 99 04 salt
+0418: 86 92 84 99 99 04 1/2 
+0422: 86 92 84 99 99 08 teaspoon
+0430: 86 92 9b 92 9b 92 9b 92 85
+0439: 86 92 84 ad 92 84 99 99 0a shortening
+....
+
+Nutrition....
+
+...
+
+19cc: 86 92 9b 86 92 84 97 92 84 99 99
+19d7: 0d Apple Bundles        ------> Title
+19e5: 86 92 84 99 99 08 Desserts  -----> Categories
+19f3: 86 92 9b 92 9b 92 9b 92 9b 92 9b 92 9b
+1a00: 92 84 99 99 2b David Ruggerio (Little Italy Rest..)
+1a30: 86 92 84 99 99 04 0:00
+1a3a: 86 92 9b 92 84 99 99 05 4
+1a47: 86 92 9b 92 9b 92 84 a1 92
+1a50: 84 99 99 81 15 02 Combine grated chocolate and ....
+1c6b: 86 9b 01 81 15 02 92 84 a4 96 01 92 a5 92 a4 a7 96 1c 9e 06 00
+1c80: 00 00 14 00 00 00 ff fe Helvetica
+....
+1caa: 92 84 99 99 81 c1 00 NOTES: I have a more ......
+1d72: 86 9b 01 81 c1 00 92 81 01 01 86 92 84 93
+1d80: 96
+         08 ---> Array Length ---> No of ingredients
+         92 84 ad
+         92 84 99 99 14 semi-sweet chocolate
+1d9e: 86 92 84 99 99 02 3
+1da6: 86 92 84 99 99 06 ounces
+1db2: 86 92 84 99 99 06 ground
+1dbe: 86 92 9b 92 9b 92 85
+1dc5: 86 92 84 ad 92 84 99 99 06 butter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

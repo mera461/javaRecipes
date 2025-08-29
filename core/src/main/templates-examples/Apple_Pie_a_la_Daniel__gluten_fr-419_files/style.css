@@ -1,0 +1,208 @@
+/* Styles for ingredients list */
+.ingr-list { list-style-type: none; text-indent: -30px; }
+.ingr-sub-list { list-style-type: none; text-indent: -60px; }
+.ingr-div { font-style:italic; font-weight:bold; }
+.ingr-unit { font-weight:bold; }
+.ingr-meas { color:#1480CD; font-weight:bold; }
+.ingr-descr { }
+.recipe-image { width:150px; float:right; margin: 0 0 20px 0px; padding: 4px; border: 1px solid #a0a0a0; background: #FFF; }
+.affiliate-image { width:150px; float:right; margin: 0 0 20px 0px; padding: 4px; border: 1px solid #a0a0a0; background: #FFF; }
+
+/* Styles for prep time list */
+.prep-list { list-style-type: none; }
+.prep-list-item { list-style-type: none; text-indent: -40px; }
+
+/* Styles for equipment list */
+.equip-list { list-style-type: none; }
+.equip-list-item { list-style-type: none; text-indent: -40px; }
+
+/* Style images for related items */
+.related-img { padding-right: 4px; padding-bottom: 3px; vertical-align:middle; }
+
+/* Style images for image marker on the index pages, style the index list */
+.index-list { list-style-type: none; }
+.index-list-item { list-style-type: none; text-indent: -20px; }
+.index-img { padding-left: 4px; vertical-align:middle; }
+.index-icon { padding-right: 4px; vertical-align:middle; }
+
+.download-img { padding-right: 4px; vertical-align:middle; border: 0px; }
+
+body {
+	background: #eee url(http://www.vorpalcloud.org/~jessie/recipes//images/pozadina.gif) repeat-y;
+	color:#666666;
+	font-family: Arial, Sans-Serif;
+	font-size: 70%;
+	padding: 0;
+	margin: 0 0 0 10px;
+}
+
+a {
+	color: #1480CD; 
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #808080;
+	background: #FEF7CD;
+}
+
+p {
+	margin: 0 0 5px 0; 
+	padding: 0 0 0 2px;
+	color:#666666;
+}
+
+.picture {
+	margin-top: 20px;
+	margin-right: 20px;
+	padding-bottom: 30px;
+}
+
+h3 {
+	font-size: 150%;
+	font-family: Sans-Serif, Arial;
+	letter-spacing: -1px;
+	margin: 0;
+	padding: 0;
+	color: #1480CD;
+}
+
+h4 {
+	font-size: 200%;
+	font-family: Sans-Serif, Arial;
+	letter-spacing: -1px;
+	margin: 0;
+	padding: 0;
+	color: #1480CD;
+	line-height: 120%;
+}
+
+h5 {
+	font-size: 110%;
+	font-family: Sans-Serif, Arial;
+	letter-spacing: -1px;
+	margin: 0;
+	padding: 5px 0 0 0;
+	color: #1480CD;
+}
+
+.read_more {
+	margin-top: 10px;
+	padding-top: 4px;
+	text-align: right;
+	padding-right: 9px;	
+	font-size: 90%;
+}
+
+.read_more p {
+	color: #D85C1A;	
+}
+
+#lijeva_kolona {
+	float: left;
+	width: 130px;
+	margin: 0 0 0 0;
+	padding: 15px 0;
+	background: url(http://www.vorpalcloud.org/~jessie/recipes//images/lijevo.gif) no-repeat top left;
+	text-align: right;
+}
+
+#lijeva_kolona p {
+	color: #FBDBCA;
+	padding-right: 10px;
+	margin: 0 0 15px 0;
+}
+
+#lijeva_kolona a, #lijeva_kolona a:visited {
+	font-family: Tahoma, Sans-Serif;
+	font-size: 110%; 
+	text-transform: uppercase;
+	font-weight:bold;
+	text-decoration: none; 
+	color:#C0901F; 
+	padding-right: 10px;
+	color: #AFD6F5;
+	display: block;	
+	text-align: right;
+	height: 17px;
+}
+
+#lijeva_kolona a:hover {
+	color: #FFF;
+	background: url(http://www.vorpalcloud.org/~jessie/recipes//images/link.gif) no-repeat center right;
+}
+
+#title p {
+	padding: 0 10px 3px 0;
+	margin: 0;
+	text-align: right;
+	font-size: 150%;
+	font-family: Sans-Serif;
+	letter-spacing: -1px;
+	font-weight: bold;
+	color: #FFF;
+}
+
+
+#sadrzaj {
+	width: 745px;
+	color: #333;
+	line-height: 130%;
+	padding: 0;
+}
+
+#sadrzaj h3 {
+	margin: 10px 0 5px 0;
+}
+
+
+#desna_kolona {
+	float: right;
+	margin: 3px 0 0 0px;
+	width: 180px;
+	padding: 0 8px 8px 12px;
+	height: auto;
+	background: url(http://www.vorpalcloud.org/~jessie/recipes//images/clanak.gif) no-repeat top left;
+}
+
+#desna_kolona h3 {
+	margin: 2px 0 5px 0;
+}
+
+#desna_kolona p {
+	color: #D55917;
+}
+	
+.desni_clanak {
+	padding: 10px;
+	background: #FEF7CD url(http://www.vorpalcloud.org/~jessie/recipes//images/scrap.gif) repeat-x bottom left;
+	height: auto;
+}
+
+.informacije {
+	padding: 5px 10px 5px 10px;
+	margin: 5px 0 0 0;
+	background: #fff url(http://www.vorpalcloud.org/~jessie/recipes//images/fade.gif) repeat-x bottom left;
+	height: auto;
+	
+}
+
+#srednja_kolona {
+	width: 392px;
+	margin-left: 145px;
+	padding: 0;
+	padding-top: 1px;
+	text-align:justify;
+}
+
+.srednji_clanak {
+	margin: 3px 0 0 3px;
+	padding: 0px 10px 10px 12px;
+	background: url(http://www.vorpalcloud.org/~jessie/recipes//images/clanak.gif) no-repeat;
+}
+
+.clanak {
+	padding: 1px 12px 10px 10px;
+	background: #FFF url(http://www.vorpalcloud.org/~jessie/recipes//images/fade.gif) repeat-x bottom left;
+	height: auto;
+}

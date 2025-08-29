@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hixz Source="Living Cookbook 3.0" FileVersion="1.0" date="2010-10-30">
+  <Cookbooks>
+    <Cookbook Name="Saveur" ID="11" />
+  </Cookbooks>
+  <CookbookChapters>
+    <CookbookChapter Name="New" ID="507" CookbookID="11" ParentChapterID="0" />
+  </CookbookChapters>
+  <Recipes>
+    <Recipe Name="Whipped Potatoes with Garlic and Cheese" ID="11034" CookbookID="11" CookbookChapterID="507" Servings="6" DegreeOfDifficulty="2" RecipeTypes="Potato, Cheese, Saute, Side Dish, French" Source="Saveur" WebPage="http://www.saveur.com/article/Recipes/Skillet-Cooked-Potatoes-and-Cheese" CreateDate="2010-10-26">
+      <RecipeIngredients>
+        <RecipeIngredient Quantity="2" Unit="lbs" Ingredient="new red or other waxy potatoes" Heading="N" LinkType="Unlinked" IngredientID="0" />
+        <RecipeIngredient Quantity="1/4" Unit="cup" Ingredient="canola oil" Heading="N" LinkType="Ingredient" IngredientID="54484" IngredientName="Vegetable oil, canola" MeasureID="10205" Measure="1 cup" MeasureQuantity="0.25" MeasureGramWeight="218" />
+        <RecipeIngredient Quantity="3" Unit="" Ingredient="strips smoked bacon, cut into 1/2&quot; slices" Heading="N" LinkType="Unlinked" IngredientID="0" />
+        <RecipeIngredient Quantity="" Unit="" Ingredient="Kosher salt and freshly ground black pepper" Heading="N" LinkType="Unlinked" IngredientID="0" />
+        <RecipeIngredient Quantity="8" Unit="oz" Ingredient="grated cantal or gruyère cheese" Heading="N" LinkType="Unlinked" IngredientID="0" />
+        <RecipeIngredient Quantity="8" Unit="oz" Ingredient="farmers' cheese (such as Friendship brand)" Heading="N" LinkType="Unlinked" IngredientID="0" />
+        <RecipeIngredient Quantity="1" Unit="clove" Ingredient="garlic, minced" Heading="N" LinkType="Ingredient" IngredientID="54226" IngredientName="Garlic, raw" MeasureID="60581" Measure="1 clove" MeasureQuantity="1" MeasureGramWeight="3" />
+        <RecipeIngredient Quantity="2" Unit="Tbs" Ingredient="finely chopped chives" Heading="N" LinkType="Ingredient" IngredientID="11156" IngredientName="Chives, raw" MeasureID="21025" Measure="1 tablespoon, chopped" MeasureQuantity="2" MeasureGramWeight="3" />
+      </RecipeIngredients>
+      <RecipeProcedures>
+        <RecipeProcedure Heading="N">
+          <ProcedureText>Using a mandoline, cut potatoes into 1⁄16"-thick slices. Place potatoes in a bowl of cold water; set aside.</ProcedureText>
+        </RecipeProcedure>
+        <RecipeProcedure Heading="N">
+          <ProcedureText>Heat oil in a 12" cast-iron or nonstick skillet over medium heat. Add bacon and cook, stirring, until its fat has rendered, about 6 minutes. Drain potatoes in a colander; add to the skillet. Season with salt and black pepper to taste. Cover the skillet and cook, stirring occasionally and crushing potatoes into small chunks with a wooden spoon, until potatoes are tender, 20–25 minutes.</ProcedureText>
+        </RecipeProcedure>
+        <RecipeProcedure Heading="N">
+          <ProcedureText>Add cheeses, and garlic to skillet; stir to combine. Reduce heat to medium-low; cover. Cook, scraping bottom of skillet with a wooden spoon, until cheese is melted and the potatoes are mashed, about 5 minutes. Stir vigorously and season with salt to taste. Sprinkle with chives and pepper to taste.</ProcedureText>
+        </RecipeProcedure>
+      </RecipeProcedures>
+      <RecipeNutrition ServingSize="1 Serving" NutritionCalculationMode="Automatic" CalculatedFromRecipeFlag="Y" Calories="81.34" Energy="340.33" TotalFat="9.09" SaturatedFat="0.67" SaturatedFattyAcid4_0="0" SaturatedFattyAcid6_0="0" SaturatedFattyAcid8_0="0" SaturatedFattyAcid10_0="0" SaturatedFattyAcid12_0="0" SaturatedFattyAcid14_0="0" SaturatedFattyAcid15_0="0" SaturatedFattyAcid16_0="0.39" SaturatedFattyAcid17_0="0" SaturatedFattyAcid18_0="0.19" SaturatedFattyAcid20_0="0.06" SaturatedFattyAcid22_0="0.03" MonounsaturatedFat="5.75" MonounsaturatedFattyAcid14_1="0" MonounsaturatedFattyAcid15_1="0" MonounsaturatedFattyAcid16_1="0.02" MonounsaturatedFattyAcid17_1="0" MonounsaturatedFattyAcid18_1="5.61" MonounsaturatedFattyAcid20_1="0.12" MonounsaturatedFattyAcid22_1="0" PolyunsaturatedFat="2.56" PolyunsaturatedFattyAcid18_2="1.73" PolyunsaturatedFattyAcid18_3="0.83" PolyunsaturatedFattyAcid18_4="0" PolyunsaturatedFattyAcid20_3="0" PolyunsaturatedFattyAcid20_4="0" AlphaLinolenicAcid="0.83" EicosapentaenoicAcid="0" DocosapentaenoicAcid="0" DocosahexaenoicAcid="0" LinoleicAcid="1.69" GammaLinolenicAcid="0" EicosadienoicAcid="0" TransFattyAcids="0.04" TransMonoenoicFattyAcids="0" TransPolyenoicFattyAcids="0.03" Cholesterol="0" Phytosterols="0.09" BetaSitosterol="37.51" Stigmasterol="0.27" Campesterol="21.89" Sodium="0.12" Potassium="4.97" TotalCarbohydrate="0.21" Fiber="0.04" Sugar="0.02" Protein="0.06" VitaminA="43.58" Retinol="0" BetaCarotene="26.15" AlphaCarotene="0" BetaCryptoxanthin="0" Lycopene="0" VitaminC="0.74" Calcium="1.83" Iron="0.02" VitaminE="1.59" BetaTocopherol="0" GammaTocopherol="2.48" DeltaTocopherol="0.09" Thiamin="0" Riboflavin="0" Niacin="0.01" VitaminB6="0.01" Folate="1.07" VitaminB12="0" PantothenicAcid="0.01" VitaminK="8.61" Phosphorus="1.35" Magnesium="0.55" Zinc="0.01" Copper="0" Manganese="0.01" Selenium="0.08" Choline="0.19" Tryptophan="0" Threonine="0" Isoleucine="0" Leucine="0" Lysine="0" Methionine="0" Cystine="0" Phenylalanine="0" Tyrosine="0" Valine="0" Arginine="0.01" Histidine="0" Alanine="0" AsparticAcid="0.01" GlutamicAcid="0.01" Glycine="0" Proline="0" Serine="0" Alcohol="0" Caffeine="0" Theobromine="0" Water="1.2" Ash="0.02" Refuse="0.07" Mass="10.58" Volume="0.87" FatFactor="9" ProteinFactor="4" CarbohydrateFactor="4" AlcoholFactor="7" />
+      <RecipeReviews>
+        <RecipeReview Rating="5" Reviewer="saveurMon" ReviewDate="2008-11-12">this is amazingly good, and of course; we had it with a nice ny strip. i'd recommend this to anyone. well worth the effort and fun to make as well.</RecipeReview>
+        <RecipeReview Rating="4" Reviewer="soothsayer" ReviewDate="2009-03-29">sliced up potatoes as thin as possible &amp; knew there was gonna be trouble as recipe didn't call for any liquid to cook potatoes in. potatoes browned in high heat, or wouldn't cook in low heat. had to add 1 cup liquid to cook and ended up with brownish looking crappy potatoes &amp; had to use cleaver to help chop down potatoes in the skillet. next time just boil the potatoes, whipp them up with bacon and cheese. EASIER.</RecipeReview>
+      </RecipeReviews>
+      <RecipeImages>
+        <RecipeImage FileName="ImageFile1.JPG" FileType="JPG" Description="" OriginalFileName="Recipe11034.png" />
+      </RecipeImages>
+      <SourceImage FileName="ImageFile2.GIF" FileType="GIF" OriginalFileName="RecipeSource628.png" />
+    </Recipe>
+  </Recipes>
+  <IngredientFolders>
+    <IngredientFolder Name="Huiles et Graisses" ID="400" ParentFolderID="0" />
+    <IngredientFolder Name="Huile Végétale" ID="2582" ParentFolderID="400" />
+    <IngredientFolder Name="Légumes et Produits de Légumes" ID="1100" ParentFolderID="0" />
+    <IngredientFolder Name="Ail" ID="2767" ParentFolderID="1100" />
+    <IngredientFolder Name="Chives" ID="2752" ParentFolderID="1100" />
+  </IngredientFolders>
+  <Ingredients>
+    <Ingredient Name="Vegetable oil, canola" CommonName="Canola oil" ID="54484" IngredientFolderID="2582" CreateDate="2009-08-29" ColorFlag="&lt;None&gt;">
+      <IngredientMeasures>
+        <IngredientMeasure MeasureID="100942" Description="1 bottle (32 oz)" GramWeight="864" MeasureType="Unit" MeasureCost="3.2" />
+        <IngredientMeasure MeasureID="10205" Description="1 cup" GramWeight="218" MeasureType="Volume" />
+        <IngredientMeasure MeasureID="99988" Description="1 gallon" GramWeight="3488.004" MeasureType="Volume" />
+        <IngredientMeasure MeasureID="99985" Description="1 ml" GramWeight="0.92143" MeasureType="Volume" />
+        <IngredientMeasure MeasureID="40000" Description="1 oz" GramWeight="28.35" MeasureType="Weight (Mass)" MeasureCost="0.105" />
+        <IngredientMeasure MeasureID="99990" Description="1 pint" GramWeight="436" MeasureType="Volume" MeasureCost="1.615" />
+        <IngredientMeasure MeasureID="99989" Description="1 quart" GramWeight="872.0009" MeasureType="Volume" />
+        <IngredientMeasure MeasureID="21000" Description="1 tablespoon" GramWeight="14" MeasureType="Volume" MeasureCost="0" />
+        <IngredientMeasure MeasureID="22000" Description="1 teaspoon" GramWeight="4.5" MeasureType="Volume" MeasureCost="0.001" />
+        <IngredientMeasure MeasureID="100000" Description="100g" GramWeight="100" MeasureType="Weight (Mass)" />
+      </IngredientMeasures>
+      <IngredientNutrition ServingSize="1" ServingSizeMeasureID="100000" DefaultMeasureID="100000" NutritionSource="USDA SR-20" NutritionCalculationMode="Semi-Automatic" Calories="884" Energy="3698.74" TotalFat="100" SaturatedFat="7.37" SaturatedFattyAcid4_0="0" SaturatedFattyAcid6_0="0" SaturatedFattyAcid8_0="0" SaturatedFattyAcid10_0="0" SaturatedFattyAcid12_0="0" SaturatedFattyAcid14_0="0" SaturatedFattyAcid15_0="0" SaturatedFattyAcid16_0="4.3" SaturatedFattyAcid17_0="0" SaturatedFattyAcid18_0="2.09" SaturatedFattyAcid20_0="0.65" SaturatedFattyAcid22_0="0.33" MonounsaturatedFat="63.28" MonounsaturatedFattyAcid14_1="0" MonounsaturatedFattyAcid15_1="0" MonounsaturatedFattyAcid16_1="0.21" MonounsaturatedFattyAcid17_1="0" MonounsaturatedFattyAcid18_1="61.74" MonounsaturatedFattyAcid20_1="1.32" MonounsaturatedFattyAcid22_1="0" PolyunsaturatedFat="28.14" PolyunsaturatedFattyAcid18_2="19.01" PolyunsaturatedFattyAcid18_3="9.14" PolyunsaturatedFattyAcid18_4="0" PolyunsaturatedFattyAcid20_3="0" PolyunsaturatedFattyAcid20_4="0" AlphaLinolenicAcid="9.14" EicosapentaenoicAcid="0" DocosapentaenoicAcid="0" DocosahexaenoicAcid="0" LinoleicAcid="18.64" GammaLinolenicAcid="0" EicosadienoicAcid="0" TransFattyAcids="0.4" TransMonoenoicFattyAcids="0.03" TransPolyenoicFattyAcids="0.37" Cholesterol="0" BetaSitosterol="413" Stigmasterol="3" Campesterol="241" Sodium="0" Potassium="0" TotalCarbohydrate="0" Fiber="0" Sugar="0" Protein="0" VitaminA="0" Retinol="0" BetaCarotene="0" AlphaCarotene="0" BetaCryptoxanthin="0" Lycopene="0" VitaminC="0" Calcium="0" Iron="0" VitaminE="17.46" BetaTocopherol="0.01" GammaTocopherol="27.34" DeltaTocopherol="0.99" Thiamin="0" Riboflavin="0" Niacin="0" VitaminB6="0" Folate="0" VitaminB12="0" PantothenicAcid="0" VitaminK="71.3" Phosphorus="0" Magnesium="0" Zinc="0" Copper="0" Manganese="0" Selenium="0" Choline="0.2" Alcohol="0" Caffeine="0" Theobromine="0" Water="0" Ash="0" Refuse="0" Mass="100" Volume="0" FatFactor="8.84" ProteinFactor="4" CarbohydrateFactor="4" AlcoholFactor="7" />
+    </Ingredient>
+    <Ingredient Name="Garlic, raw" CommonName="Garlic" ID="54226" IngredientFolderID="2767" CreateDate="2009-03-24" ColorFlag="&lt;None&gt;">
+      <IngredientMeasures>
+        <IngredientMeasure MeasureID="60581" Description="1 clove" GramWeight="3" MeasureType="Unit" MeasureCost="0.002" />
+        <IngredientMeasure MeasureID="10205" Description="1 cup" GramWeight="136" MeasureType="Volume" />
+        <IngredientMeasure MeasureID="62750" Description="1 lb" GramWeight="453.6" MeasureType="Weight (Mass)" MeasureCost="2" />
+        <IngredientMeasure MeasureID="40000" Description="1 oz" GramWeight="28.35" MeasureType="Weight (Mass)" MeasureCost="0.125" />
+        <IngredientMeasure MeasureID="21000" Description="1 tablespoon" GramWeight="10.5" MeasureType="Volume" MeasureCost="0.046" />
+        <IngredientMeasure MeasureID="22000" Description="1 teaspoon" GramWeight="2.8" MeasureType="Volume" MeasureCost="0.002" />
+        <IngredientMeasure MeasureID="100000" Description="100g" GramWeight="100" MeasureType="Weight (Mass)" />
+        <IngredientMeasure MeasureID="80106" Description="3 cloves" GramWeight="9" MeasureType="Unit" MeasureCost="0.001" />
+      </IngredientMeasures>
+      <IngredientNotes>
+        <IngredientNote>A native of Europe and Central Asia, garlic was well-known to ancient Egyptians way back in 2600 BC. Along with onion, garlic was fed to thousands of tired and famished workers engaged in the gruelling task of building the great pyramid of Cheops.</IngredientNote>
+        <IngredientNote>Garlic is a hardy bulbous annual, with narrow flat leaves a pungent and acid flavour and acknowledged medicinal value. Like onion, the entire bulb ('cloves') is almost without odour but, once cut or bruised, they produce an intensely strong and characteristic odour. Garlic is used in vegetable, meat and poultry dishes, especially in casserole,stew and marinade. A favourite in Chinese cuisine, garlic is fast becoming popular in Europe and USA.</IngredientNote>
+        <IngredientNote>Garlic oil finds use in ready made spice - mixes, pharmaceuticals and disinfectants. Garlic is cultivated in most parts of India. some of the internationally acclaimed varieties of Indian garlic are 'Poona', 'Nasik', 'Madurai', and 'Jamnagar'. Besides garlic powder and dehydrated flakes, India also exports oil and oleoresin with all constituents intact but without its pungent odour.</IngredientNote>
+      </IngredientNotes>
+      <IngredientNutrition ServingSize="1" ServingSizeMeasureID="100000" DefaultMeasureID="100000" NutritionSource="USDA SR-20" NutritionCalculationMode="Semi-Automatic" Calories="149" Energy="623.43" TotalFat="0.5" SaturatedFat="0.09" SaturatedFattyAcid4_0="0" SaturatedFattyAcid6_0="0" SaturatedFattyAcid8_0="0" SaturatedFattyAcid10_0="0" SaturatedFattyAcid12_0="0" SaturatedFattyAcid14_0="0" SaturatedFattyAcid16_0="0.09" SaturatedFattyAcid18_0="0" MonounsaturatedFat="0.01" MonounsaturatedFattyAcid16_1="0" MonounsaturatedFattyAcid18_1="0.01" MonounsaturatedFattyAcid20_1="0" MonounsaturatedFattyAcid22_1="0" PolyunsaturatedFat="0.25" PolyunsaturatedFattyAcid18_2="0.23" PolyunsaturatedFattyAcid18_3="0.02" PolyunsaturatedFattyAcid18_4="0" PolyunsaturatedFattyAcid20_4="0" EicosapentaenoicAcid="0" DocosapentaenoicAcid="0" DocosahexaenoicAcid="0" Cholesterol="0" Sodium="17" Potassium="401" TotalCarbohydrate="33.06" Fiber="2.1" Sugar="1" Protein="6.36" VitaminA="9" Retinol="0" BetaCarotene="5" AlphaCarotene="0" BetaCryptoxanthin="0" Lycopene="0" VitaminC="31.2" Calcium="181" Iron="1.7" VitaminE="0.08" Thiamin="0.2" Riboflavin="0.11" Niacin="0.7" VitaminB6="1.24" Folate="3" VitaminB12="0" PantothenicAcid="0.6" VitaminK="1.7" Phosphorus="153" Magnesium="25" Zinc="1.16" Copper="0.3" Manganese="1.67" Selenium="14.2" Choline="23.2" Tryptophan="0.07" Threonine="0.16" Isoleucine="0.22" Leucine="0.31" Lysine="0.27" Methionine="0.08" Cystine="0.07" Phenylalanine="0.18" Tyrosine="0.08" Valine="0.29" Arginine="0.63" Histidine="0.11" Alanine="0.13" AsparticAcid="0.49" GlutamicAcid="0.81" Glycine="0.2" Proline="0.1" Serine="0.19" Alcohol="0" Caffeine="0" Theobromine="0" Water="58.58" Ash="1.5" Refuse="13" Mass="100" Volume="173.96" FatFactor="8.37" ProteinFactor="2.78" CarbohydrateFactor="3.84" AlcoholFactor="7" />
+    </Ingredient>
+    <Ingredient Name="Chives, raw" CommonName="Chives" ID="11156" IngredientFolderID="2752" Comments="Chives have a mild onion flavor." CreateDate="0001-01-01" ColorFlag="&lt;None&gt;">
+      <IngredientMeasures>
+        <IngredientMeasure MeasureID="10205" Description="1 cup" GramWeight="48" MeasureType="Volume" MeasureCost="3.302" />
+        <IngredientMeasure MeasureID="40000" Description="1 oz" GramWeight="28.35" MeasureType="Weight (Mass)" MeasureCost="1.95" />
+        <IngredientMeasure MeasureID="99993" Description="1 tablespoon" GramWeight="2.99904" MeasureType="Volume" />
+        <IngredientMeasure MeasureID="21025" Description="1 tablespoon, chopped" GramWeight="3" MeasureType="Volume" MeasureCost="0.206" />
+        <IngredientMeasure MeasureID="100190" Description="1 tbsp chopped" GramWeight="3" MeasureType="Unit" MeasureCost="0.023" />
+        <IngredientMeasure MeasureID="99994" Description="1 teaspoon" GramWeight="0.99961" MeasureType="Volume" />
+        <IngredientMeasure MeasureID="22007" Description="1 teaspoon, chopped" GramWeight="1" MeasureType="Volume" MeasureCost="0.069" />
+        <IngredientMeasure MeasureID="100191" Description="1 tsp chopped" GramWeight="1" MeasureType="Unit" MeasureCost="0.069" />
+        <IngredientMeasure MeasureID="100000" Description="100g" GramWeight="100" MeasureType="Weight (Mass)" MeasureCost="0.001" />
+      </IngredientMeasures>
+      <IngredientNutrition ServingSize="1" ServingSizeMeasureID="100000" DefaultMeasureID="21025" NutritionSource="USDA SR-20" NutritionCalculationMode="Semi-Automatic" Calories="30" Energy="125.52" TotalFat="0.73" SaturatedFat="0.15" SaturatedFattyAcid4_0="0" SaturatedFattyAcid6_0="0" SaturatedFattyAcid8_0="0" SaturatedFattyAcid10_0="0" SaturatedFattyAcid12_0="0" SaturatedFattyAcid14_0="0.03" SaturatedFattyAcid16_0="0.1" SaturatedFattyAcid18_0="0.01" MonounsaturatedFat="0.1" MonounsaturatedFattyAcid16_1="0" MonounsaturatedFattyAcid18_1="0.1" MonounsaturatedFattyAcid20_1="0" MonounsaturatedFattyAcid22_1="0" PolyunsaturatedFat="0.27" PolyunsaturatedFattyAcid18_2="0.25" PolyunsaturatedFattyAcid18_3="0.02" PolyunsaturatedFattyAcid18_4="0" PolyunsaturatedFattyAcid20_4="0" EicosapentaenoicAcid="0" DocosapentaenoicAcid="0" DocosahexaenoicAcid="0" Cholesterol="0" Phytosterols="9" Sodium="3" Potassium="296" TotalCarbohydrate="4.35" Fiber="2.5" Sugar="1.85" Protein="3.27" VitaminA="4353" Retinol="0" BetaCarotene="2612" AlphaCarotene="0" BetaCryptoxanthin="0" Lycopene="0" VitaminC="58.1" Calcium="92" Iron="1.6" VitaminE="0.21" Thiamin="0.08" Riboflavin="0.12" Niacin="0.65" VitaminB6="0.14" Folate="105" VitaminB12="0" PantothenicAcid="0.32" VitaminK="212.7" Phosphorus="58" Magnesium="42" Zinc="0.56" Copper="0.16" Manganese="0.37" Selenium="0.9" Choline="5.2" Tryptophan="0.04" Threonine="0.13" Isoleucine="0.14" Leucine="0.2" Lysine="0.16" Methionine="0.04" Phenylalanine="0.11" Tyrosine="0.1" Valine="0.15" Arginine="0.24" Histidine="0.06" Alanine="0.15" AsparticAcid="0.3" GlutamicAcid="0.68" Glycine="0.16" Proline="0.22" Serine="0.15" Alcohol="0" Caffeine="0" Theobromine="0" Water="90.65" Ash="1" Refuse="0" Mass="100" FatFactor="8.37" ProteinFactor="2.44" CarbohydrateFactor="3.57" AlcoholFactor="7" />
+    </Ingredient>
+  </Ingredients>
+</hixz>

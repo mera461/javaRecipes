@@ -1,0 +1,26 @@
+Security:
+- Create a role (CloudWatchLog) as described here: https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/QuickStartEC2Instance.html
+- Attach it to the EC2 instance
+
+Install the agent:
+- sudo yum install -y awslogs
+- edit configs in /etc/awslogs/
+- awscli.conf to set the CloudWatch region
+[default]
+region = us-west-2
+- awslogs.conf
+[RecipeFoxServer]
+datetime_format = %Y-%m-%d %H:%M:%S
+file = /home/ec2-user/recipefoxServer/logs/spring.log
+buffer_duration = 5000
+log_stream_name = i-0b3198c79b42c6f39
+initial_position = start_of_file
+log_group_name = RecipeFoxServer
+- install as service
+	- service awslogs start
+	- sudo chkconfig awslogs on
+
+- In CloudWatch logs
+- Create a log group called RecipeFoxServer
+- under that create a stream with the instance id: i-0b3198c79b42c6f39
+- create metrics/alarms as needed.

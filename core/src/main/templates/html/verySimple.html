@@ -1,0 +1,239 @@
+    <html>
+    <head>
+      <title> MX2 to HTML Translator</Title>
+      <style type="text/css">
+        body {
+          text-decoration:     none;
+          font-family:         "Verdana", "Arial", "Sans-serif";
+          font-weight:         normal;
+          font-size:           12pt;
+          font-style:          normal;
+          color:               black;
+          background-color:    d2ffff;
+          background-image:    url( );
+          margin-top:          2;
+          margin-bottom:       2;
+          margin-left:         4;
+          margin-right:        4;
+          }
+      p {
+          text-align:          left;
+          color:               black;
+          font-size:           12pt;
+          font-weight:         bold;
+          font-style:          normal;
+          font-family:         "Verdana", "Arial", "Sans-serif";
+          margin-left:         50;
+          }
+      .title {
+          color:               red;
+          font-size:           18pt;
+          font-weight:         bold;
+          font-style:          normal;
+          font-family:         "Verdana", "Arial", "Sans-serif";
+          margin-left:         50; 
+      }
+      .yield .servings {
+          text-align:          left;
+          color:               black;
+          font-size:           13pt;
+          font-weight:         normal;
+          font-style:          italic;
+          font-family:         "Verdana", "Arial", "Sans-serif"; 
+      }
+      
+      .label {
+          color:               red;
+      }
+      .value {
+          color:               blue;
+      }
+      .servingsLabel {
+      }
+      .servingsValue {
+      }
+      .directions {
+          color:               black;
+          font-size:           12pt;
+          font-weight:         normal;
+          font-style:          normal;
+          font-family:         "Verdana", "Arial", "Sans-serif";
+          margin-left:         1cm
+          }
+      .ratings {
+          margin-left:         2cm;
+      }
+
+      </style>
+    </head>
+      <body>
+<% 
+ for (def recipe : allRecipes) {
+// -------------------------- FOR EACH RECIPE ----------------------------
+// ------ TITLE ---------
+ %>
+<div class="title">${recipe.title.toHtml()}</div>
+<hr/>
+<% // ------ SERVINGS ---------
+if (recipe.servings > 0) { %>
+<div class="servings">
+  <span class="servingsLabel label">Servings: </span>
+  <span class="servingsValue value">$recipe.servings</span>
+</div>
+<%} %>
+<% // ------ YIELD ---------
+if (recipe.yield.length() > 0) { %>
+<div class="yield">
+<span class="yieldLabel label">Yield: </span>
+<span class="yieldValue value">${recipe.yield.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ INGREDIENTS ---------
+if (recipe.ingredients) { %>
+<p class="ingredients">
+<% for (def ingr : recipe.ingredients) {
+ %>
+<% if (ingr.hasAmount()) {%>
+  <span class="ingredientAmount">${ingr.amount.formatNumber()}</span>
+<%}%>
+<% if (ingr.hasUnit()) {
+  def unit = (ingr.hasAmount() && ingr.amount > 1) ? ingr.unit.pluralize() : ingr.unit.name
+%>  
+  <span class="ingredientUnit">${unit.toHtml()}</span>
+<%}%>
+<% if (ingr.hasIngredient()) {%>
+  <span class="ingredientName">${ingr.ingredient.name.toHtml()}</span>
+<%}%>
+<% if (ingr.hasProcessing()) {%>
+  <span class="ingredientPreparations"> -- ${ingr.processing.toHtml()}</span>
+<%}%>
+<br/>
+<%}%>
+</p>
+<%} %>
+
+<% // ------ DIRECTIONS ---------
+if (recipe.directions) {%>
+<div class="directions">
+<% for (def step : recipe.directions) {%>
+<p class="directionStep">${step.replace("\n", "<br/>").toHtml()}</p>
+<%} %>
+</div>
+<%} %>
+ 
+<% // ------ NOTES ---------
+if (recipe.note) { %>
+<div class="notes">
+${recipe.note.replace("\n", "<br/>").toHtml()}
+</div>
+<%} %>
+
+<hr/>
+
+<% // ------ PREPARATION TIME ---------
+if (recipe.preparationTime > 0) { %>
+<div class="preptime">
+  <span class="preptimeLabel label">Preparation time: </span>
+  <span class="preptimeValue value">${recipe.preparationTime} minutes</span>
+</div>
+<%} %>
+<% // ------ COOK TIME ---------
+if (recipe.cookTime > 0) { %>
+<li class="cooktime">
+  <span class="cooktimeLabel label">Cooking time: </span>
+  <span class="cooktimeValue value">${recipe.cookTime} minutes</span>
+</li>
+<%} %>
+<% // ------ TOTAL TIME ---------
+if (recipe.totalTime > 0) { %>
+<div class="totaltime">
+  <span class="totaltimeLabel label">Total time: </span>
+  <span class="totaltimeValue value">${recipe.totalTime} minutes</span>
+</div>
+<%} %>
+<% // ------ ALT TIME ---------
+			for(String key : recipe.getTimes().keySet()) {
+				if (! key.startsWith("TIME.")) {
+%>
+				<li class="alttime">
+          <span class="alttimeLabel label">${key}: </span>
+          <span class="alttimeValue value">${recipe.getTime(key)}</span>
+        </li>
+<%
+				}
+			}
+%>
+<% // ------ SERVING IDEAS ---------
+if (recipe.servingIdeas) { %>
+<div class="servingIdeas">
+  <span class="servingIdeasLabel label">Serving ideas: </span>
+  <span class="servingIdeasValue value">${recipe.servingIdeas.replace("\n", "<br/>").toHtml()}</span>
+</div>
+<%} %>
+<% // ------ WINE ---------
+if (recipe.wine) { %>
+<div class="wine">
+  <span class="wineLabel label">Wine: </span>
+  <span class="wineValue value">${recipe.wine.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ CATEGORIES ---------
+if (recipe.categories) { %>
+<div class="categories">
+  <span class="catLabel label">Categories: </span>
+  <span class="catValue value">${recipe.getCategoriesAsString().replace(';', ',').toHtml()}</span>
+</div>
+<%} %>
+<% // ------ CUISINE ---------
+if (recipe.cuisine) { %>
+<div class="cuisine">
+  <span class="cuisineLabel label">Cuisine: </span>
+  <span class="cuisineValue value">${recipe.cuisine.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ RATINGS ---------
+if (recipe.ratings) { %>
+<div class="ratingHeader">Ratings:</div>
+<% recipe.ratings.each { key, value -> %>
+  <div class="ratings">
+    <span class="ratingLabel label">${key.toHtml()}: </span>
+    <span class="ratingValue value">$value</span>
+  </div>
+<%} %>
+<%} %>
+<% // ------ AUTHOR ---------
+if (recipe.author) { %>
+<div class="author">
+  <span class="authorLabel label">Author: </span>
+  <span class="authorValue value">${recipe.author.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ SOURCE ---------
+if (recipe.source) { %>
+<div class="source">
+  <span class="sourceLabel label">Source: </span>
+  <span class="sourceValue value">${recipe.source.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ COPYRIGHT ---------
+if (recipe.copyright) { %>
+<div class="copyright">
+  <span class="copyrightValue value">${recipe.copyright.toHtml()}</span>
+</div>
+<%} %>
+<% // ------ ALT SOURCE ---------
+if (recipe.altSourceLabel) { %>
+<div class="copyright">
+  <span class="altSourceLabel label">${recipe.altSourceLabel.toHtml()}: </span>
+  <span class="altSourceValue value">${recipe.altSourceText.toHtml()}</span>
+</div>
+<%} %>
+
+<hr/>
+
+<% // ------------------- END OF ALL RECIPES
+} %>
+
+
+</body>
+</html>
